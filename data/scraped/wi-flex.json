@@ -1,38 +1,5 @@
 [
  {
-  "date": "2026-11-14",
-  "time": "19:00",
-  "title": "Frittenbude",
-  "venue": "wi-flex",
-  "genre": "",
-  "price": "",
-  "url": "https://flex.at/event/frittenbude/",
-  "city": "bec",
-  "source": "wi-flex"
- },
- {
-  "date": "2026-11-14",
-  "time": "19:00",
-  "title": "Son Mieux",
-  "venue": "wi-flex",
-  "genre": "",
-  "price": "",
-  "url": "https://flex.at/event/son-mieux/",
-  "city": "bec",
-  "source": "wi-flex"
- },
- {
-  "date": "2026-11-14",
-  "time": "23:00",
-  "title": "The Hive",
-  "venue": "wi-flex",
-  "genre": "",
-  "price": "",
-  "url": "https://flex.at/event/the-hive/",
-  "city": "bec",
-  "source": "wi-flex"
- },
- {
   "date": "2026-11-15",
   "time": "19:00",
   "title": "Abgesagt!! Facesoul",

@@ -1,27 +1,5 @@
 [
  {
-  "date": "2026-11-14",
-  "time": "19:00",
-  "title": "Future Palace",
-  "venue": "bp-barbanegra",
-  "genre": "",
-  "price": "",
-  "url": "https://www.barbanegra.hu/program/future-palace_20261114",
-  "city": "budimpesta",
-  "source": "bp-barbanegra"
- },
- {
-  "date": "2026-11-14",
-  "time": "18:00",
-  "title": "Kamelot",
-  "venue": "bp-barbanegra",
-  "genre": "",
-  "price": "",
-  "url": "https://www.barbanegra.hu/program/kamelot_20261114",
-  "city": "budimpesta",
-  "source": "bp-barbanegra"
- },
- {
   "date": "2026-11-18",
   "time": "18:30",
   "title": "Little Big",

@@ -1,13 +1,5 @@
 title: Barba Negra
 jsonld types: 
-<article class=event-card> 14 NOV SZO Blue Stage FUTURE PALACE Kapunyitás: 19:00 Elérhető Részletek | /program/future-palace_20261114
-<div class=body> 14 NOV SZO Blue Stage FUTURE PALACE Kapunyitás: 19:00 Elérhető Részletek | /program/future-palace_20261114
-<div class=top-row> 14 NOV SZO Blue Stage | 
-<div class=date-stamp> 14 NOV SZO | 
-<article class=event-card> 14 NOV SZO Red Stage KAMELOT Kapunyitás: 18:00 Elérhető Részletek | /program/kamelot_20261114
-<div class=body> 14 NOV SZO Red Stage KAMELOT Kapunyitás: 18:00 Elérhető Részletek | /program/kamelot_20261114
-<div class=top-row> 14 NOV SZO Red Stage | 
-<div class=date-stamp> 14 NOV SZO | 
 <article class=event-card> 18 NOV SZER Red Stage LITTLE BIG Kapunyitás: 18:30 Csak online Részletek | /program/little-big_20261118
 <div class=body> 18 NOV SZER Red Stage LITTLE BIG Kapunyitás: 18:30 Csak online Részletek | /program/little-big_20261118
 <div class=top-row> 18 NOV SZER Red Stage | 
@@ -60,4 +52,12 @@ jsonld types:
 <div class=body> 05 DEC SZO Red Stage AVATAR Csak online Részletek | /program/avatar_20261205
 <div class=top-row> 05 DEC SZO Red Stage | 
 <div class=date-stamp> 05 DEC SZO | 
-poveznice (58): /program/accept_20261206 /program/aljas-kuszobab_20261211 /program/amorphis_20270127 /program/avatar_20261205 /program/bikini_20261218 /program/black-veil-brides_20270206 /program/carpenter-brut_health_20261119 /program/[…] /program/depresszio-budapest_20261219 /program/dominum_20261201 /program/dragonforce_20270427 /program/edda-muvek_20261204 /program/eluveitie_20261122 /program/[…] /program/future-palace_20261114 /program/hauber-x-bonanza_20270410 /program/hollywood-undead_20270203 /program/imminence_20270125 /program/iron-maidnem_20270130 /program/ismeros-arcok_20270123 /program/kalap-jakab-60_20270620 /program/kamelot_20261114 /program/kanonenfieber_20271211 /program/karpatia_20261128 /program/kovacs_20261127
+<article class=event-card> 06 DEC VAS Red Stage ACCEPT Kapunyitás: 18:00 Elérhető Részletek | /program/accept_20261206
+<div class=body> 06 DEC VAS Red Stage ACCEPT Kapunyitás: 18:00 Elérhető Részletek | /program/accept_20261206
+<div class=top-row> 06 DEC VAS Red Stage | 
+<div class=date-stamp> 06 DEC VAS | 
+<article class=event-card> 11 DEC PÉN Blue Stage ALJAS KÚSZÓBAB - EPIZÓD VIII. Kapunyitás: 18:00 Csak online Részletek | /program/aljas-kuszobab_20261211
+<div class=body> 11 DEC PÉN Blue Stage ALJAS KÚSZÓBAB - EPIZÓD VIII. Kapunyitás: 18:00 Csak online Részletek | /program/aljas-kuszobab_20261211
+<div class=top-row> 11 DEC PÉN Blue Stage | 
+<div class=date-stamp> 11 DEC PÉN | 
+poveznice (57): /program/accept_20261206 /program/aljas-kuszobab_20261211 /program/amorphis_20270127 /program/avatar_20261205 /program/bikini_20261218 /program/black-veil-brides_20270206 /program/carpenter-brut_health_20261119 /program/[…] /program/depresszio-budapest_20261219 /program/dominum_20261201 /program/dragonforce_20270427 /program/edda-muvek_20261204 /program/eluveitie_20261122 /program/[…] /program/hauber-x-bonanza_20270410 /program/hollywood-undead_20270203 /program/imminence_20270125 /program/iron-maidnem_20270130 /program/ismeros-arcok_20270123 /program/kalap-jakab-60_20270620 /program/kanonenfieber_20271211 /program/karpatia_20261128 /program/kovacs_20261127 /program/[…] /program/lamb-of-god_20270131

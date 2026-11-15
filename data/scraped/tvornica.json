@@ -11,24 +11,13 @@
   "source": "tvornica"
  },
  {
-  "date": "2026-11-14",
-  "time": "20:00",
-  "title": "LET 3",
-  "venue": "tvornica",
-  "genre": "",
-  "price": "",
-  "url": "https://core-event.co/events/let-3-u-tvornici-kulture-6c28",
-  "city": "zagreb",
-  "source": "tvornica"
- },
- {
   "date": "2026-11-15",
-  "time": "10:00",
+  "time": "12:30",
   "title": "Jojo i prijatelji",
   "venue": "tvornica",
   "genre": "",
   "price": "",
-  "url": "https://core-event.co/events/jojo-i-prijatelji-ed0b",
+  "url": "https://core-event.co/events/jojo-i-prijatelji-e383",
   "city": "zagreb",
   "source": "tvornica"
  },
@@ -143,17 +132,6 @@
   "source": "tvornica"
  },
  {
-  "date": "2026-11-21",
-  "time": "20:00",
-  "title": "Jura Stublić & Film",
-  "venue": "tvornica",
-  "genre": "",
-  "price": "",
-  "url": "https://core-event.co/events/jura-stublic-film-u-tvornici-kulture-5f2c",
-  "city": "zagreb",
-  "source": "tvornica"
- },
- {
   "date": "2026-12-02",
   "time": "20:00",
   "title": "Splean",
@@ -172,6 +150,17 @@
   "genre": "",
   "price": "",
   "url": "https://core-event.co/events/abracadabra-bozicni-specijal-64a1",
+  "city": "zagreb",
+  "source": "tvornica"
+ },
+ {
+  "date": "2026-11-21",
+  "time": "20:00",
+  "title": "Jura Stublić & Film",
+  "venue": "tvornica",
+  "genre": "",
+  "price": "",
+  "url": "https://core-event.co/events/jura-stublic-film-u-tvornici-kulture-5f2c",
   "city": "zagreb",
   "source": "tvornica"
  },
@@ -326,6 +315,28 @@
   "genre": "",
   "price": "",
   "url": "https://westlive.mticket.eu/widget586site12853/widget/event/186461",
+  "city": "zagreb",
+  "source": "tvornica"
+ },
+ {
+  "date": "2027-06-18",
+  "time": "20:00",
+  "title": "Kim Wilde",
+  "venue": "tvornica",
+  "genre": "",
+  "price": "",
+  "url": "https://core-event.co/events/kim-wilde-u-tvornici-kulture-30a4",
+  "city": "zagreb",
+  "source": "tvornica"
+ },
+ {
+  "date": "2027-06-26",
+  "time": "20:00",
+  "title": "Electric Six",
+  "venue": "tvornica",
+  "genre": "",
+  "price": "",
+  "url": "https://core-event.co/events/electric-six-u-tvornici-kulture-6818",
   "city": "zagreb",
   "source": "tvornica"
  }

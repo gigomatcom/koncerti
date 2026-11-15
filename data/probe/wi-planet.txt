@@ -1,22 +1,5 @@
 title: Planet Music & Media
 jsonld types: ImageObject, ImageObject, WebSite, SearchAction, ImageObject, WebPage, Person, ImageObject, Article
-<div class=pl-card> Sa., 14. November 2026 Sa., 14. November 2026 Beginn: 20:00 Uhr Vorverkauf: 54,99 € JOSÉ GONZÁLEZ Beginn: 20:00 Uhr Vorverkauf: 54,99 € | 
-<div class=pl-card-front.pl-pointer> Sa., 14. November 2026 Sa., 14. November 2026 Beginn: 20:00 Uhr Vorverkauf: 54,99 € JOSÉ GONZÁLEZ | 
-<div class=pl-date> Sa., 14. November 2026 | 
-<div class=pl-thumbnail> Sa., 14. November 2026 Beginn: 20:00 Uhr Vorverkauf: 54,99 € | 
-<div class=pl-thumb-desc> Sa., 14. November 2026 Beginn: 20:00 Uhr Vorverkauf: 54,99 € | 
-<div class=pl-date> Sa., 14. November 2026 | 
-<div class=pl-card-front.pl-pointer> Sa., 14. November 2026 Sa., 14. November 2026 Verschoben HASSIAS - Er ist wieder da. Und er hasst euch noch immer Beginn: 20:00 Uhr SERDAR SOMUNCU | 
-<div class=pl-date> Sa., 14. November 2026 | 
-<div class=pl-thumbnail> Sa., 14. November 2026 Verschoben HASSIAS - Er ist wieder da. Und er hasst euch noch immer Beginn: 20:00 Uhr | 
-<div class=pl-thumb-desc> Sa., 14. November 2026 Verschoben HASSIAS - Er ist wieder da. Und er hasst euch noch immer Beginn: 20:00 Uhr | 
-<div class=pl-date> Sa., 14. November 2026 | 
-<div class=pl-card> Sa., 14. November 2026 Sa., 14. November 2026 Endgegner - Tour 2026 Beginn: 20:00 Uhr Vorverkauf: 34,99 € SCHATTENMANN Endgegner - Tour 2026 Beginn: 20:00 Uhr Vorverkauf: 34,99 € | 
-<div class=pl-card-front.pl-pointer> Sa., 14. November 2026 Sa., 14. November 2026 Endgegner - Tour 2026 Beginn: 20:00 Uhr Vorverkauf: 34,99 € SCHATTENMANN | 
-<div class=pl-date> Sa., 14. November 2026 | 
-<div class=pl-thumbnail> Sa., 14. November 2026 Endgegner - Tour 2026 Beginn: 20:00 Uhr Vorverkauf: 34,99 € | 
-<div class=pl-thumb-desc> Sa., 14. November 2026 Endgegner - Tour 2026 Beginn: 20:00 Uhr Vorverkauf: 34,99 € | 
-<div class=pl-date> Sa., 14. November 2026 | 
 <div class=pl-card> So., 15. November 2026 So., 15. November 2026 Ausverkauft POPPSTAR Ikkimel Live Beginn: 20:00 Uhr IKKIMEL Ausverkauft POPPSTAR Ikkimel Live Beginn: 20:00 Uhr | 
 <div class=pl-card-front.pl-pointer> So., 15. November 2026 So., 15. November 2026 Ausverkauft POPPSTAR Ikkimel Live Beginn: 20:00 Uhr IKKIMEL | 
 <div class=pl-date> So., 15. November 2026 | 
@@ -29,4 +12,22 @@ jsonld types: ImageObject, ImageObject, WebSite, SearchAction, ImageObject, WebP
 <div class=pl-thumbnail> So., 15. November 2026 Abgesagt Eigentlich schön Tour 2026 Beginn: 20:00 Uhr | 
 <div class=pl-thumb-desc> So., 15. November 2026 Abgesagt Eigentlich schön Tour 2026 Beginn: 20:00 Uhr | 
 <div class=pl-date> So., 15. November 2026 | 
+<div class=pl-card> Mo., 16. November 2026 Mo., 16. November 2026 Verlegt Till Death & Back Tour Beginn: 20:00 Uhr AGAINST THE CURRENT Verlegt Till Death & Back Tour Beginn: 20:00 Uhr | 
+<div class=pl-card-front.pl-pointer> Mo., 16. November 2026 Mo., 16. November 2026 Verlegt Till Death & Back Tour Beginn: 20:00 Uhr AGAINST THE CURRENT | 
+<div class=pl-date> Mo., 16. November 2026 | 
+<div class=pl-thumbnail> Mo., 16. November 2026 Verlegt Till Death & Back Tour Beginn: 20:00 Uhr | 
+<div class=pl-thumb-desc> Mo., 16. November 2026 Verlegt Till Death & Back Tour Beginn: 20:00 Uhr | 
+<div class=pl-date> Mo., 16. November 2026 | 
+<div class=pl-card> Mo., 16. November 2026 Mo., 16. November 2026 Till Death & Back Tour Beginn: 20:00 Uhr Vorverkauf: 40,49 € AGAINST THE CURRENT Till Death & Back Tour Beginn: 20:00 Uhr Vorverkauf: 40,49 € | 
+<div class=pl-card-front.pl-pointer> Mo., 16. November 2026 Mo., 16. November 2026 Till Death & Back Tour Beginn: 20:00 Uhr Vorverkauf: 40,49 € AGAINST THE CURRENT | 
+<div class=pl-date> Mo., 16. November 2026 | 
+<div class=pl-thumbnail> Mo., 16. November 2026 Till Death & Back Tour Beginn: 20:00 Uhr Vorverkauf: 40,49 € | 
+<div class=pl-thumb-desc> Mo., 16. November 2026 Till Death & Back Tour Beginn: 20:00 Uhr Vorverkauf: 40,49 € | 
+<div class=pl-date> Mo., 16. November 2026 | 
+<div class=pl-card> Di., 17. November 2026 Di., 17. November 2026 EUROPEAN TOUR 2026 Beginn: 19:30 Uhr Vorverkauf: 37,99 € ALLT EUROPEAN TOUR 2026 Beginn: 19:30 Uhr Vorverkauf: 37,99 € | 
+<div class=pl-card-front.pl-pointer> Di., 17. November 2026 Di., 17. November 2026 EUROPEAN TOUR 2026 Beginn: 19:30 Uhr Vorverkauf: 37,99 € ALLT | 
+<div class=pl-date> Di., 17. November 2026 | 
+<div class=pl-thumbnail> Di., 17. November 2026 EUROPEAN TOUR 2026 Beginn: 19:30 Uhr Vorverkauf: 37,99 € | 
+<div class=pl-thumb-desc> Di., 17. November 2026 EUROPEAN TOUR 2026 Beginn: 19:30 Uhr Vorverkauf: 37,99 € | 
+<div class=pl-date> Di., 17. November 2026 | 
 poveznice (0): 

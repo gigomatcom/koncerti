@@ -1,89 +1,5 @@
 [
  {
-  "date": "2026-11-14",
-  "time": "18:00",
-  "title": "50 godina mladi - svečani koncert u čast 50 godina KUD-a Mladost",
-  "venue": "",
-  "genre": "trad",
-  "price": "",
-  "url": "https://core-event.co/events/50-godina-mladi-svecani-koncert-u-cast-50-godina-kud-a-mladost-ac70/",
-  "city": "zagreb",
-  "venue_name": "KUC Travno",
-  "source": "coreevent"
- },
- {
-  "date": "2026-11-14",
-  "time": "",
-  "title": "Paulaner acoustic live session - OIV toranj Sljeme",
-  "venue": "",
-  "genre": "",
-  "price": "",
-  "url": "https://core-event.co/events/paulaner-acoustic-live-session-oiv-toranj-sljeme-14112026-5461/",
-  "city": "zagreb",
-  "venue_name": "OIV toranj Sljeme - Ostakljeni Vidikovac",
-  "source": "coreevent"
- },
- {
-  "date": "2026-11-14",
-  "time": "",
-  "title": "LET 3",
-  "venue": "tvornica",
-  "genre": "",
-  "price": "",
-  "url": "https://core-event.co/events/let-3-u-tvornici-kulture-6c28/",
-  "city": "zagreb",
-  "venue_name": "Tvornica kulture",
-  "source": "coreevent"
- },
- {
-  "date": "2026-11-14",
-  "time": "21:00",
-  "title": "Rambo Amadeus",
-  "venue": "sax",
-  "genre": "",
-  "price": "",
-  "url": "https://core-event.co/events/rambo-amadeus-u-saxu-ca46/",
-  "city": "zagreb",
-  "venue_name": "Sax!",
-  "source": "coreevent"
- },
- {
-  "date": "2026-11-14",
-  "time": "21:00",
-  "title": "Pipsi",
-  "venue": "",
-  "genre": "",
-  "price": "",
-  "url": "https://core-event.co/events/pipsi-u-zaboku-9649/",
-  "city": "zabok",
-  "venue_name": "Regenerator",
-  "source": "coreevent"
- },
- {
-  "date": "2026-11-14",
-  "time": "21:00",
-  "title": "Kids From the Sky",
-  "venue": "ri-pogon",
-  "genre": "",
-  "price": "",
-  "url": "https://core-event.co/events/kids-from-the-sky-c21b/",
-  "city": "rijeka",
-  "venue_name": "POGON",
-  "source": "coreevent"
- },
- {
-  "date": "2026-11-14",
-  "time": "",
-  "title": "Bailar Gasolina",
-  "venue": "",
-  "genre": "",
-  "price": "",
-  "url": "https://core-event.co/events/bailar-gasolina-dc30/",
-  "city": "zagreb",
-  "venue_name": "Prvi kat (Out Garden)",
-  "source": "coreevent"
- },
- {
   "date": "2026-11-15",
   "time": "10:00",
   "title": "Jojo i prijatelji",
@@ -109,6 +25,18 @@
  },
  {
   "date": "2026-11-17",
+  "time": "",
+  "title": "SUEDE - YAMMATOVO 6 fueled by Cockta",
+  "venue": "tvornica",
+  "genre": "",
+  "price": "",
+  "url": "https://core-event.co/events/suede-yammatov-6-fueled-by-cockta-78e5/",
+  "city": "zagreb",
+  "venue_name": "TVORNICA KULTURE",
+  "source": "coreevent"
+ },
+ {
+  "date": "2026-11-17",
   "time": "20:00",
   "title": "Valerija Nikolovska - Green Heart",
   "venue": "",
@@ -129,18 +57,6 @@
   "url": "https://core-event.co/events/iza-ugla-uho-svijeta-igor-bozanic-8116/",
   "city": "zagreb",
   "venue_name": "Scena Ribnjak – velika dvorana",
-  "source": "coreevent"
- },
- {
-  "date": "2026-11-17",
-  "time": "",
-  "title": "SUEDE - YAMMATOVO 6 fueled by Cockta",
-  "venue": "tvornica",
-  "genre": "",
-  "price": "",
-  "url": "https://core-event.co/events/suede-yammatov-6-fueled-by-cockta-78e5/",
-  "city": "zagreb",
-  "venue_name": "TVORNICA KULTURE",
   "source": "coreevent"
  },
  {
@@ -744,6 +660,18 @@
   "source": "coreevent"
  },
  {
+  "date": "2026-12-11",
+  "time": "",
+  "title": "Incident",
+  "venue": "",
+  "genre": "",
+  "price": "",
+  "url": "https://core-event.co/events/incident-13da/",
+  "city": "zagreb",
+  "venue_name": "Katran",
+  "source": "coreevent"
+ },
+ {
   "date": "2026-12-12",
   "time": "20:00",
   "title": "When Tomorrow Comes",
@@ -981,6 +909,18 @@
   "url": "https://core-event.co/events/the-black-wizards-u-the-beertiji-eb1d/",
   "city": "rijeka",
   "venue_name": "The Beertija",
+  "source": "coreevent"
+ },
+ {
+  "date": "2027-01-29",
+  "time": "20:00",
+  "title": "Chui",
+  "venue": "ri-pogon",
+  "genre": "",
+  "price": "",
+  "url": "https://core-event.co/events/chui-u-pogonu-28e5/",
+  "city": "rijeka",
+  "venue_name": "Pogon",
   "source": "coreevent"
  },
  {

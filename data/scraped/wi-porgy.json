@@ -1,16 +1,5 @@
 [
  {
-  "date": "2026-11-14",
-  "time": "20:30",
-  "title": "True Loves (USA)",
-  "venue": "wi-porgybess",
-  "genre": "jazz",
-  "price": "",
-  "url": "https://www.porgy.at/events/series/79/",
-  "city": "bec",
-  "source": "wi-porgy"
- },
- {
   "date": "2026-11-15",
   "time": "20:30",
   "title": "Emiliano Sampaio Meretrio & Heinrich von Kalnein (BRA/A/D)",
@@ -871,7 +860,7 @@
  {
   "date": "2027-02-02",
   "time": "20:30",
-  "title": "Vincent Herring/Mark Sherman/David Kikoski/Mark Lewandoski/Bernd Reiter 'Project 5' (USA/GB/A)",
+  "title": "Vincent Herring/Mark Sherman/David Kikoski/Mark Lewandowski/Bernd Reiter 'Project 5' (USA/GB/A)",
   "venue": "wi-porgybess",
   "genre": "jazz",
   "price": "",
@@ -1014,7 +1003,7 @@
  {
   "date": "2027-02-15",
   "time": "20:30",
-  "title": "Jasper Van’t Hof & Reto Weber Duo (NL/CH)",
+  "title": "Jasper van’t Hof & Reto Weber Duo (NL/CH)",
   "venue": "wi-porgybess",
   "genre": "jazz",
   "price": "",

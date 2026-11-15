@@ -995,11 +995,18 @@
    "youtube": "https://www.youtube.com/channel/UC7C1zwKSsOf1ESEnDWaVpyw"
   }
  },
+ "https://attack.hr/hr/otvoreni-poziv-za-kratke-stripove-za-9-izdanje-ohohozina-tema-cyberpunk": {
+  "checked": "2026-11-15",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/akc.attack",
+   "instagram": "https://www.instagram.com/akc.attack",
+   "youtube": "https://www.youtube.com/channel/UCd7ThrEyJ29upsyJ_LYTszQ"
+  }
+ },
  "https://attack.hr/hr/people-s-kitchen-1d72ea7d-6666-42ef-a60c-dff34e8c45a3": {
   "checked": "2026-11-12",
-  "clean": {
-   "instagram": "https://www.instagram.com/akc.attack"
-  },
+  "clean": {},
   "links": {
    "facebook": "https://www.facebook.com/akc.attack",
    "instagram": "https://www.instagram.com/akc.attack",
@@ -1032,8 +1039,7 @@
  "https://attack.hr/hr/s-o-r-crna-zuc-indikator-b-katarza": {
   "checked": "2026-11-09",
   "clean": {
-   "bandcamp": "https://autsajderprodukcija.bandcamp.com/album/the-end",
-   "instagram": "https://www.instagram.com/akc.attack"
+   "bandcamp": "https://autsajderprodukcija.bandcamp.com/album/the-end"
   },
   "links": {
    "bandcamp": "https://autsajderprodukcija.bandcamp.com/album/the-end",
@@ -1246,6 +1252,14 @@
    "instagram": "https://www.instagram.com/core_event/"
   }
  },
+ "https://core-event.co/events/chui-u-pogonu-28e5/": {
+  "checked": "2026-11-15",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/share.php",
+   "instagram": "https://www.instagram.com/pogonkulturerijeka/"
+  }
+ },
  "https://core-event.co/events/clan-of-xymox-u-tvornici-kulture-ca34": {
   "checked": "2026-11-09",
   "clean": {},
@@ -1334,6 +1348,14 @@
   "links": {
    "facebook": "https://www.facebook.com/share.php",
    "instagram": "https://www.instagram.com/yemhr/"
+  }
+ },
+ "https://core-event.co/events/electric-six-u-tvornici-kulture-6818": {
+  "checked": "2026-11-15",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/share.php",
+   "instagram": "https://www.instagram.com/core_event/"
   }
  },
  "https://core-event.co/events/electric-six-u-tvornici-kulture-6818/": {
@@ -1448,6 +1470,16 @@
    "instagram": "https://www.instagram.com/tvornicakulture/"
   }
  },
+ "https://core-event.co/events/incident-13da/": {
+  "checked": "2026-11-15",
+  "clean": {
+   "instagram": "https://www.instagram.com/somasexuality"
+  },
+  "links": {
+   "facebook": "https://www.facebook.com/share.php",
+   "instagram": "https://www.instagram.com/somasexuality"
+  }
+ },
  "https://core-event.co/events/indira-forza-arena-zagreb-30-godina-karijere-0dbe/": {
   "checked": "2026-11-09",
   "clean": {},
@@ -1470,6 +1502,14 @@
   "links": {
    "facebook": "https://www.facebook.com/share.php",
    "instagram": "https://www.instagram.com/core_event/"
+  }
+ },
+ "https://core-event.co/events/jojo-i-prijatelji-e383": {
+  "checked": "2026-11-15",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/share.php",
+   "instagram": "https://www.instagram.com/rtl_hr/"
   }
  },
  "https://core-event.co/events/jojo-i-prijatelji-ed0b": {
@@ -1538,6 +1578,14 @@
  },
  "https://core-event.co/events/kids-from-the-sky-c21b/": {
   "checked": "2026-11-09",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/share.php",
+   "instagram": "https://www.instagram.com/core_event/"
+  }
+ },
+ "https://core-event.co/events/kim-wilde-u-tvornici-kulture-30a4": {
+  "checked": "2026-11-15",
   "clean": {},
   "links": {
    "facebook": "https://www.facebook.com/share.php",
@@ -2907,6 +2955,17 @@
    "youtube": "https://www.youtube.com/user/Pulaplus"
   }
  },
+ "https://vintageindustrial-bar.com/nadolazeci-dogadaji/": {
+  "checked": "2026-11-15",
+  "clean": {
+   "facebook": "https://www.facebook.com/vintageindbar",
+   "instagram": "https://www.instagram.com/vintageindzagreb/"
+  },
+  "links": {
+   "facebook": "https://www.facebook.com/vintageindbar",
+   "instagram": "https://www.instagram.com/vintageindzagreb/"
+  }
+ },
  "https://westlive.mticket.eu/widget586site12853/widget/event/186461": {
   "checked": "2026-11-14",
   "clean": {},
@@ -3756,6 +3815,18 @@
    "facebook": "https://www.facebook.com/BARBA.NEGRA.HUNGARY",
    "instagram": "https://www.instagram.com/barbanegrahungary",
    "youtube": "https://www.youtube.com/@barbanegrahungary1929"
+  }
+ },
+ "https://www.budapestpark.hu/jegyvasarlas/event/aws-2027-06-03": {
+  "checked": "2026-11-15",
+  "clean": {
+   "spotify": "https://open.spotify.com/artist/2I5ZkGFj7RYeIBjV4dFlWn"
+  },
+  "links": {
+   "facebook": "https://www.facebook.com/mozduljunkki.letsgoout",
+   "instagram": "https://www.instagram.com/budapestpark/",
+   "spotify": "https://open.spotify.com/artist/2I5ZkGFj7RYeIBjV4dFlWn",
+   "youtube": "https://www.youtube.com/user/Aparkofficial"
   }
  },
  "https://www.budapestpark.hu/jegyvasarlas/event/co-lee-2027-06-11": {
@@ -6654,6 +6725,14 @@
  },
  "https://www.orto-bar.com/dogodki/koncerti/plateauranr/": {
   "checked": "2026-11-10",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/noplacelikeorto",
+   "instagram": "https://www.instagram.com/orto_bar_slovenija/"
+  }
+ },
+ "https://www.orto-bar.com/dogodki/koncerti/ring-abba-tribute-band-4/": {
+  "checked": "2026-11-15",
   "clean": {},
   "links": {
    "facebook": "https://www.facebook.com/noplacelikeorto",

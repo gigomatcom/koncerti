@@ -1665,6 +1665,11 @@
   "checked": "2026-11-08",
   "query": "BUZZCOCKS u Tvornici Kulture"
  },
+ "calibro 35 vs l a": {
+  "checked": "2026-11-15",
+  "query": "Calibro 35 Vs L.a.",
+  "v": 2
+ },
  "calibro 35 vs l a u vintageu": {
   "checked": "2026-11-08",
   "query": "CALIBRO 35! VS. L.A. u Vintageu"
@@ -1962,6 +1967,18 @@
  "chuffdrone on": {
   "checked": "2026-11-11",
   "query": "Chuffdrone 'On'",
+  "v": 2
+ },
+ "chui": {
+  "checked": "2026-11-15",
+  "country": "",
+  "genre": "",
+  "links": {
+   "bandcamp": "https://chuitheband.bandcamp.com/"
+  },
+  "mbid": "c852dbbd-6e01-4bed-a5f7-76b56221bd46",
+  "name": "Chui",
+  "query": "Chui",
   "v": 2
  },
  "ciara moser the rose of battle": {
@@ -4511,6 +4528,11 @@
   "query": "In Media Res 2026.",
   "v": 2
  },
+ "incident": {
+  "checked": "2026-11-15",
+  "query": "Incident",
+  "v": 2
+ },
  "indie ikone tindersticks": {
   "checked": "2026-11-11",
   "query": "Indie Ikone Tindersticks",
@@ -4912,6 +4934,11 @@
   "mbid": "c718b91d-719a-4bd1-abef-713ad35e1f93",
   "name": "Johnny Delaware",
   "query": "Johnny Delaware",
+  "v": 2
+ },
+ "jojo i prijatelji": {
+  "checked": "2026-11-15",
+  "query": "Jojo i prijatelji",
   "v": 2
  },
  "jojo lackner": {
@@ -5986,6 +6013,11 @@
  "lika kolorado": {
   "checked": "2026-11-08",
   "query": "Lika Kolorado"
+ },
+ "lika kolordo": {
+  "checked": "2026-11-15",
+  "query": "Lika Kolordo",
+  "v": 2
  },
  "lima len": {
   "checked": "2026-11-11",
@@ -7394,6 +7426,11 @@
   "query": "Nacht der Gitarren 2027 w",
   "v": 2
  },
+ "nadolazeci doga aji": {
+  "checked": "2026-11-15",
+  "query": "Nadolazeći događaji",
+  "v": 2
+ },
  "nagy bogi": {
   "checked": "2026-11-10",
   "country": "HU",
@@ -8052,6 +8089,11 @@
  "ossian": {
   "checked": "2026-11-09",
   "query": "Ossian",
+  "v": 2
+ },
+ "otvoreni poziv za kratke stripove za 9 izdanje ohohozina": {
+  "checked": "2026-11-15",
+  "query": "Otvoreni poziv za kratke stripove za 9. izdanje OHOHOzina",
   "v": 2
  },
  "our promise": {

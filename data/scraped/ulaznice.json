@@ -1,29 +1,5 @@
 [
  {
-  "date": "2026-11-14",
-  "time": "18:00",
-  "title": "K-pop Mania",
-  "venue": "kinosc",
-  "genre": "",
-  "price": "",
-  "url": "https://www.entrio.hr/event/k-pop-mania-34460",
-  "city": "zagreb",
-  "venue_name": "Kino SC",
-  "source": "ulaznice"
- },
- {
-  "date": "2026-11-14",
-  "time": "20:30",
-  "title": "Kao Rani Mraz- tribute bend Đorđa Balaševića",
-  "venue": "boogaloo",
-  "genre": "",
-  "price": "",
-  "url": "https://www.entrio.hr/event/kao-rani-mraz-tribute-bend-djordja-balasevica-34622",
-  "city": "zagreb",
-  "venue_name": "Klub Boogaloo",
-  "source": "ulaznice"
- },
- {
   "date": "2026-11-16",
   "time": "20:00",
   "title": "Atrophy",

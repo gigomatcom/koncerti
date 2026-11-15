@@ -1,27 +1,5 @@
 [
  {
-  "date": "2026-11-14",
-  "time": "",
-  "title": "Ranking Ann, Tonto Addi, Long Fingah | Sandokan Hi-Fi",
-  "venue": "medika",
-  "genre": "dj",
-  "price": "",
-  "url": "https://attack.hr/hr/ranking-ann-tonto-addi-long-fingah-sandokan-hi-fi",
-  "city": "zagreb",
-  "source": "attack"
- },
- {
-  "date": "2026-11-14",
-  "time": "",
-  "title": "People's Kitchen",
-  "venue": "medika",
-  "genre": "",
-  "price": "",
-  "url": "https://attack.hr/hr/people-s-kitchen-1d72ea7d-6666-42ef-a60c-dff34e8c45a3",
-  "city": "zagreb",
-  "source": "attack"
- },
- {
   "date": "2026-11-20",
   "time": "",
   "title": "SOUND2LOUD: Saga 1",
@@ -51,6 +29,17 @@
   "genre": "",
   "price": "",
   "url": "https://attack.hr/hr/s-o-r-crna-zuc-indikator-b-katarza",
+  "city": "zagreb",
+  "source": "attack"
+ },
+ {
+  "date": "2027-03-30",
+  "time": "",
+  "title": "Otvoreni poziv za kratke stripove za 9. izdanje OHOHOzina (tema: Cyberpunk)",
+  "venue": "medika",
+  "genre": "punk",
+  "price": "",
+  "url": "https://attack.hr/hr/otvoreni-poziv-za-kratke-stripove-za-9-izdanje-ohohozina-tema-cyberpunk",
   "city": "zagreb",
   "source": "attack"
  }
