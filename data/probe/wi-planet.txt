@@ -1,17 +1,5 @@
 title: Planet Music & Media
 jsonld types: ImageObject, ImageObject, WebSite, SearchAction, ImageObject, WebPage, Person, ImageObject, Article
-<div class=pl-card> So., 15. November 2026 So., 15. November 2026 Ausverkauft POPPSTAR Ikkimel Live Beginn: 20:00 Uhr IKKIMEL Ausverkauft POPPSTAR Ikkimel Live Beginn: 20:00 Uhr | 
-<div class=pl-card-front.pl-pointer> So., 15. November 2026 So., 15. November 2026 Ausverkauft POPPSTAR Ikkimel Live Beginn: 20:00 Uhr IKKIMEL | 
-<div class=pl-date> So., 15. November 2026 | 
-<div class=pl-thumbnail> So., 15. November 2026 Ausverkauft POPPSTAR Ikkimel Live Beginn: 20:00 Uhr | 
-<div class=pl-thumb-desc> So., 15. November 2026 Ausverkauft POPPSTAR Ikkimel Live Beginn: 20:00 Uhr | 
-<div class=pl-date> So., 15. November 2026 | 
-<div class=pl-card> So., 15. November 2026 So., 15. November 2026 Abgesagt Eigentlich schön Tour 2026 Beginn: 20:00 Uhr ROWLI Abgesagt Eigentlich schön Tour 2026 Beginn: 20:00 Uhr | 
-<div class=pl-card-front.pl-pointer> So., 15. November 2026 So., 15. November 2026 Abgesagt Eigentlich schön Tour 2026 Beginn: 20:00 Uhr ROWLI | 
-<div class=pl-date> So., 15. November 2026 | 
-<div class=pl-thumbnail> So., 15. November 2026 Abgesagt Eigentlich schön Tour 2026 Beginn: 20:00 Uhr | 
-<div class=pl-thumb-desc> So., 15. November 2026 Abgesagt Eigentlich schön Tour 2026 Beginn: 20:00 Uhr | 
-<div class=pl-date> So., 15. November 2026 | 
 <div class=pl-card> Mo., 16. November 2026 Mo., 16. November 2026 Verlegt Till Death & Back Tour Beginn: 20:00 Uhr AGAINST THE CURRENT Verlegt Till Death & Back Tour Beginn: 20:00 Uhr | 
 <div class=pl-card-front.pl-pointer> Mo., 16. November 2026 Mo., 16. November 2026 Verlegt Till Death & Back Tour Beginn: 20:00 Uhr AGAINST THE CURRENT | 
 <div class=pl-date> Mo., 16. November 2026 | 
@@ -30,4 +18,16 @@ jsonld types: ImageObject, ImageObject, WebSite, SearchAction, ImageObject, WebP
 <div class=pl-thumbnail> Di., 17. November 2026 EUROPEAN TOUR 2026 Beginn: 19:30 Uhr Vorverkauf: 37,99 € | 
 <div class=pl-thumb-desc> Di., 17. November 2026 EUROPEAN TOUR 2026 Beginn: 19:30 Uhr Vorverkauf: 37,99 € | 
 <div class=pl-date> Di., 17. November 2026 | 
+<div class=pl-card> Di., 17. November 2026 Di., 17. November 2026 Verschoben Clarity of Mind Beginn: 20:00 Uhr OMAH LAY Verschoben Clarity of Mind Beginn: 20:00 Uhr | 
+<div class=pl-card-front.pl-pointer> Di., 17. November 2026 Di., 17. November 2026 Verschoben Clarity of Mind Beginn: 20:00 Uhr OMAH LAY | 
+<div class=pl-date> Di., 17. November 2026 | 
+<div class=pl-thumbnail> Di., 17. November 2026 Verschoben Clarity of Mind Beginn: 20:00 Uhr | 
+<div class=pl-thumb-desc> Di., 17. November 2026 Verschoben Clarity of Mind Beginn: 20:00 Uhr | 
+<div class=pl-date> Di., 17. November 2026 | 
+<div class=pl-card> Mi., 18. November 2026 Mi., 18. November 2026 NESHASTNY SLUCHAY Beginn: 20:00 Uhr ALEXEY KORTNEV & DMITRY CHUVELEV NESHASTNY SLUCHAY Beginn: 20:00 Uhr | 
+<div class=pl-card-front.pl-pointer> Mi., 18. November 2026 Mi., 18. November 2026 NESHASTNY SLUCHAY Beginn: 20:00 Uhr ALEXEY KORTNEV & DMITRY CHUVELEV | 
+<div class=pl-date> Mi., 18. November 2026 | 
+<div class=pl-thumbnail> Mi., 18. November 2026 NESHASTNY SLUCHAY Beginn: 20:00 Uhr | 
+<div class=pl-thumb-desc> Mi., 18. November 2026 NESHASTNY SLUCHAY Beginn: 20:00 Uhr | 
+<div class=pl-date> Mi., 18. November 2026 | 
 poveznice (0): 

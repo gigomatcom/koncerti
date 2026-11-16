@@ -1,10 +1,10 @@
 title: Kino Šiška – Center urbane kulture
 jsonld types: 
-<tr class=> 15. 11. / 16:00 dvorana Katedrala 37. LIFFE V KINU ŠIŠKA Film Nakup vstopnice | https://www.kinosiska.si/dogodek/37-liffe-v-kinu-siska/
 <tr class=> 19. 11. / 11:00 dvorana Katedrala sub_bar | Taktilna zvočna izkušnja za gluhe in slišeče Glasba vstop prost | https://www.kinosiska.si/dogodek/[…]/
 <tr class=> 19. 11. / 20:00 dvorana Katedrala NIPPLEPEOPLE Glasba Nakup vstopnice | https://www.kinosiska.si/dogodek/nipplepeople/
 <tr class=> 20. 11. / 20:00 dvorana Katedrala Pihajmo za zdravo Slovenijo Glasba vstop prost | https://www.kinosiska.si/dogodek/pihajmo-za-zdravo-slovenijo/
 <tr class=> 21. 11. / 10:00 dvorana Katedrala DaDADADISKO: družinski rave I JAMirko in All Around the House Glasba Nakup vstopnice | https://www.kinosiska.si/dogodek/dadadisko-druzinski-rave/
+<tr class=> 21. 11. / 20:00 dvorana Katedrala RAVE ON x endemit Glasba Nakup vstopnice | https://www.kinosiska.si/dogodek/rave-on-x-endemit/
 <a class=no-hover> Ples/gledališče 27. 11. / pet  / 20:00 CoFestival 2026 15. mednarodni festival sodobnega plesa Nakup vstopnice | https://www.kinosiska.si/dogodek/cofestival-2026/
 <div class=card-event-full-width> Ples/gledališče 27. 11. / pet  / 20:00 CoFestival 2026 15. mednarodni festival sodobnega plesa Nakup vstopnice | 
 <div class=header> Ples/gledališče 27. 11. / pet  / 20:00 CoFestival 2026 15. mednarodni festival sodobnega plesa Nakup vstopnice | 
@@ -25,10 +25,10 @@ jsonld types:
 <a class=no-hover> Vizualna umetnost 01. 10.                        - 31. 12. DOGODKI V DOBRIVAGI razstave, delavnice, pogovori, predavanja... | https://www.kinosiska.si/dogodek/dogodki-v-dobrivagi/
 <article class=card-event-small> Vizualna umetnost 01. 10.                        - 31. 12. DOGODKI V DOBRIVAGI razstave, delavnice, pogovori, predavanja... | 
 <div class=content.pass-on-hover> 01. 10.                        - 31. 12. DOGODKI V DOBRIVAGI razstave, delavnice, pogovori, predavanja... | 
-<div class=col-md-4.mt-1> Film 15. 11. / ned  / 16:00 37. LIFFE V KINU ŠIŠKA Ljubljanski mednarodni filmski festival | https://www.kinosiska.si/dogodek/37-liffe-v-kinu-siska/
-<a class=no-hover> Film 15. 11. / ned  / 16:00 37. LIFFE V KINU ŠIŠKA Ljubljanski mednarodni filmski festival | https://www.kinosiska.si/dogodek/37-liffe-v-kinu-siska/
-<article class=card-event-small> Film 15. 11. / ned  / 16:00 37. LIFFE V KINU ŠIŠKA Ljubljanski mednarodni filmski festival | 
-<div class=content.pass-on-hover> 15. 11. / ned  / 16:00 37. LIFFE V KINU ŠIŠKA Ljubljanski mednarodni filmski festival | 
+<div class=col-md-4.mt-1> Film 15. 11.                        - 18. 11. 37. LIFFE V KINU ŠIŠKA Ljubljanski mednarodni filmski festival | https://www.kinosiska.si/dogodek/37-liffe-v-kinu-siska/
+<a class=no-hover> Film 15. 11.                        - 18. 11. 37. LIFFE V KINU ŠIŠKA Ljubljanski mednarodni filmski festival | https://www.kinosiska.si/dogodek/37-liffe-v-kinu-siska/
+<article class=card-event-small> Film 15. 11.                        - 18. 11. 37. LIFFE V KINU ŠIŠKA Ljubljanski mednarodni filmski festival | 
+<div class=content.pass-on-hover> 15. 11.                        - 18. 11. 37. LIFFE V KINU ŠIŠKA Ljubljanski mednarodni filmski festival | 
 <div class=col-md-4.mt-1> Glasba 19. 11. / čet  / 11:00 Zaznave glasbe sub_bar | Taktilna zvočna izkušnja za gluhe in slišeče Predstavitev in izvedba zvočne izkušnje za gluhe, naglušne in slišeče. | https://www.kinosiska.si/dogodek/[…]/
 <a class=no-hover> Glasba 19. 11. / čet  / 11:00 Zaznave glasbe sub_bar | Taktilna zvočna izkušnja za gluhe in slišeče Predstavitev in izvedba zvočne izkušnje za gluhe, naglušne in slišeče. | https://www.kinosiska.si/dogodek/[…]/
 <article class=card-event-small> Glasba 19. 11. / čet  / 11:00 Zaznave glasbe sub_bar | Taktilna zvočna izkušnja za gluhe in slišeče Predstavitev in izvedba zvočne izkušnje za gluhe, naglušne in slišeče. | 

@@ -152,6 +152,15 @@
    "youtube": "https://www.youtube.com/channel/UC7C1zwKSsOf1ESEnDWaVpyw"
   }
  },
+ "https://akvariumklub.hu/programok/corvinus-kozgaz-golyabal/": {
+  "checked": "2026-11-16",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/akvariumklub/",
+   "instagram": "https://www.instagram.com/akvariumklub/",
+   "youtube": "https://www.youtube.com/channel/UC7C1zwKSsOf1ESEnDWaVpyw"
+  }
+ },
  "https://akvariumklub.hu/programok/deep-forest/": {
   "checked": "2026-11-11",
   "clean": {},
@@ -1426,6 +1435,14 @@
    "instagram": "https://www.instagram.com/core_event/"
   }
  },
+ "https://core-event.co/events/grad-peter-north-pole-klub-palach-7013/": {
+  "checked": "2026-11-16",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/share.php",
+   "instagram": "https://www.instagram.com/core_event/"
+  }
+ },
  "https://core-event.co/events/grc-klub-palach-587d/": {
   "checked": "2026-11-09",
   "clean": {},
@@ -1490,6 +1507,14 @@
  },
  "https://core-event.co/events/iza-ugla-uho-svijeta-igor-bozanic-8116/": {
   "checked": "2026-11-09",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/share.php",
+   "instagram": "https://www.instagram.com/core_event/"
+  }
+ },
+ "https://core-event.co/events/jasna-zlokic-zagreb-tvornica-kulture-9903": {
+  "checked": "2026-11-16",
   "clean": {},
   "links": {
    "facebook": "https://www.facebook.com/share.php",
@@ -1866,6 +1891,14 @@
    "instagram": "https://www.instagram.com/sljeme360"
   }
  },
+ "https://core-event.co/events/petkom-prije-ponoci-scena-piano-adrian-valcic-d387/": {
+  "checked": "2026-11-16",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/share.php",
+   "instagram": "https://www.instagram.com/scenaribnjak/"
+  }
+ },
  "https://core-event.co/events/petkom-prije-ponoci-scena-piano-lovro-mirth-nikola-santek-9aa8/": {
   "checked": "2026-11-09",
   "clean": {},
@@ -2071,6 +2104,16 @@
    "instagram": "https://www.instagram.com/el_ej_ej/"
   }
  },
+ "https://core-event.co/events/slick-party-lift-with-lockddd-and-ivchich-024d/": {
+  "checked": "2026-11-16",
+  "clean": {
+   "instagram": "https://www.instagram.com/slickparty/"
+  },
+  "links": {
+   "facebook": "https://www.facebook.com/share.php",
+   "instagram": "https://www.instagram.com/slickparty/"
+  }
+ },
  "https://core-event.co/events/soul-legacy-kino-sc-zagreb-109d/": {
   "checked": "2026-11-09",
   "clean": {},
@@ -2213,6 +2256,14 @@
   "links": {
    "facebook": "https://www.facebook.com/share.php",
    "instagram": "https://www.instagram.com/el_ej_ej/"
+  }
+ },
+ "https://core-event.co/events/tomislav-goluban-i-gosti-regenerator-zabok-1500/": {
+  "checked": "2026-11-16",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/share.php",
+   "instagram": "https://www.instagram.com/zcuk_regenerator/"
   }
  },
  "https://core-event.co/events/valerija-nikolovska-green-heart-regenerator-zabok-bc39/": {
@@ -2736,6 +2787,22 @@
    "facebook": "https://www.facebook.com/moraines",
    "instagram": "https://www.instagram.com/solstafir_official/",
    "spotify": "https://open.spotify.com/artist/721C5U5rM8J0jjq6IQuSBK",
+   "youtube": "http://www.youtube.com/user/klubmochvara"
+  }
+ },
+ "https://mochvara.hr/event-detail/6a90272cd74b7987d607140d/": {
+  "checked": "2026-11-16",
+  "clean": {
+   "bandcamp": "https://plattenbau.bandcamp.com/music",
+   "facebook": "https://www.facebook.com/plattenbauband/",
+   "instagram": "https://www.instagram.com/plattenbau/",
+   "spotify": "https://open.spotify.com/artist/0Pekue0830gXpof0ngQVFH"
+  },
+  "links": {
+   "bandcamp": "https://plattenbau.bandcamp.com/music",
+   "facebook": "https://www.facebook.com/plattenbauband/",
+   "instagram": "https://www.instagram.com/plattenbau/",
+   "spotify": "https://open.spotify.com/artist/0Pekue0830gXpof0ngQVFH",
    "youtube": "http://www.youtube.com/user/klubmochvara"
   }
  },
@@ -3682,6 +3749,15 @@
    "youtube": "https://www.youtube.com/@barbanegrahungary1929"
   }
  },
+ "https://www.barbanegra.hu/program/paradice-festival_20261218": {
+  "checked": "2026-11-16",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/BARBA.NEGRA.HUNGARY",
+   "instagram": "https://www.instagram.com/barbanegrahungary",
+   "youtube": "https://www.youtube.com/@barbanegrahungary1929"
+  }
+ },
  "https://www.barbanegra.hu/program/pokolgep_20261230": {
   "checked": "2026-11-11",
   "clean": {},
@@ -4418,6 +4494,15 @@
    "youtube": "https://www.youtube.com/user/Cankarjevdom"
   }
  },
+ "https://www.cd-cc.si/kultura/glasba/vasko-atanasovski-30-let-glasbe": {
+  "checked": "2026-11-16",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/cankarjev.dom.cd/",
+   "instagram": "https://www.instagram.com/cankarjevdom/",
+   "youtube": "https://www.youtube.com/user/Cankarjevdom"
+  }
+ },
  "https://www.cd-cc.si/kultura/glasba/vlado-kreslin-pelji-me-se-kdaj-tja": {
   "checked": "2026-11-11",
   "clean": {},
@@ -4899,6 +4984,14 @@
    "instagram": "https://www.instagram.com/hrvatskonarodnokazalistezagreb/"
   }
  },
+ "https://www.hnk.hr/hr/opera/predstave/vještica-hillary-i-uvrijeđeni-kontrabas/#27.02.11.00": {
+  "checked": "2026-11-16",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/hnk.hr/",
+   "instagram": "https://www.instagram.com/hrvatskonarodnokazalistezagreb/"
+  }
+ },
  "https://www.hnk.hr/hr/opera/predstave/šišmiš/#21.12.19.30": {
   "checked": "2026-11-11",
   "clean": {},
@@ -4961,6 +5054,15 @@
  },
  "https://www.kinosiska.si/dogodek/pihajmo-za-zdravo-slovenijo/": {
   "checked": "2026-11-14",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/kinosiska.si/",
+   "instagram": "http://www.instagram.com/kinosiska",
+   "youtube": "https://www.youtube.com/channel/UCw3zJE1u5h8IMdewKB8I3UA"
+  }
+ },
+ "https://www.kinosiska.si/dogodek/rave-on-x-endemit/": {
+  "checked": "2026-11-16",
   "clean": {},
   "links": {
    "facebook": "https://www.facebook.com/kinosiska.si/",
@@ -7768,6 +7870,16 @@
  },
  "https://www.stadthalle.com/de/events/alle-events/51610/KPop-Demon-Hunters": {
   "checked": "2026-11-14",
+  "clean": {},
+  "links": {}
+ },
+ "https://www.stadthalle.com/de/events/alle-events/51614/Ben-Becker-liest-quotEine-Weihnachtsgeschichtequot": {
+  "checked": "2026-11-16",
+  "clean": {},
+  "links": {}
+ },
+ "https://www.stadthalle.com/de/events/alle-events/51616/Die-Nacht-der-Filmmusik-2027": {
+  "checked": "2026-11-16",
   "clean": {},
   "links": {}
  },

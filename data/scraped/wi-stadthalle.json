@@ -1,16 +1,5 @@
 [
  {
-  "date": "2026-11-15",
-  "time": "",
-  "title": "Tokio Hotel",
-  "venue": "wi-stadthalle",
-  "genre": "",
-  "price": "",
-  "url": "https://www.stadthalle.com/de/events/alle-events/50948/Tokio-Hotel",
-  "city": "bec",
-  "source": "wi-stadthalle"
- },
- {
   "date": "2026-11-18",
   "time": "",
   "title": "The Dark Tenor",
@@ -1426,6 +1415,28 @@
   "genre": "",
   "price": "",
   "url": "https://www.stadthalle.com/de/events/alle-events/51500/Pizzera-amp-Jaus",
+  "city": "bec",
+  "source": "wi-stadthalle"
+ },
+ {
+  "date": "2027-12-04",
+  "time": "",
+  "title": "Die Nacht der Filmmusik 2027",
+  "venue": "wi-stadthalle",
+  "genre": "",
+  "price": "",
+  "url": "https://www.stadthalle.com/de/events/alle-events/51616/Die-Nacht-der-Filmmusik-2027",
+  "city": "bec",
+  "source": "wi-stadthalle"
+ },
+ {
+  "date": "2027-12-05",
+  "time": "",
+  "title": "Ben Becker liest \"Eine Weihnachtsgeschichte\"",
+  "venue": "wi-stadthalle",
+  "genre": "",
+  "price": "",
+  "url": "https://www.stadthalle.com/de/events/alle-events/51614/Ben-Becker-liest-quotEine-Weihnachtsgeschichtequot",
   "city": "bec",
   "source": "wi-stadthalle"
  },

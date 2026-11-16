@@ -1,17 +1,5 @@
 [
  {
-  "date": "2026-11-15",
-  "time": "10:00",
-  "title": "Jojo i prijatelji",
-  "venue": "tvornica",
-  "genre": "",
-  "price": "",
-  "url": "https://core-event.co/events/jojo-i-prijatelji-ed0b/",
-  "city": "zagreb",
-  "venue_name": "Tvornica Kulture",
-  "source": "coreevent"
- },
- {
   "date": "2026-11-17",
   "time": "20:00",
   "title": "Koncert orkestra \"Greenhill Club big band\": Chiaroscuro",
@@ -588,6 +576,18 @@
   "source": "coreevent"
  },
  {
+  "date": "2026-12-04",
+  "time": "22:00",
+  "title": "PETKOM PRIJE PONOĆI | Scena PIANO: Adrian Valčić",
+  "venue": "",
+  "genre": "",
+  "price": "",
+  "url": "https://core-event.co/events/petkom-prije-ponoci-scena-piano-adrian-valcic-d387/",
+  "city": "zagreb",
+  "venue_name": "Foaje, Scena Piano",
+  "source": "coreevent"
+ },
+ {
   "date": "2026-12-05",
   "time": "",
   "title": "Shtosmo u Tvornici",
@@ -621,6 +621,18 @@
   "url": "https://core-event.co/events/anime-party-vol-7-75b3/",
   "city": "zagreb",
   "venue_name": "Aquarius club",
+  "source": "coreevent"
+ },
+ {
+  "date": "2026-12-05",
+  "time": "",
+  "title": "Slick party",
+  "venue": "liftclub",
+  "genre": "dj",
+  "price": "",
+  "url": "https://core-event.co/events/slick-party-lift-with-lockddd-and-ivchich-024d/",
+  "city": "zagreb",
+  "venue_name": "Lift club",
   "source": "coreevent"
  },
  {
@@ -709,6 +721,18 @@
  },
  {
   "date": "2026-12-16",
+  "time": "19:00",
+  "title": "Tomislav Goluban i gosti",
+  "venue": "",
+  "genre": "",
+  "price": "",
+  "url": "https://core-event.co/events/tomislav-goluban-i-gosti-regenerator-zabok-1500/",
+  "city": "zabok",
+  "venue_name": "Regenerator",
+  "source": "coreevent"
+ },
+ {
+  "date": "2026-12-16",
   "time": "21:00",
   "title": "Kries u Vintage-u!",
   "venue": "vintage",
@@ -753,6 +777,18 @@
   "url": "https://core-event.co/events/baby-lasagna-u-rijeci-fe14/",
   "city": "rijeka",
   "venue_name": "Pogon Kulture",
+  "source": "coreevent"
+ },
+ {
+  "date": "2026-12-18",
+  "time": "21:00",
+  "title": "Grad + Peter North Pole",
+  "venue": "ri-palach",
+  "genre": "",
+  "price": "",
+  "url": "https://core-event.co/events/grad-peter-north-pole-klub-palach-7013/",
+  "city": "rijeka",
+  "venue_name": "Klub Palach",
   "source": "coreevent"
  },
  {

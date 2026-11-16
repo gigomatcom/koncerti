@@ -1,16 +1,5 @@
 [
  {
-  "date": "2026-11-15",
-  "time": "21:00",
-  "title": "Još gori u Začaranoj Močvari, dan prvi",
-  "venue": "mocvara",
-  "genre": "",
-  "price": "",
-  "url": "https://mochvara.hr/event-detail/6ab0ea3e162b2a007578d1bf/",
-  "city": "zagreb",
-  "source": "mocvara"
- },
- {
   "date": "2026-11-16",
   "time": "21:00",
   "title": "Još gori u Začaranoj Močvari, dan drugi",
@@ -95,6 +84,17 @@
   "genre": "",
   "price": "",
   "url": "https://mochvara.hr/event-detail/6a462acf52370eea066a1efe/",
+  "city": "zagreb",
+  "source": "mocvara"
+ },
+ {
+  "date": "2026-11-24",
+  "time": "21:00",
+  "title": "Plattenbau, Vurma",
+  "venue": "mocvara",
+  "genre": "",
+  "price": "",
+  "url": "https://mochvara.hr/event-detail/6a90272cd74b7987d607140d/",
   "city": "zagreb",
   "source": "mocvara"
  },

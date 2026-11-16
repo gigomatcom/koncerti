@@ -1,27 +1,5 @@
 [
  {
-  "date": "2026-11-15",
-  "time": "20:00",
-  "title": "Flamenco en Vivo! feat. la Lupi",
-  "venue": "lisM",
-  "genre": "world",
-  "price": "rasprodano",
-  "url": "https://www.lisinski.hr/hr/dogadanja/flamenco-en-vivo-feat-la-lupi/",
-  "city": "zagreb",
-  "source": "lisinski"
- },
- {
-  "date": "2026-11-15",
-  "time": "20:00",
-  "title": "Najbolji Hrvatski Tamburaši - Upregnite u Fijaker Vrance",
-  "venue": "lisV",
-  "genre": "trad",
-  "price": "30–40 €",
-  "url": "https://www.lisinski.hr/hr/dogadanja/najbolji-hrvatski-tamburasi-upregnite-u-fijaker-vr/",
-  "city": "zagreb",
-  "source": "lisinski"
- },
- {
   "date": "2026-11-17",
   "time": "20:00",
   "title": "YAMATO THE DRUMMERS OF JAPAN - 人の力 - The Power of Human Strength",
@@ -310,22 +288,22 @@
  {
   "date": "2026-12-10",
   "time": "19:30",
-  "title": "Ciklus Glazbene Staze: Weber 200 – Duo, Trio, Kvartet",
-  "venue": "lisM",
+  "title": "Majstorski Ciklus SO HRT-a Ljetni Povjetarac, Ledena Svjetlost Pascal Rophé, Dirigent Mayumi Kanagawa, Violina",
+  "venue": "lisV",
   "genre": "klasika",
-  "price": "10 €",
-  "url": "https://www.lisinski.hr/hr/dogadanja/ciklus-glazbene-staze-br-weber-200-duo-trio-kvarte/",
+  "price": "13–18 €",
+  "url": "https://www.lisinski.hr/hr/dogadanja/majstorski-ciklus-so-hrt-a-br-ljetni-povjetarac-le/",
   "city": "zagreb",
   "source": "lisinski"
  },
  {
   "date": "2026-12-10",
   "time": "19:30",
-  "title": "Majstorski Ciklus SO HRT-a Ljetni Povjetarac, Ledena Svjetlost Pascal Rophé, Dirigent Mayumi Kanagawa, Violina",
-  "venue": "lisV",
+  "title": "Ciklus Glazbene Staze: Weber 200 – Duo, Trio, Kvartet",
+  "venue": "lisM",
   "genre": "klasika",
-  "price": "13–18 €",
-  "url": "https://www.lisinski.hr/hr/dogadanja/majstorski-ciklus-so-hrt-a-br-ljetni-povjetarac-le/",
+  "price": "10 €",
+  "url": "https://www.lisinski.hr/hr/dogadanja/ciklus-glazbene-staze-br-weber-200-duo-trio-kvarte/",
   "city": "zagreb",
   "source": "lisinski"
  },
@@ -368,7 +346,7 @@
   "title": "73. KONCERTNA SEZONA ZAGREBAČKIH SOLISTA KEVIN ZHU, koncertni majstor i violina solo",
   "venue": "lisM",
   "genre": "klasika",
-  "price": "18 €",
+  "price": "rasprodano",
   "url": "https://www.lisinski.hr/hr/dogadanja/73-koncertna-sezona-zagrebackih-solista-br-kevin-z/",
   "city": "zagreb",
   "source": "lisinski"
@@ -607,7 +585,7 @@
  {
   "date": "2027-01-30",
   "time": "19:30",
-  "title": "LISINSKI SUBOTOM ŠVEDSKI KOMORNI ORKESTAR MARTIN FROST, klarinet i umjetničko vodstvo",
+  "title": "LISINSKI SUBOTOM ŠVEDSKI KOMORNI ORKESTAR MARTIN FRÖST, klarinet i umjetničko vodstvo",
   "venue": "lisV",
   "genre": "klasika",
   "price": "32–48 €",

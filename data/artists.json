@@ -1129,6 +1129,11 @@
   "query": "Belocca",
   "v": 2
  },
+ "ben becker liest eine weihnachtsgeschichte": {
+  "checked": "2026-11-16",
+  "query": "Ben Becker liest Eine Weihnachtsgeschichte",
+  "v": 2
+ },
  "ben sims": {
   "checked": "2026-11-09",
   "country": "",
@@ -2127,6 +2132,11 @@
   "query": "Cordoba78",
   "v": 2
  },
+ "corvinus kozgaz golyabal": {
+  "checked": "2026-11-16",
+  "query": "Corvinus Közgáz Gólyabál",
+  "v": 2
+ },
  "crimson glory": {
   "checked": "2026-11-09",
   "country": "US",
@@ -2572,6 +2582,11 @@
  "die nacht der filmmusik 2026": {
   "checked": "2026-11-10",
   "query": "Die Nacht der Filmmusik 2026",
+  "v": 2
+ },
+ "die nacht der filmmusik 2027": {
+  "checked": "2026-11-16",
+  "query": "Die Nacht der Filmmusik 2027",
   "v": 2
  },
  "die prinzen": {
@@ -3903,6 +3918,11 @@
  "gospel christmas": {
   "checked": "2026-11-10",
   "query": "Gospel Christmas",
+  "v": 2
+ },
+ "grad": {
+  "checked": "2026-11-16",
+  "query": "Grad",
   "v": 2
  },
  "grc": {
@@ -8676,6 +8696,16 @@
   "checked": "2026-11-08",
   "query": "Rave Frequencies Croatia"
  },
+ "rave on": {
+  "checked": "2026-11-16",
+  "country": "",
+  "genre": "",
+  "links": {},
+  "mbid": "b3cf269c-f2c5-4ba2-a824-90182834d9a0",
+  "name": "Rave On",
+  "query": "RAVE ON",
+  "v": 2
+ },
  "razgovori karmelicanki": {
   "checked": "2026-11-10",
   "query": "Razgovori karmelićanki",
@@ -11226,6 +11256,11 @@
   "checked": "2026-11-08",
   "query": "Tomislav Bralić i klapa Intrade"
  },
+ "tomislav goluban i gosti": {
+  "checked": "2026-11-16",
+  "query": "Tomislav Goluban i gosti",
+  "v": 2
+ },
  "toni kitanovski": {
   "checked": "2026-11-10",
   "query": "Toni Kitanovski",
@@ -11569,6 +11604,21 @@
   "query": "Vanessa Mai",
   "v": 2
  },
+ "vasko atanasovski": {
+  "checked": "2026-11-16",
+  "country": "SI",
+  "genre": "",
+  "links": {
+   "bandcamp": "https://vaskoatanasovski-moonjune.bandcamp.com/",
+   "deezer": "https://www.deezer.com/artist/7171790",
+   "spotify": "https://open.spotify.com/artist/6rln0aVWqATnb5wxUD7qEl",
+   "web": "https://www.vaskoatanasovski.com/"
+  },
+  "mbid": "603c90ae-5256-4648-b5dd-7dce7814ff5d",
+  "name": "Vasko Atanasovski",
+  "query": "Vasko Atanasovski",
+  "v": 2
+ },
  "vazz": {
   "checked": "2026-11-09",
   "country": "SI",
@@ -11657,6 +11707,11 @@
  "virsky": {
   "checked": "2026-11-10",
   "query": "VIRSKY",
+  "v": 2
+ },
+ "vjestica hillary i uvrije eni kontrabas": {
+  "checked": "2026-11-16",
+  "query": "Vještica Hillary i uvrijeđeni kontrabas",
   "v": 2
  },
  "vkb band a k a vicki kristina barcelona": {

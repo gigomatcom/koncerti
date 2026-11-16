@@ -253,6 +253,17 @@
   "source": "hnk-opera"
  },
  {
+  "date": "2027-02-27",
+  "time": "11:00",
+  "title": "Vještica Hillary i uvrijeđeni kontrabas",
+  "venue": "hnk",
+  "genre": "opera",
+  "price": "",
+  "url": "https://www.hnk.hr/hr/opera/predstave/vještica-hillary-i-uvrijeđeni-kontrabas/#27.02.11.00",
+  "city": "zagreb",
+  "source": "hnk-opera"
+ },
+ {
   "date": "2026-11-27",
   "time": "19:00",
   "title": "Orašar",
@@ -458,17 +469,6 @@
   "genre": "opera",
   "price": "",
   "url": "https://www.hnk.hr/hr/balet/predstave/orašarr2025/#05.01.19.30",
-  "city": "zagreb",
-  "source": "hnk-opera"
- },
- {
-  "date": "2027-02-11",
-  "time": "19:30",
-  "title": "Trnoružica",
-  "venue": "hnk",
-  "genre": "opera",
-  "price": "",
-  "url": "https://www.hnk.hr/hr/balet/predstave/trnoružica/#11.02.19.30",
   "city": "zagreb",
   "source": "hnk-opera"
  },

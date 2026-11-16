@@ -1,15 +1,15 @@
 title: SNG – Slovensko narodno gledališče
 jsonld types: 
-<div class=show.active> balet Ludwig Minkus Bajadera 20. 4. 2027 | 11.00 | https://www.sng-mb.si/event/bajadera/
+<div class=show.active> drama Nina Ramšak Marković in Milan Ramšak Marković Überkrajina 20. 11. 2026 | 20.00 | https://www.sng-mb.si/event/uberkrajina/
 <div class=show> opera Johann Strauss ml. Netopir 27. 11. 2026 | 19.30 | https://www.sng-mb.si/event/netopir-3/
 <div class=show> drama Branislav Nušić Gospa ministrica 9. 12. 2026 | 20.00 | https://www.sng-mb.si/event/gospa-ministrica/
 <div class=show> drama Žiga Divjak in Gregor Zorc po romanu Susan Abulhawa Jutra v Dženinu 14. 12. 2026 | 19.00 | https://www.sng-mb.si/event/jutra-v-dzeninu/
-<div class=swiper-slide.active> balet Ludwig Minkus Bajadera 20. 4. 2027 |
-                                11.00 | https://www.sng-mb.si/event/bajadera/
-<a class=show__list--item.p-3> balet Ludwig Minkus Bajadera 20. 4. 2027 |
-                                11.00 | https://www.sng-mb.si/event/bajadera/
-<div class=datetime> 20. 4. 2027 |
-                                11.00 | 
+<div class=swiper-slide.active> drama Nina Ramšak Marković in Milan Ramšak Marković Überkrajina 20. 11. 2026 |
+                                20.00 | https://www.sng-mb.si/event/uberkrajina/
+<a class=show__list--item.p-3> drama Nina Ramšak Marković in Milan Ramšak Marković Überkrajina 20. 11. 2026 |
+                                20.00 | https://www.sng-mb.si/event/uberkrajina/
+<div class=datetime> 20. 11. 2026 |
+                                20.00 | 
 <div class=swiper-slide> opera Johann Strauss ml. Netopir 27. 11. 2026 |
                                 19.30 | https://www.sng-mb.si/event/netopir-3/
 <a class=show__list--item.p-3> opera Johann Strauss ml. Netopir 27. 11. 2026 |
@@ -72,4 +72,4 @@ jsonld types:
 <div class=news-date> Objavljeno 6. 11. 2026 | 
 <div class=swiper-slide.hover-zoom> Bajadera obuja razkošje in brezčasno lepoto klasičnega baleta Objavljeno 4. 11. 2026 | https://www.sng-mb.si/2026/11/04/[…]/
 <a class=news-item.d-flex.flex-column> Bajadera obuja razkošje in brezčasno lepoto klasičnega baleta Objavljeno 4. 11. 2026 | https://www.sng-mb.si/2026/11/04/[…]/
-poveznice (13): https://sngmb.mojekarte.si/si/3-koncert-cikla-carpe-artem/vstopnice-1213610.html https://www.sng-mb.si/drama-program/?lang=sl https://www.sng-mb.si/event/[…]/ https://www.sng-mb.si/event/bajadera/ https://www.sng-mb.si/event/gospa-ministrica/ https://www.sng-mb.si/event/jutra-v-dzeninu/ https://www.sng-mb.si/event/[…]/ https://www.sng-mb.si/event/netopir-3/ https://www.sng-mb.si/event/uberkrajina/ https://www.sng-mb.si/event/vojna-nima-zenskega-obraza/ https://www.sng-mb.si/opera-program/?lang=sl https://www.sng-mb.si/program/?lang=sl https://www.sng-mb.si/prvi-prizor-program/?lang=sl
+poveznice (12): https://sngmb.mojekarte.si/si/3-koncert-cikla-carpe-artem/vstopnice-1213610.html https://www.sng-mb.si/drama-program/?lang=sl https://www.sng-mb.si/event/[…]/ https://www.sng-mb.si/event/gospa-ministrica/ https://www.sng-mb.si/event/jutra-v-dzeninu/ https://www.sng-mb.si/event/[…]/ https://www.sng-mb.si/event/netopir-3/ https://www.sng-mb.si/event/uberkrajina/ https://www.sng-mb.si/event/vojna-nima-zenskega-obraza/ https://www.sng-mb.si/opera-program/?lang=sl https://www.sng-mb.si/program/?lang=sl https://www.sng-mb.si/prvi-prizor-program/?lang=sl
