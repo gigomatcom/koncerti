@@ -1,27 +1,5 @@
 [
  {
-  "date": "2026-11-16",
-  "time": "",
-  "title": "TECHNO PILATES / UV Pilates November / powered by TECHNO YOGA",
-  "venue": "bp-akvariumklub",
-  "genre": "",
-  "price": "",
-  "url": "https://akvariumklub.hu/programok/techno-pilates-uv-pilates-november-powered-by-techno-yoga/",
-  "city": "budimpesta",
-  "source": "bp-akvarium"
- },
- {
-  "date": "2026-11-16",
-  "time": "11:16",
-  "title": "Hétfői társasozás az Akváriumban – 11.16.",
-  "venue": "bp-akvariumklub",
-  "genre": "",
-  "price": "",
-  "url": "https://akvariumklub.hu/programok/hetfoi-tarsasozas-az-akvariumban-11-16/",
-  "city": "budimpesta",
-  "source": "bp-akvarium"
- },
- {
   "date": "2026-11-17",
   "time": "",
   "title": "Redzed",
@@ -172,17 +150,6 @@
   "genre": "",
   "price": "",
   "url": "https://akvariumklub.hu/programok/ez-az-a-nap-worship-night-hillsong-london-worship-x-eden/",
-  "city": "budimpesta",
-  "source": "bp-akvarium"
- },
- {
-  "date": "2026-11-23",
-  "time": "",
-  "title": "Eagle Eye Cherry | Budapest 2026",
-  "venue": "bp-akvariumklub",
-  "genre": "",
-  "price": "",
-  "url": "https://akvariumklub.hu/programok/eagle-eye-cherry-budapest-2026/",
   "city": "budimpesta",
   "source": "bp-akvarium"
  },
@@ -506,6 +473,17 @@
   "source": "bp-akvarium"
  },
  {
+  "date": "2026-12-18",
+  "time": "12:18",
+  "title": "Gerappaaa ☾ 2000’S Bangers ☾ Akvárium Klub – 12.18.",
+  "venue": "bp-akvariumklub",
+  "genre": "",
+  "price": "",
+  "url": "https://akvariumklub.hu/programok/gerappaaa-2000s-bangers-akvarium-klub-1218/",
+  "city": "budimpesta",
+  "source": "bp-akvarium"
+ },
+ {
   "date": "2026-12-19",
   "time": "",
   "title": "Fiesta – Nyár a télben",
@@ -535,6 +513,17 @@
   "genre": "",
   "price": "",
   "url": "https://akvariumklub.hu/programok/keep-floyding-animals-in-construction/",
+  "city": "budimpesta",
+  "source": "bp-akvarium"
+ },
+ {
+  "date": "2026-12-19",
+  "time": "12:19",
+  "title": "Gerappaaa ☾ 2000’S Bangers ☾ Akvárium Klub – 12.19.",
+  "venue": "bp-akvariumklub",
+  "genre": "",
+  "price": "",
+  "url": "https://akvariumklub.hu/programok/gerappaaa-2000s-bangers-akvarium-klub-1219/",
   "city": "budimpesta",
   "source": "bp-akvarium"
  },
@@ -683,6 +672,17 @@
  },
  {
   "date": "2026-12-28",
+  "time": "12:28",
+  "title": "Gerappaaa ☾ 2000’S Bangers ☾ Akvárium Klub – 12.28.",
+  "venue": "bp-akvariumklub",
+  "genre": "",
+  "price": "",
+  "url": "https://akvariumklub.hu/programok/gerappaaa-2000s-bangers-akvarium-klub-1228/",
+  "city": "budimpesta",
+  "source": "bp-akvarium"
+ },
+ {
+  "date": "2026-12-28",
   "time": "",
   "title": "The Hungarian Depeche Mode Fan Club – Farewell Series: The Year-End Party 2026",
   "venue": "bp-akvariumklub",
@@ -711,6 +711,17 @@
   "genre": "",
   "price": "",
   "url": "https://akvariumklub.hu/programok/felkor-koncert-vendeg-dirty-caps/",
+  "city": "budimpesta",
+  "source": "bp-akvarium"
+ },
+ {
+  "date": "2026-12-30",
+  "time": "",
+  "title": "Edm 2010 × Avicii Forever Party // Pre-new Year Party!",
+  "venue": "bp-akvariumklub",
+  "genre": "dj",
+  "price": "",
+  "url": "https://akvariumklub.hu/programok/edm-2010-x-avicii-forever-party-pre-new-year-party/",
   "city": "budimpesta",
   "source": "bp-akvarium"
  },
@@ -810,6 +821,17 @@
   "genre": "",
   "price": "",
   "url": "https://akvariumklub.hu/programok/frenk/",
+  "city": "budimpesta",
+  "source": "bp-akvarium"
+ },
+ {
+  "date": "2027-01-29",
+  "time": "",
+  "title": "Blahalouisiana ⦿ Álarcosbál ⦿ Akvárium ⦿ Földönkívüliek Találkozója – 2. Nap",
+  "venue": "bp-akvariumklub",
+  "genre": "",
+  "price": "",
+  "url": "https://akvariumklub.hu/programok/blahalouisiana-alarcosbal-foldonkivuliek-talalkozoja-0129/",
   "city": "budimpesta",
   "source": "bp-akvarium"
  },

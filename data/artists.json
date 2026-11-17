@@ -235,6 +235,11 @@
   "query": "Acid Arab",
   "v": 2
  },
+ "adezija": {
+  "checked": "2026-11-17",
+  "query": "Adezija",
+  "v": 2
+ },
  "adi sose": {
   "checked": "2026-11-09",
   "country": "",
@@ -693,6 +698,11 @@
   "mbid": "9443202f-a7f5-4987-8b4c-477113e6c1dd",
   "name": "Anna K",
   "query": "Anna K.",
+  "v": 2
+ },
+ "anna maurer quartet on her mind": {
+  "checked": "2026-11-17",
+  "query": "Anna Maurer Quartet 'On her mind'",
   "v": 2
  },
  "annett louisan": {
@@ -5762,6 +5772,19 @@
   "checked": "2026-11-08",
   "query": "KUĆNO KINO RIBNJAK"
  },
+ "kumovi": {
+  "checked": "2026-11-17",
+  "country": "HR",
+  "genre": "",
+  "links": {
+   "facebook": "https://www.facebook.com/kumoviofficial",
+   "youtube": "https://www.youtube.com/channel/UC4YdgC_75xaf69_BViIiSsQ"
+  },
+  "mbid": "565a733b-4168-447f-a5b9-c5ac13cbe309",
+  "name": "Kumovi",
+  "query": "Kumovi",
+  "v": 2
+ },
  "kuplung": {
   "checked": "2026-11-11",
   "query": "Kuplung",
@@ -7762,6 +7785,11 @@
   "query": "Nikola Zaric Solo",
   "v": 2
  },
+ "nils strunk meets jakob helling vienna jazz orchestra": {
+  "checked": "2026-11-17",
+  "query": "Nils Strunk meets Jakob Helling Vienna Jazz Orchestra",
+  "v": 2
+ },
  "nimo": {
   "checked": "2026-11-10",
   "query": "Nimo",
@@ -8160,6 +8188,11 @@
   "mbid": "fe1a873d-2000-4789-a895-4187fe756203",
   "name": "Parov Stelar",
   "query": "Parov Stelar",
+  "v": 2
+ },
+ "passo falso": {
+  "checked": "2026-11-17",
+  "query": "Passo Falso",
   "v": 2
  },
  "paul panzer": {
@@ -10057,6 +10090,11 @@
   "checked": "2026-11-08",
   "query": "Sport Innovest 2027"
  },
+ "srce super sedmica": {
+  "checked": "2026-11-17",
+  "query": "SRCE Super sedmica",
+  "v": 2
+ },
  "srce super sedmica by house of flamingo": {
   "checked": "2026-11-08",
   "query": "SRCE Super sedmica by House of Flamingo"
@@ -10192,6 +10230,18 @@
  "suparnice": {
   "checked": "2026-11-08",
   "query": "Suparnice"
+ },
+ "superthai": {
+  "checked": "2026-11-17",
+  "country": "",
+  "genre": "",
+  "links": {
+   "instagram": "https://www.instagram.com/superthai_official/"
+  },
+  "mbid": "2426acdd-f368-433b-80ad-463357b13591",
+  "name": "SuperThai",
+  "query": "SuperThai",
+  "v": 2
  },
  "suzi quatro": {
   "checked": "2026-11-11",
@@ -11171,6 +11221,11 @@
   "query": "Tim Reaper",
   "v": 2
  },
+ "timeless 2027 nye w": {
+  "checked": "2026-11-17",
+  "query": "Timeless 2027 NYE W",
+  "v": 2
+ },
  "tina dico": {
   "checked": "2026-11-09",
   "query": "Tina Dico",
@@ -11619,6 +11674,19 @@
   "query": "Vasko Atanasovski",
   "v": 2
  },
+ "vavra bence": {
+  "checked": "2026-11-17",
+  "country": "HU",
+  "genre": "",
+  "links": {
+   "deezer": "https://www.deezer.com/artist/7142783",
+   "spotify": "https://open.spotify.com/artist/6tOepCRI5TSTfZtQqE4YYh"
+  },
+  "mbid": "c467d01d-4520-49c9-b871-5605afb5bd6d",
+  "name": "Vavra Bence",
+  "query": "Vavra Bence",
+  "v": 2
+ },
  "vazz": {
   "checked": "2026-11-09",
   "country": "SI",
@@ -11673,6 +11741,11 @@
  "vesna nezic ruzic i anelidi": {
   "checked": "2026-11-11",
   "query": "Vesna Nežić-Ružić i Anelidi",
+  "v": 2
+ },
+ "vhs w": {
+  "checked": "2026-11-17",
+  "query": "VHS w",
   "v": 2
  },
  "vienna boys choir": {
@@ -12055,6 +12128,20 @@
  "zagreb jazz workshop": {
   "checked": "2026-11-08",
   "query": "Zagreb Jazz Workshop"
+ },
+ "zajtrk": {
+  "checked": "2026-11-17",
+  "country": "SI",
+  "genre": "",
+  "links": {
+   "bandcamp": "https://zajtrk1.bandcamp.com/",
+   "facebook": "https://www.facebook.com/Zajtrk-420549101681686",
+   "youtube": "https://www.youtube.com/channel/UCKx9JShchfQWhG1CTsYgsGg"
+  },
+  "mbid": "c0b48a4b-95d4-4b53-aff4-bfade29e148f",
+  "name": "Zajtrk",
+  "query": "Zajtrk",
+  "v": 2
  },
  "zakhorov": {
   "checked": "2026-11-09",

@@ -11,17 +11,6 @@
   "source": "lj-cd"
  },
  {
-  "date": "2026-12-04",
-  "time": "20:00",
-  "title": "Votia (Reunion)",
-  "venue": "lj-cankarjev",
-  "genre": "",
-  "price": "",
-  "url": "https://www.cd-cc.si/kultura/glasba/votia-reunion",
-  "city": "ljubljana",
-  "source": "lj-cd"
- },
- {
   "date": "2026-12-31",
   "time": "19:00",
   "title": "Isimangaliso",
@@ -29,6 +18,17 @@
   "genre": "",
   "price": "",
   "url": "https://www.cd-cc.si/kultura/glasba/isimangaliso",
+  "city": "ljubljana",
+  "source": "lj-cd"
+ },
+ {
+  "date": "2026-12-04",
+  "time": "20:00",
+  "title": "Votia (Reunion)",
+  "venue": "lj-cankarjev",
+  "genre": "",
+  "price": "",
+  "url": "https://www.cd-cc.si/kultura/glasba/votia-reunion",
   "city": "ljubljana",
   "source": "lj-cd"
  },
@@ -222,11 +222,11 @@
  {
   "date": "2027-01-05",
   "time": "",
-  "title": "Lolita & Jure Pukl – plešeta za vas",
+  "title": "Lolita & Jure Pukl",
   "venue": "lj-cankarjev",
   "genre": "",
   "price": "",
-  "url": "https://www.cd-cc.si/kultura/glasba/lolita-jure-pukl-pleseta-za-vas",
+  "url": "https://www.cd-cc.si/kultura/glasba/lolita-jure-pukl",
   "city": "ljubljana",
   "source": "lj-cd"
  },
@@ -249,6 +249,28 @@
   "genre": "",
   "price": "",
   "url": "https://www.cd-cc.si/kultura/glasba/ensemble-chakam-iran-francija-grcija",
+  "city": "ljubljana",
+  "source": "lj-cd"
+ },
+ {
+  "date": "2027-01-19",
+  "time": "",
+  "title": "Zajtrk – Sol in zemlja",
+  "venue": "lj-cankarjev",
+  "genre": "",
+  "price": "",
+  "url": "https://www.cd-cc.si/kultura/glasba/zajtrk-sol-in-zemlja",
+  "city": "ljubljana",
+  "source": "lj-cd"
+ },
+ {
+  "date": "2027-01-26",
+  "time": "",
+  "title": "Kumovi – Barbarian Shop",
+  "venue": "lj-cankarjev",
+  "genre": "",
+  "price": "",
+  "url": "https://www.cd-cc.si/kultura/glasba/kumovi-barbarian-shop",
   "city": "ljubljana",
   "source": "lj-cd"
  },

@@ -28,12 +28,9 @@ jsonld types:
                                 19.00 | https://www.sng-mb.si/event/jutra-v-dzeninu/
 <div class=datetime> 14. 12. 2026 |
                                 19.00 | 
-<div class=d-flex.date-container> 17 Nov Tor Ida Mlakar, Maja Borin Ida Mlakar, Maja Borin Kako sta Bibi in Gusti sipala srečo 10.00 Komorni oder | https://www.sng-mb.si/event/[…]/
-<div class=content__programs--date> 17 Nov Tor | 
 <div class=d-flex.date-container> 18 Nov Sre Ida Mlakar, Maja Borin Ida Mlakar, Maja Borin Kako sta Bibi in Gusti sipala srečo 10.00 Komorni oder | https://www.sng-mb.si/event/[…]/
 <div class=content__programs--date> 18 Nov Sre | 
 <div class=content__programs--date> 20 Nov Pet | 
-<div class=d-flex.date-container> 21 Nov Sob Svetlana Aleksijevič Svetlana Aleksijevič Vojna nima ženskega obraza 20.00 Mali oder ABONMA MALI ODER | https://www.sng-mb.si/event/vojna-nima-zenskega-obraza/
 <div class=content__programs--date> 21 Nov Sob | 
 <div class=d-flex.date-container> 26 Nov Čet 3. koncert cikla Carpe artem »Refleksije strun« 19.30 Kazinska dvorana abonma CIKEL CARPE ARTEM | https://www.sng-mb.si/event/[…]/
 <div class=content__programs--date> 26 Nov Čet | 
@@ -45,12 +42,9 @@ jsonld types:
 <div class=content__programs--date> 01 Dec Tor | 
 <div class=d-flex.date-container> 02 Dec Sre Johann Strauss ml. Johann Strauss ml. Netopir 19.30 Dvorana Ondine Otta Klasinc abonma OPERA IN SIMFONIKI | https://www.sng-mb.si/event/netopir-3/
 <div class=content__programs--date> 02 Dec Sre | 
-<div class=d-flex.date-container> 17 Nov Tor Ida Mlakar, Maja Borin Ida Mlakar, Maja Borin Kako sta Bibi in Gusti sipala srečo 10.00 Komorni oder | https://www.sng-mb.si/event/[…]/
-<div class=content__programs--date> 17 Nov Tor | 
 <div class=d-flex.date-container> 18 Nov Sre Ida Mlakar, Maja Borin Ida Mlakar, Maja Borin Kako sta Bibi in Gusti sipala srečo 10.00 Komorni oder | https://www.sng-mb.si/event/[…]/
 <div class=content__programs--date> 18 Nov Sre | 
 <div class=content__programs--date> 20 Nov Pet | 
-<div class=d-flex.date-container> 21 Nov Sob Svetlana Aleksijevič Svetlana Aleksijevič Vojna nima ženskega obraza 20.00 Mali oder ABONMA MALI ODER | https://www.sng-mb.si/event/vojna-nima-zenskega-obraza/
 <div class=content__programs--date> 21 Nov Sob | 
 <div class=d-flex.date-container> 26 Nov Čet 3. koncert cikla Carpe artem »Refleksije strun« 19.30 Kazinska dvorana abonma CIKEL CARPE ARTEM | https://www.sng-mb.si/event/[…]/
 <div class=content__programs--date> 26 Nov Čet | 
@@ -72,4 +66,10 @@ jsonld types:
 <div class=news-date> Objavljeno 6. 11. 2026 | 
 <div class=swiper-slide.hover-zoom> Bajadera obuja razkošje in brezčasno lepoto klasičnega baleta Objavljeno 4. 11. 2026 | https://www.sng-mb.si/2026/11/04/[…]/
 <a class=news-item.d-flex.flex-column> Bajadera obuja razkošje in brezčasno lepoto klasičnega baleta Objavljeno 4. 11. 2026 | https://www.sng-mb.si/2026/11/04/[…]/
+<div class=news-content> Bajadera obuja razkošje in brezčasno lepoto klasičnega baleta Objavljeno 4. 11. 2026 | 
+<div class=news-date> Objavljeno 4. 11. 2026 | 
+<div class=swiper-slide.hover-zoom> Grenak humor, pretanjena ironija in nepričakovani preobrati Objavljeno 3. 11. 2026 | https://www.sng-mb.si/2026/11/03/[…]/
+<a class=news-item.d-flex.flex-column> Grenak humor, pretanjena ironija in nepričakovani preobrati Objavljeno 3. 11. 2026 | https://www.sng-mb.si/2026/11/03/[…]/
+<div class=news-content> Grenak humor, pretanjena ironija in nepričakovani preobrati Objavljeno 3. 11. 2026 | 
+<div class=news-date> Objavljeno 3. 11. 2026 | 
 poveznice (12): https://sngmb.mojekarte.si/si/3-koncert-cikla-carpe-artem/vstopnice-1213610.html https://www.sng-mb.si/drama-program/?lang=sl https://www.sng-mb.si/event/[…]/ https://www.sng-mb.si/event/gospa-ministrica/ https://www.sng-mb.si/event/jutra-v-dzeninu/ https://www.sng-mb.si/event/[…]/ https://www.sng-mb.si/event/netopir-3/ https://www.sng-mb.si/event/uberkrajina/ https://www.sng-mb.si/event/vojna-nima-zenskega-obraza/ https://www.sng-mb.si/opera-program/?lang=sl https://www.sng-mb.si/program/?lang=sl https://www.sng-mb.si/prvi-prizor-program/?lang=sl

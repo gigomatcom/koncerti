@@ -1,16 +1,5 @@
 [
  {
-  "date": "2026-11-16",
-  "time": "21:00",
-  "title": "Još gori u Začaranoj Močvari, dan drugi",
-  "venue": "mocvara",
-  "genre": "",
-  "price": "",
-  "url": "https://mochvara.hr/event-detail/6af18900004429833c744d2d/",
-  "city": "zagreb",
-  "source": "mocvara"
- },
- {
   "date": "2026-11-17",
   "time": "20:30",
   "title": "Search Eternal, Pasja Kola, Voltage",
@@ -95,6 +84,28 @@
   "genre": "",
   "price": "",
   "url": "https://mochvara.hr/event-detail/6a90272cd74b7987d607140d/",
+  "city": "zagreb",
+  "source": "mocvara"
+ },
+ {
+  "date": "2026-11-25",
+  "time": "19:00",
+  "title": "Passo Falso",
+  "venue": "mocvara",
+  "genre": "",
+  "price": "",
+  "url": "https://mochvara.hr/event-detail/6afb0f56322483ef651df021/",
+  "city": "zagreb",
+  "source": "mocvara"
+ },
+ {
+  "date": "2026-11-27",
+  "time": "22:00",
+  "title": "SRCE Super sedmica, prvi dan",
+  "venue": "mocvara",
+  "genre": "",
+  "price": "",
+  "url": "https://mochvara.hr/event-detail/6aeb18ef63694136b1d58ad2/",
   "city": "zagreb",
   "source": "mocvara"
  },

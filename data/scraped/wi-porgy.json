@@ -1,16 +1,5 @@
 [
  {
-  "date": "2026-11-16",
-  "time": "19:00",
-  "title": "Bouroyen Reisigl Duo",
-  "venue": "wi-porgybess",
-  "genre": "jazz",
-  "price": "",
-  "url": "https://www.porgy.at/events/stage/1/",
-  "city": "bec",
-  "source": "wi-porgy"
- },
- {
   "date": "2026-11-17",
   "time": "20:30",
   "title": "Jeremy Pelt Quintet 'Woven' (USA/UKR)",
@@ -563,7 +552,7 @@
  {
   "date": "2027-01-06",
   "time": "10:30",
-  "title": "Jakob Helling Vienna Jazz Orchestra meets Nils Strunk",
+  "title": "Nils Strunk meets Jakob Helling Vienna Jazz Orchestra",
   "venue": "wi-porgybess",
   "genre": "jazz",
   "price": "",
@@ -843,6 +832,17 @@
   "genre": "jazz",
   "price": "",
   "url": "https://www.porgy.at/events/12911/",
+  "city": "bec",
+  "source": "wi-porgy"
+ },
+ {
+  "date": "2027-02-01",
+  "time": "20:30",
+  "title": "Anna Maurer Quartet 'On her mind' (A)",
+  "venue": "wi-porgybess",
+  "genre": "jazz",
+  "price": "",
+  "url": "https://www.porgy.at/events/series/79/",
   "city": "bec",
   "source": "wi-porgy"
  },

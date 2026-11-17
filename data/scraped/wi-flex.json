@@ -1,27 +1,5 @@
 [
  {
-  "date": "2026-11-16",
-  "time": "19:00",
-  "title": "Wilt",
-  "venue": "wi-flex",
-  "genre": "",
-  "price": "",
-  "url": "https://flex.at/event/wilt/",
-  "city": "bec",
-  "source": "wi-flex"
- },
- {
-  "date": "2026-11-16",
-  "time": "19:00",
-  "title": "Psychedelic Porn Crumpets",
-  "venue": "wi-flex",
-  "genre": "",
-  "price": "",
-  "url": "https://flex.at/event/psychedelic-porn-crumpets/",
-  "city": "bec",
-  "source": "wi-flex"
- },
- {
   "date": "2026-11-17",
   "time": "19:00",
   "title": "Marten//sold out!!",
@@ -244,11 +222,11 @@
  {
   "date": "2026-12-05",
   "time": "19:00",
-  "title": "Voilà",
+  "title": "SuperThai",
   "venue": "wi-flex",
   "genre": "",
   "price": "",
-  "url": "https://flex.at/event/voila/",
+  "url": "https://flex.at/event/superthai/",
   "city": "bec",
   "source": "wi-flex"
  },

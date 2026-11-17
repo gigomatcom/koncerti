@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-16T12:42:50+00:00",
+ "run_at": "2026-11-17T13:20:59+00:00",
  "sources": {
   "lisinski": {
    "ok": true,
@@ -11,7 +11,7 @@
   },
   "mocvara": {
    "ok": true,
-   "count": 13
+   "count": 14
   },
   "dvaosam": {
    "ok": true,
@@ -36,11 +36,11 @@
   },
   "ulaznice": {
    "ok": true,
-   "count": 55
+   "count": 54
   },
   "coreevent": {
    "ok": true,
-   "count": 107
+   "count": 110
   },
   "hnk-opera": {
    "ok": true,
@@ -62,11 +62,11 @@
   },
   "wi-flex": {
    "ok": true,
-   "count": 25
+   "count": 23
   },
   "wi-planet": {
    "ok": true,
-   "count": 4,
+   "count": 5,
    "note": "samo proba"
   },
   "wi-stadthalle": {
@@ -83,7 +83,7 @@
   },
   "bp-akvarium": {
    "ok": true,
-   "count": 86
+   "count": 88
   },
   "bp-budapestpark": {
    "ok": true,
@@ -95,7 +95,7 @@
   },
   "bp-a38": {
    "ok": true,
-   "count": 42
+   "count": 43
   },
   "lj-festival": {
    "ok": true,
@@ -103,7 +103,7 @@
   },
   "lj-cd": {
    "ok": true,
-   "count": 53
+   "count": 55
   },
   "hangtime": {
    "ok": true,
@@ -140,12 +140,12 @@
   },
   "mb-sng": {
    "ok": true,
-   "count": 13,
+   "count": 12,
    "note": "samo proba"
   },
   "mb-mkc": {
    "ok": true,
-   "count": 13,
+   "count": 12,
    "note": "samo proba"
   },
   "pu-tz": {
@@ -154,7 +154,7 @@
   },
   "pu-ink": {
    "ok": true,
-   "count": 6,
+   "count": 5,
    "note": "samo proba"
   },
   "kinosiska": {

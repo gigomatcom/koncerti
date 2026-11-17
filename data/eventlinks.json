@@ -122,6 +122,18 @@
    "youtube": "https://www.youtube.com/channel/UC7C1zwKSsOf1ESEnDWaVpyw"
   }
  },
+ "https://akvariumklub.hu/programok/blahalouisiana-alarcosbal-foldonkivuliek-talalkozoja-0129/": {
+  "checked": "2026-11-17",
+  "clean": {
+   "spotify": "https://open.spotify.com/artist/0W2LWS5PPbVl0f6prrMcoP"
+  },
+  "links": {
+   "facebook": "https://www.facebook.com/akvariumklub/",
+   "instagram": "https://www.instagram.com/akvariumklub/",
+   "spotify": "https://open.spotify.com/artist/0W2LWS5PPbVl0f6prrMcoP",
+   "youtube": "https://www.youtube.com/channel/UC7C1zwKSsOf1ESEnDWaVpyw"
+  }
+ },
  "https://akvariumklub.hu/programok/bongor-az-utolso-extazis/": {
   "checked": "2026-11-10",
   "clean": {
@@ -188,6 +200,15 @@
    "facebook": "https://www.facebook.com/akvariumklub/",
    "instagram": "https://www.instagram.com/akvariumklub/",
    "spotify": "https://open.spotify.com/artist/7MHRzj7k1gqYcJ2P7V8mwl",
+   "youtube": "https://www.youtube.com/channel/UC7C1zwKSsOf1ESEnDWaVpyw"
+  }
+ },
+ "https://akvariumklub.hu/programok/edm-2010-x-avicii-forever-party-pre-new-year-party/": {
+  "checked": "2026-11-17",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/akvariumklub/",
+   "instagram": "https://www.instagram.com/akvariumklub/",
    "youtube": "https://www.youtube.com/channel/UC7C1zwKSsOf1ESEnDWaVpyw"
   }
  },
@@ -331,6 +352,33 @@
  },
  "https://akvariumklub.hu/programok/gerappaaa-2000s-bangers-akvarium-klub-1113/": {
   "checked": "2026-11-10",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/akvariumklub/",
+   "instagram": "https://www.instagram.com/akvariumklub/",
+   "youtube": "https://www.youtube.com/channel/UC7C1zwKSsOf1ESEnDWaVpyw"
+  }
+ },
+ "https://akvariumklub.hu/programok/gerappaaa-2000s-bangers-akvarium-klub-1218/": {
+  "checked": "2026-11-17",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/akvariumklub/",
+   "instagram": "https://www.instagram.com/akvariumklub/",
+   "youtube": "https://www.youtube.com/channel/UC7C1zwKSsOf1ESEnDWaVpyw"
+  }
+ },
+ "https://akvariumklub.hu/programok/gerappaaa-2000s-bangers-akvarium-klub-1219/": {
+  "checked": "2026-11-17",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/akvariumklub/",
+   "instagram": "https://www.instagram.com/akvariumklub/",
+   "youtube": "https://www.youtube.com/channel/UC7C1zwKSsOf1ESEnDWaVpyw"
+  }
+ },
+ "https://akvariumklub.hu/programok/gerappaaa-2000s-bangers-akvarium-klub-1228/": {
+  "checked": "2026-11-17",
   "clean": {},
   "links": {
    "facebook": "https://www.facebook.com/akvariumklub/",
@@ -1119,6 +1167,14 @@
   "links": {
    "facebook": "https://www.facebook.com/share.php",
    "instagram": "https://www.instagram.com/rtl_hr/"
+  }
+ },
+ "https://core-event.co/events/adezija-u-drito-ispod-fceb/": {
+  "checked": "2026-11-17",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/share.php",
+   "instagram": "https://www.instagram.com/yemhr/"
   }
  },
  "https://core-event.co/events/after-work-hangouts-pilot-9004/": {
@@ -2258,6 +2314,14 @@
    "instagram": "https://www.instagram.com/el_ej_ej/"
   }
  },
+ "https://core-event.co/events/timeless-2027-nye-w-valentino-kanzyani-c86d/": {
+  "checked": "2026-11-17",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/share.php",
+   "instagram": "https://www.instagram.com/crkva_rijeka/"
+  }
+ },
  "https://core-event.co/events/tomislav-goluban-i-gosti-regenerator-zabok-1500/": {
   "checked": "2026-11-16",
   "clean": {},
@@ -2272,6 +2336,16 @@
   "links": {
    "facebook": "https://www.facebook.com/share.php",
    "instagram": "https://www.instagram.com/zcuk_regenerator/"
+  }
+ },
+ "https://core-event.co/events/vhs-w-camion-bazar-7454/": {
+  "checked": "2026-11-17",
+  "clean": {
+   "instagram": "https://www.instagram.com/videohousesystem/"
+  },
+  "links": {
+   "facebook": "https://www.facebook.com/share.php",
+   "instagram": "https://www.instagram.com/videohousesystem/"
   }
  },
  "https://core-event.co/events/warhaus-21f1/": {
@@ -2532,6 +2606,11 @@
  },
  "https://flex.at/event/stvw/": {
   "checked": "2026-11-10",
+  "clean": {},
+  "links": {}
+ },
+ "https://flex.at/event/superthai/": {
+  "checked": "2026-11-17",
   "clean": {},
   "links": {}
  },
@@ -2973,6 +3052,15 @@
    "youtube": "http://www.youtube.com/user/klubmochvara"
   }
  },
+ "https://mochvara.hr/event-detail/6aeb18ef63694136b1d58ad2/": {
+  "checked": "2026-11-17",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/mochvara",
+   "instagram": "https://www.instagram.com/mochvara/",
+   "youtube": "http://www.youtube.com/user/klubmochvara"
+  }
+ },
  "https://mochvara.hr/event-detail/6af0a60f5b67d31433d22702/": {
   "checked": "2026-11-10",
   "clean": {},
@@ -3004,6 +3092,15 @@
  },
  "https://mochvara.hr/event-detail/6af5acef6f44c2a5708a838d/": {
   "checked": "2026-11-12",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/mochvara",
+   "instagram": "https://www.instagram.com/mochvara/",
+   "youtube": "http://www.youtube.com/user/klubmochvara"
+  }
+ },
+ "https://mochvara.hr/event-detail/6afb0f56322483ef651df021/": {
+  "checked": "2026-11-17",
   "clean": {},
   "links": {
    "facebook": "https://www.facebook.com/mochvara",
@@ -3427,6 +3524,15 @@
  },
  "https://www.a38.hu/en/program/tvar-rs-sheik-anorak-se": {
   "checked": "2026-11-10",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/a38.hajo",
+   "instagram": "https://www.instagram.com/a38ship/",
+   "youtube": "https://www.youtube.com/user/A38Captain"
+  }
+ },
+ "https://www.a38.hu/en/program/vavra-bence-hu": {
+  "checked": "2026-11-17",
   "clean": {},
   "links": {
    "facebook": "https://www.facebook.com/a38.hajo",
@@ -4305,6 +4411,15 @@
    "youtube": "https://www.youtube.com/user/Cankarjevdom"
   }
  },
+ "https://www.cd-cc.si/kultura/glasba/kumovi-barbarian-shop": {
+  "checked": "2026-11-17",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/cankarjev.dom.cd/",
+   "instagram": "https://www.instagram.com/cankarjevdom/",
+   "youtube": "https://www.youtube.com/user/Cankarjevdom"
+  }
+ },
  "https://www.cd-cc.si/kultura/glasba/laeticia-hormuth-sopran-eva-kokot-sopran": {
   "checked": "2026-11-10",
   "clean": {},
@@ -4316,6 +4431,15 @@
  },
  "https://www.cd-cc.si/kultura/glasba/laibach-volkswagner-re-visited": {
   "checked": "2026-11-11",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/cankarjev.dom.cd/",
+   "instagram": "https://www.instagram.com/cankarjevdom/",
+   "youtube": "https://www.youtube.com/user/Cankarjevdom"
+  }
+ },
+ "https://www.cd-cc.si/kultura/glasba/lolita-jure-pukl": {
+  "checked": "2026-11-17",
   "clean": {},
   "links": {
    "facebook": "https://www.facebook.com/cankarjev.dom.cd/",
@@ -4523,6 +4647,15 @@
  },
  "https://www.cd-cc.si/kultura/glasba/votia-reunion": {
   "checked": "2026-11-10",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/cankarjev.dom.cd/",
+   "instagram": "https://www.instagram.com/cankarjevdom/",
+   "youtube": "https://www.youtube.com/user/Cankarjevdom"
+  }
+ },
+ "https://www.cd-cc.si/kultura/glasba/zajtrk-sol-in-zemlja": {
+  "checked": "2026-11-17",
   "clean": {},
   "links": {
    "facebook": "https://www.facebook.com/cankarjev.dom.cd/",
