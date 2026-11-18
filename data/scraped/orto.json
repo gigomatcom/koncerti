@@ -1,16 +1,5 @@
 [
  {
-  "date": "2026-11-17",
-  "time": "",
-  "title": "Bands Without Borders: Elvis Jackson, the Last Supper, Blame Betty",
-  "venue": "lj-orto",
-  "genre": "",
-  "price": "25 €",
-  "url": "https://www.orto-bar.com/dogodki/koncerti/bands-without-borders-elvis-jackson-the-last-supper-blame-betty/",
-  "city": "ljubljana",
-  "source": "orto"
- },
- {
   "date": "2026-11-18",
   "time": "",
   "title": "Cherry Flavoured predstavlja prvenec AKT",
@@ -73,6 +62,17 @@
   "genre": "",
   "price": "15–18 €",
   "url": "https://www.orto-bar.com/dogodki/koncerti/ring-abba-tribute-band-4/",
+  "city": "ljubljana",
+  "source": "orto"
+ },
+ {
+  "date": "2026-11-24",
+  "time": "",
+  "title": "Kéquetz – “ZDA (1): še te mam rad” EP Release",
+  "venue": "lj-orto",
+  "genre": "",
+  "price": "7–9 €",
+  "url": "https://www.orto-bar.com/dogodki/koncerti/kequetz-zda-1-se-te-mam-rad-ep-release/",
   "city": "ljubljana",
   "source": "orto"
  }

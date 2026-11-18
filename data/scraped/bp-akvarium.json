@@ -1,16 +1,5 @@
 [
  {
-  "date": "2026-11-17",
-  "time": "",
-  "title": "Redzed",
-  "venue": "bp-akvariumklub",
-  "genre": "",
-  "price": "",
-  "url": "https://akvariumklub.hu/programok/redzed/",
-  "city": "budimpesta",
-  "source": "bp-akvarium"
- },
- {
   "date": "2026-11-18",
   "time": "",
   "title": "Mentális Egészség Konferencia a Gyermekekért",
@@ -231,6 +220,17 @@
   "source": "bp-akvarium"
  },
  {
+  "date": "2026-12-01",
+  "time": "",
+  "title": "Kormos Anett est – A nőknek nincs humora",
+  "venue": "bp-akvariumklub",
+  "genre": "",
+  "price": "",
+  "url": "https://akvariumklub.hu/programok/kormos-anett-est-a-noknek-nincs-humora-1201/",
+  "city": "budimpesta",
+  "source": "bp-akvarium"
+ },
+ {
   "date": "2026-12-04",
   "time": "",
   "title": "GAB & 4ma: Vacsora & szupé dupla lemezbemutató",
@@ -271,6 +271,17 @@
   "genre": "",
   "price": "",
   "url": "https://akvariumklub.hu/programok/iam-productions-presents-marie-vaunt/",
+  "city": "budimpesta",
+  "source": "bp-akvarium"
+ },
+ {
+  "date": "2026-12-04",
+  "time": "",
+  "title": "Next Level Pres.: Flux Pavilion, Madcore, Iityx",
+  "venue": "bp-akvariumklub",
+  "genre": "",
+  "price": "",
+  "url": "https://akvariumklub.hu/programok/next-level-pres-flux-pavilion-madcore-iityx/",
   "city": "budimpesta",
   "source": "bp-akvarium"
  },

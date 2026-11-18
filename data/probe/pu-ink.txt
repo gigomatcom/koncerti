@@ -1,13 +1,13 @@
 title: Istarsko narodno kazalište Gradsko kazalište Pula
 jsonld types: WebPage, ReadAction, BreadcrumbList, ListItem, WebSite, SearchAction, EntryPoint, PropertyValueSpecification, Organization, ImageObject
-<div class=swiper-slide> 17.11.2026. u 20:00 FOR THOSE WHO LIKE TO JUDGE vol.2 VIŠE O PROGRAMU KUPI ULAZNICU | https://www.ink.hr/repertoire/[…]/
-<div class=slide-content> 17.11.2026. u 20:00 FOR THOSE WHO LIKE TO JUDGE vol.2 VIŠE O PROGRAMU KUPI ULAZNICU | https://www.ink.hr/repertoire/[…]/
 <div class=swiper-slide> NOĆ KAZALIŠTA 16.11.2026. u 20:00 LJUDSKI GLAS VIŠE O PROGRAMU KUPI ULAZNICU | https://www.ink.hr/repertoire/ljudski-glas/
 <div class=slide-content> NOĆ KAZALIŠTA 16.11.2026. u 20:00 LJUDSKI GLAS VIŠE O PROGRAMU KUPI ULAZNICU | https://www.ink.hr/repertoire/ljudski-glas/
-<div class=performance-grid-item.anim-up> PREMIJERA 05. prosinca 2026. 18:00 h Sunčana Škrinjarić PLESNA HALJINA ŽUTOG MASLAČKA Više o predstavi | https://www.ink.hr/repertoire/plesna-haljina-zutog-maslacka/
-<div class=performance-item-schedule> 05. prosinca 2026. 18:00 h | 
+<div class=swiper-slide> PREMIJERA 5.12.2026. u 18:00 PLESNA HALJINA ŽUTOG MASLAČKA VIŠE O PROGRAMU KUPI ULAZNICU | https://www.ink.hr/repertoire/plesna-haljina-zutog-maslacka/
+<div class=slide-content> PREMIJERA 5.12.2026. u 18:00 PLESNA HALJINA ŽUTOG MASLAČKA VIŠE O PROGRAMU KUPI ULAZNICU | https://www.ink.hr/repertoire/plesna-haljina-zutog-maslacka/
 <div class=performance-grid-item.anim-up> REPRIZA 06. prosinca 2026. 18:00 h Sunčana Škrinjarić PLESNA HALJINA ŽUTOG MASLAČKA Više o predstavi | https://www.ink.hr/repertoire/plesna-haljina-zutog-maslacka/
 <div class=performance-item-schedule> 06. prosinca 2026. 18:00 h | 
 <div class=performance-grid-item.anim-up> REPRIZA 08. prosinca 2026. 13:30 h Sunčana Škrinjarić PLESNA HALJINA ŽUTOG MASLAČKA Više o predstavi | https://www.ink.hr/repertoire/plesna-haljina-zutog-maslacka/
 <div class=performance-item-schedule> 08. prosinca 2026. 13:30 h | 
+<div class=performance-grid-item.anim-up> REPRIZA 09. prosinca 2026. 18:00 h Sunčana Škrinjarić PLESNA HALJINA ŽUTOG MASLAČKA Više o predstavi | https://www.ink.hr/repertoire/plesna-haljina-zutog-maslacka/
+<div class=performance-item-schedule> 09. prosinca 2026. 18:00 h | 
 poveznice (0): 

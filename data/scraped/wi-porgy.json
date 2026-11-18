@@ -1,16 +1,5 @@
 [
  {
-  "date": "2026-11-17",
-  "time": "20:30",
-  "title": "Jeremy Pelt Quintet 'Woven' (USA/UKR)",
-  "venue": "wi-porgybess",
-  "genre": "jazz",
-  "price": "",
-  "url": "https://www.porgy.at/events/series/79/",
-  "city": "bec",
-  "source": "wi-porgy"
- },
- {
   "date": "2026-11-18",
   "time": "20:30",
   "title": "Emiliano D'Auria Brooklyn Bound (I/USA)",
@@ -695,7 +684,7 @@
  {
   "date": "2027-01-19",
   "time": "20:30",
-  "title": "FLAMMeS feat. Franz Koglmann (A)",
+  "title": "FLAMMeS feat. Franz Koglmann & Sylvie Rohrer (A)",
   "venue": "wi-porgybess",
   "genre": "jazz",
   "price": "",
@@ -750,7 +739,7 @@
  {
   "date": "2027-01-24",
   "time": "20:00",
-  "title": "Django Drom Super Group feat. Benjamin Schmid, Sandro Roy, Diknu Schneeberger, Julian Wohlmuth & Martin Heinzle (A/D) / Django Drom Hot Club feat. Special Guests: Tatiana Eva-Marie, Patrizia Ferrara, Anna Laszlo... (HU/USA/I/D/F/A)",
+  "title": "Django Drom Super Group feat. Biréli Lagrène, Benjamin Schmid, Diknu Schneeberger, Sandro Roy, Julian Wohlmuth & Martin Heinzle (A/D) / Django Drom Hot Club feat. Tatiana Eva-Marie, Patrizia Ferrara, Anna Laszlo... (HU/USA/I/D/F/A)",
   "venue": "wi-porgybess",
   "genre": "jazz",
   "price": "",
@@ -1246,6 +1235,17 @@
   "date": "2027-03-16",
   "time": "20:30",
   "title": "Barbara Bruckmüller Jazz Orchestra 'All Is Move – Erika Giovanna Klien – A Portrait' (A)",
+  "venue": "wi-porgybess",
+  "genre": "jazz",
+  "price": "",
+  "url": "https://www.porgy.at/events/series/79/",
+  "city": "bec",
+  "source": "wi-porgy"
+ },
+ {
+  "date": "2027-03-17",
+  "time": "20:30",
+  "title": "Exploding Pig (USA/A)",
   "venue": "wi-porgybess",
   "genre": "jazz",
   "price": "",

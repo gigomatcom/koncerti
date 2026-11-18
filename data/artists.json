@@ -1757,6 +1757,21 @@
   "query": "Carnifex",
   "v": 2
  },
+ "carolin kebekus": {
+  "checked": "2026-11-18",
+  "country": "DE",
+  "genre": "hiphop",
+  "links": {
+   "facebook": "https://www.facebook.com/CarolinKebekus",
+   "instagram": "https://www.instagram.com/carokebelin/",
+   "spotify": "https://open.spotify.com/artist/19ce3buu8Ipf4Og3naEB4g",
+   "web": "http://www.carolinkebekus.de/"
+  },
+  "mbid": "640e6cb9-df7b-422c-ba37-a523a9847d18",
+  "name": "Carolin Kebekus",
+  "query": "Carolin Kebekus",
+  "v": 2
+ },
  "carpenter brut": {
   "checked": "2026-11-09",
   "country": "FR",
@@ -3312,6 +3327,11 @@
  "evil invaders exhorder heathen": {
   "checked": "2026-11-10",
   "query": "Evil Invaders | Exhorder | Heathen",
+  "v": 2
+ },
+ "exploding pig": {
+  "checked": "2026-11-18",
+  "query": "Exploding Pig",
   "v": 2
  },
  "ez az a nap worship night": {
@@ -5346,6 +5366,11 @@
   "checked": "2026-11-08",
   "query": "Kensington Lima"
  },
+ "kequetz": {
+  "checked": "2026-11-18",
+  "query": "Kéquetz",
+  "v": 2
+ },
  "kevin seddiki": {
   "checked": "2026-11-09",
   "country": "FR",
@@ -5631,6 +5656,16 @@
  "konyha farewell concert": {
   "checked": "2026-11-10",
   "query": "Konyha Farewell Concert",
+  "v": 2
+ },
+ "kool": {
+  "checked": "2026-11-18",
+  "query": "Kool",
+  "v": 2
+ },
+ "kormos anett est": {
+  "checked": "2026-11-18",
+  "query": "Kormos Anett est",
   "v": 2
  },
  "korn": {
@@ -5973,6 +6008,11 @@
   "query": "Lebanon Hanover",
   "v": 2
  },
+ "legendary rock voices": {
+  "checked": "2026-11-18",
+  "query": "Legendary Rock Voices",
+  "v": 2
+ },
  "lenkke": {
   "checked": "2026-11-10",
   "country": "HU",
@@ -6297,6 +6337,11 @@
   "mbid": "e86fc1f5-d632-44b2-8aea-38f83aadffe8",
   "name": "Lorna Shore",
   "query": "Lorna Shore",
+  "v": 2
+ },
+ "los caballeros mariachi": {
+  "checked": "2026-11-18",
+  "query": "Los Caballeros mariachi",
   "v": 2
  },
  "los fastidios": {
@@ -7632,6 +7677,11 @@
   "mbid": "3df071f1-e903-4c14-82b6-86dcc59a31d4",
   "name": "Neunundneunzig",
   "query": "Neunundneunzig",
+  "v": 2
+ },
+ "next level pres": {
+  "checked": "2026-11-18",
+  "query": "Next Level Pres.",
   "v": 2
  },
  "ngz presents": {
@@ -10348,6 +10398,11 @@
   "query": "Takeshi's Cashew",
   "v": 2
  },
+ "taking the trash out": {
+  "checked": "2026-11-18",
+  "query": "Taking The Trash Out",
+  "v": 2
+ },
  "tania giannouli": {
   "checked": "2026-11-10",
   "query": "Tania Giannouli",
@@ -10623,6 +10678,11 @@
   "mbid": "2c048a8d-5e7d-45fc-9fcf-b6f43f1e5f63",
   "name": "The Dark Tenor",
   "query": "The Dark Tenor",
+  "v": 2
+ },
+ "the dark tenor heute": {
+  "checked": "2026-11-18",
+  "query": "The Dark Tenor Heute",
   "v": 2
  },
  "the darts": {
@@ -11640,6 +11700,11 @@
   "mbid": "d43ee87d-f4ab-4acb-9b02-ad4caef3a165",
   "name": "Valerija Nikolovska",
   "query": "Valerija Nikolovska",
+  "v": 2
+ },
+ "valery meladze": {
+  "checked": "2026-11-18",
+  "query": "Valery Meladze",
   "v": 2
  },
  "vanessa mai": {

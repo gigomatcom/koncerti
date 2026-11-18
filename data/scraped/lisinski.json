@@ -1,12 +1,12 @@
 [
  {
-  "date": "2026-11-17",
+  "date": "2026-11-19",
   "time": "20:00",
-  "title": "YAMATO THE DRUMMERS OF JAPAN - 人の力 - The Power of Human Strength",
+  "title": "Tomislav Bralić i Klapa Intrade – 20 Godina Zagrebačke Tradicije",
   "venue": "lisV",
-  "genre": "world",
-  "price": "rasprodano",
-  "url": "https://www.lisinski.hr/hr/dogadanja/yamato-the-drummers-of-japan-the-power-of-human-st/",
+  "genre": "trad",
+  "price": "32–59 €",
+  "url": "https://www.lisinski.hr/hr/dogadanja/tomislav-bralic-i-klapa-intrade-20-godina-zagrebac/",
   "city": "zagreb",
   "source": "lisinski"
  },
@@ -18,17 +18,6 @@
   "genre": "",
   "price": "20 €",
   "url": "https://www.lisinski.hr/hr/dogadanja/chansonfest-2026/",
-  "city": "zagreb",
-  "source": "lisinski"
- },
- {
-  "date": "2026-11-19",
-  "time": "20:00",
-  "title": "Tomislav Bralić i Klapa Intrade – 20 Godina Zagrebačke Tradicije",
-  "venue": "lisV",
-  "genre": "trad",
-  "price": "32–59 €",
-  "url": "https://www.lisinski.hr/hr/dogadanja/tomislav-bralic-i-klapa-intrade-20-godina-zagrebac/",
   "city": "zagreb",
   "source": "lisinski"
  },
@@ -82,7 +71,7 @@
   "title": "Tomislav Bralić i Klapa Intrade – 20 Godina Zagrebačke Tradicije",
   "venue": "lisV",
   "genre": "trad",
-  "price": "rasprodano",
+  "price": "32–59 €",
   "url": "https://www.lisinski.hr/hr/dogadanja/tomislav-bralic-i-klapa-intrade-20-godina-zagreb-2/",
   "city": "zagreb",
   "source": "lisinski"

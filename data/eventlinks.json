@@ -599,6 +599,15 @@
    "youtube": "https://www.youtube.com/channel/UC7C1zwKSsOf1ESEnDWaVpyw"
   }
  },
+ "https://akvariumklub.hu/programok/kormos-anett-est-a-noknek-nincs-humora-1201/": {
+  "checked": "2026-11-18",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/akvariumklub/",
+   "instagram": "https://www.instagram.com/akvariumklub/",
+   "youtube": "https://www.youtube.com/channel/UC7C1zwKSsOf1ESEnDWaVpyw"
+  }
+ },
  "https://akvariumklub.hu/programok/kozmosz-evzaro-support-zuhano-honapok-negativ-rekord/": {
   "checked": "2026-11-11",
   "clean": {
@@ -776,6 +785,15 @@
    "facebook": "https://www.facebook.com/akvariumklub/",
    "instagram": "https://www.instagram.com/akvariumklub/",
    "spotify": "https://open.spotify.com/artist/0KTP3GQtxCTbDadp9GVPWM",
+   "youtube": "https://www.youtube.com/channel/UC7C1zwKSsOf1ESEnDWaVpyw"
+  }
+ },
+ "https://akvariumklub.hu/programok/next-level-pres-flux-pavilion-madcore-iityx/": {
+  "checked": "2026-11-18",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/akvariumklub/",
+   "instagram": "https://www.instagram.com/akvariumklub/",
    "youtube": "https://www.youtube.com/channel/UC7C1zwKSsOf1ESEnDWaVpyw"
   }
  },
@@ -1767,6 +1785,16 @@
    "instagram": "https://www.instagram.com/core_event/"
   }
  },
+ "https://core-event.co/events/los-caballeros-mariachi-ae1a/": {
+  "checked": "2026-11-18",
+  "clean": {
+   "instagram": "https://www.instagram.com/czkio.susedgrad/"
+  },
+  "links": {
+   "facebook": "https://www.facebook.com/share.php",
+   "instagram": "https://www.instagram.com/czkio.susedgrad/"
+  }
+ },
  "https://core-event.co/events/los-fastidios-regenerator-zabok-76cb/": {
   "checked": "2026-11-09",
   "clean": {},
@@ -2202,6 +2230,14 @@
    "instagram": "https://www.instagram.com/no.jazz.festival/"
   }
  },
+ "https://core-event.co/events/stereo-m-cs-u-tvornici-kulture-e538": {
+  "checked": "2026-11-18",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/share.php",
+   "instagram": "https://www.instagram.com/tvornicakulture/"
+  }
+ },
  "https://core-event.co/events/stereo-m-cs-u-tvornici-kulture-e538/": {
   "checked": "2026-11-09",
   "clean": {},
@@ -2272,6 +2308,16 @@
   "links": {
    "facebook": "https://www.facebook.com/share.php",
    "instagram": "https://www.instagram.com/core_event/"
+  }
+ },
+ "https://core-event.co/events/taking-the-trash-out-porat-club-split-d5c1/": {
+  "checked": "2026-11-18",
+  "clean": {
+   "instagram": "https://www.instagram.com/taking.the.trash.out_/"
+  },
+  "links": {
+   "facebook": "https://www.facebook.com/share.php",
+   "instagram": "https://www.instagram.com/taking.the.trash.out_/"
   }
  },
  "https://core-event.co/events/the-black-wizards-u-the-beertiji-eb1d/": {
@@ -3054,6 +3100,15 @@
  },
  "https://mochvara.hr/event-detail/6aeb18ef63694136b1d58ad2/": {
   "checked": "2026-11-17",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/mochvara",
+   "instagram": "https://www.instagram.com/mochvara/",
+   "youtube": "http://www.youtube.com/user/klubmochvara"
+  }
+ },
+ "https://mochvara.hr/event-detail/6aeb190663694136b1d5ad87/": {
+  "checked": "2026-11-18",
   "clean": {},
   "links": {
    "facebook": "https://www.facebook.com/mochvara",
@@ -6931,6 +6986,14 @@
    "instagram": "https://www.instagram.com/orto_bar_slovenija/"
   }
  },
+ "https://www.orto-bar.com/dogodki/koncerti/kequetz-zda-1-se-te-mam-rad-ep-release/": {
+  "checked": "2026-11-18",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/noplacelikeorto",
+   "instagram": "https://www.instagram.com/orto_bar_slovenija/"
+  }
+ },
  "https://www.orto-bar.com/dogodki/koncerti/lizberries-the-cranberries-tribute-band/": {
   "checked": "2026-11-10",
   "clean": {},
@@ -8016,6 +8079,26 @@
   "clean": {},
   "links": {}
  },
+ "https://www.stadthalle.com/de/events/alle-events/51618/Carolin-Kebekus": {
+  "checked": "2026-11-18",
+  "clean": {},
+  "links": {}
+ },
+ "https://www.stadthalle.com/de/events/alle-events/51622/Kool-amp-The-Gang": {
+  "checked": "2026-11-18",
+  "clean": {},
+  "links": {}
+ },
+ "https://www.stadthalle.com/de/events/alle-events/51625/Valery-Meladze": {
+  "checked": "2026-11-18",
+  "clean": {},
+  "links": {}
+ },
+ "https://www.stadthalle.com/de/events/alle-events/51627/Legendary-Rock-Voices": {
+  "checked": "2026-11-18",
+  "clean": {},
+  "links": {}
+ },
  "https://www.tvornicakulture.com/2026/10/the-rasmus-u-tvornici-kulture/": {
   "checked": "2026-11-11",
   "clean": {
@@ -8056,6 +8139,14 @@
  },
  "https://www.wuk.at/programm/cassia/": {
   "checked": "2026-11-10",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/wukvienna/",
+   "instagram": "http://instagram.com/wukvienna"
+  }
+ },
+ "https://www.wuk.at/programm/cordoba78/": {
+  "checked": "2026-11-18",
   "clean": {},
   "links": {
    "facebook": "https://www.facebook.com/wukvienna/",

@@ -1,16 +1,5 @@
 [
  {
-  "date": "2026-11-17",
-  "time": "19:00",
-  "title": "Marten//sold out!!",
-  "venue": "wi-flex",
-  "genre": "",
-  "price": "",
-  "url": "https://flex.at/event/marten/",
-  "city": "bec",
-  "source": "wi-flex"
- },
- {
   "date": "2026-11-19",
   "time": "19:00",
   "title": "The Chameleons",
@@ -183,17 +172,6 @@
   "genre": "",
   "price": "",
   "url": "https://flex.at/event/kid-kapichi/",
-  "city": "bec",
-  "source": "wi-flex"
- },
- {
-  "date": "2026-12-02",
-  "time": "19:00",
-  "title": "Little Miss Nasty",
-  "venue": "wi-flex",
-  "genre": "",
-  "price": "",
-  "url": "https://flex.at/event/8409/",
   "city": "bec",
   "source": "wi-flex"
  },

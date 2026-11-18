@@ -2,7 +2,7 @@
  {
   "date": "2026-11-18",
   "time": "",
-  "title": "The Dark Tenor",
+  "title": "The Dark Tenor Heute",
   "venue": "wi-stadthalle",
   "genre": "",
   "price": "",
@@ -429,6 +429,17 @@
   "source": "wi-stadthalle"
  },
  {
+  "date": "2027-01-23",
+  "time": "",
+  "title": "Legendary Rock Voices",
+  "venue": "wi-stadthalle",
+  "genre": "",
+  "price": "",
+  "url": "https://www.stadthalle.com/de/events/alle-events/51627/Legendary-Rock-Voices",
+  "city": "bec",
+  "source": "wi-stadthalle"
+ },
+ {
   "date": "2027-01-24",
   "time": "",
   "title": "Annis wilde Tierabenteuer",
@@ -788,6 +799,17 @@
   "genre": "",
   "price": "",
   "url": "https://www.stadthalle.com/de/events/alle-events/51510/Jesus-Christ-Superstar",
+  "city": "bec",
+  "source": "wi-stadthalle"
+ },
+ {
+  "date": "2027-04-02",
+  "time": "",
+  "title": "Kool & The Gang",
+  "venue": "wi-stadthalle",
+  "genre": "",
+  "price": "",
+  "url": "https://www.stadthalle.com/de/events/alle-events/51622/Kool-amp-The-Gang",
   "city": "bec",
   "source": "wi-stadthalle"
  },
@@ -1221,6 +1243,17 @@
   "source": "wi-stadthalle"
  },
  {
+  "date": "2027-10-09",
+  "time": "",
+  "title": "Valery Meladze",
+  "venue": "wi-stadthalle",
+  "genre": "",
+  "price": "",
+  "url": "https://www.stadthalle.com/de/events/alle-events/51625/Valery-Meladze",
+  "city": "bec",
+  "source": "wi-stadthalle"
+ },
+ {
   "date": "2027-10-10",
   "time": "",
   "title": "Louis Philippson",
@@ -1514,6 +1547,17 @@
   "genre": "",
   "price": "",
   "url": "https://www.stadthalle.com/de/events/alle-events/51530/Der-kleine-Prinz",
+  "city": "bec",
+  "source": "wi-stadthalle"
+ },
+ {
+  "date": "2026-11-22",
+  "time": "14:00",
+  "title": "Carolin Kebekus",
+  "venue": "wi-stadthalle",
+  "genre": "",
+  "price": "",
+  "url": "https://www.stadthalle.com/de/events/alle-events/51618/Carolin-Kebekus",
   "city": "bec",
   "source": "wi-stadthalle"
  },

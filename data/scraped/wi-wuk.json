@@ -1,16 +1,5 @@
 [
  {
-  "date": "2026-11-17",
-  "time": "20:00",
-  "title": "Cassia",
-  "venue": "wi-werkstattenkulturhau",
-  "genre": "",
-  "price": "",
-  "url": "https://www.wuk.at/programm/cassia/",
-  "city": "bec",
-  "source": "wi-wuk"
- },
- {
   "date": "2026-11-18",
   "time": "20:00",
   "title": "Kytes",
@@ -62,6 +51,17 @@
   "genre": "",
   "price": "",
   "url": "https://www.wuk.at/programm/austrofred-und-kurt-razelli-2026/",
+  "city": "bec",
+  "source": "wi-wuk"
+ },
+ {
+  "date": "2026-11-25",
+  "time": "20:00",
+  "title": "Cordoba78",
+  "venue": "wi-werkstattenkulturhau",
+  "genre": "",
+  "price": "",
+  "url": "https://www.wuk.at/programm/cordoba78/",
   "city": "bec",
   "source": "wi-wuk"
  }

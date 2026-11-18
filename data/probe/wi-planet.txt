@@ -1,17 +1,5 @@
 title: Planet Music & Media
 jsonld types: ImageObject, ImageObject, WebSite, SearchAction, ImageObject, WebPage, Person, ImageObject, Article
-<div class=pl-card> Di., 17. November 2026 Di., 17. November 2026 EUROPEAN TOUR 2026 Beginn: 19:30 Uhr Vorverkauf: 37,99 € ALLT EUROPEAN TOUR 2026 Beginn: 19:30 Uhr Vorverkauf: 37,99 € | 
-<div class=pl-card-front.pl-pointer> Di., 17. November 2026 Di., 17. November 2026 EUROPEAN TOUR 2026 Beginn: 19:30 Uhr Vorverkauf: 37,99 € ALLT | 
-<div class=pl-date> Di., 17. November 2026 | 
-<div class=pl-thumbnail> Di., 17. November 2026 EUROPEAN TOUR 2026 Beginn: 19:30 Uhr Vorverkauf: 37,99 € | 
-<div class=pl-thumb-desc> Di., 17. November 2026 EUROPEAN TOUR 2026 Beginn: 19:30 Uhr Vorverkauf: 37,99 € | 
-<div class=pl-date> Di., 17. November 2026 | 
-<div class=pl-card> Di., 17. November 2026 Di., 17. November 2026 Verschoben Clarity of Mind Beginn: 20:00 Uhr OMAH LAY Verschoben Clarity of Mind Beginn: 20:00 Uhr | 
-<div class=pl-card-front.pl-pointer> Di., 17. November 2026 Di., 17. November 2026 Verschoben Clarity of Mind Beginn: 20:00 Uhr OMAH LAY | 
-<div class=pl-date> Di., 17. November 2026 | 
-<div class=pl-thumbnail> Di., 17. November 2026 Verschoben Clarity of Mind Beginn: 20:00 Uhr | 
-<div class=pl-thumb-desc> Di., 17. November 2026 Verschoben Clarity of Mind Beginn: 20:00 Uhr | 
-<div class=pl-date> Di., 17. November 2026 | 
 <div class=pl-card> Mi., 18. November 2026 Mi., 18. November 2026 NESHASTNY SLUCHAY Beginn: 20:00 Uhr ALEXEY KORTNEV & DMITRY CHUVELEV NESHASTNY SLUCHAY Beginn: 20:00 Uhr | 
 <div class=pl-card-front.pl-pointer> Mi., 18. November 2026 Mi., 18. November 2026 NESHASTNY SLUCHAY Beginn: 20:00 Uhr ALEXEY KORTNEV & DMITRY CHUVELEV | 
 <div class=pl-date> Mi., 18. November 2026 | 
@@ -29,5 +17,17 @@ jsonld types: ImageObject, ImageObject, WebSite, SearchAction, ImageObject, WebP
 <div class=pl-date> Do., 19. November 2026 | 
 <div class=pl-thumbnail> Do., 19. November 2026 Ausverkauft Tour 2026 Beginn: 20:00 Uhr | 
 <div class=pl-thumb-desc> Do., 19. November 2026 Ausverkauft Tour 2026 Beginn: 20:00 Uhr | 
+<div class=pl-date> Do., 19. November 2026 | 
+<div class=pl-card> Do., 19. November 2026 Do., 19. November 2026 Beginn: 20:00 Uhr Vorverkauf: 128,50 € DIANA ARBENINA & NIGHT SNIPERS Beginn: 20:00 Uhr Vorverkauf: 128,50 € | 
+<div class=pl-card-front.pl-pointer> Do., 19. November 2026 Do., 19. November 2026 Beginn: 20:00 Uhr Vorverkauf: 128,50 € DIANA ARBENINA & NIGHT SNIPERS | 
+<div class=pl-date> Do., 19. November 2026 | 
+<div class=pl-thumbnail> Do., 19. November 2026 Beginn: 20:00 Uhr Vorverkauf: 128,50 € | 
+<div class=pl-thumb-desc> Do., 19. November 2026 Beginn: 20:00 Uhr Vorverkauf: 128,50 € | 
+<div class=pl-date> Do., 19. November 2026 | 
+<div class=pl-card> Do., 19. November 2026 Do., 19. November 2026 Verlegt Beginn: 20:00 Uhr THE CHAMELEONS Verlegt Beginn: 20:00 Uhr | 
+<div class=pl-card-front.pl-pointer> Do., 19. November 2026 Do., 19. November 2026 Verlegt Beginn: 20:00 Uhr THE CHAMELEONS | 
+<div class=pl-date> Do., 19. November 2026 | 
+<div class=pl-thumbnail> Do., 19. November 2026 Verlegt Beginn: 20:00 Uhr | 
+<div class=pl-thumb-desc> Do., 19. November 2026 Verlegt Beginn: 20:00 Uhr | 
 <div class=pl-date> Do., 19. November 2026 | 
 poveznice (0): 

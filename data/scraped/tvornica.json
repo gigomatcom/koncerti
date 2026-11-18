@@ -11,17 +11,6 @@
   "source": "tvornica"
  },
  {
-  "date": "2026-11-17",
-  "time": "21:00",
-  "title": "SUEDE – YAMMATOVO 6 fueled by Cockta",
-  "venue": "tvornica",
-  "genre": "",
-  "price": "",
-  "url": "https://core-event.co/events/suede-yammatov-6-fueled-by-cockta-78e5",
-  "city": "zagreb",
-  "source": "tvornica"
- },
- {
   "date": "2026-11-18",
   "time": "20:00",
   "title": "The Darts",
@@ -154,17 +143,6 @@
   "source": "tvornica"
  },
  {
-  "date": "2026-11-21",
-  "time": "20:00",
-  "title": "Jura Stublić & Film",
-  "venue": "tvornica",
-  "genre": "",
-  "price": "",
-  "url": "https://core-event.co/events/jura-stublic-film-u-tvornici-kulture-5f2c",
-  "city": "zagreb",
-  "source": "tvornica"
- },
- {
   "date": "2026-12-27",
   "time": "21:00",
   "title": "Studio 54 by Tomo Ricov",
@@ -172,6 +150,17 @@
   "genre": "",
   "price": "",
   "url": "https://core-event.co/events/studio-54-by-tomo-ricov-af98",
+  "city": "zagreb",
+  "source": "tvornica"
+ },
+ {
+  "date": "2026-11-21",
+  "time": "20:00",
+  "title": "Jura Stublić & Film",
+  "venue": "tvornica",
+  "genre": "",
+  "price": "",
+  "url": "https://core-event.co/events/jura-stublic-film-u-tvornici-kulture-5f2c",
   "city": "zagreb",
   "source": "tvornica"
  },
@@ -337,6 +326,17 @@
   "genre": "",
   "price": "",
   "url": "https://core-event.co/events/jasna-zlokic-zagreb-tvornica-kulture-9903",
+  "city": "zagreb",
+  "source": "tvornica"
+ },
+ {
+  "date": "2027-10-22",
+  "time": "20:00",
+  "title": "Stereo Mc's",
+  "venue": "tvornica",
+  "genre": "",
+  "price": "",
+  "url": "https://core-event.co/events/stereo-m-cs-u-tvornici-kulture-e538",
   "city": "zagreb",
   "source": "tvornica"
  }

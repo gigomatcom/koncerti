@@ -1,53 +1,5 @@
 [
  {
-  "date": "2026-11-17",
-  "time": "20:00",
-  "title": "Koncert orkestra \"Greenhill Club big band\": Chiaroscuro",
-  "venue": "",
-  "genre": "",
-  "price": "",
-  "url": "https://core-event.co/events/koncert-orkestra-greenhill-club-big-band-chiaroscuro-39fe/",
-  "city": "zagreb",
-  "venue_name": "Velika dvorana",
-  "source": "coreevent"
- },
- {
-  "date": "2026-11-17",
-  "time": "",
-  "title": "SUEDE - YAMMATOVO 6 fueled by Cockta",
-  "venue": "tvornica",
-  "genre": "",
-  "price": "",
-  "url": "https://core-event.co/events/suede-yammatov-6-fueled-by-cockta-78e5/",
-  "city": "zagreb",
-  "venue_name": "TVORNICA KULTURE",
-  "source": "coreevent"
- },
- {
-  "date": "2026-11-17",
-  "time": "20:00",
-  "title": "Valerija Nikolovska - Green Heart",
-  "venue": "",
-  "genre": "",
-  "price": "",
-  "url": "https://core-event.co/events/valerija-nikolovska-green-heart-regenerator-zabok-bc39/",
-  "city": "zabok",
-  "venue_name": "Regenerator",
-  "source": "coreevent"
- },
- {
-  "date": "2026-11-17",
-  "time": "20:30",
-  "title": "Iza ugla, uho svijeta: IGOR BOŽANIĆ",
-  "venue": "",
-  "genre": "",
-  "price": "",
-  "url": "https://core-event.co/events/iza-ugla-uho-svijeta-igor-bozanic-8116/",
-  "city": "zagreb",
-  "venue_name": "Scena Ribnjak – velika dvorana",
-  "source": "coreevent"
- },
- {
   "date": "2026-11-18",
   "time": "20:00",
   "title": "The Darts",
@@ -601,6 +553,18 @@
  },
  {
   "date": "2026-12-05",
+  "time": "19:30",
+  "title": "Los Caballeros mariachi",
+  "venue": "",
+  "genre": "",
+  "price": "",
+  "url": "https://core-event.co/events/los-caballeros-mariachi-ae1a/",
+  "city": "zagreb",
+  "venue_name": "Centar za kulturu Susedgrad",
+  "source": "coreevent"
+ },
+ {
+  "date": "2026-12-05",
   "time": "",
   "title": "Shtosmo u Tvornici",
   "venue": "tvornica",
@@ -693,6 +657,18 @@
   "url": "https://core-event.co/events/incident-13da/",
   "city": "zagreb",
   "venue_name": "Katran",
+  "source": "coreevent"
+ },
+ {
+  "date": "2026-12-11",
+  "time": "",
+  "title": "Taking The Trash Out",
+  "venue": "",
+  "genre": "",
+  "price": "",
+  "url": "https://core-event.co/events/taking-the-trash-out-porat-club-split-d5c1/",
+  "city": "split",
+  "venue_name": "Porat Club Split",
   "source": "coreevent"
  },
  {

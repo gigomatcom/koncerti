@@ -1,16 +1,5 @@
 [
  {
-  "date": "2026-11-17",
-  "time": "20:30",
-  "title": "Search Eternal, Pasja Kola, Voltage",
-  "venue": "mocvara",
-  "genre": "",
-  "price": "",
-  "url": "https://mochvara.hr/event-detail/6accf83f5e5f72dd4ba8a6ac/",
-  "city": "zagreb",
-  "source": "mocvara"
- },
- {
   "date": "2026-11-19",
   "time": "21:00",
   "title": "onkraj / SUUTOO presents STARFIRE, Ribeiroia, kaleido",
@@ -106,6 +95,17 @@
   "genre": "",
   "price": "",
   "url": "https://mochvara.hr/event-detail/6aeb18ef63694136b1d58ad2/",
+  "city": "zagreb",
+  "source": "mocvara"
+ },
+ {
+  "date": "2026-11-28",
+  "time": "22:00",
+  "title": "SRCE Super sedmica, drugi dan",
+  "venue": "mocvara",
+  "genre": "",
+  "price": "",
+  "url": "https://mochvara.hr/event-detail/6aeb190663694136b1d5ad87/",
   "city": "zagreb",
   "source": "mocvara"
  },
