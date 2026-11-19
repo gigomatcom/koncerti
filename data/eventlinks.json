@@ -221,6 +221,15 @@
    "youtube": "https://www.youtube.com/channel/UC7C1zwKSsOf1ESEnDWaVpyw"
   }
  },
+ "https://akvariumklub.hu/programok/elektroakusztikus-hangutazas-4/": {
+  "checked": "2026-11-19",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/akvariumklub/",
+   "instagram": "https://www.instagram.com/akvariumklub/",
+   "youtube": "https://www.youtube.com/channel/UC7C1zwKSsOf1ESEnDWaVpyw"
+  }
+ },
  "https://akvariumklub.hu/programok/ember-mark-szulinapi-nagykoncert/": {
   "checked": "2026-11-11",
   "clean": {
@@ -1319,6 +1328,14 @@
    "instagram": "https://www.instagram.com/core_event/"
   }
  },
+ "https://core-event.co/events/buc-kesidi-u-vintage-u-9ab4/": {
+  "checked": "2026-11-19",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/share.php",
+   "instagram": "https://www.instagram.com/el_ej_ej/"
+  }
+ },
  "https://core-event.co/events/buzzcocks-u-tvornici-kulture-5a29": {
   "checked": "2026-11-10",
   "clean": {},
@@ -1819,6 +1836,14 @@
    "instagram": "https://www.instagram.com/core_event/"
   }
  },
+ "https://core-event.co/events/luzeri-u-tvornici-kulture-2bf1": {
+  "checked": "2026-11-19",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/share.php",
+   "instagram": "https://www.instagram.com/yemhr/"
+  }
+ },
  "https://core-event.co/events/martinje-uz-gustafe-69bd/": {
   "checked": "2026-11-09",
   "clean": {},
@@ -1955,6 +1980,14 @@
   "links": {
    "facebook": "https://www.facebook.com/share.php",
    "instagram": "https://www.instagram.com/no.jazz.festival/"
+  }
+ },
+ "https://core-event.co/events/osees-u-tvornici-kulture-18d1": {
+  "checked": "2026-11-19",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/share.php",
+   "instagram": "https://www.instagram.com/tvornicakulture/"
   }
  },
  "https://core-event.co/events/party-cannon-x-internal-bleeding-u-zagrebu-4e05/": {
@@ -3442,6 +3475,15 @@
    "youtube": "https://www.youtube.com/user/A38Captain"
   }
  },
+ "https://www.a38.hu/en/program/nagy-emma-quintet": {
+  "checked": "2026-11-19",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/a38.hajo",
+   "instagram": "https://www.instagram.com/a38ship/",
+   "youtube": "https://www.youtube.com/user/A38Captain"
+  }
+ },
  "https://www.a38.hu/en/program/peterfy-bori-love-band-hu-31500": {
   "checked": "2026-11-11",
   "clean": {},
@@ -3597,6 +3639,15 @@
  },
  "https://www.a38.hu/en/program/zanzibar-hu-30575": {
   "checked": "2026-11-10",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/a38.hajo",
+   "instagram": "https://www.instagram.com/a38ship/",
+   "youtube": "https://www.youtube.com/user/A38Captain"
+  }
+ },
+ "https://www.a38.hu/en/program/zuboly-hu-32383": {
+  "checked": "2026-11-19",
   "clean": {},
   "links": {
    "facebook": "https://www.facebook.com/a38.hajo",
@@ -5166,6 +5217,30 @@
  },
  "https://www.hnk.hr/hr/opera/predstave/saloma/#12.02.19.30": {
   "checked": "2026-11-12",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/hnk.hr/",
+   "instagram": "https://www.instagram.com/hrvatskonarodnokazalistezagreb/"
+  }
+ },
+ "https://www.hnk.hr/hr/opera/predstave/saloma/#13.02.18.00": {
+  "checked": "2026-11-19",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/hnk.hr/",
+   "instagram": "https://www.instagram.com/hrvatskonarodnokazalistezagreb/"
+  }
+ },
+ "https://www.hnk.hr/hr/opera/predstave/vještica-hillary-i-uvrijeđeni-kontrabas/#19.12.10.00": {
+  "checked": "2026-11-19",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/hnk.hr/",
+   "instagram": "https://www.instagram.com/hrvatskonarodnokazalistezagreb/"
+  }
+ },
+ "https://www.hnk.hr/hr/opera/predstave/vještica-hillary-i-uvrijeđeni-kontrabas/#26.02.11.00": {
+  "checked": "2026-11-19",
   "clean": {},
   "links": {
    "facebook": "https://www.facebook.com/hnk.hr/",
@@ -6986,6 +7061,14 @@
    "instagram": "https://www.instagram.com/orto_bar_slovenija/"
   }
  },
+ "https://www.orto-bar.com/dogodki/koncerti/horizontal-zebra-2brothers-the-others/": {
+  "checked": "2026-11-19",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/noplacelikeorto",
+   "instagram": "https://www.instagram.com/orto_bar_slovenija/"
+  }
+ },
  "https://www.orto-bar.com/dogodki/koncerti/kequetz-zda-1-se-te-mam-rad-ep-release/": {
   "checked": "2026-11-18",
   "clean": {},
@@ -8139,6 +8222,14 @@
  },
  "https://www.wuk.at/programm/cassia/": {
   "checked": "2026-11-10",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/wukvienna/",
+   "instagram": "http://instagram.com/wukvienna"
+  }
+ },
+ "https://www.wuk.at/programm/chapo102/": {
+  "checked": "2026-11-19",
   "clean": {},
   "links": {
    "facebook": "https://www.facebook.com/wukvienna/",

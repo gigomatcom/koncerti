@@ -1,9 +1,5 @@
 title: Barba Negra
 jsonld types: 
-<article class=event-card> 18 NOV SZER Red Stage LITTLE BIG Kapunyitás: 18:30 Csak online Részletek | /program/little-big_20261118
-<div class=body> 18 NOV SZER Red Stage LITTLE BIG Kapunyitás: 18:30 Csak online Részletek | /program/little-big_20261118
-<div class=top-row> 18 NOV SZER Red Stage | 
-<div class=date-stamp> 18 NOV SZER | 
 <article class=event-card> 19 NOV CSÜT Red Stage CARPENTER BRUT - HEALTH Csak online Részletek | /program/carpenter-brut_health_20261119
 <div class=body> 19 NOV CSÜT Red Stage CARPENTER BRUT - HEALTH Csak online Részletek | /program/carpenter-brut_health_20261119
 <div class=top-row> 19 NOV CSÜT Red Stage | 
@@ -20,10 +16,6 @@ jsonld types:
 <div class=body> 22 NOV VAS Red Stage ELUVEITIE Kapunyitás: 18:30 Elérhető Részletek | /program/eluveitie_20261122
 <div class=top-row> 22 NOV VAS Red Stage | 
 <div class=date-stamp> 22 NOV VAS | 
-<article class=event-card> 27 NOV PÉN Red Stage KOVACS - ÉLŐ NAGYKONCERT Csak online Részletek | /program/kovacs_20261127
-<div class=body> 27 NOV PÉN Red Stage KOVACS - ÉLŐ NAGYKONCERT Csak online Részletek | /program/kovacs_20261127
-<div class=top-row> 27 NOV PÉN Red Stage | 
-<div class=date-stamp> 27 NOV PÉN | 
 <article class=event-card> 28 NOV SZO Blue Stage THE OCEAN | Psychonaut | The Devil’s Trade Kapunyitás: 18:30 Csak online Részletek | /program/theocean-budapest_2026
 <div class=body> 28 NOV SZO Blue Stage THE OCEAN | Psychonaut | The Devil’s Trade Kapunyitás: 18:30 Csak online Részletek | /program/theocean-budapest_2026
 <div class=top-row> 28 NOV SZO Blue Stage | 
@@ -60,4 +52,12 @@ jsonld types:
 <div class=body> 11 DEC PÉN Blue Stage ALJAS KÚSZÓBAB - EPIZÓD VIII. Kapunyitás: 18:00 Csak online Részletek | /program/aljas-kuszobab_20261211
 <div class=top-row> 11 DEC PÉN Blue Stage | 
 <div class=date-stamp> 11 DEC PÉN | 
-poveznice (59): /program/accept_20261206 /program/aljas-kuszobab_20261211 /program/amorphis_20270127 /program/avatar_20261205 /program/bikini_20261218 /program/black-veil-brides_20270206 /program/carpenter-brut_health_20261119 /program/[…] /program/depresszio-budapest_20261219 /program/dominum_20261201 /program/dragonforce_20270427 /program/edda-muvek_20261204 /program/eluveitie_20261122 /program/[…] /program/hauber-x-bonanza_20270410 /program/hollywood-undead_20270203 /program/imminence_20270125 /program/iron-maidnem_20270130 /program/ismeros-arcok_20270123 /program/kalap-jakab-60_20270620 /program/kanonenfieber_20271211 /program/karpatia_20261128 /program/kovacs_20261127 /program/[…] /program/lamb-of-god_20270131
+<article class=event-card> 12 DEC SZO Red Stage TANKCSAPDA Kapunyitás: 18:30 Elérhető Részletek | /program/tankcsapda_20261212
+<div class=body> 12 DEC SZO Red Stage TANKCSAPDA Kapunyitás: 18:30 Elérhető Részletek | /program/tankcsapda_20261212
+<div class=top-row> 12 DEC SZO Red Stage | 
+<div class=date-stamp> 12 DEC SZO | 
+<article class=event-card> 15 DEC KEDD Blue Stage TÝR Kapunyitás: 18:00 Elérhető Részletek | /program/tyr_20261215
+<div class=body> 15 DEC KEDD Blue Stage TÝR Kapunyitás: 18:00 Elérhető Részletek | /program/tyr_20261215
+<div class=top-row> 15 DEC KEDD Blue Stage | 
+<div class=date-stamp> 15 DEC KEDD | 
+poveznice (57): /program/accept_20261206 /program/aljas-kuszobab_20261211 /program/amorphis_20270127 /program/avatar_20261205 /program/bikini_20261218 /program/black-veil-brides_20270206 /program/carpenter-brut_health_20261119 /program/[…] /program/depresszio-budapest_20261219 /program/dominum_20261201 /program/dragonforce_20270427 /program/edda-muvek_20261204 /program/eluveitie_20261122 /program/[…] /program/hauber-x-bonanza_20270410 /program/hollywood-undead_20270203 /program/imminence_20270125 /program/iron-maidnem_20270130 /program/ismeros-arcok_20270123 /program/kalap-jakab-60_20270620 /program/kanonenfieber_20271211 /program/karpatia_20261128 /program/[…] /program/lamb-of-god_20270131 /program/lorna-shore_20270614

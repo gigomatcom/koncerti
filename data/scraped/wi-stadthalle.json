@@ -1,27 +1,5 @@
 [
  {
-  "date": "2026-11-18",
-  "time": "",
-  "title": "The Dark Tenor Heute",
-  "venue": "wi-stadthalle",
-  "genre": "",
-  "price": "",
-  "url": "https://www.stadthalle.com/de/events/alle-events/51218/The-Dark-Tenor",
-  "city": "bec",
-  "source": "wi-stadthalle"
- },
- {
-  "date": "2026-11-18",
-  "time": "",
-  "title": "Pitbull",
-  "venue": "wi-stadthalle",
-  "genre": "",
-  "price": "",
-  "url": "https://www.stadthalle.com/de/events/alle-events/51308/Pitbull",
-  "city": "bec",
-  "source": "wi-stadthalle"
- },
- {
   "date": "2026-11-19",
   "time": "",
   "title": "KoRn",
@@ -200,7 +178,7 @@
  {
   "date": "2026-12-05",
   "time": "",
-  "title": "Die Schlagernacht des Jahres 2026",
+  "title": "Die Schlagernacht des Jahres 2026 BLACK WEEK",
   "venue": "wi-stadthalle",
   "genre": "",
   "price": "",
@@ -211,7 +189,7 @@
  {
   "date": "2026-12-07",
   "time": "",
-  "title": "Let's Dance",
+  "title": "Let's Dance BLACK WEEK",
   "venue": "wi-stadthalle",
   "genre": "",
   "price": "",
@@ -299,7 +277,7 @@
  {
   "date": "2026-12-22",
   "time": "",
-  "title": "Lords of the Sound - Magic Symphony",
+  "title": "Lords of the Sound - Magic Symphony BLACK WEEK",
   "venue": "wi-stadthalle",
   "genre": "",
   "price": "",
@@ -332,7 +310,7 @@
  {
   "date": "2027-01-01",
   "time": "",
-  "title": "The Magic of Hans Zimmer - The Concert",
+  "title": "The Magic of Hans Zimmer - The Concert BLACK WEEK",
   "venue": "wi-stadthalle",
   "genre": "",
   "price": "",
@@ -343,7 +321,7 @@
  {
   "date": "2027-01-02",
   "time": "",
-  "title": "The Music of Star Wars",
+  "title": "The Music of Star Wars BLACK WEEK",
   "venue": "wi-stadthalle",
   "genre": "",
   "price": "",
@@ -453,7 +431,7 @@
  {
   "date": "2027-01-28",
   "time": "",
-  "title": "Falco Meets Amadeus",
+  "title": "Falco Meets Amadeus Black Week",
   "venue": "wi-stadthalle",
   "genre": "",
   "price": "",
@@ -475,7 +453,7 @@
  {
   "date": "2027-02-08",
   "time": "",
-  "title": "Schwanensee - Royal Classical Ballet",
+  "title": "Schwanensee - Royal Classical Ballet BLACK WEEK",
   "venue": "wi-stadthalle",
   "genre": "",
   "price": "",
@@ -497,7 +475,7 @@
  {
   "date": "2027-02-10",
   "time": "",
-  "title": "The Best of Ennio Morricone",
+  "title": "The Best of Ennio Morricone BLACK WEEK",
   "venue": "wi-stadthalle",
   "genre": "",
   "price": "",
@@ -508,7 +486,7 @@
  {
   "date": "2027-02-11",
   "time": "",
-  "title": "Der Herr der Ringe & Der Hobbit – Das Konzert",
+  "title": "Der Herr der Ringe & Der Hobbit – Das Konzert BLACK WEEK",
   "venue": "wi-stadthalle",
   "genre": "",
   "price": "",
@@ -563,7 +541,7 @@
  {
   "date": "2027-02-24",
   "time": "",
-  "title": "One Vision of Queen",
+  "title": "One Vision of Queen BLACK WEEK",
   "venue": "wi-stadthalle",
   "genre": "",
   "price": "",
@@ -640,7 +618,7 @@
  {
   "date": "2027-03-12",
   "time": "",
-  "title": "Masters of Dirt",
+  "title": "Masters of Dirt BLACK WEEK",
   "venue": "wi-stadthalle",
   "genre": "",
   "price": "",
@@ -761,7 +739,7 @@
  {
   "date": "2027-03-25",
   "time": "",
-  "title": "I am from Austria",
+  "title": "I am from Austria BLACK WEEK",
   "venue": "wi-stadthalle",
   "genre": "",
   "price": "",
@@ -783,7 +761,7 @@
  {
   "date": "2027-03-29",
   "time": "",
-  "title": "Die Eiskönigin 1&2",
+  "title": "Die Eiskönigin 1&2 BLACK WEEK",
   "venue": "wi-stadthalle",
   "genre": "",
   "price": "",
@@ -827,7 +805,7 @@
  {
   "date": "2027-04-06",
   "time": "",
-  "title": "The 12 Tenors",
+  "title": "The 12 Tenors Black Week",
   "venue": "wi-stadthalle",
   "genre": "",
   "price": "",
@@ -1080,7 +1058,7 @@
  {
   "date": "2027-06-10",
   "time": "",
-  "title": "Rocket Man",
+  "title": "Rocket Man BLACK WEEK",
   "venue": "wi-stadthalle",
   "genre": "",
   "price": "",
@@ -1155,9 +1133,9 @@
   "source": "wi-stadthalle"
  },
  {
-  "date": "2026-11-19",
+  "date": "2026-11-20",
   "time": "10:00",
-  "title": "KPop Demon Hunters 11.09.2027–12.09.2027 Halle D VVK Start: 19.11.2026, 10:00 Uhr",
+  "title": "KPop Demon Hunters 11.09.2027–12.09.2027 Halle D Allgemeiner VVK Start: 20.11.2026, 10:00 Uhr",
   "venue": "wi-stadthalle",
   "genre": "",
   "price": "",
@@ -1432,7 +1410,7 @@
  {
   "date": "2027-11-21",
   "time": "",
-  "title": "Loriot",
+  "title": "Loriot Black Week",
   "venue": "wi-stadthalle",
   "genre": "",
   "price": "",

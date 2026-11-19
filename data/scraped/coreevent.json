@@ -1,17 +1,5 @@
 [
  {
-  "date": "2026-11-18",
-  "time": "20:00",
-  "title": "The Darts",
-  "venue": "tvornica",
-  "genre": "",
-  "price": "",
-  "url": "https://core-event.co/events/the-darts-u-tvornici-kulture-577d/",
-  "city": "zagreb",
-  "venue_name": "Tvornica Kulture",
-  "source": "coreevent"
- },
- {
   "date": "2026-11-19",
   "time": "20:00",
   "title": "RING - ABBA tribute",
@@ -649,6 +637,18 @@
  },
  {
   "date": "2026-12-11",
+  "time": "21:00",
+  "title": "Buč Kesidi u Vintage-u!",
+  "venue": "vintage",
+  "genre": "",
+  "price": "",
+  "url": "https://core-event.co/events/buc-kesidi-u-vintage-u-9ab4/",
+  "city": "zagreb",
+  "venue_name": "Vintage Industrial Bar",
+  "source": "coreevent"
+ },
+ {
+  "date": "2026-12-11",
   "time": "",
   "title": "Incident",
   "venue": "",
@@ -1032,6 +1032,18 @@
   "source": "coreevent"
  },
  {
+  "date": "2027-02-12",
+  "time": "",
+  "title": "Luzeri",
+  "venue": "tvornica",
+  "genre": "",
+  "price": "",
+  "url": "https://core-event.co/events/luzeri-u-tvornici-kulture-2bf1/",
+  "city": "zagreb",
+  "venue_name": "Tvornica kulture",
+  "source": "coreevent"
+ },
+ {
   "date": "2027-02-19",
   "time": "20:00",
   "title": "My New Band Believe",
@@ -1231,6 +1243,18 @@
   "genre": "",
   "price": "",
   "url": "https://core-event.co/events/kim-wilde-u-tvornici-kulture-30a4/",
+  "city": "zagreb",
+  "venue_name": "TVORNICA KULTURE",
+  "source": "coreevent"
+ },
+ {
+  "date": "2027-06-21",
+  "time": "20:00",
+  "title": "Osees",
+  "venue": "tvornica",
+  "genre": "",
+  "price": "",
+  "url": "https://core-event.co/events/osees-u-tvornici-kulture-18d1/",
   "city": "zagreb",
   "venue_name": "TVORNICA KULTURE",
   "source": "coreevent"

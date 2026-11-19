@@ -1,27 +1,5 @@
 [
  {
-  "date": "2026-12-31",
-  "time": "19:00",
-  "title": "Isimangaliso",
-  "venue": "lj-cankarjev",
-  "genre": "",
-  "price": "",
-  "url": "https://www.cd-cc.si/kultura/glasba/isimangaliso",
-  "city": "ljubljana",
-  "source": "lj-cd"
- },
- {
-  "date": "2026-11-18",
-  "time": "19:30",
-  "title": "SOS 2: Materi",
-  "venue": "lj-cankarjev",
-  "genre": "",
-  "price": "",
-  "url": "https://www.cd-cc.si/kultura/glasba/sos-2-materi",
-  "city": "ljubljana",
-  "source": "lj-cd"
- },
- {
   "date": "2026-11-19",
   "time": "",
   "title": "Kromatika 2: Lazić in dva klavirska koncerta",
@@ -183,6 +161,17 @@
   "genre": "",
   "price": "",
   "url": "https://www.cd-cc.si/kultura/glasba/bozicna-fantazija",
+  "city": "ljubljana",
+  "source": "lj-cd"
+ },
+ {
+  "date": "2026-12-31",
+  "time": "",
+  "title": "Isimangaliso",
+  "venue": "lj-cankarjev",
+  "genre": "",
+  "price": "",
+  "url": "https://www.cd-cc.si/kultura/glasba/isimangaliso",
   "city": "ljubljana",
   "source": "lj-cd"
  },

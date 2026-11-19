@@ -77,6 +77,17 @@
   "source": "hnk-opera"
  },
  {
+  "date": "2026-12-19",
+  "time": "10:00",
+  "title": "Vještica Hillary i uvrijeđeni kontrabas",
+  "venue": "hnk",
+  "genre": "opera",
+  "price": "",
+  "url": "https://www.hnk.hr/hr/opera/predstave/vještica-hillary-i-uvrijeđeni-kontrabas/#19.12.10.00",
+  "city": "zagreb",
+  "source": "hnk-opera"
+ },
+ {
   "date": "2026-12-21",
   "time": "19:30",
   "title": "Šišmiš",
@@ -242,6 +253,17 @@
   "source": "hnk-opera"
  },
  {
+  "date": "2027-02-13",
+  "time": "18:00",
+  "title": "Saloma",
+  "venue": "hnk",
+  "genre": "opera",
+  "price": "",
+  "url": "https://www.hnk.hr/hr/opera/predstave/saloma/#13.02.18.00",
+  "city": "zagreb",
+  "source": "hnk-opera"
+ },
+ {
   "date": "2027-02-21",
   "time": "11:00",
   "title": "Klasika Nedjeljom 4",
@@ -249,6 +271,17 @@
   "genre": "opera",
   "price": "",
   "url": "https://www.hnk.hr/hr/opera/predstave/klasika-nedjeljom-4/#21.02.11.00",
+  "city": "zagreb",
+  "source": "hnk-opera"
+ },
+ {
+  "date": "2027-02-26",
+  "time": "11:00",
+  "title": "Vještica Hillary i uvrijeđeni kontrabas",
+  "venue": "hnk",
+  "genre": "opera",
+  "price": "",
+  "url": "https://www.hnk.hr/hr/opera/predstave/vještica-hillary-i-uvrijeđeni-kontrabas/#26.02.11.00",
   "city": "zagreb",
   "source": "hnk-opera"
  },
@@ -265,12 +298,12 @@
  },
  {
   "date": "2026-11-27",
-  "time": "19:00",
+  "time": "19:30",
   "title": "Orašar",
   "venue": "hnk",
   "genre": "opera",
   "price": "",
-  "url": "https://www.hnk.hr/hr/balet/predstave/orašarr2025/#27.11.19.00",
+  "url": "https://www.hnk.hr/hr/balet/predstave/orašarr2025/#27.11.19.30",
   "city": "zagreb",
   "source": "hnk-opera"
  },

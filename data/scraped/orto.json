@@ -1,22 +1,11 @@
 [
  {
-  "date": "2026-11-18",
-  "time": "",
-  "title": "Cherry Flavoured predstavlja prvenec AKT",
-  "venue": "lj-orto",
-  "genre": "",
-  "price": "",
-  "url": "https://www.orto-bar.com/dogodki/koncerti/cherry-flavoured-predstavlja-prvenec-akt/",
-  "city": "ljubljana",
-  "source": "orto"
- },
- {
   "date": "2026-11-19",
   "time": "",
   "title": "Space Unicorn on Fire ,BigBadWolf",
   "venue": "lj-orto",
   "genre": "",
-  "price": "12–15 €",
+  "price": "15 €",
   "url": "https://www.orto-bar.com/dogodki/koncerti/space-unicorn-on-fire-bigbadwolf/",
   "city": "ljubljana",
   "source": "orto"
@@ -27,7 +16,7 @@
   "title": "Sophy",
   "venue": "lj-orto",
   "genre": "",
-  "price": "8–12 €",
+  "price": "12 €",
   "url": "https://www.orto-bar.com/dogodki/koncerti/sophy/",
   "city": "ljubljana",
   "source": "orto"
@@ -73,6 +62,17 @@
   "genre": "",
   "price": "7–9 €",
   "url": "https://www.orto-bar.com/dogodki/koncerti/kequetz-zda-1-se-te-mam-rad-ep-release/",
+  "city": "ljubljana",
+  "source": "orto"
+ },
+ {
+  "date": "2026-11-25",
+  "time": "",
+  "title": "Horizontal Zebra ,2Brothers & The Others",
+  "venue": "lj-orto",
+  "genre": "",
+  "price": "10–12 €",
+  "url": "https://www.orto-bar.com/dogodki/koncerti/horizontal-zebra-2brothers-the-others/",
   "city": "ljubljana",
   "source": "orto"
  }

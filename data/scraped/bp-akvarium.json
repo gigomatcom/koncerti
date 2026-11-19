@@ -1,16 +1,5 @@
 [
  {
-  "date": "2026-11-18",
-  "time": "",
-  "title": "Mentális Egészség Konferencia a Gyermekekért",
-  "venue": "bp-akvariumklub",
-  "genre": "",
-  "price": "",
-  "url": "https://akvariumklub.hu/programok/mentalis-egeszseg-konferencia-a-gyermekekert/",
-  "city": "budimpesta",
-  "source": "bp-akvarium"
- },
- {
   "date": "2026-11-19",
   "time": "",
   "title": "Corvinus Közgáz Gólyabál",
@@ -803,6 +792,17 @@
   "source": "bp-akvarium"
  },
  {
+  "date": "2027-01-17",
+  "time": "",
+  "title": "Elektroakusztikus Hangutazás",
+  "venue": "bp-akvariumklub",
+  "genre": "",
+  "price": "",
+  "url": "https://akvariumklub.hu/programok/elektroakusztikus-hangutazas-4/",
+  "city": "budimpesta",
+  "source": "bp-akvarium"
+ },
+ {
   "date": "2027-01-22",
   "time": "",
   "title": "Telt Ház! Mehringer | Day 1 – Szabadság",
@@ -964,17 +964,6 @@
   "genre": "",
   "price": "",
   "url": "https://akvariumklub.hu/programok/the-interrupters-us-support-the-suicide-machines-us/",
-  "city": "budimpesta",
-  "source": "bp-akvarium"
- },
- {
-  "date": "2026-11-18",
-  "time": "",
-  "title": "Ana Moura",
-  "venue": "bp-akvariumklub",
-  "genre": "",
-  "price": "",
-  "url": "https://akvariumklub.hu/programok/ana-moura/",
   "city": "budimpesta",
   "source": "bp-akvarium"
  }

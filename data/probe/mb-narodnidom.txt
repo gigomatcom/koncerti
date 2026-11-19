@@ -1,7 +1,5 @@
 title: Program dogodkov Narodni dom Maribor - Narodni dom Maribor
 jsonld types: 
-<div class=event-row> sre 18 nov 2026 19:30 Priporočamo Mozart! Komorni cikel Koncert 5 € - 19 € e-nakup Preberite več | https://nd-mb.si/dogodek/mozart/
-<div class=flag> sre 18 nov 2026 19:30 | 
 <div class=event-row> čet 19 nov 2026 11:00 čet 19 nov 2026 15:00 Klasično: Marimba Mladinski cikel Komentirani koncert Za šole - Za šole e-nakup Preberite več | https://nd-mb.si/dogodek/klasicno-marimba/
 <div class=flag> čet 19 nov 2026 11:00 | 
 <div class=flag> čet 19 nov 2026 15:00 | 
@@ -29,7 +27,7 @@ jsonld types:
 <div class=flag> čet 26 nov 2026 20:00 | 
 <div class=event-row> tor 1 dec 2026 19:00 Dediščina Komedija 22 € - 24 € e-nakup Preberite več | https://nd-mb.si/dogodek/dediscina/
 <div class=flag> tor 1 dec 2026 19:00 | 
-<div class=event-row> tor 1 dec 2026 19:00 Svečana razgrnitev ZIZ koledarja 2027 Društvo ZIZ e-nakup Preberite več | https://nd-mb.si/dogodek/[…]/
+<div class=event-row> tor 1 dec 2026 19:00 Razgalimo ideale, ne (samo) teles! Društvo ZIZ e-nakup Preberite več | https://nd-mb.si/dogodek/[…]/
 <div class=flag> tor 1 dec 2026 19:00 | 
 <div class=event-row> tor 1 dec 2026 19:30 Prireditev drugega organizatorja Moč besede Koncert 16 € - 30 € e-nakup Preberite več | https://nd-mb.si/dogodek/moc-besede/
 <div class=flag> tor 1 dec 2026 19:30 | 
@@ -60,4 +58,6 @@ jsonld types:
 <div class=flag> pet 12 feb 2027 20:00 | 
 <div class=event-row> sre 16 dec 2026 18:00 Prireditev drugega organizatorja Pridi gola! Komedija 26 € - 28 € e-nakup Preberite več | https://nd-mb.si/dogodek/pridi-gola-2/
 <div class=flag> sre 16 dec 2026 18:00 | 
+<div class=event-row> ned 20 dec 2026 11:00 PU Abonma Kekec 8 € - 8 € e-nakup Preberite več | https://nd-mb.si/dogodek/pu/
+<div class=flag> ned 20 dec 2026 11:00 | 
 poveznice (31): /narodni-dom-maribor/programski-sklopi/festivali/ https://nd-mb.si/narodni-dom-maribor/o-narodnem-domu-maribor/koncertna-poslovalnica/ https://nd-mb.si/narodni-dom-maribor/[…]/ https://nd-mb.si/narodni-dom-maribor/programski-sklopi/ https://nd-mb.si/narodni-dom-maribor/programski-sklopi/abomna-kekec/ https://nd-mb.si/narodni-dom-maribor/programski-sklopi/abonma-komedija/ https://nd-mb.si/narodni-dom-maribor/programski-sklopi/art-kamp/ https://nd-mb.si/narodni-dom-maribor/programski-sklopi/festival-lent/ https://nd-mb.si/narodni-dom-maribor/programski-sklopi/festival-maribor/ https://nd-mb.si/narodni-dom-maribor/programski-sklopi/festivali/ https://nd-mb.si/narodni-dom-maribor/programski-sklopi/jazz-v-narodnem-domu/ https://nd-mb.si/narodni-dom-maribor/programski-sklopi/komorni-cikel/ https://nd-mb.si/narodni-dom-maribor/programski-sklopi/kulturni-dnevnik/ https://nd-mb.si/narodni-dom-maribor/programski-sklopi/lastna-produkcija/ https://nd-mb.si/narodni-dom-maribor/programski-sklopi/mladinski-cikel/ https://nd-mb.si/narodni-dom-maribor/programski-sklopi/orkestrski-cikel/ https://nd-mb.si/narodni-dom-maribor/programski-sklopi/[…]/ https://nd-mb.si/narodni-dom-maribor/programski-sklopi/[…]/ https://nd-mb.si/narodni-dom-maribor/programski-sklopi/promenadni-koncerti/ https://nd-mb.si/narodni-dom-maribor/programski-sklopi/vetrinjski-dvor/ https://nd-mb.si/narodni-dom-maribor/programski-sklopi/vilinsko-mesto/ https://nd-mb.si/tag/komentirani-koncert/ https://nd-mb.si/tag/koncert/ https://nd-mb.si/vetrinjski-dvor/program-vetrinjski-dvor/ https://www.eventim.si/event/[…]/

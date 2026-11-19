@@ -1598,6 +1598,11 @@
   "checked": "2026-11-08",
   "query": "brzeguze w"
  },
+ "buc kesidi u vintage u": {
+  "checked": "2026-11-19",
+  "query": "Buč Kesidi u Vintage-u!",
+  "v": 2
+ },
  "budapest bar christmas": {
   "checked": "2026-11-10",
   "query": "Budapest Bár Christmas",
@@ -2579,6 +2584,11 @@
   "query": "Die Eiskönigin 1&2",
   "v": 2
  },
+ "die eiskonigin 1 2 black week": {
+  "checked": "2026-11-19",
+  "query": "Die Eiskönigin 1&2 BLACK WEEK",
+  "v": 2
+ },
  "die fledermaus": {
   "checked": "2026-11-09",
   "country": "",
@@ -2635,6 +2645,11 @@
  "die schlagernacht des jahres 2026": {
   "checked": "2026-11-10",
   "query": "Die Schlagernacht des Jahres 2026",
+  "v": 2
+ },
+ "die schlagernacht des jahres 2026 black week": {
+  "checked": "2026-11-19",
+  "query": "Die Schlagernacht des Jahres 2026 BLACK WEEK",
   "v": 2
  },
  "die strottern": {
@@ -3032,6 +3047,11 @@
   "query": "Elektro Guzzi",
   "v": 2
  },
+ "elektroakusztikus hangutazas": {
+  "checked": "2026-11-19",
+  "query": "Elektroakusztikus Hangutazás",
+  "v": 2
+ },
  "elemental": {
   "checked": "2026-11-09",
   "query": "Elemental",
@@ -3390,6 +3410,11 @@
  "falco meets amadeus": {
   "checked": "2026-11-10",
   "query": "Falco Meets Amadeus",
+  "v": 2
+ },
+ "falco meets amadeus black week": {
+  "checked": "2026-11-19",
+  "query": "Falco Meets Amadeus Black Week",
   "v": 2
  },
  "fannisza": {
@@ -4385,6 +4410,11 @@
   "checked": "2026-11-08",
   "query": "Hood Vibes Night"
  },
+ "horizontal zebra": {
+  "checked": "2026-11-19",
+  "query": "Horizontal Zebra",
+  "v": 2
+ },
  "howie day": {
   "checked": "2026-11-09",
   "country": "US",
@@ -4429,6 +4459,11 @@
  "i am from austria": {
   "checked": "2026-11-10",
   "query": "I am from Austria",
+  "v": 2
+ },
+ "i am from austria black week": {
+  "checked": "2026-11-19",
+  "query": "I am from Austria BLACK WEEK",
   "v": 2
  },
  "i am production pres": {
@@ -5750,6 +5785,11 @@
   "query": "Kozmosz évzáró",
   "v": 2
  },
+ "kpop demon hunters 11 09 2027 12 09 2027 halle d allgemeiner vvk start": {
+  "checked": "2026-11-19",
+  "query": "KPop Demon Hunters 11.09.2027–12.09.2027 Halle D Allgemeiner VVK Start",
+  "v": 2
+ },
  "kpop demon hunters 11 09 2027 12 09 2027 halle d vvk start": {
   "checked": "2026-11-14",
   "query": "KPop Demon Hunters 11.09.2027–12.09.2027 Halle D VVK Start",
@@ -6080,6 +6120,11 @@
   "query": "Let's Dance",
   "v": 2
  },
+ "lets dance black week": {
+  "checked": "2026-11-19",
+  "query": "Let's Dance BLACK WEEK",
+  "v": 2
+ },
  "lexington": {
   "checked": "2026-11-08",
   "query": "Lexington"
@@ -6320,6 +6365,11 @@
   "query": "Loriot",
   "v": 2
  },
+ "loriot black week": {
+  "checked": "2026-11-19",
+  "query": "Loriot Black Week",
+  "v": 2
+ },
  "lorna shore": {
   "checked": "2026-11-12",
   "country": "US",
@@ -6455,6 +6505,19 @@
   "mbid": "518f8b43-2c59-4704-af2b-d204b5709eb7",
   "name": "Lungau Big Band",
   "query": "Lungau Big Band",
+  "v": 2
+ },
+ "luzeri": {
+  "checked": "2026-11-19",
+  "country": "HR",
+  "genre": "punk",
+  "links": {
+   "instagram": "https://www.instagram.com/luzeri.wav/",
+   "spotify": "https://open.spotify.com/artist/4LI3oYgU7stmaokd5jw2A0"
+  },
+  "mbid": "1f87f88b-2746-42b4-a21c-0aa3feeb0be7",
+  "name": "LUZERi",
+  "query": "Luzeri",
   "v": 2
  },
  "macy gray": {
@@ -6838,6 +6901,11 @@
  "masters of dirt": {
   "checked": "2026-11-10",
   "query": "Masters of Dirt",
+  "v": 2
+ },
+ "masters of dirt black week": {
+  "checked": "2026-11-19",
+  "query": "Masters of Dirt BLACK WEEK",
   "v": 2
  },
  "matija cvek": {
@@ -8067,6 +8135,11 @@
   "query": "One Vision of Queen",
   "v": 2
  },
+ "one vision of queen black week": {
+  "checked": "2026-11-19",
+  "query": "One Vision of Queen BLACK WEEK",
+  "v": 2
+ },
  "oneus": {
   "checked": "2026-11-09",
   "country": "KR",
@@ -8988,6 +9061,11 @@
   "mbid": "41b469c4-93e4-4766-8370-2f3922a26485",
   "name": "Rocket Man",
   "query": "Rocket Man",
+  "v": 2
+ },
+ "rocket man black week": {
+  "checked": "2026-11-19",
+  "query": "Rocket Man BLACK WEEK",
   "v": 2
  },
  "rod stewart": {
@@ -10589,9 +10667,19 @@
   "query": "The 12 Tenors",
   "v": 2
  },
+ "the 12 tenors black week": {
+  "checked": "2026-11-19",
+  "query": "The 12 Tenors Black Week",
+  "v": 2
+ },
  "the best of ennio morricone": {
   "checked": "2026-11-10",
   "query": "The Best of Ennio Morricone",
+  "v": 2
+ },
+ "the best of ennio morricone black week": {
+  "checked": "2026-11-19",
+  "query": "The Best of Ennio Morricone BLACK WEEK",
   "v": 2
  },
  "the black wizards": {
@@ -10914,6 +11002,11 @@
  "the music of star wars": {
   "checked": "2026-11-10",
   "query": "The Music of Star Wars",
+  "v": 2
+ },
+ "the music of star wars black week": {
+  "checked": "2026-11-19",
+  "query": "The Music of Star Wars BLACK WEEK",
   "v": 2
  },
  "the neighbourhood": {
@@ -12306,6 +12399,11 @@
   "query": "ZEP",
   "v": 2
  },
+ "zidar betonsky": {
+  "checked": "2026-11-19",
+  "query": "Zidar Betonsky",
+  "v": 2
+ },
  "zirafa zizi plese step": {
   "checked": "2026-11-08",
   "query": "Žirafa Žiži Pleše Step"
@@ -12347,6 +12445,19 @@
  "zubi": {
   "checked": "2026-11-08",
   "query": "Zubi"
+ },
+ "zuboly": {
+  "checked": "2026-11-19",
+  "country": "HU",
+  "genre": "",
+  "links": {
+   "facebook": "https://www.facebook.com/zuboly",
+   "web": "http://zuboly.com/"
+  },
+  "mbid": "c2f37a36-2b30-4ee9-9319-f2dd9aaf665b",
+  "name": "Zuboly",
+  "query": "Zuboly",
+  "v": 2
  },
  "zur eisernen zeit": {
   "checked": "2026-11-10",
