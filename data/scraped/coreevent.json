@@ -1,29 +1,5 @@
 [
  {
-  "date": "2026-11-19",
-  "time": "20:00",
-  "title": "RING - ABBA tribute",
-  "venue": "ri-pogon",
-  "genre": "",
-  "price": "",
-  "url": "https://core-event.co/events/ring-abba-tribute-u-pogonu-badb/",
-  "city": "rijeka",
-  "venue_name": "Pogon",
-  "source": "coreevent"
- },
- {
-  "date": "2026-11-19",
-  "time": "20:30",
-  "title": "Los Fastidios",
-  "venue": "",
-  "genre": "",
-  "price": "",
-  "url": "https://core-event.co/events/los-fastidios-regenerator-zabok-76cb/",
-  "city": "zabok",
-  "venue_name": "Regenerator",
-  "source": "coreevent"
- },
- {
   "date": "2026-11-20",
   "time": "17:00",
   "title": "AfterWork Hangouts",

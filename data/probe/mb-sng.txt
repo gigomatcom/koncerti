@@ -28,9 +28,9 @@ jsonld types:
                                 19.00 | https://www.sng-mb.si/event/jutra-v-dzeninu/
 <div class=datetime> 14. 12. 2026 |
                                 19.00 | 
+<div class=d-flex.date-container> 20 Nov Pet Nina Ramšak Marković in Milan Ramšak Marković Nina Ramšak Marković in Milan Ramšak Marković Überkrajina 20.00 Dvorana Frana Žižka abonma DRAMA PREMIERA | https://www.sng-mb.si/event/uberkrajina/
 <div class=content__programs--date> 20 Nov Pet | 
 <div class=content__programs--date> 21 Nov Sob | 
-<div class=d-flex.date-container> 23 Nov Pon Ida Mlakar, Maja Borin Ida Mlakar, Maja Borin Kako sta Bibi in Gusti sipala srečo 10.00 Komorni oder | https://www.sng-mb.si/event/[…]/
 <div class=content__programs--date> 23 Nov Pon | 
 <div class=d-flex.date-container> 26 Nov Čet 3. koncert cikla Carpe artem »Refleksije strun« 19.30 Kazinska dvorana abonma CIKEL CARPE ARTEM | https://www.sng-mb.si/event/[…]/
 <div class=content__programs--date> 26 Nov Čet | 
@@ -42,9 +42,9 @@ jsonld types:
 <div class=content__programs--date> 01 Dec Tor | 
 <div class=d-flex.date-container> 02 Dec Sre Johann Strauss ml. Johann Strauss ml. Netopir 19.30 Dvorana Ondine Otta Klasinc abonma OPERA IN SIMFONIKI | https://www.sng-mb.si/event/netopir-3/
 <div class=content__programs--date> 02 Dec Sre | 
+<div class=d-flex.date-container> 20 Nov Pet Nina Ramšak Marković in Milan Ramšak Marković Nina Ramšak Marković in Milan Ramšak Marković Überkrajina 20.00 Dvorana Frana Žižka abonma DRAMA PREMIERA | https://www.sng-mb.si/event/uberkrajina/
 <div class=content__programs--date> 20 Nov Pet | 
 <div class=content__programs--date> 21 Nov Sob | 
-<div class=d-flex.date-container> 23 Nov Pon Ida Mlakar, Maja Borin Ida Mlakar, Maja Borin Kako sta Bibi in Gusti sipala srečo 10.00 Komorni oder | https://www.sng-mb.si/event/[…]/
 <div class=content__programs--date> 23 Nov Pon | 
 <div class=d-flex.date-container> 26 Nov Čet 3. koncert cikla Carpe artem »Refleksije strun« 19.30 Kazinska dvorana abonma CIKEL CARPE ARTEM | https://www.sng-mb.si/event/[…]/
 <div class=content__programs--date> 26 Nov Čet | 

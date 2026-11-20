@@ -2565,6 +2565,14 @@
    "instagram": "https://www.instagram.com/jabuka2.8"
   }
  },
+ "https://dvaosam.com/event-detail/6af1d00fc919d00386a0628a/": {
+  "checked": "2026-11-20",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/jabuka2.8",
+   "instagram": "https://www.instagram.com/jabuka2.8"
+  }
+ },
  "https://flex.at/event/8409/": {
   "checked": "2026-11-10",
   "clean": {},
@@ -3100,6 +3108,20 @@
    "youtube": "http://www.youtube.com/user/klubmochvara"
   }
  },
+ "https://mochvara.hr/event-detail/6ae094d81a65fb5fc59790e8/": {
+  "checked": "2026-11-20",
+  "clean": {
+   "facebook": "https://www.facebook.com/mikamalezg/",
+   "instagram": "https://www.instagram.com/_mikamale_/",
+   "spotify": "https://open.spotify.com/artist/4up3QjIbexYhkC8CeiUdbI"
+  },
+  "links": {
+   "facebook": "https://www.facebook.com/mikamalezg/",
+   "instagram": "https://www.instagram.com/_mikamale_/",
+   "spotify": "https://open.spotify.com/artist/4up3QjIbexYhkC8CeiUdbI",
+   "youtube": "http://www.youtube.com/user/klubmochvara"
+  }
+ },
  "https://mochvara.hr/event-detail/6ae20789ca71fac878b0f24d/": {
   "checked": "2026-11-11",
   "clean": {
@@ -3196,6 +3218,17 @@
    "youtube": "http://www.youtube.com/user/klubmochvara"
   }
  },
+ "https://mochvara.hr/event-detail/6afec77b8c62b05525e32f0d/": {
+  "checked": "2026-11-20",
+  "clean": {
+   "instagram": "https://www.instagram.com/agriculture_music/"
+  },
+  "links": {
+   "facebook": "https://www.facebook.com/mochvara",
+   "instagram": "https://www.instagram.com/agriculture_music/",
+   "youtube": "http://www.youtube.com/user/klubmochvara"
+  }
+ },
  "https://pulainfo.hr/events-type/concerts/": {
   "checked": "2026-11-11",
   "clean": {
@@ -3222,6 +3255,15 @@
   "checked": "2026-11-14",
   "clean": {},
   "links": {}
+ },
+ "https://www.a38.hu/en/program/4s-street-hu-31029": {
+  "checked": "2026-11-20",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/a38.hajo",
+   "instagram": "https://www.instagram.com/a38ship/",
+   "youtube": "https://www.youtube.com/user/A38Captain"
+  }
  },
  "https://www.a38.hu/en/program/agi-es-a-fiuk-hu": {
   "checked": "2026-11-10",
@@ -5360,8 +5402,26 @@
    "youtube": "https://www.youtube.com/channel/UCw3zJE1u5h8IMdewKB8I3UA"
   }
  },
+ "https://www.kinosiska.si/dogodek/zebrahead/": {
+  "checked": "2026-11-20",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/kinosiska.si/",
+   "instagram": "http://www.instagram.com/kinosiska",
+   "youtube": "https://www.youtube.com/channel/UCw3zJE1u5h8IMdewKB8I3UA"
+  }
+ },
  "https://www.kset.org/dogadaj/2026-11-13-britni-i-panterski-x-viking-krew-akc-attack/": {
   "checked": "2026-11-09",
+  "clean": {},
+  "links": {
+   "facebook": "http://www.facebook.com/KSETZg",
+   "instagram": "https://www.instagram.com/klubkset/",
+   "youtube": "http://www.youtube.com/user/KsetVideo"
+  }
+ },
+ "https://www.kset.org/dogadaj/2026-11-20-bike-popravljaona-kset/": {
+  "checked": "2026-11-20",
   "clean": {},
   "links": {
    "facebook": "http://www.facebook.com/KSETZg",
@@ -5529,6 +5589,15 @@
  },
  "https://www.lisinski.hr/hr/dogadanja/carobni-bozicni-sat-14/": {
   "checked": "2026-11-09",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/www.lisinski.hr",
+   "instagram": "https://instagram.com/vatroslavlisinski",
+   "youtube": "https://www.youtube.com/channel/UCHKYTT4qLI4zdegYDTI8CHA"
+  }
+ },
+ "https://www.lisinski.hr/hr/dogadanja/carobni-bozicni-sat-16/": {
+  "checked": "2026-11-20",
   "clean": {},
   "links": {
    "facebook": "https://www.facebook.com/www.lisinski.hr",
@@ -5790,6 +5859,15 @@
  },
  "https://www.lisinski.hr/hr/dogadanja/hrvatska-tamburaska-rapsodija-u-lisinskom/": {
   "checked": "2026-11-09",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/www.lisinski.hr",
+   "instagram": "https://instagram.com/vatroslavlisinski",
+   "youtube": "https://www.youtube.com/channel/UCHKYTT4qLI4zdegYDTI8CHA"
+  }
+ },
+ "https://www.lisinski.hr/hr/dogadanja/ima-neka-tajna-veza/": {
+  "checked": "2026-11-20",
   "clean": {},
   "links": {
    "facebook": "https://www.facebook.com/www.lisinski.hr",
@@ -6508,6 +6586,15 @@
    "youtube": "https://www.youtube.com/channel/UCHKYTT4qLI4zdegYDTI8CHA"
   }
  },
+ "https://www.lisinski.hr/hr/dogadanja/valentinovo-u-lisinskom-marko-tolja/": {
+  "checked": "2026-11-20",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/www.lisinski.hr",
+   "instagram": "https://instagram.com/vatroslavlisinski",
+   "youtube": "https://www.youtube.com/channel/UCHKYTT4qLI4zdegYDTI8CHA"
+  }
+ },
  "https://www.lisinski.hr/hr/dogadanja/vlatko-stefanovski-prijatelji-br-acoustic-night/": {
   "checked": "2026-11-09",
   "clean": {},
@@ -7012,6 +7099,15 @@
    "youtube": "https://www.youtube.com/@TheFestivalLjubljana"
   }
  },
+ "https://www.ljubljanafestival.si/sl/koledar-dogodkov/25189-21-bozicni-koncert-glasbena-sola-ljubljana-moste-polje": {
+  "checked": "2026-11-20",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/LjubljanaFestival",
+   "instagram": "https://www.instagram.com/festival_ljubljana",
+   "youtube": "https://www.youtube.com/@TheFestivalLjubljana"
+  }
+ },
  "https://www.ljubljanafestival.si/sl/koledar-dogodkov/25190-najboljsi-prijateljici": {
   "checked": "2026-11-10",
   "clean": {},
@@ -7039,6 +7135,14 @@
  },
  "https://www.orto-bar.com/dogodki/koncerti/bands-without-borders-elvis-jackson-the-last-supper-blame-betty/": {
   "checked": "2026-11-10",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/noplacelikeorto",
+   "instagram": "https://www.instagram.com/orto_bar_slovenija/"
+  }
+ },
+ "https://www.orto-bar.com/dogodki/koncerti/barking-jacqueline-2/": {
+  "checked": "2026-11-20",
   "clean": {},
   "links": {
    "facebook": "https://www.facebook.com/noplacelikeorto",
@@ -7130,6 +7234,14 @@
  },
  "https://www.orto-bar.com/dogodki/koncerti/space-unicorn-on-fire-bigbadwolf/": {
   "checked": "2026-11-13",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/noplacelikeorto",
+   "instagram": "https://www.instagram.com/orto_bar_slovenija/"
+  }
+ },
+ "https://www.orto-bar.com/dogodki/koncerti/the-red-hot-experience-red-hot-chili-peppers-tribute-band-brazilija/": {
+  "checked": "2026-11-20",
   "clean": {},
   "links": {
    "facebook": "https://www.facebook.com/noplacelikeorto",
@@ -8167,6 +8279,11 @@
   "clean": {},
   "links": {}
  },
+ "https://www.stadthalle.com/de/events/alle-events/51621/Aca-Lukas": {
+  "checked": "2026-11-20",
+  "clean": {},
+  "links": {}
+ },
  "https://www.stadthalle.com/de/events/alle-events/51622/Kool-amp-The-Gang": {
   "checked": "2026-11-18",
   "clean": {},
@@ -8254,6 +8371,14 @@
  },
  "https://www.wuk.at/programm/kytes/": {
   "checked": "2026-11-10",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/wukvienna/",
+   "instagram": "http://instagram.com/wukvienna"
+  }
+ },
+ "https://www.wuk.at/programm/niemand-muss-ein-promi-sein-die-live-show-zum-podcast/": {
+  "checked": "2026-11-20",
   "clean": {},
   "links": {
    "facebook": "https://www.facebook.com/wukvienna/",

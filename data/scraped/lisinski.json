@@ -1,27 +1,5 @@
 [
  {
-  "date": "2026-11-19",
-  "time": "20:00",
-  "title": "Tomislav Bralić i Klapa Intrade – 20 Godina Zagrebačke Tradicije",
-  "venue": "lisV",
-  "genre": "trad",
-  "price": "32–59 €",
-  "url": "https://www.lisinski.hr/hr/dogadanja/tomislav-bralic-i-klapa-intrade-20-godina-zagrebac/",
-  "city": "zagreb",
-  "source": "lisinski"
- },
- {
-  "date": "2026-11-19",
-  "time": "20:00",
-  "title": "Chansonfest 2026.",
-  "venue": "lisM",
-  "genre": "",
-  "price": "20 €",
-  "url": "https://www.lisinski.hr/hr/dogadanja/chansonfest-2026/",
-  "city": "zagreb",
-  "source": "lisinski"
- },
- {
   "date": "2026-11-20",
   "time": "19:30",
   "title": "Zagrebačka Filharmonija Crveni Ciklus Pavle Zajcev, Dirigent Sebastian Manz, Klarinet",
@@ -68,22 +46,22 @@
  {
   "date": "2026-11-24",
   "time": "20:00",
-  "title": "Tomislav Bralić i Klapa Intrade – 20 Godina Zagrebačke Tradicije",
-  "venue": "lisV",
-  "genre": "trad",
+  "title": "Guitarra Viva – Ciklus Gitarskih Koncerata Hrvatski Gitarski Kvartet",
+  "venue": "lisM",
+  "genre": "klasika",
   "price": "rasprodano",
-  "url": "https://www.lisinski.hr/hr/dogadanja/tomislav-bralic-i-klapa-intrade-20-godina-zagreb-2/",
+  "url": "https://www.lisinski.hr/hr/dogadanja/guitarra-viva-ciklus-gitarskih-koncerata-br-hrvats/",
   "city": "zagreb",
   "source": "lisinski"
  },
  {
   "date": "2026-11-24",
   "time": "20:00",
-  "title": "Guitarra Viva – Ciklus Gitarskih Koncerata Hrvatski Gitarski Kvartet",
-  "venue": "lisM",
-  "genre": "klasika",
+  "title": "Tomislav Bralić i Klapa Intrade – 20 Godina Zagrebačke Tradicije",
+  "venue": "lisV",
+  "genre": "trad",
   "price": "rasprodano",
-  "url": "https://www.lisinski.hr/hr/dogadanja/guitarra-viva-ciklus-gitarskih-koncerata-br-hrvats/",
+  "url": "https://www.lisinski.hr/hr/dogadanja/tomislav-bralic-i-klapa-intrade-20-godina-zagreb-2/",
   "city": "zagreb",
   "source": "lisinski"
  },
@@ -381,6 +359,17 @@
   "genre": "klasika",
   "price": "18–27 €",
   "url": "https://www.lisinski.hr/hr/dogadanja/zagrebacka-filharmonija-br-crveni-ciklus-br-lionel/",
+  "city": "zagreb",
+  "source": "lisinski"
+ },
+ {
+  "date": "2026-12-19",
+  "time": "10:00",
+  "title": "Čarobni Božićni Sat",
+  "venue": "lisM",
+  "genre": "djeca",
+  "price": "rasprodano",
+  "url": "https://www.lisinski.hr/hr/dogadanja/carobni-bozicni-sat-16/",
   "city": "zagreb",
   "source": "lisinski"
  },
@@ -737,6 +726,17 @@
   "source": "lisinski"
  },
  {
+  "date": "2027-02-14",
+  "time": "20:00",
+  "title": "Valentinovo u Lisinskom – Marko Tolja",
+  "venue": "lisV",
+  "genre": "",
+  "price": "30–45 €",
+  "url": "https://www.lisinski.hr/hr/dogadanja/valentinovo-u-lisinskom-marko-tolja/",
+  "city": "zagreb",
+  "source": "lisinski"
+ },
+ {
   "date": "2027-02-16",
   "time": "19:30",
   "title": "Koncert 108. Sezone Zagrebačkog Kvarteta",
@@ -832,6 +832,17 @@
   "genre": "klasika",
   "price": "15 €",
   "url": "https://www.lisinski.hr/hr/dogadanja/glazbeni-umjetnici-zagrebu-br-goran-filipec-klavir/",
+  "city": "zagreb",
+  "source": "lisinski"
+ },
+ {
+  "date": "2027-02-23",
+  "time": "20:00",
+  "title": "Ima Neka Tajna Veza",
+  "venue": "lisV",
+  "genre": "",
+  "price": "32–55 €",
+  "url": "https://www.lisinski.hr/hr/dogadanja/ima-neka-tajna-veza/",
   "city": "zagreb",
   "source": "lisinski"
  },

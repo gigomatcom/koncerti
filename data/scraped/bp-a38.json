@@ -1,16 +1,5 @@
 [
  {
-  "date": "2026-11-19",
-  "time": "19:00",
-  "title": "Sonya \"Beams\" Album Launch, Guest: Sunny Gloom (LUX)",
-  "venue": "bp-a38shipa38",
-  "genre": "",
-  "price": "",
-  "url": "https://www.a38.hu/en/program/sonya-beams-lemezbemutato",
-  "city": "budimpesta",
-  "source": "bp-a38"
- },
- {
   "date": "2026-11-20",
   "time": "19:30",
   "title": "Prosectura, guest: CsizmáSKAndúr",
@@ -176,17 +165,6 @@
   "source": "bp-a38"
  },
  {
-  "date": "2026-12-11",
-  "time": "19:00",
-  "title": "Rómeó Vérzik",
-  "venue": "bp-a38shipa38",
-  "genre": "",
-  "price": "",
-  "url": "https://www.a38.hu/en/program/romeo-verzik-hu",
-  "city": "budimpesta",
-  "source": "bp-a38"
- },
- {
   "date": "2026-12-12",
   "time": "19:30",
   "title": "Lucy Dreams (AT), Larsovitch (FR), Olgha (IT/PL)",
@@ -232,12 +210,12 @@
  },
  {
   "date": "2026-12-19",
-  "time": "23:30",
-  "title": "Technokunst pres. Acidmoon w/ Luigi Tozzi (IT), Isu, Valens",
+  "time": "19:45",
+  "title": "4S Street, No Sugar",
   "venue": "bp-a38shipa38",
   "genre": "",
   "price": "",
-  "url": "https://www.a38.hu/en/program/luigi-tozzi-it-32213",
+  "url": "https://www.a38.hu/en/program/4s-street-hu-31029",
   "city": "budimpesta",
   "source": "bp-a38"
  },

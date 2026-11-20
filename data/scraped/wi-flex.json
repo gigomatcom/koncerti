@@ -1,16 +1,5 @@
 [
  {
-  "date": "2026-11-19",
-  "time": "19:00",
-  "title": "The Chameleons",
-  "venue": "wi-flex",
-  "genre": "",
-  "price": "",
-  "url": "https://flex.at/event/the-chameleons/",
-  "city": "bec",
-  "source": "wi-flex"
- },
- {
   "date": "2026-11-20",
   "time": "19:00",
   "title": "Gurriers",
@@ -188,7 +177,7 @@
  },
  {
   "date": "2026-12-04",
-  "time": "19:00",
+  "time": "18:30",
   "title": "Donna Savage & Brenk Sinatra",
   "venue": "wi-flex",
   "genre": "",

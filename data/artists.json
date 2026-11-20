@@ -88,6 +88,11 @@
   "query": "20. Božični koncert",
   "v": 2
  },
+ "21 bozicni koncert": {
+  "checked": "2026-11-20",
+  "query": "21. Božični koncert",
+  "v": 2
+ },
  "25 babyexpo": {
   "checked": "2026-11-11",
   "query": "25. BabyExpo",
@@ -122,6 +127,21 @@
   "query": "4 Tenora",
   "v": 2
  },
+ "4s street": {
+  "checked": "2026-11-20",
+  "country": "HU",
+  "genre": "",
+  "links": {
+   "facebook": "https://www.facebook.com/negyesstreet",
+   "spotify": "https://open.spotify.com/artist/3W75Q3HN7adHVSjjRJX1ap",
+   "web": "https://negyesstreet.com/",
+   "youtube": "https://www.youtube.com/channel/UCPMA_8slHuApg79pDV8zBDw"
+  },
+  "mbid": "6fc0e06a-d8bd-4a16-a5f8-29a29f91492e",
+  "name": "4S Street",
+  "query": "4S Street",
+  "v": 2
+ },
  "5 bozicni koncert": {
   "checked": "2026-11-10",
   "query": "5. Božični koncert",
@@ -139,6 +159,11 @@
  "6 bozicni koncert": {
   "checked": "2026-11-10",
   "query": "6. Božični koncert",
+  "v": 2
+ },
+ "60s power trio": {
+  "checked": "2026-11-20",
+  "query": "60s Power Trio",
   "v": 2
  },
  "6k united": {
@@ -191,6 +216,23 @@
  "abgesagt facesoul": {
   "checked": "2026-11-11",
   "query": "Abgesagt!! Facesoul",
+  "v": 2
+ },
+ "aca lukas": {
+  "checked": "2026-11-20",
+  "country": "RS",
+  "genre": "world",
+  "links": {
+   "deezer": "https://www.deezer.com/artist/553740",
+   "facebook": "https://www.facebook.com/acalukasofficialfanpage",
+   "instagram": "https://www.instagram.com/aleksandar_vuksanovic_official/",
+   "spotify": "https://open.spotify.com/artist/1AXI8IZnbsVJnBpiyfqUp0",
+   "web": "https://lukasaca.rs/",
+   "youtube": "https://www.youtube.com/channel/UC4vsc7rWOvqBxFWR0XAlMpw"
+  },
+  "mbid": "3882603c-b135-4b80-b896-ec8548ddf3f9",
+  "name": "Aca Lukas",
+  "query": "Aca Lukas",
   "v": 2
  },
  "accept": {
@@ -311,6 +353,24 @@
  "agi 70": {
   "checked": "2026-11-10",
   "query": "Ági 70",
+  "v": 2
+ },
+ "agriculture": {
+  "checked": "2026-11-20",
+  "country": "US",
+  "genre": "",
+  "links": {
+   "bandcamp": "https://agriculturemusic.bandcamp.com/",
+   "deezer": "https://www.deezer.com/artist/72096162",
+   "facebook": "https://www.facebook.com/agriculturemusic",
+   "instagram": "https://www.instagram.com/agriculture_music/",
+   "spotify": "https://open.spotify.com/artist/23Skjj6LyKEVkNIUFrLBUY",
+   "web": "https://agriculturemusic.com/",
+   "youtube": "https://www.youtube.com/channel/UCqD2aOXgwRFZBYBweMM5NmA"
+  },
+  "mbid": "f703c668-fb24-42ab-8cc9-7debfd6ba783",
+  "name": "Agriculture",
+  "query": "Agriculture",
   "v": 2
  },
  "aida": {
@@ -1063,6 +1123,11 @@
   "query": "Barbara Bruckmüller Jazz Orchestra 'All Is Move",
   "v": 2
  },
+ "barking jacqueline": {
+  "checked": "2026-11-20",
+  "query": "Barking Jacqueline",
+  "v": 2
+ },
  "bc vienna vs partizan mozzart bet": {
   "checked": "2026-11-10",
   "query": "BC Vienna vs Partizan Mozzart Bet",
@@ -1221,6 +1286,11 @@
   "mbid": "759ed502-d127-4ca0-902f-465efb9e104b",
   "name": "Bijelo dugme",
   "query": "Bijelo Dugme",
+  "v": 2
+ },
+ "bike popravljaona": {
+  "checked": "2026-11-20",
+  "query": "Bike popravljaona",
   "v": 2
  },
  "bikini": {
@@ -1597,6 +1667,11 @@
  "brzeguze w": {
   "checked": "2026-11-08",
   "query": "brzeguze w"
+ },
+ "bsh amphitheatre pula 2027": {
+  "checked": "2026-11-20",
+  "query": "BSH Amphitheatre Pula 2027.",
+  "v": 2
  },
  "buc kesidi u vintage u": {
   "checked": "2026-11-19",
@@ -4589,6 +4664,11 @@
   "query": "Il Volo",
   "v": 2
  },
+ "ima neka tajna veza": {
+  "checked": "2026-11-20",
+  "query": "Ima Neka Tajna Veza",
+  "v": 2
+ },
  "imminence": {
   "checked": "2026-11-09",
   "country": "SE",
@@ -5783,6 +5863,11 @@
  "kozmosz evzaro": {
   "checked": "2026-11-10",
   "query": "Kozmosz évzáró",
+  "v": 2
+ },
+ "kpop demon hunters": {
+  "checked": "2026-11-20",
+  "query": "KPop Demon Hunters",
   "v": 2
  },
  "kpop demon hunters 11 09 2027 12 09 2027 halle d allgemeiner vvk start": {
@@ -7166,6 +7251,16 @@
   "query": "Miguel Zenon 4et",
   "v": 2
  },
+ "mika male": {
+  "checked": "2026-11-20",
+  "country": "",
+  "genre": "",
+  "links": {},
+  "mbid": "7b042ebf-ce1d-499a-a3ba-d3aa11535d2f",
+  "name": "Mika Male",
+  "query": "Mika Male",
+  "v": 2
+ },
  "mine": {
   "checked": "2026-11-09",
   "query": "Mine",
@@ -7797,6 +7892,11 @@
  "nicole zuraitis quartet": {
   "checked": "2026-11-10",
   "query": "Nicole Zuraitis Quartet",
+  "v": 2
+ },
+ "niemand muss ein promi sein": {
+  "checked": "2026-11-20",
+  "query": "Niemand muss ein Promi sein",
   "v": 2
  },
  "nieve ella": {
@@ -8663,6 +8763,11 @@
  "project days 2026": {
   "checked": "2026-11-08",
   "query": "Project Days 2026"
+ },
+ "proper": {
+  "checked": "2026-11-20",
+  "query": "Proper.",
+  "v": 2
  },
  "prosectura": {
   "checked": "2026-11-10",
@@ -11778,6 +11883,11 @@
   "mbid": "5258b4f8-5a55-4a77-9ea4-4782cbab9d59",
   "name": "Vad Fruttik",
   "query": "Vad Fruttik",
+  "v": 2
+ },
+ "valentinovo u lisinskom": {
+  "checked": "2026-11-20",
+  "query": "Valentinovo u Lisinskom",
   "v": 2
  },
  "valerie sajdik": {

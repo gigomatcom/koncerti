@@ -1,10 +1,10 @@
 title: Kino Šiška – Center urbane kulture
 jsonld types: 
-<tr class=> 19. 11. / 11:00 dvorana Katedrala sub_bar | Taktilna zvočna izkušnja za gluhe in slišeče Glasba vstop prost | https://www.kinosiska.si/dogodek/[…]/
-<tr class=> 19. 11. / 20:00 dvorana Katedrala NIPPLEPEOPLE Glasba Nakup vstopnice | https://www.kinosiska.si/dogodek/nipplepeople/
 <tr class=> 20. 11. / 20:00 dvorana Katedrala Pihajmo za zdravo Slovenijo Glasba vstop prost | https://www.kinosiska.si/dogodek/pihajmo-za-zdravo-slovenijo/
 <tr class=> 21. 11. / 10:00 dvorana Katedrala DaDADADISKO: družinski rave I JAMirko in All Around the House Glasba Nakup vstopnice | https://www.kinosiska.si/dogodek/dadadisko-druzinski-rave/
 <tr class=> 21. 11. / 20:00 dvorana Katedrala RAVE ON x endemit Glasba Nakup vstopnice | https://www.kinosiska.si/dogodek/rave-on-x-endemit/
+<tr class=> 23. 11. / 20:00 dvorana Komuna Razlita Tinta | Predstavi svojo stripovsko idejo Vizualna umetnost vstop prost | https://www.kinosiska.si/dogodek/[…]/
+<tr class=> 24. 11. / 20:00 dvorana Katedrala ZEBRAHEAD Glasba Nakup vstopnice | https://www.kinosiska.si/dogodek/zebrahead/
 <a class=no-hover> Ples/gledališče 27. 11. / pet  / 20:00 CoFestival 2026 15. mednarodni festival sodobnega plesa Nakup vstopnice | https://www.kinosiska.si/dogodek/cofestival-2026/
 <div class=card-event-full-width> Ples/gledališče 27. 11. / pet  / 20:00 CoFestival 2026 15. mednarodni festival sodobnega plesa Nakup vstopnice | 
 <div class=header> Ples/gledališče 27. 11. / pet  / 20:00 CoFestival 2026 15. mednarodni festival sodobnega plesa Nakup vstopnice | 
@@ -25,18 +25,18 @@ jsonld types:
 <a class=no-hover> Vizualna umetnost 01. 10.                        - 31. 12. DOGODKI V DOBRIVAGI razstave, delavnice, pogovori, predavanja... | https://www.kinosiska.si/dogodek/dogodki-v-dobrivagi/
 <article class=card-event-small> Vizualna umetnost 01. 10.                        - 31. 12. DOGODKI V DOBRIVAGI razstave, delavnice, pogovori, predavanja... | 
 <div class=content.pass-on-hover> 01. 10.                        - 31. 12. DOGODKI V DOBRIVAGI razstave, delavnice, pogovori, predavanja... | 
-<div class=col-md-4.mt-1> Glasba 19. 11. / čet  / 20:00 koncert NIPPLEPEOPLE + Pocket Palma | https://www.kinosiska.si/dogodek/nipplepeople/
-<a class=no-hover> Glasba 19. 11. / čet  / 20:00 koncert NIPPLEPEOPLE + Pocket Palma | https://www.kinosiska.si/dogodek/nipplepeople/
-<article class=card-event-small> Glasba 19. 11. / čet  / 20:00 koncert NIPPLEPEOPLE + Pocket Palma | 
-<div class=content.pass-on-hover> 19. 11. / čet  / 20:00 koncert NIPPLEPEOPLE + Pocket Palma | 
 <div class=col-md-4.mt-1> Glasba 20. 11. / pet  / 20:00 Pihajmo za zdravo Slovenijo koncert | https://www.kinosiska.si/dogodek/pihajmo-za-zdravo-slovenijo/
 <a class=no-hover> Glasba 20. 11. / pet  / 20:00 Pihajmo za zdravo Slovenijo koncert | https://www.kinosiska.si/dogodek/pihajmo-za-zdravo-slovenijo/
 <article class=card-event-small> Glasba 20. 11. / pet  / 20:00 Pihajmo za zdravo Slovenijo koncert | 
 <div class=content.pass-on-hover> 20. 11. / pet  / 20:00 Pihajmo za zdravo Slovenijo koncert | 
-<div class=col-md-4.mt-1> Vizualna umetnost 23. 11. / pon  / 20:00 Razlita Tinta | Predstavi svojo stripovsko idejo predstavitev in mreženje | https://www.kinosiska.si/dogodek/[…]/
-<a class=no-hover> Vizualna umetnost 23. 11. / pon  / 20:00 Razlita Tinta | Predstavi svojo stripovsko idejo predstavitev in mreženje | https://www.kinosiska.si/dogodek/[…]/
-<article class=card-event-small> Vizualna umetnost 23. 11. / pon  / 20:00 Razlita Tinta | Predstavi svojo stripovsko idejo predstavitev in mreženje | 
-<div class=content.pass-on-hover> 23. 11. / pon  / 20:00 Razlita Tinta | Predstavi svojo stripovsko idejo predstavitev in mreženje | 
+<div class=col-md-4.mt-1> Glasba 21. 11. / sob  / 10:00 DaDADADISKO: družinski rave I JAMirko in All Around the House ples in delavnice | https://www.kinosiska.si/dogodek/dadadisko-druzinski-rave/
+<a class=no-hover> Glasba 21. 11. / sob  / 10:00 DaDADADISKO: družinski rave I JAMirko in All Around the House ples in delavnice | https://www.kinosiska.si/dogodek/dadadisko-druzinski-rave/
+<article class=card-event-small> Glasba 21. 11. / sob  / 10:00 DaDADADISKO: družinski rave I JAMirko in All Around the House ples in delavnice | 
+<div class=content.pass-on-hover> 21. 11. / sob  / 10:00 DaDADADISKO: družinski rave I JAMirko in All Around the House ples in delavnice | 
+<div class=col-md-4.mt-1> Glasba 24. 11. / tor  / 20:00 koncert ZEBRAHEAD + Punk Rock Factory | https://www.kinosiska.si/dogodek/zebrahead/
+<a class=no-hover> Glasba 24. 11. / tor  / 20:00 koncert ZEBRAHEAD + Punk Rock Factory | https://www.kinosiska.si/dogodek/zebrahead/
+<article class=card-event-small> Glasba 24. 11. / tor  / 20:00 koncert ZEBRAHEAD + Punk Rock Factory | 
+<div class=content.pass-on-hover> 24. 11. / tor  / 20:00 koncert ZEBRAHEAD + Punk Rock Factory | 
 <div class=col-md-8.mt-1> Ples/gledališče 27. 11. / pet  / 20:00 CoFestival 2026 15. mednarodni festival sodobnega plesa Nakup vstopnice | https://www.kinosiska.si/dogodek/cofestival-2026/
 <a class=no-hover> Ples/gledališče 27. 11. / pet  / 20:00 CoFestival 2026 15. mednarodni festival sodobnega plesa Nakup vstopnice | https://www.kinosiska.si/dogodek/cofestival-2026/
 <div class=card-event-featured> Ples/gledališče 27. 11. / pet  / 20:00 CoFestival 2026 15. mednarodni festival sodobnega plesa Nakup vstopnice | 
@@ -57,7 +57,7 @@ jsonld types:
 <div class=row> 01. 10.                                    - 31. 12. DOGODKI V DOBRIVAGI razstave, delavnice, pogovori, predavanja... | 
 <div class=col-md-12> 01. 10.                                    - 31. 12. DOGODKI V DOBRIVAGI razstave, delavnice, pogovori, predavanja... | 
 <div class=information> 01. 10.                                    - 31. 12. DOGODKI V DOBRIVAGI razstave, delavnice, pogovori, predavanja... | 
-<div class=col-md-8.mt-1> Glasba 19. 11. / čet  / 20:00 koncert NIPPLEPEOPLE + Pocket Palma Nakup vstopnice | https://www.kinosiska.si/dogodek/nipplepeople/
-<a class=no-hover> Glasba 19. 11. / čet  / 20:00 koncert NIPPLEPEOPLE + Pocket Palma Nakup vstopnice | https://www.kinosiska.si/dogodek/nipplepeople/
-<div class=card-event-featured> Glasba 19. 11. / čet  / 20:00 koncert NIPPLEPEOPLE + Pocket Palma Nakup vstopnice | 
+<div class=col-md-8.mt-1> Film 10. 12. / čet  / 20:00 INSPIRED BY x KINO-UHO x KIN-O-ZVUK: Birtija projekcija nemega filma z glasbeno spremljavo in koncert Nakup vstopnice | https://www.kinosiska.si/dogodek/birtija/
+<a class=no-hover> Film 10. 12. / čet  / 20:00 INSPIRED BY x KINO-UHO x KIN-O-ZVUK: Birtija projekcija nemega filma z glasbeno spremljavo in koncert Nakup vstopnice | https://www.kinosiska.si/dogodek/birtija/
+<div class=card-event-featured> Film 10. 12. / čet  / 20:00 INSPIRED BY x KINO-UHO x KIN-O-ZVUK: Birtija projekcija nemega filma z glasbeno spremljavo in koncert Nakup vstopnice | 
 poveznice (4): https://www.eventim.si/event/19972932/?affiliate=VC1 https://www.kinosiska.si/dogodek/cikcak-koncerti-alostari/ https://www.kinosiska.si/dogodek/cikcak-koncerti-mrfy/ https://www.kinosiska.si/[…]/

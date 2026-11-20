@@ -1,33 +1,11 @@
 [
  {
-  "date": "2026-11-19",
-  "time": "",
-  "title": "Space Unicorn on Fire ,BigBadWolf",
-  "venue": "lj-orto",
-  "genre": "",
-  "price": "15 €",
-  "url": "https://www.orto-bar.com/dogodki/koncerti/space-unicorn-on-fire-bigbadwolf/",
-  "city": "ljubljana",
-  "source": "orto"
- },
- {
-  "date": "2026-11-19",
-  "time": "",
-  "title": "Sophy",
-  "venue": "lj-orto",
-  "genre": "",
-  "price": "12 €",
-  "url": "https://www.orto-bar.com/dogodki/koncerti/sophy/",
-  "city": "ljubljana",
-  "source": "orto"
- },
- {
   "date": "2026-11-20",
   "time": "",
   "title": "Loose Cannon",
   "venue": "lj-orto",
   "genre": "",
-  "price": "8–10 €",
+  "price": "10 €",
   "url": "https://www.orto-bar.com/dogodki/koncerti/loose-cannon/",
   "city": "ljubljana",
   "source": "orto"
@@ -38,7 +16,7 @@
   "title": "Metropolis “Ob letu osorej, že 32 let!”",
   "venue": "lj-orto",
   "genre": "",
-  "price": "12–15 €",
+  "price": "15 €",
   "url": "https://www.orto-bar.com/dogodki/koncerti/metropolis-ob-letu-osorej-ze-32-let/",
   "city": "ljubljana",
   "source": "orto"
@@ -73,6 +51,28 @@
   "genre": "",
   "price": "10–12 €",
   "url": "https://www.orto-bar.com/dogodki/koncerti/horizontal-zebra-2brothers-the-others/",
+  "city": "ljubljana",
+  "source": "orto"
+ },
+ {
+  "date": "2026-11-26",
+  "time": "",
+  "title": "Barking Jacqueline",
+  "venue": "lj-orto",
+  "genre": "",
+  "price": "5–8 €",
+  "url": "https://www.orto-bar.com/dogodki/koncerti/barking-jacqueline-2/",
+  "city": "ljubljana",
+  "source": "orto"
+ },
+ {
+  "date": "2026-11-26",
+  "time": "",
+  "title": "The Red Hot Experience-Red Hot Chili Peppers Tribute Band (Brazilija)",
+  "venue": "lj-orto",
+  "genre": "",
+  "price": "14–17 €",
+  "url": "https://www.orto-bar.com/dogodki/koncerti/the-red-hot-experience-red-hot-chili-peppers-tribute-band-brazilija/",
   "city": "ljubljana",
   "source": "orto"
  }

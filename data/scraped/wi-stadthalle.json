@@ -1,27 +1,5 @@
 [
  {
-  "date": "2026-11-19",
-  "time": "",
-  "title": "KoRn",
-  "venue": "wi-stadthalle",
-  "genre": "",
-  "price": "",
-  "url": "https://www.stadthalle.com/de/events/alle-events/51330/KoRn",
-  "city": "bec",
-  "source": "wi-stadthalle"
- },
- {
-  "date": "2026-11-19",
-  "time": "",
-  "title": "Herzog & Polster",
-  "venue": "wi-stadthalle",
-  "genre": "",
-  "price": "",
-  "url": "https://www.stadthalle.com/de/events/alle-events/51536/Herzog-amp-Polster",
-  "city": "bec",
-  "source": "wi-stadthalle"
- },
- {
   "date": "2026-11-21",
   "time": "",
   "title": "Gregorian",
@@ -249,17 +227,6 @@
   "genre": "",
   "price": "",
   "url": "https://www.stadthalle.com/de/events/alle-events/51302/Resident-Evil",
-  "city": "bec",
-  "source": "wi-stadthalle"
- },
- {
-  "date": "2026-12-16",
-  "time": "",
-  "title": "Nimo",
-  "venue": "wi-stadthalle",
-  "genre": "",
-  "price": "",
-  "url": "https://www.stadthalle.com/de/events/alle-events/51160/Nimo",
   "city": "bec",
   "source": "wi-stadthalle"
  },
@@ -792,6 +759,17 @@
   "source": "wi-stadthalle"
  },
  {
+  "date": "2027-04-03",
+  "time": "",
+  "title": "Aca Lukas",
+  "venue": "wi-stadthalle",
+  "genre": "",
+  "price": "",
+  "url": "https://www.stadthalle.com/de/events/alle-events/51621/Aca-Lukas",
+  "city": "bec",
+  "source": "wi-stadthalle"
+ },
+ {
   "date": "2027-04-05",
   "time": "",
   "title": "Sašo Avsenik & seine Oberkrainer",
@@ -1133,9 +1111,9 @@
   "source": "wi-stadthalle"
  },
  {
-  "date": "2026-11-20",
-  "time": "10:00",
-  "title": "KPop Demon Hunters 11.09.2027–12.09.2027 Halle D Allgemeiner VVK Start: 20.11.2026, 10:00 Uhr",
+  "date": "2027-09-11",
+  "time": "",
+  "title": "KPop Demon Hunters",
   "venue": "wi-stadthalle",
   "genre": "",
   "price": "",
@@ -1529,8 +1507,8 @@
   "source": "wi-stadthalle"
  },
  {
-  "date": "2026-11-22",
-  "time": "14:00",
+  "date": "2028-03-03",
+  "time": "",
   "title": "Carolin Kebekus",
   "venue": "wi-stadthalle",
   "genre": "",

@@ -1,16 +1,5 @@
 [
  {
-  "date": "2026-11-19",
-  "time": "21:00",
-  "title": "onkraj / SUUTOO presents STARFIRE, Ribeiroia, kaleido",
-  "venue": "mocvara",
-  "genre": "",
-  "price": "",
-  "url": "https://mochvara.hr/event-detail/6ae20789ca71fac878b0f24d/",
-  "city": "zagreb",
-  "source": "mocvara"
- },
- {
   "date": "2026-11-20",
   "time": "22:00",
   "title": "Dirty Dancing – 80’s party",
@@ -106,6 +95,28 @@
   "genre": "",
   "price": "",
   "url": "https://mochvara.hr/event-detail/6aeb190663694136b1d5ad87/",
+  "city": "zagreb",
+  "source": "mocvara"
+ },
+ {
+  "date": "2026-11-29",
+  "time": "20:30",
+  "title": "Mika Male (promocija albuma), Iva Bobanović",
+  "venue": "mocvara",
+  "genre": "",
+  "price": "",
+  "url": "https://mochvara.hr/event-detail/6ae094d81a65fb5fc59790e8/",
+  "city": "zagreb",
+  "source": "mocvara"
+ },
+ {
+  "date": "2027-04-12",
+  "time": "",
+  "title": "Agriculture",
+  "venue": "mocvara",
+  "genre": "",
+  "price": "",
+  "url": "https://mochvara.hr/event-detail/6afec77b8c62b05525e32f0d/",
   "city": "zagreb",
   "source": "mocvara"
  },

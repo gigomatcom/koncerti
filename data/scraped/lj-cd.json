@@ -1,12 +1,23 @@
 [
  {
-  "date": "2026-11-19",
-  "time": "",
-  "title": "Kromatika 2: Lazić in dva klavirska koncerta",
+  "date": "2026-12-31",
+  "time": "19:00",
+  "title": "Isimangaliso",
   "venue": "lj-cankarjev",
-  "genre": "klasika",
+  "genre": "",
   "price": "",
-  "url": "https://www.cd-cc.si/kultura/glasba/kromatika-2-lazic-in-dva-klavirska-koncerta",
+  "url": "https://www.cd-cc.si/kultura/glasba/isimangaliso",
+  "city": "ljubljana",
+  "source": "lj-cd"
+ },
+ {
+  "date": "2026-12-04",
+  "time": "20:00",
+  "title": "Votia (Reunion)",
+  "venue": "lj-cankarjev",
+  "genre": "",
+  "price": "",
+  "url": "https://www.cd-cc.si/kultura/glasba/votia-reunion",
   "city": "ljubljana",
   "source": "lj-cd"
  },
@@ -99,17 +110,6 @@
   "source": "lj-cd"
  },
  {
-  "date": "2026-12-04",
-  "time": "",
-  "title": "Votia (Reunion)",
-  "venue": "lj-cankarjev",
-  "genre": "",
-  "price": "",
-  "url": "https://www.cd-cc.si/kultura/glasba/votia-reunion",
-  "city": "ljubljana",
-  "source": "lj-cd"
- },
- {
   "date": "2026-12-08",
   "time": "",
   "title": "Laeticia Hormuth, sopran & Eva Kokot, sopran",
@@ -161,17 +161,6 @@
   "genre": "",
   "price": "",
   "url": "https://www.cd-cc.si/kultura/glasba/bozicna-fantazija",
-  "city": "ljubljana",
-  "source": "lj-cd"
- },
- {
-  "date": "2026-12-31",
-  "time": "",
-  "title": "Isimangaliso",
-  "venue": "lj-cankarjev",
-  "genre": "",
-  "price": "",
-  "url": "https://www.cd-cc.si/kultura/glasba/isimangaliso",
   "city": "ljubljana",
   "source": "lj-cd"
  },
