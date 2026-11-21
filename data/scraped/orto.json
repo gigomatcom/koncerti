@@ -1,33 +1,11 @@
 [
  {
-  "date": "2026-11-20",
-  "time": "",
-  "title": "Loose Cannon",
-  "venue": "lj-orto",
-  "genre": "",
-  "price": "10 €",
-  "url": "https://www.orto-bar.com/dogodki/koncerti/loose-cannon/",
-  "city": "ljubljana",
-  "source": "orto"
- },
- {
-  "date": "2026-11-20",
-  "time": "",
-  "title": "Metropolis “Ob letu osorej, že 32 let!”",
-  "venue": "lj-orto",
-  "genre": "",
-  "price": "15 €",
-  "url": "https://www.orto-bar.com/dogodki/koncerti/metropolis-ob-letu-osorej-ze-32-let/",
-  "city": "ljubljana",
-  "source": "orto"
- },
- {
   "date": "2026-11-21",
   "time": "",
   "title": "RING-ABBA tribute band",
   "venue": "lj-orto",
   "genre": "",
-  "price": "15–18 €",
+  "price": "18 €",
   "url": "https://www.orto-bar.com/dogodki/koncerti/ring-abba-tribute-band-4/",
   "city": "ljubljana",
   "source": "orto"
@@ -73,6 +51,28 @@
   "genre": "",
   "price": "14–17 €",
   "url": "https://www.orto-bar.com/dogodki/koncerti/the-red-hot-experience-red-hot-chili-peppers-tribute-band-brazilija/",
+  "city": "ljubljana",
+  "source": "orto"
+ },
+ {
+  "date": "2026-11-27",
+  "time": "",
+  "title": "Indie Rock / Pop Večer- Indieoktrinacija",
+  "venue": "lj-orto",
+  "genre": "",
+  "price": "8 €",
+  "url": "https://www.orto-bar.com/dogodki/dj/indie-rock-pop-vecer-indieoktrinacija/",
+  "city": "ljubljana",
+  "source": "orto"
+ },
+ {
+  "date": "2026-11-27",
+  "time": "",
+  "title": "DIRE STRAITS PROJECT – Dire Straits Tribute Band",
+  "venue": "lj-orto",
+  "genre": "",
+  "price": "15–18 €",
+  "url": "https://www.orto-bar.com/dogodki/koncerti/dire-straits-project-dire-straits-tribute-band-3/",
   "city": "ljubljana",
   "source": "orto"
  }

@@ -1,16 +1,5 @@
 [
  {
-  "date": "2026-11-20",
-  "time": "22:00",
-  "title": "Dirty Dancing – 80’s party",
-  "venue": "mocvara",
-  "genre": "dj",
-  "price": "",
-  "url": "https://mochvara.hr/event-detail/6ac8ad71653eb342985b8702/",
-  "city": "zagreb",
-  "source": "mocvara"
- },
- {
   "date": "2026-11-21",
   "time": "21:00",
   "title": "Idu Hobiti – promocija albuma \"Idu Dalje\"",
@@ -100,12 +89,34 @@
  },
  {
   "date": "2026-11-29",
+  "time": "12:00",
+  "title": "73. Močvarin sajam ploča i stripova",
+  "venue": "mocvara",
+  "genre": "",
+  "price": "",
+  "url": "https://mochvara.hr/event-detail/6b01728bd339d69a335e3d2e/",
+  "city": "zagreb",
+  "source": "mocvara"
+ },
+ {
+  "date": "2026-11-29",
   "time": "20:30",
   "title": "Mika Male (promocija albuma), Iva Bobanović",
   "venue": "mocvara",
   "genre": "",
   "price": "",
   "url": "https://mochvara.hr/event-detail/6ae094d81a65fb5fc59790e8/",
+  "city": "zagreb",
+  "source": "mocvara"
+ },
+ {
+  "date": "2026-12-01",
+  "time": "20:00",
+  "title": "\"Tvoja snaga, moja inspiracija!\"",
+  "venue": "mocvara",
+  "genre": "",
+  "price": "",
+  "url": "https://mochvara.hr/event-detail/6af30013c919d00386ecf869/",
   "city": "zagreb",
   "source": "mocvara"
  },

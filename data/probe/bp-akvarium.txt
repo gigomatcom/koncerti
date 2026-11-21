@@ -1,15 +1,5 @@
 title: Programok • Akvárium
 jsonld types: CollectionPage, BreadcrumbList, ListItem, ListItem, WebSite, SearchAction, EntryPoint, PropertyValueSpecification, Organization, ImageObject
-<a class=grid-item.m-card.november> Nov. 20. péntek TELTHÁZ! // Eddig későn feküdtem le – cserihanna lemezbemutató koncert | https://akvariumklub.hu/programok/[…]/
-<div class=m-card__date.override-bg.override-color> Nov. 20. péntek | 
-<a class=grid-item.m-card.november> Nov. 20. péntek Escape My Shadows [II. Fázis] | https://akvariumklub.hu/programok/escape-my-shadows/
-<div class=m-card__date.override-bg.override-color> Nov. 20. péntek | 
-<a class=grid-item.m-card.november> Nov. 20. péntek GULU GULU x zuzmo x rtificial:red (HR) | https://akvariumklub.hu/programok/[…]/
-<div class=m-card__date.override-bg.override-color> Nov. 20. péntek | 
-<a class=grid-item.m-card.november> Nov. 20. péntek skins club night (but make it brat) | https://akvariumklub.hu/programok/[…]/
-<div class=m-card__date.override-bg.override-color> Nov. 20. péntek | 
-<a class=grid-item.m-card.november> Nov. 20. péntek MAMMA MIA the PARTY! • VideoDisco • ABBA & Girly Pop • | https://akvariumklub.hu/programok/[…]/
-<div class=m-card__date.override-bg.override-color> Nov. 20. péntek | 
 <a class=grid-item.m-card.november> Nov. 21. szombat Lóci játszik // Vagy – Vagy koncert // | https://akvariumklub.hu/programok/loci-jatszik/
 <div class=m-card__date.override-bg.override-color> Nov. 21. szombat | 
 <a class=grid-item.m-card.november> Nov. 21. szombat fannisza x tendo lemezbemutató² | https://akvariumklub.hu/programok/fannisza-x-tendo-lemezbemutato/
@@ -26,11 +16,13 @@ jsonld types: CollectionPage, BreadcrumbList, ListItem, ListItem, WebSite, Searc
 <div class=m-card__date.override-bg.override-color> Nov. 27. péntek | 
 <a class=grid-item.m-card.november> Nov. 28. szombat Kraak & Smaak | https://akvariumklub.hu/programok/kraak-smaak/
 <div class=m-card__date.override-bg.override-color> Nov. 28. szombat | 
-<a class=grid-item.m-card.november> Nov. 28. szombat FILO – Minden elmúlik lemezbemutató | https://akvariumklub.hu/programok/[…]/
+<a class=grid-item.m-card.november> Nov. 28. szombat TELT HÁZ! FILO – Minden elmúlik lemezbemutató | https://akvariumklub.hu/programok/[…]/
 <div class=m-card__date.override-bg.override-color> Nov. 28. szombat | 
 <a class=grid-item.m-card.november> Nov. 28. szombat JAMBALAYA New Orleans Music Show | https://akvariumklub.hu/programok/[…]/
 <div class=m-card__date.override-bg.override-color> Nov. 28. szombat | 
 <a class=grid-item.m-card.free> Nov. 29. vasárnap Secret Market – 11.29. | https://akvariumklub.hu/programok/secret-market-11-29/
+<div class=m-card__date.override-bg.override-color> Nov. 29. vasárnap | 
+<a class=grid-item.m-card.november> Nov. 29. vasárnap RENT | https://akvariumklub.hu/programok/rent/
 <div class=m-card__date.override-bg.override-color> Nov. 29. vasárnap | 
 <a class=grid-item.m-card.november> Nov. 30. hétfő Macy Gray | https://akvariumklub.hu/programok/macy-gray/
 <div class=m-card__date.override-bg.override-color> Nov. 30. hétfő | 
@@ -60,4 +52,12 @@ jsonld types: CollectionPage, BreadcrumbList, ListItem, ListItem, WebSite, Searc
 <div class=m-card__date.override-bg.override-color> Dec. 05. szombat | 
 <a class=grid-item.m-card.december> Dec. 05. szombat NECC PARTY | https://akvariumklub.hu/programok/necc-party-12-05/
 <div class=m-card__date.override-bg.override-color> Dec. 05. szombat | 
-poveznice (112): https://akvariumklub.hu/en/events/ https://akvariumklub.hu/programok/ https://akvariumklub.hu/programok/[…]/ https://akvariumklub.hu/programok/[…]/ https://akvariumklub.hu/programok/[…]/ https://akvariumklub.hu/programok/[…]/ https://akvariumklub.hu/programok/[…]/ https://akvariumklub.hu/programok/ana-moura/ https://akvariumklub.hu/programok/andrea-vanzo-ultetett/ https://akvariumklub.hu/programok/andrea-vanzo/ https://akvariumklub.hu/programok/apollo-brown-x-skyzoo/ https://akvariumklub.hu/programok/artur-rambo/ https://akvariumklub.hu/programok/balkan-vip/ https://akvariumklub.hu/programok/belano/ https://akvariumklub.hu/programok/[…]/ https://akvariumklub.hu/programok/bladerunnaz-pres-mozey/ https://akvariumklub.hu/programok/[…]/ https://akvariumklub.hu/programok/[…]/ https://akvariumklub.hu/programok/[…]/ https://akvariumklub.hu/programok/cloud-9-15-szulinap/ https://akvariumklub.hu/programok/dead-poet-society/ https://akvariumklub.hu/programok/deep-forest/ https://akvariumklub.hu/programok/dirty-honey-budapest-2027/ https://akvariumklub.hu/programok/eagle-eye-cherry-budapest-2026/ https://akvariumklub.hu/programok/[…]/
+<a class=grid-item.m-card.free> Dec. 06. vasárnap Secret Market – 12.06. | https://akvariumklub.hu/programok/secret-market-12-06/
+<div class=m-card__date.override-bg.override-color> Dec. 06. vasárnap | 
+<div class=m-card__inner-wrapper> Secret Market – 12.06. | 
+<div class=m-card__description> Secret Market – 12.06. | 
+<a class=grid-item.m-card.december> Dec. 06. vasárnap WELLHELLO – SUNDAY FUNDAY | https://akvariumklub.hu/programok/wellhello-sunday-funday/
+<div class=m-card__date.override-bg.override-color> Dec. 06. vasárnap | 
+<a class=grid-item.m-card.december> Dec. 07. hétfő Chelsea Wolfe: THE DARK World Tour | https://akvariumklub.hu/programok/[…]/
+<div class=m-card__date.override-bg.override-color> Dec. 07. hétfő | 
+poveznice (110): https://akvariumklub.hu/en/events/ https://akvariumklub.hu/programok/ https://akvariumklub.hu/programok/[…]/ https://akvariumklub.hu/programok/[…]/ https://akvariumklub.hu/programok/[…]/ https://akvariumklub.hu/programok/[…]/ https://akvariumklub.hu/programok/[…]/ https://akvariumklub.hu/programok/ana-moura/ https://akvariumklub.hu/programok/andrea-vanzo-ultetett/ https://akvariumklub.hu/programok/andrea-vanzo/ https://akvariumklub.hu/programok/apollo-brown-x-skyzoo/ https://akvariumklub.hu/programok/artur-rambo/ https://akvariumklub.hu/programok/balkan-vip/ https://akvariumklub.hu/programok/belano/ https://akvariumklub.hu/programok/[…]/ https://akvariumklub.hu/programok/bladerunnaz-pres-mozey/ https://akvariumklub.hu/programok/[…]/ https://akvariumklub.hu/programok/[…]/ https://akvariumklub.hu/programok/[…]/ https://akvariumklub.hu/programok/[…]/ https://akvariumklub.hu/programok/cloud-9-15-szulinap/ https://akvariumklub.hu/programok/dead-poet-society/ https://akvariumklub.hu/programok/deep-forest/ https://akvariumklub.hu/programok/dirty-honey-budapest-2027/ https://akvariumklub.hu/programok/eagle-eye-cherry-budapest-2026/

@@ -2,7 +2,7 @@
  {
   "date": "2026-11-21",
   "time": "",
-  "title": "Gregorian",
+  "title": "Gregorian Heute",
   "venue": "wi-stadthalle",
   "genre": "",
   "price": "",
@@ -1393,6 +1393,17 @@
   "genre": "",
   "price": "",
   "url": "https://www.stadthalle.com/de/events/alle-events/51564/LORIOT",
+  "city": "bec",
+  "source": "wi-stadthalle"
+ },
+ {
+  "date": "2027-11-22",
+  "time": "",
+  "title": "Dick Brave",
+  "venue": "wi-stadthalle",
+  "genre": "dj",
+  "price": "",
+  "url": "https://www.stadthalle.com/de/events/alle-events/51630/Dick-Brave",
   "city": "bec",
   "source": "wi-stadthalle"
  },

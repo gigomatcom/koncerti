@@ -1,34 +1,12 @@
 [
  {
-  "date": "2026-11-20",
-  "time": "22:00",
-  "title": "Mad Circus - Vip Ticket",
+  "date": "2026-11-21",
+  "time": "19:00",
+  "title": "Egy a Múltunk, egy a Hangunk",
   "venue": "bp-barbanegra",
   "genre": "",
   "price": "",
-  "url": "https://www.barbanegra.hu/program/mad-circus_20261120-vipticket",
-  "city": "budimpesta",
-  "source": "bp-barbanegra"
- },
- {
-  "date": "2026-11-20",
-  "time": "18:00",
-  "title": "Moby Dick | Omen",
-  "venue": "bp-barbanegra",
-  "genre": "",
-  "price": "",
-  "url": "https://www.barbanegra.hu/program/moby-dick_omen_20261120",
-  "city": "budimpesta",
-  "source": "bp-barbanegra"
- },
- {
-  "date": "2026-11-20",
-  "time": "22:00",
-  "title": "Mad Circus",
-  "venue": "bp-barbanegra",
-  "genre": "",
-  "price": "",
-  "url": "https://www.barbanegra.hu/program/mad-circus_20261120",
+  "url": "https://www.barbanegra.hu/program/egy-a-multunk_egy-a-hangunk_20261121",
   "city": "budimpesta",
   "source": "bp-barbanegra"
  },

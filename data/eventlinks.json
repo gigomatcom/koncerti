@@ -134,6 +134,18 @@
    "youtube": "https://www.youtube.com/channel/UC7C1zwKSsOf1ESEnDWaVpyw"
   }
  },
+ "https://akvariumklub.hu/programok/bolhicirmi-a-nagy-evindito-gyerekbuli/": {
+  "checked": "2026-11-21",
+  "clean": {
+   "spotify": "https://open.spotify.com/artist/3JxChSgHPzUed369TRCK0J"
+  },
+  "links": {
+   "facebook": "https://www.facebook.com/akvariumklub/",
+   "instagram": "https://www.instagram.com/akvariumklub/",
+   "spotify": "https://open.spotify.com/artist/3JxChSgHPzUed369TRCK0J",
+   "youtube": "https://www.youtube.com/channel/UC7C1zwKSsOf1ESEnDWaVpyw"
+  }
+ },
  "https://akvariumklub.hu/programok/bongor-az-utolso-extazis/": {
   "checked": "2026-11-10",
   "clean": {
@@ -671,6 +683,15 @@
    "youtube": "https://www.youtube.com/channel/UC7C1zwKSsOf1ESEnDWaVpyw"
   }
  },
+ "https://akvariumklub.hu/programok/lunar-midnight-akvarium-nye-2026/": {
+  "checked": "2026-11-21",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/akvariumklub/",
+   "instagram": "https://www.instagram.com/akvariumklub/",
+   "youtube": "https://www.youtube.com/channel/UC7C1zwKSsOf1ESEnDWaVpyw"
+  }
+ },
  "https://akvariumklub.hu/programok/macy-gray/": {
   "checked": "2026-11-10",
   "clean": {},
@@ -848,6 +869,15 @@
    "facebook": "https://www.facebook.com/akvariumklub/",
    "instagram": "https://www.instagram.com/akvariumklub/",
    "spotify": "https://open.spotify.com/artist/3FCo1sUkVbwKnO2m0Z7Bp9",
+   "youtube": "https://www.youtube.com/channel/UC7C1zwKSsOf1ESEnDWaVpyw"
+  }
+ },
+ "https://akvariumklub.hu/programok/rent/": {
+  "checked": "2026-11-21",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/akvariumklub/",
+   "instagram": "https://www.instagram.com/akvariumklub/",
    "youtube": "https://www.youtube.com/channel/UC7C1zwKSsOf1ESEnDWaVpyw"
   }
  },
@@ -2573,6 +2603,14 @@
    "instagram": "https://www.instagram.com/jabuka2.8"
   }
  },
+ "https://dvaosam.com/event-detail/6af1db36c919d00386c4c81d/": {
+  "checked": "2026-11-21",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/jabuka2.8",
+   "instagram": "https://www.instagram.com/jabuka2.8"
+  }
+ },
  "https://flex.at/event/8409/": {
   "checked": "2026-11-10",
   "clean": {},
@@ -3200,6 +3238,15 @@
    "youtube": "http://www.youtube.com/user/klubmochvara"
   }
  },
+ "https://mochvara.hr/event-detail/6af30013c919d00386ecf869/": {
+  "checked": "2026-11-21",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/mochvara",
+   "instagram": "https://www.instagram.com/mochvara/",
+   "youtube": "http://www.youtube.com/user/klubmochvara"
+  }
+ },
  "https://mochvara.hr/event-detail/6af5acef6f44c2a5708a838d/": {
   "checked": "2026-11-12",
   "clean": {},
@@ -3226,6 +3273,15 @@
   "links": {
    "facebook": "https://www.facebook.com/mochvara",
    "instagram": "https://www.instagram.com/agriculture_music/",
+   "youtube": "http://www.youtube.com/user/klubmochvara"
+  }
+ },
+ "https://mochvara.hr/event-detail/6b01728bd339d69a335e3d2e/": {
+  "checked": "2026-11-21",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/mochvara",
+   "instagram": "https://www.instagram.com/mochvara/",
    "youtube": "http://www.youtube.com/user/klubmochvara"
   }
  },
@@ -3796,6 +3852,15 @@
    "youtube": "https://www.youtube.com/@barbanegrahungary1929"
   }
  },
+ "https://www.barbanegra.hu/program/egy-a-multunk_egy-a-hangunk_20261121": {
+  "checked": "2026-11-21",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/BARBA.NEGRA.HUNGARY",
+   "instagram": "https://www.instagram.com/barbanegrahungary",
+   "youtube": "https://www.youtube.com/@barbanegrahungary1929"
+  }
+ },
  "https://www.barbanegra.hu/program/eluveitie_20261122": {
   "checked": "2026-11-10",
   "clean": {},
@@ -4246,6 +4311,18 @@
    "facebook": "https://www.facebook.com/mozduljunkki.letsgoout",
    "instagram": "https://www.instagram.com/budapestpark/",
    "spotify": "https://open.spotify.com/artist/0kefKIzkoDXLQ4qmn72pu7",
+   "youtube": "https://www.youtube.com/user/Aparkofficial"
+  }
+ },
+ "https://www.budapestpark.hu/jegyvasarlas/event/scooter-2027-06-12": {
+  "checked": "2026-11-21",
+  "clean": {
+   "spotify": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
+  },
+  "links": {
+   "facebook": "https://www.facebook.com/mozduljunkki.letsgoout",
+   "instagram": "https://www.instagram.com/budapestpark/",
+   "spotify": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA",
    "youtube": "https://www.youtube.com/user/Aparkofficial"
   }
  },
@@ -7117,6 +7194,23 @@
    "youtube": "https://www.youtube.com/@TheFestivalLjubljana"
   }
  },
+ "https://www.ljubljanafestival.si/sl/koledar-dogodkov/25233-22-bozicni-koncert-glasbena-sola-franca-sturma": {
+  "checked": "2026-11-21",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/LjubljanaFestival",
+   "instagram": "https://www.instagram.com/festival_ljubljana",
+   "youtube": "https://www.youtube.com/@TheFestivalLjubljana"
+  }
+ },
+ "https://www.orto-bar.com/dogodki/dj/indie-rock-pop-vecer-indieoktrinacija/": {
+  "checked": "2026-11-21",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/noplacelikeorto",
+   "instagram": "https://www.instagram.com/orto_bar_slovenija/"
+  }
+ },
  "https://www.orto-bar.com/dogodki/dj/jugoslovanka-party/": {
   "checked": "2026-11-10",
   "clean": {},
@@ -7159,6 +7253,14 @@
  },
  "https://www.orto-bar.com/dogodki/koncerti/cherry-flavoured-predstavlja-prvenec-akt/": {
   "checked": "2026-11-13",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/noplacelikeorto",
+   "instagram": "https://www.instagram.com/orto_bar_slovenija/"
+  }
+ },
+ "https://www.orto-bar.com/dogodki/koncerti/dire-straits-project-dire-straits-tribute-band-3/": {
+  "checked": "2026-11-21",
   "clean": {},
   "links": {
    "facebook": "https://www.facebook.com/noplacelikeorto",
@@ -8299,6 +8401,11 @@
   "clean": {},
   "links": {}
  },
+ "https://www.stadthalle.com/de/events/alle-events/51630/Dick-Brave": {
+  "checked": "2026-11-21",
+  "clean": {},
+  "links": {}
+ },
  "https://www.tvornicakulture.com/2026/10/the-rasmus-u-tvornici-kulture/": {
   "checked": "2026-11-11",
   "clean": {
@@ -8379,6 +8486,14 @@
  },
  "https://www.wuk.at/programm/niemand-muss-ein-promi-sein-die-live-show-zum-podcast/": {
   "checked": "2026-11-20",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/wukvienna/",
+   "instagram": "http://instagram.com/wukvienna"
+  }
+ },
+ "https://www.wuk.at/programm/trinix/": {
+  "checked": "2026-11-21",
   "clean": {},
   "links": {
    "facebook": "https://www.facebook.com/wukvienna/",

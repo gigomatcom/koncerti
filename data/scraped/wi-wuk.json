@@ -1,12 +1,12 @@
 [
  {
-  "date": "2026-11-20",
+  "date": "2026-11-22",
   "time": "20:00",
-  "title": "Itchy",
+  "title": "Bosse 2026",
   "venue": "wi-werkstattenkulturhau",
   "genre": "",
   "price": "",
-  "url": "https://www.wuk.at/programm/itchy/",
+  "url": "https://www.wuk.at/programm/bosse-2026/",
   "city": "bec",
   "source": "wi-wuk"
  },
@@ -62,6 +62,17 @@
   "genre": "",
   "price": "",
   "url": "https://www.wuk.at/programm/niemand-muss-ein-promi-sein-die-live-show-zum-podcast/",
+  "city": "bec",
+  "source": "wi-wuk"
+ },
+ {
+  "date": "2026-11-28",
+  "time": "20:00",
+  "title": "Trinix",
+  "venue": "wi-werkstattenkulturhau",
+  "genre": "",
+  "price": "",
+  "url": "https://www.wuk.at/programm/trinix/",
   "city": "bec",
   "source": "wi-wuk"
  }

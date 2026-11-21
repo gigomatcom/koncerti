@@ -11,17 +11,6 @@
   "source": "tvornica"
  },
  {
-  "date": "2026-11-20",
-  "time": "20:00",
-  "title": "Psihomodo Pop",
-  "venue": "tvornica",
-  "genre": "",
-  "price": "",
-  "url": "https://core-event.co/events/psihomodo-pop-u-tvornici-kulture-ba36",
-  "city": "zagreb",
-  "source": "tvornica"
- },
- {
   "date": "2026-11-25",
   "time": "20:00",
   "title": "MARKO VUKES – prvi solistički koncert",
@@ -154,17 +143,6 @@
   "source": "tvornica"
  },
  {
-  "date": "2026-11-21",
-  "time": "20:00",
-  "title": "Jura Stublić & Film",
-  "venue": "tvornica",
-  "genre": "",
-  "price": "",
-  "url": "https://core-event.co/events/jura-stublic-film-u-tvornici-kulture-5f2c",
-  "city": "zagreb",
-  "source": "tvornica"
- },
- {
   "date": "2027-01-29",
   "time": "20:00",
   "title": "Živo Blato",
@@ -172,6 +150,17 @@
   "genre": "",
   "price": "",
   "url": "https://core-event.co/events/zivo-blato-u-tvornici-kulture-cc00",
+  "city": "zagreb",
+  "source": "tvornica"
+ },
+ {
+  "date": "2026-11-21",
+  "time": "20:00",
+  "title": "Jura Stublić & Film",
+  "venue": "tvornica",
+  "genre": "",
+  "price": "",
+  "url": "https://core-event.co/events/jura-stublic-film-u-tvornici-kulture-5f2c",
   "city": "zagreb",
   "source": "tvornica"
  },
@@ -337,6 +326,17 @@
   "genre": "",
   "price": "",
   "url": "https://core-event.co/events/jasna-zlokic-zagreb-tvornica-kulture-9903",
+  "city": "zagreb",
+  "source": "tvornica"
+ },
+ {
+  "date": "2027-10-22",
+  "time": "20:00",
+  "title": "Stereo Mc's",
+  "venue": "tvornica",
+  "genre": "",
+  "price": "",
+  "url": "https://core-event.co/events/stereo-m-cs-u-tvornici-kulture-e538",
   "city": "zagreb",
   "source": "tvornica"
  }

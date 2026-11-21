@@ -93,6 +93,11 @@
   "query": "21. Božični koncert",
   "v": 2
  },
+ "22 bozicni koncert": {
+  "checked": "2026-11-21",
+  "query": "22. Božični koncert",
+  "v": 2
+ },
  "25 babyexpo": {
   "checked": "2026-11-11",
   "query": "25. BabyExpo",
@@ -183,6 +188,11 @@
  "73 koncertna sezona zagrebackih solista petrit ceku": {
   "checked": "2026-11-08",
   "query": "73. Koncertna Sezona Zagrebačkih Solista Petrit Çeku"
+ },
+ "73 mocvarin sajam ploca i stripova": {
+  "checked": "2026-11-21",
+  "query": "73. Močvarin sajam ploča i stripova",
+  "v": 2
  },
  "8 bozicni koncert": {
   "checked": "2026-11-10",
@@ -1486,6 +1496,11 @@
   "query": "Bob Vylan",
   "v": 2
  },
+ "bolhicirmi": {
+  "checked": "2026-11-21",
+  "query": "Bolhicirmi",
+  "v": 2
+ },
  "bomb shell": {
   "checked": "2026-11-10",
   "country": "SI",
@@ -1551,6 +1566,11 @@
   "mbid": "ba8fe46e-af81-4fcd-8581-59d6920d5d55",
   "name": "Bosse",
   "query": "Bosse",
+  "v": 2
+ },
+ "bosse 2026": {
+  "checked": "2026-11-21",
+  "query": "Bosse 2026",
   "v": 2
  },
  "bouroyen reisigl duo": {
@@ -2649,6 +2669,11 @@
   "query": "Diana Arbenina",
   "v": 2
  },
+ "dick brave": {
+  "checked": "2026-11-21",
+  "query": "Dick Brave",
+  "v": 2
+ },
  "die arzte 12 05 2027 13 05 2027 halle d sold out": {
   "checked": "2026-11-11",
   "query": "die ärzte 12.05.2027–13.05.2027 Halle D Sold Out",
@@ -3067,6 +3092,11 @@
  "edo maajka na salati": {
   "checked": "2026-11-08",
   "query": "EDO MAAJKA na Šalati!"
+ },
+ "egy a multunk": {
+  "checked": "2026-11-21",
+  "query": "Egy a Múltunk",
+  "v": 2
  },
  "ehrlich brothers": {
   "checked": "2026-11-11",
@@ -4109,6 +4139,11 @@
   "query": "Gregorian",
   "v": 2
  },
+ "gregorian heute": {
+  "checked": "2026-11-21",
+  "query": "Gregorian Heute",
+  "v": 2
+ },
  "griff": {
   "checked": "2026-11-11",
   "country": "BE",
@@ -4701,6 +4736,11 @@
  "indie ikone tindersticks": {
   "checked": "2026-11-11",
   "query": "Indie Ikone Tindersticks",
+  "v": 2
+ },
+ "indie rock": {
+  "checked": "2026-11-21",
+  "query": "Indie Rock",
   "v": 2
  },
  "indigo live band": {
@@ -6578,6 +6618,11 @@
   "query": "Luky",
   "v": 2
  },
+ "lunar midnight": {
+  "checked": "2026-11-21",
+  "query": "Lunar Midnight",
+  "v": 2
+ },
  "lungau big band": {
   "checked": "2026-11-10",
   "country": "",
@@ -8032,6 +8077,11 @@
   "checked": "2026-11-08",
   "query": "NO Jazz"
  },
+ "nocturne gathering": {
+  "checked": "2026-11-21",
+  "query": "Nocturne Gathering",
+  "v": 2
+ },
  "nokia angel": {
   "checked": "2026-11-10",
   "country": "CH",
@@ -8661,6 +8711,11 @@
   "query": "Poppy Ackroyd",
   "v": 2
  },
+ "popunjeno in media res 2026": {
+  "checked": "2026-11-21",
+  "query": "POPUNJENO] In Media Res 2026.",
+  "v": 2
+ },
  "porto morto u rijeci": {
   "checked": "2026-11-10",
   "query": "Porto Morto u Rijeci",
@@ -9014,6 +9069,11 @@
   "mbid": "e0224068-455b-478c-b83b-b447ca924bbc",
   "name": "REDZED",
   "query": "Redzed",
+  "v": 2
+ },
+ "rent": {
+  "checked": "2026-11-21",
+  "query": "Rent",
   "v": 2
  },
  "repetitor": {
@@ -9565,6 +9625,23 @@
   "mbid": "eb5dc35f-6b89-41d4-ae1e-a5dcc04f39c3",
   "name": "Schwanensee",
   "query": "Schwanensee",
+  "v": 2
+ },
+ "scooter": {
+  "checked": "2026-11-21",
+  "country": "DE",
+  "genre": "elektro",
+  "links": {
+   "deezer": "https://www.deezer.com/artist/587",
+   "facebook": "https://www.facebook.com/scooterofficial",
+   "instagram": "https://www.instagram.com/scooterofficial/",
+   "spotify": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA",
+   "web": "http://scootertechno.com/",
+   "youtube": "https://www.youtube.com/user/scooter"
+  },
+  "mbid": "83e59f23-3b0b-4304-834d-5bcafd5df6d2",
+  "name": "Scooter",
+  "query": "Scooter",
   "v": 2
  },
  "scorpions": {
@@ -10720,6 +10797,11 @@
   "query": "TEETH MARKS vendégek",
   "v": 2
  },
+ "telt haz filo": {
+  "checked": "2026-11-21",
+  "query": "TELT HÁZ! FILO",
+  "v": 2
+ },
  "telt haz imago mundi": {
   "checked": "2026-11-10",
   "query": "TELT HÁZ! imago mundi",
@@ -11733,6 +11815,11 @@
  "tvar": {
   "checked": "2026-11-10",
   "query": "Tvar'",
+  "v": 2
+ },
+ "tvoja snaga": {
+  "checked": "2026-11-21",
+  "query": "Tvoja snaga",
   "v": 2
  },
  "tyr": {

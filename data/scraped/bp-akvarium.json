@@ -1,60 +1,5 @@
 [
  {
-  "date": "2026-11-20",
-  "time": "",
-  "title": "TELTHÁZ! // Eddig későn feküdtem le – cserihanna lemezbemutató koncert",
-  "venue": "bp-akvariumklub",
-  "genre": "",
-  "price": "",
-  "url": "https://akvariumklub.hu/programok/eddig-keson-fekudtem-le-lemezbemutato-koncert/",
-  "city": "budimpesta",
-  "source": "bp-akvarium"
- },
- {
-  "date": "2026-11-20",
-  "time": "",
-  "title": "Escape My Shadows [II. Fázis",
-  "venue": "bp-akvariumklub",
-  "genre": "",
-  "price": "",
-  "url": "https://akvariumklub.hu/programok/escape-my-shadows/",
-  "city": "budimpesta",
-  "source": "bp-akvarium"
- },
- {
-  "date": "2026-11-20",
-  "time": "",
-  "title": "GULU GULU x zuzmo x rtificial:red (HR)",
-  "venue": "bp-akvariumklub",
-  "genre": "",
-  "price": "",
-  "url": "https://akvariumklub.hu/programok/gulu-gulu-x-zuzmo-x-rtificialred-hr/",
-  "city": "budimpesta",
-  "source": "bp-akvarium"
- },
- {
-  "date": "2026-11-20",
-  "time": "",
-  "title": "skins club night (but make it brat)",
-  "venue": "bp-akvariumklub",
-  "genre": "",
-  "price": "",
-  "url": "https://akvariumklub.hu/programok/skins-club-night-but-make-it-brat/",
-  "city": "budimpesta",
-  "source": "bp-akvarium"
- },
- {
-  "date": "2026-11-20",
-  "time": "",
-  "title": "MAMMA MIA the PARTY! • VideoDisco • ABBA & Girly Pop",
-  "venue": "bp-akvariumklub",
-  "genre": "dj",
-  "price": "",
-  "url": "https://akvariumklub.hu/programok/mamma-mia-the-party-videodisco-abba-girly-pop/",
-  "city": "budimpesta",
-  "source": "bp-akvarium"
- },
- {
   "date": "2026-11-21",
   "time": "",
   "title": "Lóci játszik // Vagy – Vagy koncert",
@@ -145,7 +90,7 @@
  {
   "date": "2026-11-28",
   "time": "",
-  "title": "FILO – Minden elmúlik lemezbemutató",
+  "title": "TELT HÁZ! FILO – Minden elmúlik lemezbemutató",
   "venue": "bp-akvariumklub",
   "genre": "",
   "price": "",
@@ -172,6 +117,17 @@
   "genre": "",
   "price": "",
   "url": "https://akvariumklub.hu/programok/secret-market-11-29/",
+  "city": "budimpesta",
+  "source": "bp-akvarium"
+ },
+ {
+  "date": "2026-11-29",
+  "time": "",
+  "title": "Rent",
+  "venue": "bp-akvariumklub",
+  "genre": "",
+  "price": "",
+  "url": "https://akvariumklub.hu/programok/rent/",
   "city": "budimpesta",
   "source": "bp-akvarium"
  },
@@ -715,6 +671,17 @@
   "source": "bp-akvarium"
  },
  {
+  "date": "2026-12-31",
+  "time": "",
+  "title": "Lunar Midnight – Akvárium NYE 2026",
+  "venue": "bp-akvariumklub",
+  "genre": "",
+  "price": "",
+  "url": "https://akvariumklub.hu/programok/lunar-midnight-akvarium-nye-2026/",
+  "city": "budimpesta",
+  "source": "bp-akvarium"
+ },
+ {
   "date": "2027-01-08",
   "time": "",
   "title": "Melody Maker & Luxfunk® Presents: Funk Fusion Live",
@@ -722,6 +689,17 @@
   "genre": "",
   "price": "",
   "url": "https://akvariumklub.hu/programok/melody-maker-luxfunk-presents-funk-fusion-live/",
+  "city": "budimpesta",
+  "source": "bp-akvarium"
+ },
+ {
+  "date": "2027-01-09",
+  "time": "",
+  "title": "Bolhicirmi – A Nagy Évindító Gyerekbuli!",
+  "venue": "bp-akvariumklub",
+  "genre": "",
+  "price": "",
+  "url": "https://akvariumklub.hu/programok/bolhicirmi-a-nagy-evindito-gyerekbuli/",
   "city": "budimpesta",
   "source": "bp-akvarium"
  },

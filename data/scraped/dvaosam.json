@@ -1,16 +1,5 @@
 [
  {
-  "date": "2026-11-20",
-  "time": "22:00",
-  "title": "In Aeternum by Mila Car",
-  "venue": "dvaosam",
-  "genre": "",
-  "price": "",
-  "url": "https://dvaosam.com/event-detail/6ad9c171a416a601e8e5a970/",
-  "city": "zagreb",
-  "source": "dvaosam"
- },
- {
   "date": "2026-11-21",
   "time": "22:00",
   "title": "Open Heart K-pop Party",
@@ -62,6 +51,17 @@
   "genre": "",
   "price": "",
   "url": "https://dvaosam.com/event-detail/6af1d00fc919d00386a0628a/",
+  "city": "zagreb",
+  "source": "dvaosam"
+ },
+ {
+  "date": "2026-12-05",
+  "time": "22:00",
+  "title": "Nocturne Gathering: Sofia Van, Ivan Krželj, Boris Harfman Hari, Kalle",
+  "venue": "dvaosam",
+  "genre": "",
+  "price": "",
+  "url": "https://dvaosam.com/event-detail/6af1db36c919d00386c4c81d/",
   "city": "zagreb",
   "source": "dvaosam"
  }

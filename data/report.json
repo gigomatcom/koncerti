@@ -1,9 +1,9 @@
 {
- "run_at": "2026-11-20T12:51:31+00:00",
+ "run_at": "2026-11-21T12:37:31+00:00",
  "sources": {
   "lisinski": {
    "ok": true,
-   "count": 143
+   "count": 142
   },
   "tvornica": {
    "ok": true,
@@ -11,7 +11,7 @@
   },
   "mocvara": {
    "ok": true,
-   "count": 15
+   "count": 16
   },
   "dvaosam": {
    "ok": true,
@@ -19,11 +19,11 @@
   },
   "kset": {
    "ok": true,
-   "count": 6
+   "count": 5
   },
   "attack": {
    "ok": true,
-   "count": 4
+   "count": 3
   },
   "vintage": {
    "ok": true,
@@ -36,11 +36,11 @@
   },
   "ulaznice": {
    "ok": true,
-   "count": 52
+   "count": 49
   },
   "coreevent": {
    "ok": true,
-   "count": 108
+   "count": 101
   },
   "hnk-opera": {
    "ok": true,
@@ -62,7 +62,7 @@
   },
   "wi-flex": {
    "ok": true,
-   "count": 20
+   "count": 19
   },
   "wi-planet": {
    "ok": true,
@@ -71,31 +71,31 @@
   },
   "wi-stadthalle": {
    "ok": true,
-   "count": 143
+   "count": 144
   },
   "wi-wuk": {
    "ok": true,
-   "count": 6
+   "count": 7
   },
   "wi-porgy": {
    "ok": true,
-   "count": 179
+   "count": 178
   },
   "bp-akvarium": {
    "ok": true,
-   "count": 87
+   "count": 85
   },
   "bp-budapestpark": {
    "ok": true,
-   "count": 12
+   "count": 13
   },
   "bp-barbanegra": {
    "ok": true,
-   "count": 45
+   "count": 43
   },
   "bp-a38": {
    "ok": true,
-   "count": 42
+   "count": 41
   },
   "lj-festival": {
    "ok": true,
@@ -103,11 +103,11 @@
   },
   "lj-cd": {
    "ok": true,
-   "count": 51
+   "count": 50
   },
   "hangtime": {
    "ok": true,
-   "count": 11
+   "count": 10
   },
   "laa": {
    "ok": true,
@@ -130,7 +130,7 @@
   },
   "mb-narodnidom": {
    "ok": true,
-   "count": 18,
+   "count": 19,
    "note": "samo proba"
   },
   "mb-stuk": {
@@ -159,7 +159,7 @@
   },
   "kinosiska": {
    "ok": true,
-   "count": 4
+   "count": 3
   },
   "orto": {
    "ok": true,

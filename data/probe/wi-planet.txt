@@ -1,22 +1,5 @@
 title: Planet Music & Media
 jsonld types: ImageObject, ImageObject, WebSite, SearchAction, ImageObject, WebPage, Person, ImageObject, Article
-<div class=pl-card> Fr., 20. November 2026 Fr., 20. November 2026 Ausverkauft Endlich glücklich leben Beginn: 19:30 Uhr ROBERT BETZ Ausverkauft Endlich glücklich leben Beginn: 19:30 Uhr | 
-<div class=pl-card-front.pl-pointer> Fr., 20. November 2026 Fr., 20. November 2026 Ausverkauft Endlich glücklich leben Beginn: 19:30 Uhr ROBERT BETZ | 
-<div class=pl-date> Fr., 20. November 2026 | 
-<div class=pl-thumbnail> Fr., 20. November 2026 Ausverkauft Endlich glücklich leben Beginn: 19:30 Uhr | 
-<div class=pl-thumb-desc> Fr., 20. November 2026 Ausverkauft Endlich glücklich leben Beginn: 19:30 Uhr | 
-<div class=pl-date> Fr., 20. November 2026 | 
-<div class=pl-card-front.pl-pointer> Fr., 20. November 2026 Fr., 20. November 2026 RED EYE TEMPLE | CHAOS INSIDE | DISSEMINATION | DEVILS SMOKE | HAVENAL Beginn: 19:00 Uhr Vorverkauf: 22,00 € ROCK THE NIGHT Vol.16 | 
-<div class=pl-date> Fr., 20. November 2026 | 
-<div class=pl-thumbnail> Fr., 20. November 2026 RED EYE TEMPLE | CHAOS INSIDE | DISSEMINATION | DEVILS SMOKE | HAVENAL Beginn: 19:00 Uhr Vorverkauf: 22,00 € | 
-<div class=pl-thumb-desc> Fr., 20. November 2026 RED EYE TEMPLE | CHAOS INSIDE | DISSEMINATION | DEVILS SMOKE | HAVENAL Beginn: 19:00 Uhr Vorverkauf: 22,00 € | 
-<div class=pl-date> Fr., 20. November 2026 | 
-<div class=pl-card> Fr., 20. November 2026 Fr., 20. November 2026 PUNK LEBT TOUR 2026 Beginn: 19:30 Uhr Vorverkauf: 49,99 € SWISS & DIE ANDERN PUNK LEBT TOUR 2026 Beginn: 19:30 Uhr Vorverkauf: 49,99 € | 
-<div class=pl-card-front.pl-pointer> Fr., 20. November 2026 Fr., 20. November 2026 PUNK LEBT TOUR 2026 Beginn: 19:30 Uhr Vorverkauf: 49,99 € SWISS & DIE ANDERN | 
-<div class=pl-date> Fr., 20. November 2026 | 
-<div class=pl-thumbnail> Fr., 20. November 2026 PUNK LEBT TOUR 2026 Beginn: 19:30 Uhr Vorverkauf: 49,99 € | 
-<div class=pl-thumb-desc> Fr., 20. November 2026 PUNK LEBT TOUR 2026 Beginn: 19:30 Uhr Vorverkauf: 49,99 € | 
-<div class=pl-date> Fr., 20. November 2026 | 
 <div class=pl-card> Sa., 21. November 2026 Sa., 21. November 2026 Live In Vienna Beginn: 20:00 Uhr Vorverkauf: 42,00 € BEOGRADSKI SINDIKAT Live In Vienna Beginn: 20:00 Uhr Vorverkauf: 42,00 € | 
 <div class=pl-card-front.pl-pointer> Sa., 21. November 2026 Sa., 21. November 2026 Live In Vienna Beginn: 20:00 Uhr Vorverkauf: 42,00 € BEOGRADSKI SINDIKAT | 
 <div class=pl-date> Sa., 21. November 2026 | 
@@ -29,4 +12,22 @@ jsonld types: ImageObject, ImageObject, WebSite, SearchAction, ImageObject, WebP
 <div class=pl-thumbnail> Sa., 21. November 2026 Smile Tour 2026 Beginn: 20:00 Uhr Vorverkauf: 54,90 € | 
 <div class=pl-thumb-desc> Sa., 21. November 2026 Smile Tour 2026 Beginn: 20:00 Uhr Vorverkauf: 54,90 € | 
 <div class=pl-date> Sa., 21. November 2026 | 
+<div class=pl-card> Sa., 21. November 2026 Sa., 21. November 2026 Ausverkauft Best Of 35 Jahre OSTBAHN XI PLATZ Beginn: 20:00 Uhr 9. WIENER KURTOLOGEN GIPFEL Ausverkauft Best Of 35 Jahre OSTBAHN XI PLATZ Beginn: 20:00 Uh | 
+<div class=pl-card-front.pl-pointer> Sa., 21. November 2026 Sa., 21. November 2026 Ausverkauft Best Of 35 Jahre OSTBAHN XI PLATZ Beginn: 20:00 Uhr 9. WIENER KURTOLOGEN GIPFEL | 
+<div class=pl-date> Sa., 21. November 2026 | 
+<div class=pl-thumbnail> Sa., 21. November 2026 Ausverkauft Best Of 35 Jahre OSTBAHN XI PLATZ Beginn: 20:00 Uhr | 
+<div class=pl-thumb-desc> Sa., 21. November 2026 Ausverkauft Best Of 35 Jahre OSTBAHN XI PLATZ Beginn: 20:00 Uhr | 
+<div class=pl-date> Sa., 21. November 2026 | 
+<div class=pl-card> So., 22. November 2026 So., 22. November 2026 THE SILENCE FOLLOWS TOUR 2026 Beginn: 18:00 Uhr Vorverkauf: 50,15 € ERRA / CURRENTS THE SILENCE FOLLOWS TOUR 2026 Beginn: 18:00 Uhr Vorverkauf: 50,15 € | 
+<div class=pl-card-front.pl-pointer> So., 22. November 2026 So., 22. November 2026 THE SILENCE FOLLOWS TOUR 2026 Beginn: 18:00 Uhr Vorverkauf: 50,15 € ERRA / CURRENTS | 
+<div class=pl-date> So., 22. November 2026 | 
+<div class=pl-thumbnail> So., 22. November 2026 THE SILENCE FOLLOWS TOUR 2026 Beginn: 18:00 Uhr Vorverkauf: 50,15 € | 
+<div class=pl-thumb-desc> So., 22. November 2026 THE SILENCE FOLLOWS TOUR 2026 Beginn: 18:00 Uhr Vorverkauf: 50,15 € | 
+<div class=pl-date> So., 22. November 2026 | 
+<div class=pl-card> So., 22. November 2026 So., 22. November 2026 European Headline Tour 2026 Beginn: 20:00 Uhr Vorverkauf: 39,99 € THE HARDKISS European Headline Tour 2026 Beginn: 20:00 Uhr Vorverkauf: 39,99 € | 
+<div class=pl-card-front.pl-pointer> So., 22. November 2026 So., 22. November 2026 European Headline Tour 2026 Beginn: 20:00 Uhr Vorverkauf: 39,99 € THE HARDKISS | 
+<div class=pl-date> So., 22. November 2026 | 
+<div class=pl-thumbnail> So., 22. November 2026 European Headline Tour 2026 Beginn: 20:00 Uhr Vorverkauf: 39,99 € | 
+<div class=pl-thumb-desc> So., 22. November 2026 European Headline Tour 2026 Beginn: 20:00 Uhr Vorverkauf: 39,99 € | 
+<div class=pl-date> So., 22. November 2026 | 
 poveznice (0): 

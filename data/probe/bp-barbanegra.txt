@@ -1,17 +1,9 @@
 title: Barba Negra
 jsonld types: 
-<article class=event-card> 20 NOV PÉN Red Stage MAD CIRCUS - VIP Ticket Kapunyitás: 22:00 Csak online Részletek | /program/mad-circus_20261120-vipticket
-<div class=body> 20 NOV PÉN Red Stage MAD CIRCUS - VIP Ticket Kapunyitás: 22:00 Csak online Részletek | /program/mad-circus_20261120-vipticket
-<div class=top-row> 20 NOV PÉN Red Stage | 
-<div class=date-stamp> 20 NOV PÉN | 
-<article class=event-card> 20 NOV PÉN Blue Stage MOBY DICK | OMEN Kapunyitás: 18:00 Elérhető Részletek | /program/moby-dick_omen_20261120
-<div class=body> 20 NOV PÉN Blue Stage MOBY DICK | OMEN Kapunyitás: 18:00 Elérhető Részletek | /program/moby-dick_omen_20261120
-<div class=top-row> 20 NOV PÉN Blue Stage | 
-<div class=date-stamp> 20 NOV PÉN | 
-<article class=event-card> 20 NOV PÉN Red Stage MAD CIRCUS Kapunyitás: 22:00 Csak online Részletek | /program/mad-circus_20261120
-<div class=body> 20 NOV PÉN Red Stage MAD CIRCUS Kapunyitás: 22:00 Csak online Részletek | /program/mad-circus_20261120
-<div class=top-row> 20 NOV PÉN Red Stage | 
-<div class=date-stamp> 20 NOV PÉN | 
+<article class=event-card> 21 NOV SZO Red Stage Egy a Múltunk, egy a Hangunk Kapunyitás: 19:00 Elérhető Részletek | /program/[…]
+<div class=body> 21 NOV SZO Red Stage Egy a Múltunk, egy a Hangunk Kapunyitás: 19:00 Elérhető Részletek | /program/[…]
+<div class=top-row> 21 NOV SZO Red Stage | 
+<div class=date-stamp> 21 NOV SZO | 
 <article class=event-card> 22 NOV VAS Red Stage ELUVEITIE Kapunyitás: 18:30 Elérhető Részletek | /program/eluveitie_20261122
 <div class=body> 22 NOV VAS Red Stage ELUVEITIE Kapunyitás: 18:30 Elérhető Részletek | /program/eluveitie_20261122
 <div class=top-row> 22 NOV VAS Red Stage | 
@@ -60,4 +52,12 @@ jsonld types:
 <div class=body> 15 DEC KEDD Blue Stage TÝR Kapunyitás: 18:00 Elérhető Részletek | /program/tyr_20261215
 <div class=top-row> 15 DEC KEDD Blue Stage | 
 <div class=date-stamp> 15 DEC KEDD | 
-poveznice (57): /program/accept_20261206 /program/aljas-kuszobab_20261211 /program/amorphis_20270127 /program/avatar_20261205 /program/bikini_20261218 /program/black-veil-brides_20270206 /program/[…] /program/depresszio-budapest_20261219 /program/dominum_20261201 /program/dragonforce_20270427 /program/edda-muvek_20261204 /program/eluveitie_20261122 /program/[…] /program/hauber-x-bonanza_20270410 /program/hollywood-undead_20270203 /program/imminence_20270125 /program/iron-maidnem_20270130 /program/ismeros-arcok_20270123 /program/kalap-jakab-60_20270620 /program/kanonenfieber_20271211 /program/karpatia_20261128 /program/[…] /program/lamb-of-god_20270131 /program/lorna-shore_20270614 /program/mad-circus_20261120
+<article class=event-card> 18 DEC PÉN Red Stage BIKINI - Karácsonyi Nagykoncert Kapunyitás: 18:30 Elérhető Részletek | /program/bikini_20261218
+<div class=body> 18 DEC PÉN Red Stage BIKINI - Karácsonyi Nagykoncert Kapunyitás: 18:30 Elérhető Részletek | /program/bikini_20261218
+<div class=top-row> 18 DEC PÉN Red Stage | 
+<div class=date-stamp> 18 DEC PÉN | 
+<article class=event-card> 18 DEC PÉN Blue Stage STARDUST | Rockstars Not Dead Kapunyitás: 19:00 Elérhető Részletek | /program/[…]
+<div class=body> 18 DEC PÉN Blue Stage STARDUST | Rockstars Not Dead Kapunyitás: 19:00 Elérhető Részletek | /program/[…]
+<div class=top-row> 18 DEC PÉN Blue Stage | 
+<div class=date-stamp> 18 DEC PÉN | 
+poveznice (55): /program/accept_20261206 /program/aljas-kuszobab_20261211 /program/amorphis_20270127 /program/avatar_20261205 /program/bikini_20261218 /program/black-veil-brides_20270206 /program/[…] /program/depresszio-budapest_20261219 /program/dominum_20261201 /program/dragonforce_20270427 /program/edda-muvek_20261204 /program/[…] /program/eluveitie_20261122 /program/[…] /program/hauber-x-bonanza_20270410 /program/hollywood-undead_20270203 /program/imminence_20270125 /program/iron-maidnem_20270130 /program/ismeros-arcok_20270123 /program/kalap-jakab-60_20270620 /program/kanonenfieber_20271211 /program/karpatia_20261128 /program/[…] /program/lamb-of-god_20270131 /program/lorna-shore_20270614

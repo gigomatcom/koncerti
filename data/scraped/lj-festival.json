@@ -1,16 +1,5 @@
 [
  {
-  "date": "2026-11-20",
-  "time": "",
-  "title": "Najboljši prijateljici",
-  "venue": "lj-krizanke",
-  "genre": "",
-  "price": "",
-  "url": "https://www.ljubljanafestival.si/sl/koledar-dogodkov/25190-najboljsi-prijateljici",
-  "city": "ljubljana",
-  "source": "lj-festival"
- },
- {
   "date": "2026-11-23",
   "time": "",
   "title": "1. Božični koncert: Glasbena šola Matije Tomca",
@@ -249,6 +238,17 @@
   "genre": "",
   "price": "",
   "url": "https://www.ljubljanafestival.si/sl/koledar-dogodkov/25189-21-bozicni-koncert-glasbena-sola-ljubljana-moste-polje",
+  "city": "ljubljana",
+  "source": "lj-festival"
+ },
+ {
+  "date": "2026-12-15",
+  "time": "",
+  "title": "22. Božični koncert: Glasbena šola Franca Šturma",
+  "venue": "lj-krizanke",
+  "genre": "",
+  "price": "",
+  "url": "https://www.ljubljanafestival.si/sl/koledar-dogodkov/25233-22-bozicni-koncert-glasbena-sola-franca-sturma",
   "city": "ljubljana",
   "source": "lj-festival"
  }
