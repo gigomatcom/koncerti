@@ -1350,6 +1350,14 @@
    "instagram": "https://www.instagram.com/el_ej_ej/"
   }
  },
+ "https://core-event.co/events/bozicni-koncert-prohaska-big-banda-e133/": {
+  "checked": "2026-11-22",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/share.php",
+   "instagram": "https://www.instagram.com/core_event/"
+  }
+ },
  "https://core-event.co/events/brzeguze-w-pitaya-soundystem-a541/": {
   "checked": "2026-11-09",
   "clean": {},
@@ -2483,6 +2491,14 @@
    "instagram": "https://www.instagram.com/core_event/"
   }
  },
+ "https://core-event.co/events/x-mas-finest-underground-house-ac66/": {
+  "checked": "2026-11-22",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/share.php",
+   "instagram": "https://www.instagram.com/core_event/"
+  }
+ },
  "https://core-event.co/events/yem-takes-over-katran-fdf6/": {
   "checked": "2026-11-09",
   "clean": {},
@@ -2605,6 +2621,14 @@
  },
  "https://dvaosam.com/event-detail/6af1db36c919d00386c4c81d/": {
   "checked": "2026-11-21",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/jabuka2.8",
+   "instagram": "https://www.instagram.com/jabuka2.8"
+  }
+ },
+ "https://dvaosam.com/event-detail/6af97ea6322483ef656772ed/": {
+  "checked": "2026-11-22",
   "clean": {},
   "links": {
    "facebook": "https://www.facebook.com/jabuka2.8",
@@ -4212,6 +4236,11 @@
    "youtube": "https://www.youtube.com/@barbanegrahungary1929"
   }
  },
+ "https://www.budapestpark.hu/hu/koripark": {
+  "checked": "2026-11-22",
+  "clean": {},
+  "links": {}
+ },
  "https://www.budapestpark.hu/jegyvasarlas/event/aws-2027-06-03": {
   "checked": "2026-11-15",
   "clean": {
@@ -5416,6 +5445,15 @@
    "youtube": "https://www.youtube.com/channel/UCw3zJE1u5h8IMdewKB8I3UA"
   }
  },
+ "https://www.kinosiska.si/dogodek/eagle-eye-cherry/": {
+  "checked": "2026-11-22",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/kinosiska.si/",
+   "instagram": "http://www.instagram.com/kinosiska",
+   "youtube": "https://www.youtube.com/channel/UCw3zJE1u5h8IMdewKB8I3UA"
+  }
+ },
  "https://www.kinosiska.si/dogodek/kino-siska-dostava-jet-black-diamonds-hangar-teatri/": {
   "checked": "2026-11-09",
   "clean": {},
@@ -5526,6 +5564,15 @@
  },
  "https://www.kset.org/dogadaj/2026-11-25-dunjaluk-vintage-industrial-bar/": {
   "checked": "2026-11-09",
+  "clean": {},
+  "links": {
+   "facebook": "http://www.facebook.com/KSETZg",
+   "instagram": "https://www.instagram.com/klubkset/",
+   "youtube": "http://www.youtube.com/user/KsetVideo"
+  }
+ },
+ "https://www.kset.org/dogadaj/2026-11-27-kset50-after-bunt/": {
+  "checked": "2026-11-22",
   "clean": {},
   "links": {
    "facebook": "http://www.facebook.com/KSETZg",
@@ -7326,6 +7373,14 @@
    "instagram": "https://www.instagram.com/orto_bar_slovenija/"
   }
  },
+ "https://www.orto-bar.com/dogodki/koncerti/sausages-34-let/": {
+  "checked": "2026-11-22",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/noplacelikeorto",
+   "instagram": "https://www.instagram.com/orto_bar_slovenija/"
+  }
+ },
  "https://www.orto-bar.com/dogodki/koncerti/sophy/": {
   "checked": "2026-11-13",
   "clean": {},
@@ -8323,6 +8378,11 @@
  },
  "https://www.stadthalle.com/de/events/alle-events/51592/Kastelruther-Spatzen": {
   "checked": "2026-11-12",
+  "clean": {},
+  "links": {}
+ },
+ "https://www.stadthalle.com/de/events/alle-events/51594/EMMVEE": {
+  "checked": "2026-11-22",
   "clean": {},
   "links": {}
  },

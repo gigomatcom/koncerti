@@ -1,41 +1,5 @@
 [
  {
-  "date": "2026-11-21",
-  "time": "20:00",
-  "title": "Marko Kutlić - Boogaloo",
-  "venue": "boogaloo",
-  "genre": "",
-  "price": "",
-  "url": "https://www.entrio.hr/event/marko-kutlic-boogaloo-zagreb-32100",
-  "city": "zagreb",
-  "venue_name": "Klub Boogaloo",
-  "source": "ulaznice"
- },
- {
-  "date": "2026-11-21",
-  "time": "20:00",
-  "title": "Dance mix By GIFT",
-  "venue": "",
-  "genre": "",
-  "price": "",
-  "url": "https://www.entrio.hr/event/dance-mix-by-gift-34841",
-  "city": "split",
-  "venue_name": "BackBar Plan B",
-  "source": "ulaznice"
- },
- {
-  "date": "2026-11-21",
-  "time": "22:00",
-  "title": "Deep Dish",
-  "venue": "boogaloo",
-  "genre": "",
-  "price": "",
-  "url": "https://www.entrio.hr/event/deep-dish-boogaloo-32572",
-  "city": "zagreb",
-  "venue_name": "Klub Boogaloo",
-  "source": "ulaznice"
- },
- {
   "date": "2026-11-22",
   "time": "19:30",
   "title": "Spk + Tehom",

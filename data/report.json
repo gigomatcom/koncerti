@@ -1,13 +1,13 @@
 {
- "run_at": "2026-11-21T12:37:31+00:00",
+ "run_at": "2026-11-22T12:33:12+00:00",
  "sources": {
   "lisinski": {
    "ok": true,
-   "count": 142
+   "count": 140
   },
   "tvornica": {
    "ok": true,
-   "count": 31
+   "count": 30
   },
   "mocvara": {
    "ok": true,
@@ -36,15 +36,15 @@
   },
   "ulaznice": {
    "ok": true,
-   "count": 49
+   "count": 46
   },
   "coreevent": {
    "ok": true,
-   "count": 101
+   "count": 97
   },
   "hnk-opera": {
    "ok": true,
-   "count": 57
+   "count": 56
   },
   "hnk-koncert": {
    "ok": true,
@@ -62,7 +62,7 @@
   },
   "wi-flex": {
    "ok": true,
-   "count": 19
+   "count": 17
   },
   "wi-planet": {
    "ok": true,
@@ -71,7 +71,7 @@
   },
   "wi-stadthalle": {
    "ok": true,
-   "count": 144
+   "count": 143
   },
   "wi-wuk": {
    "ok": true,
@@ -79,23 +79,23 @@
   },
   "wi-porgy": {
    "ok": true,
-   "count": 178
+   "count": 177
   },
   "bp-akvarium": {
    "ok": true,
-   "count": 85
+   "count": 80
   },
   "bp-budapestpark": {
    "ok": true,
-   "count": 13
+   "count": 14
   },
   "bp-barbanegra": {
    "ok": true,
-   "count": 43
+   "count": 42
   },
   "bp-a38": {
    "ok": true,
-   "count": 41
+   "count": 40
   },
   "lj-festival": {
    "ok": true,
@@ -145,7 +145,7 @@
   },
   "mb-mkc": {
    "ok": true,
-   "count": 14,
+   "count": 13,
    "note": "samo proba"
   },
   "pu-tz": {
@@ -159,7 +159,7 @@
   },
   "kinosiska": {
    "ok": true,
-   "count": 3
+   "count": 2
   },
   "orto": {
    "ok": true,

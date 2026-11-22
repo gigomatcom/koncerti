@@ -1,16 +1,5 @@
 [
  {
-  "date": "2026-11-21",
-  "time": "21:00",
-  "title": "Idu Hobiti – promocija albuma \"Idu Dalje\"",
-  "venue": "mocvara",
-  "genre": "",
-  "price": "",
-  "url": "https://mochvara.hr/event-detail/6ab51108f11bc39a84ef59cf/",
-  "city": "zagreb",
-  "source": "mocvara"
- },
- {
   "date": "2026-11-22",
   "time": "21:00",
   "title": "Picastro, GALLT1",
@@ -117,6 +106,17 @@
   "genre": "",
   "price": "",
   "url": "https://mochvara.hr/event-detail/6af30013c919d00386ecf869/",
+  "city": "zagreb",
+  "source": "mocvara"
+ },
+ {
+  "date": "2026-12-02",
+  "time": "20:00",
+  "title": "Splean",
+  "venue": "mocvara",
+  "genre": "",
+  "price": "",
+  "url": "https://mochvara.hr/event-detail/6a059ce1821d9c9648304d37/",
   "city": "zagreb",
   "source": "mocvara"
  },

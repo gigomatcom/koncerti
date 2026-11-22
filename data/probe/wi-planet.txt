@@ -1,23 +1,5 @@
 title: Planet Music & Media
 jsonld types: ImageObject, ImageObject, WebSite, SearchAction, ImageObject, WebPage, Person, ImageObject, Article
-<div class=pl-card> Sa., 21. November 2026 Sa., 21. November 2026 Live In Vienna Beginn: 20:00 Uhr Vorverkauf: 42,00 € BEOGRADSKI SINDIKAT Live In Vienna Beginn: 20:00 Uhr Vorverkauf: 42,00 € | 
-<div class=pl-card-front.pl-pointer> Sa., 21. November 2026 Sa., 21. November 2026 Live In Vienna Beginn: 20:00 Uhr Vorverkauf: 42,00 € BEOGRADSKI SINDIKAT | 
-<div class=pl-date> Sa., 21. November 2026 | 
-<div class=pl-thumbnail> Sa., 21. November 2026 Live In Vienna Beginn: 20:00 Uhr Vorverkauf: 42,00 € | 
-<div class=pl-thumb-desc> Sa., 21. November 2026 Live In Vienna Beginn: 20:00 Uhr Vorverkauf: 42,00 € | 
-<div class=pl-date> Sa., 21. November 2026 | 
-<div class=pl-card> Sa., 21. November 2026 Sa., 21. November 2026 Smile Tour 2026 Beginn: 20:00 Uhr Vorverkauf: 54,90 € MADSEN Smile Tour 2026 Beginn: 20:00 Uhr Vorverkauf: 54,90 € | 
-<div class=pl-card-front.pl-pointer> Sa., 21. November 2026 Sa., 21. November 2026 Smile Tour 2026 Beginn: 20:00 Uhr Vorverkauf: 54,90 € MADSEN | 
-<div class=pl-date> Sa., 21. November 2026 | 
-<div class=pl-thumbnail> Sa., 21. November 2026 Smile Tour 2026 Beginn: 20:00 Uhr Vorverkauf: 54,90 € | 
-<div class=pl-thumb-desc> Sa., 21. November 2026 Smile Tour 2026 Beginn: 20:00 Uhr Vorverkauf: 54,90 € | 
-<div class=pl-date> Sa., 21. November 2026 | 
-<div class=pl-card> Sa., 21. November 2026 Sa., 21. November 2026 Ausverkauft Best Of 35 Jahre OSTBAHN XI PLATZ Beginn: 20:00 Uhr 9. WIENER KURTOLOGEN GIPFEL Ausverkauft Best Of 35 Jahre OSTBAHN XI PLATZ Beginn: 20:00 Uh | 
-<div class=pl-card-front.pl-pointer> Sa., 21. November 2026 Sa., 21. November 2026 Ausverkauft Best Of 35 Jahre OSTBAHN XI PLATZ Beginn: 20:00 Uhr 9. WIENER KURTOLOGEN GIPFEL | 
-<div class=pl-date> Sa., 21. November 2026 | 
-<div class=pl-thumbnail> Sa., 21. November 2026 Ausverkauft Best Of 35 Jahre OSTBAHN XI PLATZ Beginn: 20:00 Uhr | 
-<div class=pl-thumb-desc> Sa., 21. November 2026 Ausverkauft Best Of 35 Jahre OSTBAHN XI PLATZ Beginn: 20:00 Uhr | 
-<div class=pl-date> Sa., 21. November 2026 | 
 <div class=pl-card> So., 22. November 2026 So., 22. November 2026 THE SILENCE FOLLOWS TOUR 2026 Beginn: 18:00 Uhr Vorverkauf: 50,15 € ERRA / CURRENTS THE SILENCE FOLLOWS TOUR 2026 Beginn: 18:00 Uhr Vorverkauf: 50,15 € | 
 <div class=pl-card-front.pl-pointer> So., 22. November 2026 So., 22. November 2026 THE SILENCE FOLLOWS TOUR 2026 Beginn: 18:00 Uhr Vorverkauf: 50,15 € ERRA / CURRENTS | 
 <div class=pl-date> So., 22. November 2026 | 
@@ -30,4 +12,22 @@ jsonld types: ImageObject, ImageObject, WebSite, SearchAction, ImageObject, WebP
 <div class=pl-thumbnail> So., 22. November 2026 European Headline Tour 2026 Beginn: 20:00 Uhr Vorverkauf: 39,99 € | 
 <div class=pl-thumb-desc> So., 22. November 2026 European Headline Tour 2026 Beginn: 20:00 Uhr Vorverkauf: 39,99 € | 
 <div class=pl-date> So., 22. November 2026 | 
+<div class=pl-card> Mo., 23. November 2026 Mo., 23. November 2026 Beginn: 20:00 Uhr Vorverkauf: 49,99 € FILOW Beginn: 20:00 Uhr Vorverkauf: 49,99 € | 
+<div class=pl-card-front.pl-pointer> Mo., 23. November 2026 Mo., 23. November 2026 Beginn: 20:00 Uhr Vorverkauf: 49,99 € FILOW | 
+<div class=pl-date> Mo., 23. November 2026 | 
+<div class=pl-thumbnail> Mo., 23. November 2026 Beginn: 20:00 Uhr Vorverkauf: 49,99 € | 
+<div class=pl-thumb-desc> Mo., 23. November 2026 Beginn: 20:00 Uhr Vorverkauf: 49,99 € | 
+<div class=pl-date> Mo., 23. November 2026 | 
+<div class=pl-card> Di., 24. November 2026 Di., 24. November 2026 Abgesagt JUBILEE - 2026 Beginn: 20:00 Uhr BONNIE TYLER Abgesagt JUBILEE - 2026 Beginn: 20:00 Uhr | 
+<div class=pl-card-front.pl-pointer> Di., 24. November 2026 Di., 24. November 2026 Abgesagt JUBILEE - 2026 Beginn: 20:00 Uhr BONNIE TYLER | 
+<div class=pl-date> Di., 24. November 2026 | 
+<div class=pl-thumbnail> Di., 24. November 2026 Abgesagt JUBILEE - 2026 Beginn: 20:00 Uhr | 
+<div class=pl-thumb-desc> Di., 24. November 2026 Abgesagt JUBILEE - 2026 Beginn: 20:00 Uhr | 
+<div class=pl-date> Di., 24. November 2026 | 
+<div class=pl-card> Di., 24. November 2026 Di., 24. November 2026 Ausverkauft CHEF*IN LIVE Beginn: 20:00 Uhr MISS IVANKA T. Ausverkauft CHEF*IN LIVE Beginn: 20:00 Uhr | 
+<div class=pl-card-front.pl-pointer> Di., 24. November 2026 Di., 24. November 2026 Ausverkauft CHEF*IN LIVE Beginn: 20:00 Uhr MISS IVANKA T. | 
+<div class=pl-date> Di., 24. November 2026 | 
+<div class=pl-thumbnail> Di., 24. November 2026 Ausverkauft CHEF*IN LIVE Beginn: 20:00 Uhr | 
+<div class=pl-thumb-desc> Di., 24. November 2026 Ausverkauft CHEF*IN LIVE Beginn: 20:00 Uhr | 
+<div class=pl-date> Di., 24. November 2026 | 
 poveznice (0): 

@@ -1,16 +1,5 @@
 [
  {
-  "date": "2026-11-21",
-  "time": "20:00",
-  "title": "KSET: Idu Hobiti – promocija albuma \"Idu Dalje\" + gosti",
-  "venue": "mocvara",
-  "genre": "",
-  "price": "12–15 €",
-  "url": "https://www.kset.org/dogadaj/2026-11-21-idu-hobiti-promocija-albuma-idu-dalje-gosti-mocvara/",
-  "city": "zagreb",
-  "source": "kset"
- },
- {
   "date": "2026-11-23",
   "time": "18:00",
   "title": "KSET: POPUNJENO] In Media Res 2026.",
@@ -29,6 +18,17 @@
   "genre": "",
   "price": "12–15 €",
   "url": "https://www.kset.org/dogadaj/2026-11-25-dunjaluk-vintage-industrial-bar/",
+  "city": "zagreb",
+  "source": "kset"
+ },
+ {
+  "date": "2026-11-27",
+  "time": "21:00",
+  "title": "KSET50: After",
+  "venue": "kset",
+  "genre": "",
+  "price": "besplatno",
+  "url": "https://www.kset.org/dogadaj/2026-11-27-kset50-after-bunt/",
   "city": "zagreb",
   "source": "kset"
  },

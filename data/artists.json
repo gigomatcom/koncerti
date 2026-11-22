@@ -338,6 +338,11 @@
   "checked": "2026-11-08",
   "query": "Afro Gitano"
  },
+ "after": {
+  "checked": "2026-11-22",
+  "query": "After",
+  "v": 2
+ },
  "afterwork hangouts": {
   "checked": "2026-11-08",
   "query": "AfterWork Hangouts"
@@ -1600,6 +1605,11 @@
  "bozicna fantazija": {
   "checked": "2026-11-10",
   "query": "Božična fantazija",
+  "v": 2
+ },
+ "bozicni koncert prohaska big banda": {
+  "checked": "2026-11-22",
+  "query": "Božični Koncert Prohaska Big Banda",
   "v": 2
  },
  "bragolin": {
@@ -3049,6 +3059,11 @@
   "query": "Eagle Eye Cherry | Budapest 2026",
   "v": 2
  },
+ "eagle eye cherry i prestavljeno": {
+  "checked": "2026-11-22",
+  "query": "Eagle-eye Cherry i Prestavljeno",
+  "v": 2
+ },
  "eberhard": {
   "checked": "2026-11-10",
   "query": "Eberhard",
@@ -3243,6 +3258,11 @@
  "emiliano sampaio meretrio": {
   "checked": "2026-11-10",
   "query": "Emiliano Sampaio Meretrio",
+  "v": 2
+ },
+ "emmvee": {
+  "checked": "2026-11-22",
+  "query": "Emmvee",
   "v": 2
  },
  "employed to serve": {
@@ -5816,6 +5836,11 @@
  "kool": {
   "checked": "2026-11-18",
   "query": "Kool",
+  "v": 2
+ },
+ "koripark november 28 tol januar 31 ig": {
+  "checked": "2026-11-22",
+  "query": "KoriPark November 28-től január 31-ig!",
   "v": 2
  },
  "kormos anett est": {
@@ -9054,6 +9079,11 @@
   "query": "Rebellia [1991",
   "v": 2
  },
+ "reckoning dead dog summer my own enemy dead end buried": {
+  "checked": "2026-11-22",
+  "query": "Reckoning × Dead Dog Summer × My Own Enemy × Dead End Buried",
+  "v": 2
+ },
  "redzed": {
   "checked": "2026-11-10",
   "country": "",
@@ -9558,6 +9588,11 @@
  "saul williams leap life tour": {
   "checked": "2026-11-11",
   "query": "Saul Williams 'Leap Life Tour'",
+  "v": 2
+ },
+ "sausages 34 let": {
+  "checked": "2026-11-22",
+  "query": "Sausages-34 Let",
   "v": 2
  },
  "savrseni marginalci": {
@@ -12398,6 +12433,11 @@
  "world of bricks 2027": {
   "checked": "2026-11-10",
   "query": "World of Bricks 2027",
+  "v": 2
+ },
+ "x mas finest": {
+  "checked": "2026-11-22",
+  "query": "X-mas Finest",
   "v": 2
  },
  "xavier naidoo": {

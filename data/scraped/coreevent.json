@@ -1,77 +1,5 @@
 [
  {
-  "date": "2026-11-21",
-  "time": "19:30",
-  "title": "Mmv 2026 / Serious Ensemble Zagreb / ”koncert”",
-  "venue": "knap",
-  "genre": "",
-  "price": "",
-  "url": "https://core-event.co/events/serious-ensemble-zagreb-koncert-f061/",
-  "city": "zagreb",
-  "venue_name": "Kazalište Knap - Zagreb",
-  "source": "coreevent"
- },
- {
-  "date": "2026-11-21",
-  "time": "20:00",
-  "title": "Jura Stublić & Film",
-  "venue": "tvornica",
-  "genre": "",
-  "price": "",
-  "url": "https://core-event.co/events/jura-stublic-film-u-tvornici-kulture-5f2c/",
-  "city": "zagreb",
-  "venue_name": "TVORNICA KULTURE",
-  "source": "coreevent"
- },
- {
-  "date": "2026-11-21",
-  "time": "",
-  "title": "Bitanga & Princeza / Best of Ex-yu Hits",
-  "venue": "",
-  "genre": "",
-  "price": "",
-  "url": "https://core-event.co/events/bitanga-princeza-best-of-ex-yu-hits-6409/",
-  "city": "zagreb",
-  "venue_name": "Grof Melin",
-  "source": "coreevent"
- },
- {
-  "date": "2026-11-21",
-  "time": "",
-  "title": "Zorana Mićanović/ 21 rođendan kluba Pietas Julia",
-  "venue": "",
-  "genre": "",
-  "price": "",
-  "url": "https://core-event.co/events/zorana-micanovic-21-rodendan-kluba-pietas-julia-2c6a/",
-  "city": "pula",
-  "venue_name": "club Pietas Julia",
-  "source": "coreevent"
- },
- {
-  "date": "2026-11-21",
-  "time": "",
-  "title": "Retro Techno / Energetica / Crkva",
-  "venue": "ri-crkva",
-  "genre": "",
-  "price": "",
-  "url": "https://core-event.co/events/retro-techno-energetica-crkva-4687/",
-  "city": "rijeka",
-  "venue_name": "klub Crkva",
-  "source": "coreevent"
- },
- {
-  "date": "2026-11-21",
-  "time": "",
-  "title": "Lady Gaga - Mother Monster All Night",
-  "venue": "liftclub",
-  "genre": "",
-  "price": "",
-  "url": "https://core-event.co/events/lady-gaga-mother-monster-all-night-f8dc/",
-  "city": "zagreb",
-  "venue_name": "Lift",
-  "source": "coreevent"
- },
- {
   "date": "2026-11-22",
   "time": "18:30",
   "title": "Fluentes - 10. Godina Rođendanski Koncert",
@@ -648,6 +576,18 @@
   "source": "coreevent"
  },
  {
+  "date": "2026-12-17",
+  "time": "20:00",
+  "title": "Božični Koncert Prohaska Big Banda",
+  "venue": "",
+  "genre": "",
+  "price": "",
+  "url": "https://core-event.co/events/bozicni-koncert-prohaska-big-banda-e133/",
+  "city": "zagreb",
+  "venue_name": "KUC Travno",
+  "source": "coreevent"
+ },
+ {
   "date": "2026-12-18",
   "time": "21:00",
   "title": "Savršeni Marginalci u Boogaloo-u!",
@@ -765,6 +705,18 @@
   "url": "https://core-event.co/events/studio-54-by-tomo-ricov-2026-1d7f/",
   "city": "zagreb",
   "venue_name": "Tvornica Kulture",
+  "source": "coreevent"
+ },
+ {
+  "date": "2026-12-26",
+  "time": "",
+  "title": "X-mas Finest – Underground House",
+  "venue": "ri-pogon",
+  "genre": "",
+  "price": "",
+  "url": "https://core-event.co/events/x-mas-finest-underground-house-ac66/",
+  "city": "rijeka",
+  "venue_name": "Pogon",
   "source": "coreevent"
  },
  {

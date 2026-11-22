@@ -1,23 +1,12 @@
 [
  {
-  "date": "2027-05-27",
+  "date": "2026-11-28",
   "time": "",
-  "title": "Csinibaba Táncdalfesztivál - Hello Tourist",
+  "title": "KoriPark November 28-től január 31-ig!",
   "venue": "bp-budapestpark",
   "genre": "",
   "price": "",
-  "url": "https://www.budapestpark.hu/jegyvasarlas/event/csinibaba-tancdalfesztival-2027-05-27",
-  "city": "budimpesta",
-  "source": "bp-budapestpark"
- },
- {
-  "date": "2027-06-03",
-  "time": "",
-  "title": "AWS",
-  "venue": "bp-budapestpark",
-  "genre": "",
-  "price": "",
-  "url": "https://www.budapestpark.hu/jegyvasarlas/event/aws-2027-06-03",
+  "url": "https://www.budapestpark.hu/hu/koripark",
   "city": "budimpesta",
   "source": "bp-budapestpark"
  },
@@ -33,6 +22,39 @@
   "source": "bp-budapestpark"
  },
  {
+  "date": "2027-06-12",
+  "time": "",
+  "title": "Scooter",
+  "venue": "bp-budapestpark",
+  "genre": "",
+  "price": "",
+  "url": "https://www.budapestpark.hu/jegyvasarlas/event/scooter-2027-06-12",
+  "city": "budimpesta",
+  "source": "bp-budapestpark"
+ },
+ {
+  "date": "2027-05-27",
+  "time": "",
+  "title": "Csinibaba Táncdalfesztivál - Hello Tourist",
+  "venue": "bp-budapestpark",
+  "genre": "",
+  "price": "",
+  "url": "https://www.budapestpark.hu/jegyvasarlas/event/csinibaba-tancdalfesztival-2027-05-27",
+  "city": "budimpesta",
+  "source": "bp-budapestpark"
+ },
+ {
+  "date": "2027-06-13",
+  "time": "",
+  "title": "Motionless in White",
+  "venue": "bp-budapestpark",
+  "genre": "",
+  "price": "",
+  "url": "https://www.budapestpark.hu/jegyvasarlas/event/motionless-in-white-20270613",
+  "city": "budimpesta",
+  "source": "bp-budapestpark"
+ },
+ {
   "date": "2027-08-05",
   "time": "",
   "title": "Kuplung",
@@ -40,6 +62,28 @@
   "genre": "",
   "price": "",
   "url": "https://www.budapestpark.hu/jegyvasarlas/event/kuplung-2027-08-05",
+  "city": "budimpesta",
+  "source": "bp-budapestpark"
+ },
+ {
+  "date": "2027-06-03",
+  "time": "",
+  "title": "AWS",
+  "venue": "bp-budapestpark",
+  "genre": "",
+  "price": "",
+  "url": "https://www.budapestpark.hu/jegyvasarlas/event/aws-2027-06-03",
+  "city": "budimpesta",
+  "source": "bp-budapestpark"
+ },
+ {
+  "date": "2027-07-14",
+  "time": "",
+  "title": "Slash ft. Myles Kennedy and The Conspirators",
+  "venue": "bp-budapestpark",
+  "genre": "",
+  "price": "",
+  "url": "https://www.budapestpark.hu/jegyvasarlas/event/slash-ft-myles-kennedy-and-the-conspirators-2027-07-14",
   "city": "budimpesta",
   "source": "bp-budapestpark"
  },
@@ -66,28 +110,6 @@
   "source": "bp-budapestpark"
  },
  {
-  "date": "2027-06-12",
-  "time": "",
-  "title": "Scooter",
-  "venue": "bp-budapestpark",
-  "genre": "",
-  "price": "",
-  "url": "https://www.budapestpark.hu/jegyvasarlas/event/scooter-2027-06-12",
-  "city": "budimpesta",
-  "source": "bp-budapestpark"
- },
- {
-  "date": "2027-06-13",
-  "time": "",
-  "title": "Motionless in White",
-  "venue": "bp-budapestpark",
-  "genre": "",
-  "price": "",
-  "url": "https://www.budapestpark.hu/jegyvasarlas/event/motionless-in-white-20270613",
-  "city": "budimpesta",
-  "source": "bp-budapestpark"
- },
- {
   "date": "2027-06-28",
   "time": "",
   "title": "The Neighbourhood – Wourld Tour II",
@@ -95,17 +117,6 @@
   "genre": "",
   "price": "",
   "url": "https://www.budapestpark.hu/jegyvasarlas/event/the-neighbourhood-2027-06-28",
-  "city": "budimpesta",
-  "source": "bp-budapestpark"
- },
- {
-  "date": "2027-07-14",
-  "time": "",
-  "title": "Slash ft. Myles Kennedy and The Conspirators",
-  "venue": "bp-budapestpark",
-  "genre": "",
-  "price": "",
-  "url": "https://www.budapestpark.hu/jegyvasarlas/event/slash-ft-myles-kennedy-and-the-conspirators-2027-07-14",
   "city": "budimpesta",
   "source": "bp-budapestpark"
  },

@@ -1,12 +1,12 @@
 [
  {
-  "date": "2026-11-26",
+  "date": "2026-12-13",
   "time": "20:00",
-  "title": "Nikola Vranjković",
+  "title": "Buzzcocks",
   "venue": "tvornica",
   "genre": "",
   "price": "",
-  "url": "https://core-event.co/events/nikola-vranjkovic-u-tvornici-kulture-921c",
+  "url": "https://core-event.co/events/buzzcocks-u-tvornici-kulture-5a29",
   "city": "zagreb",
   "source": "tvornica"
  },
@@ -62,17 +62,6 @@
   "genre": "",
   "price": "",
   "url": "https://core-event.co/events/ruzno-pace-u-tvornici-ee19",
-  "city": "zagreb",
-  "source": "tvornica"
- },
- {
-  "date": "2026-12-13",
-  "time": "20:00",
-  "title": "Buzzcocks",
-  "venue": "tvornica",
-  "genre": "",
-  "price": "",
-  "url": "https://core-event.co/events/buzzcocks-u-tvornici-kulture-5a29",
   "city": "zagreb",
   "source": "tvornica"
  },
@@ -154,17 +143,6 @@
   "source": "tvornica"
  },
  {
-  "date": "2026-11-21",
-  "time": "20:00",
-  "title": "Jura Stublić & Film",
-  "venue": "tvornica",
-  "genre": "",
-  "price": "",
-  "url": "https://core-event.co/events/jura-stublic-film-u-tvornici-kulture-5f2c",
-  "city": "zagreb",
-  "source": "tvornica"
- },
- {
   "date": "2027-01-30",
   "time": "20:00",
   "title": "Repetitor",
@@ -172,6 +150,17 @@
   "genre": "",
   "price": "",
   "url": "https://core-event.co/events/repetitor-u-tvornici-kulture-07d0",
+  "city": "zagreb",
+  "source": "tvornica"
+ },
+ {
+  "date": "2026-11-26",
+  "time": "20:00",
+  "title": "Nikola Vranjković",
+  "venue": "tvornica",
+  "genre": "",
+  "price": "",
+  "url": "https://core-event.co/events/nikola-vranjkovic-u-tvornici-kulture-921c",
   "city": "zagreb",
   "source": "tvornica"
  },
