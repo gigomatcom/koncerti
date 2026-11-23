@@ -218,6 +218,11 @@
   "query": "999",
   "v": 2
  },
+ "a kaprazatos carson coma cirkusz show porondmester": {
+  "checked": "2026-11-23",
+  "query": "A Káprázatos Carson Coma Cirkusz Show! ★ Porondmester",
+  "v": 2
+ },
  "a varhegyutca bemutatja": {
   "checked": "2026-11-10",
   "query": "A Várhegyutca bemutatja",
@@ -406,6 +411,11 @@
   "query": "Akademija St. Martin in the Fields",
   "v": 2
  },
+ "akcioegyseg 35": {
+  "checked": "2026-11-23",
+  "query": "Akcióegység 35",
+  "v": 2
+ },
  "akustika session w": {
   "checked": "2026-11-08",
   "query": "Akustika Session w"
@@ -521,6 +531,25 @@
   "mbid": "9d08ed30-2125-439e-a9a4-d2cc45dfa402",
   "name": "Alo!Stari",
   "query": "Alo!Stari",
+  "v": 2
+ },
+ "alt j": {
+  "checked": "2026-11-23",
+  "country": "GB",
+  "genre": "alt",
+  "links": {
+   "bandcamp": "https://alt-j.bandcamp.com/",
+   "deezer": "https://www.deezer.com/artist/1606315",
+   "facebook": "https://www.facebook.com/altJ.band",
+   "instagram": "https://www.instagram.com/unrealaltj/",
+   "soundcloud": "https://soundcloud.com/alt-j",
+   "spotify": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5",
+   "web": "http://www.altjband.com/",
+   "youtube": "https://www.youtube.com/channel/UCAMWWQQNQeD73DtiddfBrpg"
+  },
+  "mbid": "fc7bbf00-fbaa-4736-986b-b3ac0266ca9b",
+  "name": "alt‐J",
+  "query": "alt-J",
   "v": 2
  },
  "alt n gun": {
@@ -650,6 +679,11 @@
   "mbid": "0eaa4a38-6bc3-46aa-91be-563f1fa86e16",
   "name": "André Rieu",
   "query": "André Rieu",
+  "v": 2
+ },
+ "andrea bambini i elena francalanci": {
+  "checked": "2026-11-23",
+  "query": "Andrea Bambini i Elena Francalanci",
   "v": 2
  },
  "andrea berg": {
@@ -990,6 +1024,11 @@
   "mbid": "fe5896cb-18d2-4471-9b10-28c6ebe1b6c7",
   "name": "Austrofred",
   "query": "Austrofred",
+  "v": 2
+ },
+ "austrofred und kurt razelli 2026": {
+  "checked": "2026-11-23",
+  "query": "Austrofred Und Kurt Razelli 2026",
   "v": 2
  },
  "avatar": {
@@ -1830,6 +1869,11 @@
   "mbid": "49b73ca7-4f3c-4255-93e1-cfec125664a4",
   "name": "Cara Elizabeth",
   "query": "Cara Elizabeth",
+  "v": 2
+ },
+ "carla s cafe": {
+  "checked": "2026-11-23",
+  "query": "Carla‘s Café",
   "v": 2
  },
  "carminho": {
@@ -2674,6 +2718,11 @@
   "query": "Devito u Splitu",
   "v": 2
  },
+ "di ces za novu": {
+  "checked": "2026-11-23",
+  "query": "Di Ćeš za Novu?",
+  "v": 2
+ },
  "diana arbenina": {
   "checked": "2026-11-09",
   "query": "Diana Arbenina",
@@ -2884,6 +2933,11 @@
  "dr michael tsokos": {
   "checked": "2026-11-10",
   "query": "Dr. Michael Tsokos",
+  "v": 2
+ },
+ "dr michael tsokos heute": {
+  "checked": "2026-11-23",
+  "query": "Dr. Michael Tsokos Heute",
   "v": 2
  },
  "draga ulija": {
@@ -3545,6 +3599,11 @@
  "fannisza": {
   "checked": "2026-11-10",
   "query": "fannisza",
+  "v": 2
+ },
+ "fasza kis buli": {
+  "checked": "2026-11-23",
+  "query": "Fasza Kis Buli",
   "v": 2
  },
  "feelharmonija ususret muzickom biennalu zagreb ivan josip skender": {
@@ -4812,6 +4871,20 @@
   "mbid": "2bf2812e-136f-404a-9ece-45b123ab7605",
   "name": "Internal Bleeding",
   "query": "Internal Bleeding",
+  "v": 2
+ },
+ "intim torna illegal": {
+  "checked": "2026-11-23",
+  "country": "HU",
+  "genre": "",
+  "links": {
+   "deezer": "https://www.deezer.com/artist/1514319",
+   "spotify": "https://open.spotify.com/artist/5Eu0ZKYxPuLFCIEmtxzOGV",
+   "web": "http://intimtornaillegal.hu/"
+  },
+  "mbid": "63cf44f0-1d88-4210-8ba1-0d96b9452dff",
+  "name": "Intim Torna Illegál",
+  "query": "Intim Torna Illegál",
   "v": 2
  },
  "iron maidnem": {
@@ -8570,6 +8643,11 @@
   "checked": "2026-11-08",
   "query": "Peti Korak"
  },
+ "petkom prije ponoci": {
+  "checked": "2026-11-23",
+  "query": "PETKOM PRIJE PONOĆI",
+  "v": 2
+ },
  "petkom prije ponoci scena piano": {
   "checked": "2026-11-08",
   "query": "PETKOM PRIJE PONOĆI | Scena PIANO"
@@ -8840,6 +8918,11 @@
   "checked": "2026-11-08",
   "query": "Progledaj srcem 2027"
  },
+ "project 808 vol 3": {
+  "checked": "2026-11-23",
+  "query": "Project 808 Vol. 3",
+  "v": 2
+ },
  "project days 2026": {
   "checked": "2026-11-08",
   "query": "Project Days 2026"
@@ -9010,6 +9093,18 @@
   "query": "Ranking Ann",
   "v": 2
  },
+ "raphael preuschl": {
+  "checked": "2026-11-23",
+  "country": "AT",
+  "genre": "",
+  "links": {
+   "web": "http://www.nohomeforjohnny.com/Raphael_Preuschl.html"
+  },
+  "mbid": "8983378f-7221-46f3-99c6-b604463c37c1",
+  "name": "Raphael Preuschl",
+  "query": "Raphael Preuschl",
+  "v": 2
+ },
  "raphael wressnig committed": {
   "checked": "2026-11-10",
   "query": "Raphael Wressnig 'Committed'",
@@ -9131,6 +9226,11 @@
  "resident evil": {
   "checked": "2026-11-10",
   "query": "Resident Evil",
+  "v": 2
+ },
+ "retro nova godina by slusaonica tilcika": {
+  "checked": "2026-11-23",
+  "query": "RETRO NOVA GODINA by Slušaonica Tilčika",
   "v": 2
  },
  "retro techno": {
@@ -9278,6 +9378,11 @@
   "mbid": "a35237a0-4f47-40a6-b6f3-1e786db23402",
   "name": "Rod Stewart",
   "query": "Rod Stewart",
+  "v": 2
+ },
+ "roger waters presents legacy": {
+  "checked": "2026-11-23",
+  "query": "Roger Waters Presents LEGACY",
   "v": 2
  },
  "roland batik solo": {
@@ -11669,6 +11774,20 @@
   "query": "Tokio Hotel",
   "v": 2
  },
+ "tom byrne": {
+  "checked": "2026-11-23",
+  "country": "",
+  "genre": "",
+  "links": {
+   "deezer": "https://www.deezer.com/artist/1075632",
+   "spotify": "https://open.spotify.com/artist/2EbRSKltC1H2Qw6REqZAvC",
+   "youtube": "https://music.youtube.com/channel/UCJQjq4q_PvGoB4YOrJC-FEA"
+  },
+  "mbid": "7c676455-23a2-4ac7-840a-273dd4fe6928",
+  "name": "Tom Byrne",
+  "query": "Tom Byrne",
+  "v": 2
+ },
  "tom skinner": {
   "checked": "2026-11-10",
   "query": "Tom Skinner",
@@ -11748,6 +11867,11 @@
   "mbid": "d45598fa-5967-4d09-8021-e01af346832c",
   "name": "Torsten Sträter",
   "query": "Torsten Sträter",
+  "v": 2
+ },
+ "tradicionalni koncert zvonka bogdana i tamburaskog sastava iz vojvodine": {
+  "checked": "2026-11-23",
+  "query": "Tradicionalni Koncert Zvonka Bogdana i Tamburaškog Sastava Iz Vojvodine",
   "v": 2
  },
  "tramhaus": {
@@ -12062,6 +12186,11 @@
   "mbid": "603c90ae-5256-4648-b5dd-7dce7814ff5d",
   "name": "Vasko Atanasovski",
   "query": "Vasko Atanasovski",
+  "v": 2
+ },
+ "vatra akustik": {
+  "checked": "2026-11-23",
+  "query": "Vatra | Akustik",
   "v": 2
  },
  "vavra bence": {
@@ -12508,6 +12637,11 @@
   "checked": "2026-11-08",
   "query": "Yem Takes Over Katran"
  },
+ "z enemi 10": {
+  "checked": "2026-11-23",
+  "query": "Z!enemi 10",
+  "v": 2
+ },
  "zabranjeno pusenje kao neustekani": {
   "checked": "2026-11-08",
   "query": "Zabranjeno pušenje kao Neuštekani"
@@ -12658,6 +12792,11 @@
  "zivo blato u tvornici kulture": {
   "checked": "2026-11-08",
   "query": "ŽIVO BLATO u Tvornici kulture"
+ },
+ "zorall 25": {
+  "checked": "2026-11-23",
+  "query": "Zorall 25",
+  "v": 2
  },
  "zorana micanovic": {
   "checked": "2026-11-12",

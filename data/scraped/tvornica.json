@@ -121,6 +121,17 @@
   "source": "tvornica"
  },
  {
+  "date": "2026-12-31",
+  "time": "21:00",
+  "title": "Di Ćeš za Novu?",
+  "venue": "tvornica",
+  "genre": "",
+  "price": "",
+  "url": "https://core-event.co/events/di-ces-za-novu-u-tvornici-kulture-3572",
+  "city": "zagreb",
+  "source": "tvornica"
+ },
+ {
   "date": "2027-01-08",
   "time": "20:00",
   "title": "SWINGERS present's ELVIS!",
@@ -143,17 +154,6 @@
   "source": "tvornica"
  },
  {
-  "date": "2027-01-30",
-  "time": "20:00",
-  "title": "Repetitor",
-  "venue": "tvornica",
-  "genre": "",
-  "price": "",
-  "url": "https://core-event.co/events/repetitor-u-tvornici-kulture-07d0",
-  "city": "zagreb",
-  "source": "tvornica"
- },
- {
   "date": "2026-11-26",
   "time": "20:00",
   "title": "Nikola Vranjković",
@@ -161,6 +161,17 @@
   "genre": "",
   "price": "",
   "url": "https://core-event.co/events/nikola-vranjkovic-u-tvornici-kulture-921c",
+  "city": "zagreb",
+  "source": "tvornica"
+ },
+ {
+  "date": "2027-01-30",
+  "time": "20:00",
+  "title": "Repetitor",
+  "venue": "tvornica",
+  "genre": "",
+  "price": "",
+  "url": "https://core-event.co/events/repetitor-u-tvornici-kulture-07d0",
   "city": "zagreb",
   "source": "tvornica"
  },

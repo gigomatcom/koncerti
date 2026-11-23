@@ -1,29 +1,5 @@
 [
  {
-  "date": "2026-11-22",
-  "time": "19:30",
-  "title": "Spk + Tehom",
-  "venue": "boogaloo",
-  "genre": "",
-  "price": "",
-  "url": "https://www.entrio.hr/event/spk-tehom-34644",
-  "city": "zagreb",
-  "venue_name": "Klub Boogaloo",
-  "source": "ulaznice"
- },
- {
-  "date": "2026-11-22",
-  "time": "20:00",
-  "title": "Akustika Session w/ Sajsi MC",
-  "venue": "petikupe",
-  "genre": "",
-  "price": "",
-  "url": "https://www.entrio.hr/event/akustika-session-peti-kupe-34902",
-  "city": "zagreb",
-  "venue_name": "Peti kupe",
-  "source": "ulaznice"
- },
- {
   "date": "2026-11-23",
   "time": "20:00",
   "title": "17. Zagreb Jazz festival: Mary Halvorson: Canis Major",

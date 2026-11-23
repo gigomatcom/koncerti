@@ -1,16 +1,5 @@
 [
  {
-  "date": "2026-11-22",
-  "time": "18:30",
-  "title": "Eluveitie",
-  "venue": "bp-barbanegra",
-  "genre": "",
-  "price": "",
-  "url": "https://www.barbanegra.hu/program/eluveitie_20261122",
-  "city": "budimpesta",
-  "source": "bp-barbanegra"
- },
- {
   "date": "2026-11-28",
   "time": "18:30",
   "title": "THE OCEAN | Psychonaut | The Devil’s Trade",
@@ -330,6 +319,17 @@
   "source": "bp-barbanegra"
  },
  {
+  "date": "2027-02-13",
+  "time": "18:00",
+  "title": "Zorall 25",
+  "venue": "bp-barbanegra",
+  "genre": "",
+  "price": "",
+  "url": "https://www.barbanegra.hu/program/zorall-25_20270213",
+  "city": "budimpesta",
+  "source": "bp-barbanegra"
+ },
+ {
   "date": "2027-02-17",
   "time": "18:00",
   "title": "Charlotte Wessels & The Obsession",
@@ -337,6 +337,17 @@
   "genre": "",
   "price": "",
   "url": "https://www.barbanegra.hu/program/charlotte-wessels_and_the-obsession_20270217",
+  "city": "budimpesta",
+  "source": "bp-barbanegra"
+ },
+ {
+  "date": "2027-02-20",
+  "time": "18:30",
+  "title": "Z!enemi 10",
+  "venue": "bp-barbanegra",
+  "genre": "",
+  "price": "",
+  "url": "https://www.barbanegra.hu/program/zenemi-10_20270220",
   "city": "budimpesta",
   "source": "bp-barbanegra"
  },
@@ -359,6 +370,17 @@
   "genre": "",
   "price": "",
   "url": "https://www.barbanegra.hu/program/serenity_20270227",
+  "city": "budimpesta",
+  "source": "bp-barbanegra"
+ },
+ {
+  "date": "2027-03-06",
+  "time": "18:00",
+  "title": "Akcióegység 35",
+  "venue": "bp-barbanegra",
+  "genre": "",
+  "price": "",
+  "url": "https://www.barbanegra.hu/program/akcioegyseg-35_20270306",
   "city": "budimpesta",
   "source": "bp-barbanegra"
  },

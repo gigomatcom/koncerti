@@ -1,17 +1,5 @@
 [
  {
-  "date": "2026-11-22",
-  "time": "18:30",
-  "title": "Fluentes - 10. Godina Rođendanski Koncert",
-  "venue": "sax",
-  "genre": "",
-  "price": "",
-  "url": "https://core-event.co/events/fluentes-10-godina-rodendanski-koncert-2dc8/",
-  "city": "zagreb",
-  "venue_name": "Klub Sax!",
-  "source": "coreevent"
- },
- {
   "date": "2026-11-24",
   "time": "19:30",
   "title": "MMV 2026 / ROOMFUL OF TEETH / Roomful of Teeth",
@@ -469,6 +457,18 @@
  },
  {
   "date": "2026-12-11",
+  "time": "22:00",
+  "title": "PETKOM PRIJE PONOĆI: Scena Piano - Ela Katina & Ryan Smith",
+  "venue": "",
+  "genre": "",
+  "price": "",
+  "url": "https://core-event.co/events/petkom-prije-ponoci-scena-piano-ela-katina-ryan-smith-4622/",
+  "city": "zagreb",
+  "venue_name": "Foaje, Scena Piano",
+  "source": "coreevent"
+ },
+ {
+  "date": "2026-12-11",
   "time": "",
   "title": "Incident",
   "venue": "",
@@ -746,6 +746,30 @@
  {
   "date": "2026-12-31",
   "time": "",
+  "title": "Di Ćeš za Novu?",
+  "venue": "tvornica",
+  "genre": "",
+  "price": "",
+  "url": "https://core-event.co/events/di-ces-za-novu-u-tvornici-kulture-3572/",
+  "city": "zagreb",
+  "venue_name": "TVORNICA KULTURE",
+  "source": "coreevent"
+ },
+ {
+  "date": "2026-12-31",
+  "time": "",
+  "title": "RETRO NOVA GODINA by Slušaonica Tilčika",
+  "venue": "",
+  "genre": "",
+  "price": "",
+  "url": "https://core-event.co/events/retro-nova-godina-by-slusaonica-tilcika-f5cd/",
+  "city": "zagreb",
+  "venue_name": "Grof Melin",
+  "source": "coreevent"
+ },
+ {
+  "date": "2026-12-31",
+  "time": "",
   "title": "Timeless 2027 NYE W/ Valentino Kanzyani",
   "venue": "ri-crkva",
   "genre": "",
@@ -861,6 +885,18 @@
   "url": "https://core-event.co/events/daf-deutsch-amerikanische-freundschaft-0764/",
   "city": "zagreb",
   "venue_name": "TVORNICA KULTURE",
+  "source": "coreevent"
+ },
+ {
+  "date": "2027-02-06",
+  "time": "",
+  "title": "Luzeri + Cura i Dečko",
+  "venue": "",
+  "genre": "",
+  "price": "",
+  "url": "https://core-event.co/events/luzeri-cura-i-decko-regenerator-zabok-3706/",
+  "city": "zabok",
+  "venue_name": "Regenerator",
   "source": "coreevent"
  },
  {

@@ -1,17 +1,17 @@
 {
- "run_at": "2026-11-22T12:33:12+00:00",
+ "run_at": "2026-11-23T14:34:50+00:00",
  "sources": {
   "lisinski": {
    "ok": true,
-   "count": 140
+   "count": 142
   },
   "tvornica": {
    "ok": true,
-   "count": 30
+   "count": 31
   },
   "mocvara": {
    "ok": true,
-   "count": 16
+   "count": 15
   },
   "dvaosam": {
    "ok": true,
@@ -36,11 +36,11 @@
   },
   "ulaznice": {
    "ok": true,
-   "count": 46
+   "count": 44
   },
   "coreevent": {
    "ok": true,
-   "count": 97
+   "count": 100
   },
   "hnk-opera": {
    "ok": true,
@@ -48,7 +48,8 @@
   },
   "hnk-koncert": {
    "ok": true,
-   "count": 1
+   "count": 0,
+   "note": "trenutno nema koncerata"
   },
   "visitrijeka": {
    "ok": false,
@@ -62,16 +63,16 @@
   },
   "wi-flex": {
    "ok": true,
-   "count": 17
+   "count": 16
   },
   "wi-planet": {
    "ok": true,
-   "count": 5,
+   "count": 4,
    "note": "samo proba"
   },
   "wi-stadthalle": {
    "ok": true,
-   "count": 143
+   "count": 144
   },
   "wi-wuk": {
    "ok": true,
@@ -79,19 +80,19 @@
   },
   "wi-porgy": {
    "ok": true,
-   "count": 177
+   "count": 179
   },
   "bp-akvarium": {
    "ok": true,
-   "count": 80
+   "count": 81
   },
   "bp-budapestpark": {
    "ok": true,
-   "count": 14
+   "count": 16
   },
   "bp-barbanegra": {
    "ok": true,
-   "count": 42
+   "count": 44
   },
   "bp-a38": {
    "ok": true,
@@ -107,7 +108,7 @@
   },
   "hangtime": {
    "ok": true,
-   "count": 10
+   "count": 9
   },
   "laa": {
    "ok": true,
@@ -140,12 +141,12 @@
   },
   "mb-sng": {
    "ok": true,
-   "count": 12,
+   "count": 13,
    "note": "samo proba"
   },
   "mb-mkc": {
    "ok": true,
-   "count": 13,
+   "count": 14,
    "note": "samo proba"
   },
   "pu-tz": {
@@ -154,7 +155,7 @@
   },
   "pu-ink": {
    "ok": true,
-   "count": 5,
+   "count": 6,
    "note": "samo proba"
   },
   "kinosiska": {

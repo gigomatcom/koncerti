@@ -1,17 +1,5 @@
 title: Planet Music & Media
 jsonld types: ImageObject, ImageObject, WebSite, SearchAction, ImageObject, WebPage, Person, ImageObject, Article
-<div class=pl-card> So., 22. November 2026 So., 22. November 2026 THE SILENCE FOLLOWS TOUR 2026 Beginn: 18:00 Uhr Vorverkauf: 50,15 € ERRA / CURRENTS THE SILENCE FOLLOWS TOUR 2026 Beginn: 18:00 Uhr Vorverkauf: 50,15 € | 
-<div class=pl-card-front.pl-pointer> So., 22. November 2026 So., 22. November 2026 THE SILENCE FOLLOWS TOUR 2026 Beginn: 18:00 Uhr Vorverkauf: 50,15 € ERRA / CURRENTS | 
-<div class=pl-date> So., 22. November 2026 | 
-<div class=pl-thumbnail> So., 22. November 2026 THE SILENCE FOLLOWS TOUR 2026 Beginn: 18:00 Uhr Vorverkauf: 50,15 € | 
-<div class=pl-thumb-desc> So., 22. November 2026 THE SILENCE FOLLOWS TOUR 2026 Beginn: 18:00 Uhr Vorverkauf: 50,15 € | 
-<div class=pl-date> So., 22. November 2026 | 
-<div class=pl-card> So., 22. November 2026 So., 22. November 2026 European Headline Tour 2026 Beginn: 20:00 Uhr Vorverkauf: 39,99 € THE HARDKISS European Headline Tour 2026 Beginn: 20:00 Uhr Vorverkauf: 39,99 € | 
-<div class=pl-card-front.pl-pointer> So., 22. November 2026 So., 22. November 2026 European Headline Tour 2026 Beginn: 20:00 Uhr Vorverkauf: 39,99 € THE HARDKISS | 
-<div class=pl-date> So., 22. November 2026 | 
-<div class=pl-thumbnail> So., 22. November 2026 European Headline Tour 2026 Beginn: 20:00 Uhr Vorverkauf: 39,99 € | 
-<div class=pl-thumb-desc> So., 22. November 2026 European Headline Tour 2026 Beginn: 20:00 Uhr Vorverkauf: 39,99 € | 
-<div class=pl-date> So., 22. November 2026 | 
 <div class=pl-card> Mo., 23. November 2026 Mo., 23. November 2026 Beginn: 20:00 Uhr Vorverkauf: 49,99 € FILOW Beginn: 20:00 Uhr Vorverkauf: 49,99 € | 
 <div class=pl-card-front.pl-pointer> Mo., 23. November 2026 Mo., 23. November 2026 Beginn: 20:00 Uhr Vorverkauf: 49,99 € FILOW | 
 <div class=pl-date> Mo., 23. November 2026 | 
@@ -30,4 +18,16 @@ jsonld types: ImageObject, ImageObject, WebSite, SearchAction, ImageObject, WebP
 <div class=pl-thumbnail> Di., 24. November 2026 Ausverkauft CHEF*IN LIVE Beginn: 20:00 Uhr | 
 <div class=pl-thumb-desc> Di., 24. November 2026 Ausverkauft CHEF*IN LIVE Beginn: 20:00 Uhr | 
 <div class=pl-date> Di., 24. November 2026 | 
+<div class=pl-card> Di., 24. November 2026 Di., 24. November 2026 Verlegt CHEF*IN LIVE Beginn: 20:00 Uhr MISS IVANKA T. Verlegt CHEF*IN LIVE Beginn: 20:00 Uhr | 
+<div class=pl-card-front.pl-pointer> Di., 24. November 2026 Di., 24. November 2026 Verlegt CHEF*IN LIVE Beginn: 20:00 Uhr MISS IVANKA T. | 
+<div class=pl-date> Di., 24. November 2026 | 
+<div class=pl-thumbnail> Di., 24. November 2026 Verlegt CHEF*IN LIVE Beginn: 20:00 Uhr | 
+<div class=pl-thumb-desc> Di., 24. November 2026 Verlegt CHEF*IN LIVE Beginn: 20:00 Uhr | 
+<div class=pl-date> Di., 24. November 2026 | 
+<div class=pl-card> Mi., 25. November 2026 Mi., 25. November 2026 Beginn: 20:00 Uhr ONEUS Beginn: 20:00 Uhr | 
+<div class=pl-card-front.pl-pointer> Mi., 25. November 2026 Mi., 25. November 2026 Beginn: 20:00 Uhr ONEUS | 
+<div class=pl-date> Mi., 25. November 2026 | 
+<div class=pl-thumbnail> Mi., 25. November 2026 Beginn: 20:00 Uhr | 
+<div class=pl-thumb-desc> Mi., 25. November 2026 Beginn: 20:00 Uhr | 
+<div class=pl-date> Mi., 25. November 2026 | 
 poveznice (0): 

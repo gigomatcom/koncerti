@@ -28,10 +28,13 @@ jsonld types:
                                 19.00 | https://www.sng-mb.si/event/jutra-v-dzeninu/
 <div class=datetime> 14. 12. 2026 |
                                 19.00 | 
+<div class=d-flex.date-container> 23 Nov Pon Nina Ramšak Marković in Milan Ramšak Marković Nina Ramšak Marković in Milan Ramšak Marković Überkrajina 20.00 Dvorana Frana Žižka abonma DRAMA TEDEN | https://www.sng-mb.si/event/uberkrajina/
 <div class=content__programs--date> 23 Nov Pon | 
 <div class=content__programs--date> 24 Nov Tor | 
 <div class=d-flex.date-container> 25 Nov Sre Cvetka Sokolov, Maja Borin Cvetka Sokolov, Maja Borin Kot noč in dan 10.00 Komorni oder | https://www.sng-mb.si/event/kot-noc-in-dan/
 <div class=content__programs--date> 25 Nov Sre | 
+<div class=d-flex.date-container> 26 Nov Čet Cvetka Sokolov, Maja Borin Cvetka Sokolov, Maja Borin Kot noč in dan 10.00 Komorni oder | https://www.sng-mb.si/event/kot-noc-in-dan/
+<div class=content__programs--date> 26 Nov Čet | 
 <div class=d-flex.date-container> 26 Nov Čet 3. koncert cikla Carpe artem »Refleksije strun« 19.30 Kazinska dvorana abonma CIKEL CARPE ARTEM | https://www.sng-mb.si/event/[…]/
 <div class=content__programs--date> 26 Nov Čet | 
 <div class=d-flex.date-container> 27 Nov Pet Johann Strauss ml. Johann Strauss ml. Netopir 19.30 Dvorana Ondine Otta Klasinc abonma OPERA BALET PREMIERA | https://www.sng-mb.si/event/netopir-3/
@@ -42,10 +45,13 @@ jsonld types:
 <div class=content__programs--date> 01 Dec Tor | 
 <div class=d-flex.date-container> 02 Dec Sre Johann Strauss ml. Johann Strauss ml. Netopir 19.30 Dvorana Ondine Otta Klasinc abonma OPERA IN SIMFONIKI | https://www.sng-mb.si/event/netopir-3/
 <div class=content__programs--date> 02 Dec Sre | 
+<div class=d-flex.date-container> 23 Nov Pon Nina Ramšak Marković in Milan Ramšak Marković Nina Ramšak Marković in Milan Ramšak Marković Überkrajina 20.00 Dvorana Frana Žižka abonma DRAMA TEDEN | https://www.sng-mb.si/event/uberkrajina/
 <div class=content__programs--date> 23 Nov Pon | 
 <div class=content__programs--date> 24 Nov Tor | 
 <div class=d-flex.date-container> 25 Nov Sre Cvetka Sokolov, Maja Borin Cvetka Sokolov, Maja Borin Kot noč in dan 10.00 Komorni oder | https://www.sng-mb.si/event/kot-noc-in-dan/
 <div class=content__programs--date> 25 Nov Sre | 
+<div class=d-flex.date-container> 26 Nov Čet Cvetka Sokolov, Maja Borin Cvetka Sokolov, Maja Borin Kot noč in dan 10.00 Komorni oder | https://www.sng-mb.si/event/kot-noc-in-dan/
+<div class=content__programs--date> 26 Nov Čet | 
 <div class=d-flex.date-container> 26 Nov Čet 3. koncert cikla Carpe artem »Refleksije strun« 19.30 Kazinska dvorana abonma CIKEL CARPE ARTEM | https://www.sng-mb.si/event/[…]/
 <div class=content__programs--date> 26 Nov Čet | 
 <div class=d-flex.date-container> 27 Nov Pet Johann Strauss ml. Johann Strauss ml. Netopir 19.30 Dvorana Ondine Otta Klasinc abonma OPERA BALET PREMIERA | https://www.sng-mb.si/event/netopir-3/
@@ -66,10 +72,4 @@ jsonld types:
 <div class=news-date> Objavljeno 6. 11. 2026 | 
 <div class=swiper-slide.hover-zoom> Janja Klasinc se z avtobiografijo vrača k družinskim koreninam Objavljeno 6. 11. 2026 | https://www.sng-mb.si/2026/11/06/predstavitev-knjige/
 <a class=news-item.d-flex.flex-column> Janja Klasinc se z avtobiografijo vrača k družinskim koreninam Objavljeno 6. 11. 2026 | https://www.sng-mb.si/2026/11/06/predstavitev-knjige/
-<div class=news-content> Janja Klasinc se z avtobiografijo vrača k družinskim koreninam Objavljeno 6. 11. 2026 | 
-<div class=news-date> Objavljeno 6. 11. 2026 | 
-<div class=swiper-slide.hover-zoom> Bajadera obuja razkošje in brezčasno lepoto klasičnega baleta Objavljeno 4. 11. 2026 | https://www.sng-mb.si/2026/11/04/[…]/
-<a class=news-item.d-flex.flex-column> Bajadera obuja razkošje in brezčasno lepoto klasičnega baleta Objavljeno 4. 11. 2026 | https://www.sng-mb.si/2026/11/04/[…]/
-<div class=news-content> Bajadera obuja razkošje in brezčasno lepoto klasičnega baleta Objavljeno 4. 11. 2026 | 
-<div class=news-date> Objavljeno 4. 11. 2026 | 
 poveznice (12): https://sngmb.mojekarte.si/si/3-koncert-cikla-carpe-artem/vstopnice-1213610.html https://www.sng-mb.si/drama-program/?lang=sl https://www.sng-mb.si/event/[…]/ https://www.sng-mb.si/event/gospa-ministrica/ https://www.sng-mb.si/event/jutra-v-dzeninu/ https://www.sng-mb.si/event/[…]/ https://www.sng-mb.si/event/kot-noc-in-dan/ https://www.sng-mb.si/event/netopir-3/ https://www.sng-mb.si/event/uberkrajina/ https://www.sng-mb.si/opera-program/?lang=sl https://www.sng-mb.si/program/?lang=sl https://www.sng-mb.si/prvi-prizor-program/?lang=sl

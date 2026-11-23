@@ -2,7 +2,7 @@
  {
   "date": "2026-11-23",
   "time": "",
-  "title": "Dr. Michael Tsokos",
+  "title": "Dr. Michael Tsokos Heute",
   "venue": "wi-stadthalle",
   "genre": "",
   "price": "",
@@ -13,7 +13,7 @@
  {
   "date": "2026-11-23",
   "time": "",
-  "title": "Sergio Cortés - The Michael Jackson Experience",
+  "title": "Sergio Cortés - The Michael Jackson Experience Heute",
   "venue": "wi-stadthalle",
   "genre": "",
   "price": "",
@@ -1243,6 +1243,17 @@
   "source": "wi-stadthalle"
  },
  {
+  "date": "2027-11-05",
+  "time": "",
+  "title": "Roger Waters Presents LEGACY",
+  "venue": "wi-stadthalle",
+  "genre": "",
+  "price": "",
+  "url": "https://www.stadthalle.com/de/events/alle-events/51632/Roger-Waters-Presents-LEGACY",
+  "city": "bec",
+  "source": "wi-stadthalle"
+ },
+ {
   "date": "2027-11-06",
   "time": "",
   "title": "Andreas Gabalier",
@@ -1465,11 +1476,11 @@
  {
   "date": "2027-12-26",
   "time": "",
-  "title": "Schwanensee - Imperial Ballet & Live Orchester",
+  "title": "Schwanensee - Imperial Ballet & Live Orchestra",
   "venue": "wi-stadthalle",
   "genre": "",
   "price": "",
-  "url": "https://www.stadthalle.com/de/events/alle-events/51602/Schwanensee-Imperial-Ballet-amp-Live-Orchester",
+  "url": "https://www.stadthalle.com/de/events/alle-events/51602/Schwanensee-Imperial-Ballet-amp-Live-Orchestra",
   "city": "bec",
   "source": "wi-stadthalle"
  },

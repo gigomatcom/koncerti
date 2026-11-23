@@ -314,6 +314,15 @@
    "youtube": "https://www.youtube.com/channel/UC7C1zwKSsOf1ESEnDWaVpyw"
   }
  },
+ "https://akvariumklub.hu/programok/fasza-kis-buli-100-magyar/": {
+  "checked": "2026-11-23",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/akvariumklub/",
+   "instagram": "https://www.instagram.com/akvariumklub/",
+   "youtube": "https://www.youtube.com/channel/UC7C1zwKSsOf1ESEnDWaVpyw"
+  }
+ },
  "https://akvariumklub.hu/programok/felkor-koncert-vendeg-dirty-caps/": {
   "checked": "2026-11-11",
   "clean": {
@@ -860,6 +869,15 @@
    "youtube": "https://www.youtube.com/channel/UC7C1zwKSsOf1ESEnDWaVpyw"
   }
  },
+ "https://akvariumklub.hu/programok/project-808-vol-3-the-comeback/": {
+  "checked": "2026-11-23",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/akvariumklub/",
+   "instagram": "https://www.instagram.com/akvariumklub/",
+   "youtube": "https://www.youtube.com/channel/UC7C1zwKSsOf1ESEnDWaVpyw"
+  }
+ },
  "https://akvariumklub.hu/programok/redzed/": {
   "checked": "2026-11-10",
   "clean": {
@@ -988,9 +1006,17 @@
  },
  "https://akvariumklub.hu/programok/tarany-tamas-kacatok-lemezbemutato/": {
   "checked": "2026-11-11",
-  "clean": {
-   "spotify": "https://open.spotify.com/artist/1xqP1RZfm48GbOxFX82KH1"
-  },
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/akvariumklub/",
+   "instagram": "https://www.instagram.com/akvariumklub/",
+   "spotify": "https://open.spotify.com/artist/1xqP1RZfm48GbOxFX82KH1",
+   "youtube": "https://www.youtube.com/channel/UC7C1zwKSsOf1ESEnDWaVpyw"
+  }
+ },
+ "https://akvariumklub.hu/programok/tarany-tamas-koncert/": {
+  "checked": "2026-11-23",
+  "clean": {},
   "links": {
    "facebook": "https://www.facebook.com/akvariumklub/",
    "instagram": "https://www.instagram.com/akvariumklub/",
@@ -1000,9 +1026,7 @@
  },
  "https://akvariumklub.hu/programok/tarany-tamas-other-side-koncert/": {
   "checked": "2026-11-12",
-  "clean": {
-   "spotify": "https://open.spotify.com/artist/1xqP1RZfm48GbOxFX82KH1"
-  },
+  "clean": {},
   "links": {
    "facebook": "https://www.facebook.com/akvariumklub/",
    "instagram": "https://www.instagram.com/akvariumklub/",
@@ -1446,6 +1470,14 @@
    "instagram": "https://www.instagram.com/core_event/"
   }
  },
+ "https://core-event.co/events/di-ces-za-novu-u-tvornici-kulture-3572": {
+  "checked": "2026-11-23",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/share.php",
+   "instagram": "https://www.instagram.com/tvornicakulture/"
+  }
+ },
  "https://core-event.co/events/docek-2027-godine-oiv-toranj-sljeme-d6a7/": {
   "checked": "2026-11-09",
   "clean": {
@@ -1874,6 +1906,14 @@
    "instagram": "https://www.instagram.com/core_event/"
   }
  },
+ "https://core-event.co/events/luzeri-cura-i-decko-regenerator-zabok-3706/": {
+  "checked": "2026-11-23",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/share.php",
+   "instagram": "https://www.instagram.com/zcuk_regenerator/"
+  }
+ },
  "https://core-event.co/events/luzeri-u-tvornici-kulture-2bf1": {
   "checked": "2026-11-19",
   "clean": {},
@@ -2054,6 +2094,16 @@
    "instagram": "https://www.instagram.com/scenaribnjak/"
   }
  },
+ "https://core-event.co/events/petkom-prije-ponoci-scena-piano-ela-katina-ryan-smith-4622/": {
+  "checked": "2026-11-23",
+  "clean": {
+   "facebook": "https://www.facebook.com/CentarkultureRibnjak/"
+  },
+  "links": {
+   "facebook": "https://www.facebook.com/CentarkultureRibnjak/",
+   "instagram": "https://www.instagram.com/scenaribnjak/"
+  }
+ },
  "https://core-event.co/events/petkom-prije-ponoci-scena-piano-lovro-mirth-nikola-santek-9aa8/": {
   "checked": "2026-11-09",
   "clean": {},
@@ -2150,6 +2200,16 @@
   "links": {
    "facebook": "https://www.facebook.com/share.php",
    "instagram": "https://www.instagram.com/tvornicakulture/"
+  }
+ },
+ "https://core-event.co/events/retro-nova-godina-by-slusaonica-tilcika-f5cd/": {
+  "checked": "2026-11-23",
+  "clean": {
+   "instagram": "https://www.instagram.com/slusaonica_tilchika"
+  },
+  "links": {
+   "facebook": "https://www.facebook.com/share.php",
+   "instagram": "https://www.instagram.com/slusaonica_tilchika"
   }
  },
  "https://core-event.co/events/retro-techno-energetica-crkva-4687/": {
@@ -3480,6 +3540,15 @@
    "youtube": "https://www.youtube.com/user/A38Captain"
   }
  },
+ "https://www.a38.hu/en/program/intim-torna-illegal-32651": {
+  "checked": "2026-11-23",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/a38.hajo",
+   "instagram": "https://www.instagram.com/a38ship/",
+   "youtube": "https://www.youtube.com/user/A38Captain"
+  }
+ },
  "https://www.a38.hu/en/program/johnny-delaware-us": {
   "checked": "2026-11-12",
   "clean": {},
@@ -3779,6 +3848,15 @@
  },
  "https://www.barbanegra.hu/program/accept_20261206": {
   "checked": "2026-11-10",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/BARBA.NEGRA.HUNGARY",
+   "instagram": "https://www.instagram.com/barbanegrahungary",
+   "youtube": "https://www.youtube.com/@barbanegrahungary1929"
+  }
+ },
+ "https://www.barbanegra.hu/program/akcioegyseg-35_20270306": {
+  "checked": "2026-11-23",
   "clean": {},
   "links": {
    "facebook": "https://www.facebook.com/BARBA.NEGRA.HUNGARY",
@@ -4236,10 +4314,40 @@
    "youtube": "https://www.youtube.com/@barbanegrahungary1929"
   }
  },
+ "https://www.barbanegra.hu/program/zenemi-10_20270220": {
+  "checked": "2026-11-23",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/BARBA.NEGRA.HUNGARY",
+   "instagram": "https://www.instagram.com/barbanegrahungary",
+   "youtube": "https://www.youtube.com/@barbanegrahungary1929"
+  }
+ },
+ "https://www.barbanegra.hu/program/zorall-25_20270213": {
+  "checked": "2026-11-23",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/BARBA.NEGRA.HUNGARY",
+   "instagram": "https://www.instagram.com/barbanegrahungary",
+   "youtube": "https://www.youtube.com/@barbanegrahungary1929"
+  }
+ },
  "https://www.budapestpark.hu/hu/koripark": {
   "checked": "2026-11-22",
   "clean": {},
   "links": {}
+ },
+ "https://www.budapestpark.hu/jegyvasarlas/event/alt-j-2027-06-23": {
+  "checked": "2026-11-23",
+  "clean": {
+   "spotify": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
+  },
+  "links": {
+   "facebook": "https://www.facebook.com/mozduljunkki.letsgoout",
+   "instagram": "https://www.instagram.com/budapestpark/",
+   "spotify": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5",
+   "youtube": "https://www.youtube.com/user/Aparkofficial"
+  }
  },
  "https://www.budapestpark.hu/jegyvasarlas/event/aws-2027-06-03": {
   "checked": "2026-11-15",
@@ -4250,6 +4358,18 @@
    "facebook": "https://www.facebook.com/mozduljunkki.letsgoout",
    "instagram": "https://www.instagram.com/budapestpark/",
    "spotify": "https://open.spotify.com/artist/2I5ZkGFj7RYeIBjV4dFlWn",
+   "youtube": "https://www.youtube.com/user/Aparkofficial"
+  }
+ },
+ "https://www.budapestpark.hu/jegyvasarlas/event/carson-coma-2027-05-14": {
+  "checked": "2026-11-23",
+  "clean": {
+   "spotify": "https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6"
+  },
+  "links": {
+   "facebook": "https://www.facebook.com/mozduljunkki.letsgoout",
+   "instagram": "https://www.instagram.com/budapestpark/",
+   "spotify": "https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6",
    "youtube": "https://www.youtube.com/user/Aparkofficial"
   }
  },
@@ -6008,6 +6128,15 @@
    "youtube": "https://www.youtube.com/channel/UCHKYTT4qLI4zdegYDTI8CHA"
   }
  },
+ "https://www.lisinski.hr/hr/dogadanja/iv-djecji-koncert-dinamove-zaklade-nema-predaje/": {
+  "checked": "2026-11-23",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/www.lisinski.hr",
+   "instagram": "https://instagram.com/vatroslavlisinski",
+   "youtube": "https://www.youtube.com/channel/UCHKYTT4qLI4zdegYDTI8CHA"
+  }
+ },
  "https://www.lisinski.hr/hr/dogadanja/jacques-houdek-kad-si-sretan-najljepse-djecje-pj-3/": {
   "checked": "2026-11-09",
   "clean": {},
@@ -6701,6 +6830,15 @@
    "youtube": "https://www.youtube.com/channel/UCHKYTT4qLI4zdegYDTI8CHA"
   }
  },
+ "https://www.lisinski.hr/hr/dogadanja/tradicionalni-koncert-zvonka-bogdana-i-tamburask-4/": {
+  "checked": "2026-11-23",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/www.lisinski.hr",
+   "instagram": "https://instagram.com/vatroslavlisinski",
+   "youtube": "https://www.youtube.com/channel/UCHKYTT4qLI4zdegYDTI8CHA"
+  }
+ },
  "https://www.lisinski.hr/hr/dogadanja/unicef-ov-humanitarni-br-gala-koncert-br-80-godina/": {
   "checked": "2026-11-09",
   "clean": {},
@@ -6712,6 +6850,15 @@
  },
  "https://www.lisinski.hr/hr/dogadanja/valentinovo-u-lisinskom-marko-tolja/": {
   "checked": "2026-11-20",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/www.lisinski.hr",
+   "instagram": "https://instagram.com/vatroslavlisinski",
+   "youtube": "https://www.youtube.com/channel/UCHKYTT4qLI4zdegYDTI8CHA"
+  }
+ },
+ "https://www.lisinski.hr/hr/dogadanja/vatra-akustik/": {
+  "checked": "2026-11-23",
   "clean": {},
   "links": {
    "facebook": "https://www.facebook.com/www.lisinski.hr",
@@ -7613,6 +7760,13 @@
    "facebook": "https://www.facebook.com/wickerl.adam.5103"
   }
  },
+ "https://www.porgy.at/events/13397/": {
+  "checked": "2026-11-23",
+  "clean": {},
+  "links": {
+   "facebook": "http://www.facebook.com/share.php"
+  }
+ },
  "https://www.porgy.at/events/series/136/": {
   "checked": "2026-11-12",
   "clean": {},
@@ -8406,6 +8560,11 @@
   "clean": {},
   "links": {}
  },
+ "https://www.stadthalle.com/de/events/alle-events/51602/Schwanensee-Imperial-Ballet-amp-Live-Orchestra": {
+  "checked": "2026-11-23",
+  "clean": {},
+  "links": {}
+ },
  "https://www.stadthalle.com/de/events/alle-events/51604/POWERWOLF": {
   "checked": "2026-11-12",
   "clean": {},
@@ -8463,6 +8622,11 @@
  },
  "https://www.stadthalle.com/de/events/alle-events/51630/Dick-Brave": {
   "checked": "2026-11-21",
+  "clean": {},
+  "links": {}
+ },
+ "https://www.stadthalle.com/de/events/alle-events/51632/Roger-Waters-Presents-LEGACY": {
+  "checked": "2026-11-23",
   "clean": {},
   "links": {}
  },
@@ -8538,6 +8702,14 @@
  },
  "https://www.wuk.at/programm/kytes/": {
   "checked": "2026-11-10",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/wukvienna/",
+   "instagram": "http://instagram.com/wukvienna"
+  }
+ },
+ "https://www.wuk.at/programm/mothers-finest/": {
+  "checked": "2026-11-23",
   "clean": {},
   "links": {
    "facebook": "https://www.facebook.com/wukvienna/",

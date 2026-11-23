@@ -1,16 +1,5 @@
 [
  {
-  "date": "2026-11-22",
-  "time": "11:00",
-  "title": "Christoph Cech Solo (A)",
-  "venue": "wi-porgybess",
-  "genre": "jazz",
-  "price": "",
-  "url": "https://www.porgy.at/events/series/79/",
-  "city": "bec",
-  "source": "wi-porgy"
- },
- {
   "date": "2026-11-23",
   "time": "19:00",
   "title": "Ema & Ody 'Throwback Sessions'",
@@ -1155,6 +1144,17 @@
   "source": "wi-porgy"
  },
  {
+  "date": "2027-03-10",
+  "time": "20:30",
+  "title": "Tom Byrne & Michael Carey (IRL) / Fell Line (SCO)",
+  "venue": "wi-porgybess",
+  "genre": "jazz",
+  "price": "",
+  "url": "https://www.porgy.at/events/13397/",
+  "city": "bec",
+  "source": "wi-porgy"
+ },
+ {
   "date": "2027-03-11",
   "time": "20:30",
   "title": "Pia Madlener (A) / Duo Janez Dovč & Goran Krmac (SLO)",
@@ -1661,6 +1661,17 @@
   "source": "wi-porgy"
  },
  {
+  "date": "2027-05-14",
+  "time": "20:30",
+  "title": "Raphael Preuschl @ 50 (A)",
+  "venue": "wi-porgybess",
+  "genre": "jazz",
+  "price": "",
+  "url": "https://www.porgy.at/events/series/79/",
+  "city": "bec",
+  "source": "wi-porgy"
+ },
+ {
   "date": "2027-05-15",
   "time": "20:30",
   "title": "Or Bareket Quartet (USA)",
@@ -1741,6 +1752,17 @@
   "date": "2027-05-25",
   "time": "20:30",
   "title": "Daniel 'Pipi' Piazzolla & Escalandrum 'Piazzolla plays Piazzolla' (ARG)",
+  "venue": "wi-porgybess",
+  "genre": "jazz",
+  "price": "",
+  "url": "https://www.porgy.at/events/series/79/",
+  "city": "bec",
+  "source": "wi-porgy"
+ },
+ {
+  "date": "2027-05-27",
+  "time": "20:30",
+  "title": "Carla‘s Café / Caterina Lee (A)",
   "venue": "wi-porgybess",
   "genre": "jazz",
   "price": "",

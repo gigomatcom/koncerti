@@ -1,9 +1,5 @@
 title: Barba Negra
 jsonld types: 
-<article class=event-card> 22 NOV VAS Red Stage ELUVEITIE Kapunyitás: 18:30 Elérhető Részletek | /program/eluveitie_20261122
-<div class=body> 22 NOV VAS Red Stage ELUVEITIE Kapunyitás: 18:30 Elérhető Részletek | /program/eluveitie_20261122
-<div class=top-row> 22 NOV VAS Red Stage | 
-<div class=date-stamp> 22 NOV VAS | 
 <article class=event-card> 28 NOV SZO Blue Stage THE OCEAN | Psychonaut | The Devil’s Trade Kapunyitás: 18:30 Csak online Részletek | /program/theocean-budapest_2026
 <div class=body> 28 NOV SZO Blue Stage THE OCEAN | Psychonaut | The Devil’s Trade Kapunyitás: 18:30 Csak online Részletek | /program/theocean-budapest_2026
 <div class=top-row> 28 NOV SZO Blue Stage | 
@@ -60,4 +56,8 @@ jsonld types:
 <div class=body> 18 DEC PÉN Red Stage PARADICE FESTIVAL Kapunyitás: 22:30 Csak online Részletek | /program/paradice-festival_20261218
 <div class=top-row> 18 DEC PÉN Red Stage | 
 <div class=date-stamp> 18 DEC PÉN | 
-poveznice (54): /program/accept_20261206 /program/aljas-kuszobab_20261211 /program/amorphis_20270127 /program/avatar_20261205 /program/bikini_20261218 /program/black-veil-brides_20270206 /program/[…] /program/depresszio-budapest_20261219 /program/dominum_20261201 /program/dragonforce_20270427 /program/edda-muvek_20261204 /program/eluveitie_20261122 /program/[…] /program/hauber-x-bonanza_20270410 /program/hollywood-undead_20270203 /program/imminence_20270125 /program/iron-maidnem_20270130 /program/ismeros-arcok_20270123 /program/kalap-jakab-60_20270620 /program/kanonenfieber_20271211 /program/karpatia_20261128 /program/[…] /program/lamb-of-god_20270131 /program/lorna-shore_20270614 /program/mcnd_20261130
+<article class=event-card> 19 DEC SZO Red Stage DEPRESSZIÓ - Budapest Kapunyitás: 19:30 Elérhető Részletek | /program/depresszio-budapest_20261219
+<div class=body> 19 DEC SZO Red Stage DEPRESSZIÓ - Budapest Kapunyitás: 19:30 Elérhető Részletek | /program/depresszio-budapest_20261219
+<div class=top-row> 19 DEC SZO Red Stage | 
+<div class=date-stamp> 19 DEC SZO | 
+poveznice (56): /program/accept_20261206 /program/akcioegyseg-35_20270306 /program/aljas-kuszobab_20261211 /program/amorphis_20270127 /program/avatar_20261205 /program/bikini_20261218 /program/black-veil-brides_20270206 /program/[…] /program/depresszio-budapest_20261219 /program/dominum_20261201 /program/dragonforce_20270427 /program/edda-muvek_20261204 /program/[…] /program/hauber-x-bonanza_20270410 /program/hollywood-undead_20270203 /program/imminence_20270125 /program/iron-maidnem_20270130 /program/ismeros-arcok_20270123 /program/kalap-jakab-60_20270620 /program/kanonenfieber_20271211 /program/karpatia_20261128 /program/[…] /program/lamb-of-god_20270131 /program/lorna-shore_20270614 /program/mcnd_20261130

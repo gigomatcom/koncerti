@@ -1,16 +1,5 @@
 [
  {
-  "date": "2026-11-22",
-  "time": "21:00",
-  "title": "Picastro, GALLT1",
-  "venue": "mocvara",
-  "genre": "",
-  "price": "",
-  "url": "https://mochvara.hr/event-detail/6ad0bb06bd7ade09d875b314/",
-  "city": "zagreb",
-  "source": "mocvara"
- },
- {
   "date": "2026-11-23",
   "time": "19:00",
   "title": "Čuvam ti leđa! - Tvoja snaga, moja inspiracija!",
@@ -46,7 +35,7 @@
  {
   "date": "2026-11-25",
   "time": "19:00",
-  "title": "Passo Falso",
+  "title": "Andrea Bambini i Elena Francalanci: Passo Falso",
   "venue": "mocvara",
   "genre": "",
   "price": "",
@@ -121,6 +110,17 @@
   "source": "mocvara"
  },
  {
+  "date": "2026-12-03",
+  "time": "21:00",
+  "title": "Foltin",
+  "venue": "mocvara",
+  "genre": "",
+  "price": "",
+  "url": "https://mochvara.hr/event-detail/6aba39cd285befa19b3eba6d/",
+  "city": "zagreb",
+  "source": "mocvara"
+ },
+ {
   "date": "2027-04-12",
   "time": "",
   "title": "Agriculture",
@@ -128,17 +128,6 @@
   "genre": "",
   "price": "",
   "url": "https://mochvara.hr/event-detail/6afec77b8c62b05525e32f0d/",
-  "city": "zagreb",
-  "source": "mocvara"
- },
- {
-  "date": "2026-12-03",
-  "time": "",
-  "title": "Foltin",
-  "venue": "mocvara",
-  "genre": "",
-  "price": "",
-  "url": "https://mochvara.hr/event-detail/6aba39cd285befa19b3eba6d/",
   "city": "zagreb",
   "source": "mocvara"
  },
