@@ -1,16 +1,5 @@
 [
  {
-  "date": "2026-11-23",
-  "time": "19:00",
-  "title": "Ema & Ody 'Throwback Sessions'",
-  "venue": "wi-porgybess",
-  "genre": "jazz",
-  "price": "",
-  "url": "https://www.porgy.at/events/stage/1/",
-  "city": "bec",
-  "source": "wi-porgy"
- },
- {
   "date": "2026-11-24",
   "time": "20:30",
   "title": "OM feat. Gerry Hemingway & Tony Buck (CH/USA/AUS)",
@@ -299,7 +288,7 @@
  {
   "date": "2026-12-20",
   "time": "19:00",
-  "title": "Liederabend III",
+  "title": "Oskar Aichinger / Elsa Steixner / Lena Kuchling / Lucia Leena / Christian Reiner / Ricarda Oberneder / Sara Filipova / Tini Trampler",
   "venue": "wi-porgybess",
   "genre": "jazz",
   "price": "",
@@ -997,6 +986,17 @@
   "genre": "jazz",
   "price": "",
   "url": "https://www.porgy.at/events/13282/",
+  "city": "bec",
+  "source": "wi-porgy"
+ },
+ {
+  "date": "2027-02-22",
+  "time": "20:30",
+  "title": "Lorenz Raab Septet 'In A Silent Way' (A/CZ)",
+  "venue": "wi-porgybess",
+  "genre": "jazz",
+  "price": "",
+  "url": "https://www.porgy.at/events/series/79/",
   "city": "bec",
   "source": "wi-porgy"
  },
@@ -1818,6 +1818,17 @@
   "date": "2027-06-05",
   "time": "20:30",
   "title": "Martin Breinschmid & The Radio Kings 'Broadway, Hollywood & All that Jazz' (A)",
+  "venue": "wi-porgybess",
+  "genre": "jazz",
+  "price": "",
+  "url": "https://www.porgy.at/events/series/79/",
+  "city": "bec",
+  "source": "wi-porgy"
+ },
+ {
+  "date": "2027-06-07",
+  "time": "20:30",
+  "title": "Ana Paula da Silva 'Promessa de Vida no Teu Coração – Tom Jobim Centennial' (BRA)",
   "venue": "wi-porgybess",
   "genre": "jazz",
   "price": "",

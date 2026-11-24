@@ -1,6 +1,5 @@
 title: Events - A38 Ship
 jsonld types: 
-<div class=md:min-w-40> Monday Nov 23. | 
 <div class=md:min-w-40> Tuesday Nov 24. | 
 <div class=md:min-w-40> Thursday Nov 26. | 
 <div class=md:min-w-40> Friday Nov 27. | 
@@ -12,7 +11,7 @@ jsonld types:
 <div class=md:min-w-40> Saturday Dec 5. | 
 <div class=md:min-w-40> Tuesday Dec 8. | 
 <div class=md:min-w-40> Wednesday Dec 9. | 
-<div class=flex.flex-col.md:flex-row> Thursday Dec 10. 19:45 · Concert hall Fiúk Fiúk – Kebab punk from Budapest! Elővételes jegy 5 900 HUF Buy tickets | https://www.a38.hu/en/program/fiuk-hu-31442
+<div class=flex.flex-col.md:flex-row> Thursday Dec 10. 19:45 · Concert hall Fiúk + 6363 Kebab punk from Budapest! Elővételes jegy 5 900 HUF Buy tickets | https://www.a38.hu/en/program/fiuk-hu-31442
 <div class=md:min-w-40> Thursday Dec 10. | 
 <div class=md:min-w-40> Friday Dec 11. | 
 <div class=md:min-w-40> Saturday Dec 12. | 
@@ -60,4 +59,5 @@ jsonld types:
 <a class=hover-zoom-container.block.cursor-pointer> Next Level pres.: Modestep Liv... 2026 Nov 13. | https://www.a38.hu/en/picture-gallery/[…]
 <div class=bg-blue-5/50.flex.flex-col> Next Level pres.: Modestep Liv... 2026 Nov 13. | 
 <div class=card-content.text-left> Next Level pres.: Modestep Liv... 2026 Nov 13. | 
-poveznice (106): https://ec.europa.eu/programmes/creative-europe/ https://www.a38.hu/en/event-organizing https://www.a38.hu/en/ical/programs https://www.a38.hu/en/picture-gallery/[…] https://www.a38.hu/en/program/4s-street-hu-31029 https://www.a38.hu/en/program/agi-es-a-fiuk-hu https://www.a38.hu/en/program/agi-es-a-fiuk-hu?#!checkout https://www.a38.hu/en/program/allah-las-us-32318 https://www.a38.hu/en/program/allah-las-us-32318?#!checkout https://www.a38.hu/en/program/anima-sound-system-32105 https://www.a38.hu/en/program/anima-sound-system-32105?#!checkout https://www.a38.hu/en/program/arab-strap https://www.a38.hu/en/program/arab-strap?#!checkout https://www.a38.hu/en/program/aranyakkord-hu-32647 https://www.a38.hu/en/program/aranyakkord-hu-32647?#!checkout https://www.a38.hu/en/program/baby-lasagna-hr https://www.a38.hu/en/program/baby-lasagna-hr?#!checkout https://www.a38.hu/en/program/bed-by-10pm-uk https://www.a38.hu/en/program/bed-by-10pm-uk?#!checkout https://www.a38.hu/en/program/[…] https://www.a38.hu/en/program/[…]?#!checkout https://www.a38.hu/en/program/[…] https://www.a38.hu/en/program/[…]?#!checkout https://www.a38.hu/en/program/budapest-bar-hu-32378 https://www.a38.hu/en/program/budapest-bar-hu-32378?#!checkout
+<li class=glide__slide> Konyha búcsúkoncert - a Konyha... 2026 Nov 13. | https://www.a38.hu/en/picture-gallery/[…]
+poveznice (104): https://ec.europa.eu/programmes/creative-europe/ https://www.a38.hu/en/event-organizing https://www.a38.hu/en/ical/programs https://www.a38.hu/en/picture-gallery/[…] https://www.a38.hu/en/program/4s-street-hu-31029 https://www.a38.hu/en/program/agi-es-a-fiuk-hu https://www.a38.hu/en/program/agi-es-a-fiuk-hu?#!checkout https://www.a38.hu/en/program/allah-las-us-32318 https://www.a38.hu/en/program/allah-las-us-32318?#!checkout https://www.a38.hu/en/program/anima-sound-system-32105 https://www.a38.hu/en/program/anima-sound-system-32105?#!checkout https://www.a38.hu/en/program/aranyakkord-hu-32647 https://www.a38.hu/en/program/aranyakkord-hu-32647?#!checkout https://www.a38.hu/en/program/baby-lasagna-hr https://www.a38.hu/en/program/baby-lasagna-hr?#!checkout https://www.a38.hu/en/program/bed-by-10pm-uk https://www.a38.hu/en/program/bed-by-10pm-uk?#!checkout https://www.a38.hu/en/program/[…] https://www.a38.hu/en/program/[…]?#!checkout https://www.a38.hu/en/program/[…] https://www.a38.hu/en/program/[…]?#!checkout https://www.a38.hu/en/program/budapest-bar-hu-32378 https://www.a38.hu/en/program/budapest-bar-hu-32378?#!checkout https://www.a38.hu/en/program/carbon-based-lifeforms-se-32385 https://www.a38.hu/en/program/carbon-based-lifeforms-se-32385?#!checkout

@@ -1,10 +1,10 @@
 title: Kino Šiška – Center urbane kulture
 jsonld types: 
-<tr class=> 23. 11. / 20:00 dvorana Komuna Razlita Tinta | Predstavi svojo stripovsko idejo Vizualna umetnost vstop prost | https://www.kinosiska.si/dogodek/[…]/
 <tr class=> 24. 11. / 20:00 dvorana Katedrala ZEBRAHEAD Glasba Nakup vstopnice | https://www.kinosiska.si/dogodek/zebrahead/
 <tr class=> 27. 11. / 20:00 več prizorišč CoFestival 2026 Ples/gledališče Nakup vstopnice | https://www.kinosiska.si/dogodek/cofestival-2026/
 <tr class=> 29. 11. / 20:00 Linhartova dvorana CoFestival 2026 I Moritz Ostruschnjak: Non + Ultras Ples/gledališče Nakup vstopnice | https://www.kinosiska.si/dogodek/[…]/
 <tr class=> 05. 12. / 20:00 dvorana Katedrala EAGLE-EYE CHERRY I PRESTAVLJENO Glasba Nakup vstopnice | https://www.kinosiska.si/dogodek/eagle-eye-cherry/
+<tr class=> 07. 12. / 18:00 dvorana Katedrala Aksioma x Weiblov inštitut: Filmsko vesolje teorije vstop prost | https://www.kinosiska.si/dogodek/[…]/
 <a class=no-hover> Ples/gledališče 27. 11. / pet  / 20:00 CoFestival 2026 15. mednarodni festival sodobnega plesa Nakup vstopnice | https://www.kinosiska.si/dogodek/cofestival-2026/
 <div class=card-event-full-width> Ples/gledališče 27. 11. / pet  / 20:00 CoFestival 2026 15. mednarodni festival sodobnega plesa Nakup vstopnice | 
 <div class=header> Ples/gledališče 27. 11. / pet  / 20:00 CoFestival 2026 15. mednarodni festival sodobnega plesa Nakup vstopnice | 
@@ -25,18 +25,18 @@ jsonld types:
 <a class=no-hover> Vizualna umetnost 01. 10.                        - 31. 12. DOGODKI V DOBRIVAGI razstave, delavnice, pogovori, predavanja... | https://www.kinosiska.si/dogodek/dogodki-v-dobrivagi/
 <article class=card-event-small> Vizualna umetnost 01. 10.                        - 31. 12. DOGODKI V DOBRIVAGI razstave, delavnice, pogovori, predavanja... | 
 <div class=content.pass-on-hover> 01. 10.                        - 31. 12. DOGODKI V DOBRIVAGI razstave, delavnice, pogovori, predavanja... | 
-<div class=col-md-4.mt-1> Vizualna umetnost 23. 11. / pon  / 20:00 Razlita Tinta | Predstavi svojo stripovsko idejo predstavitev in mreženje | https://www.kinosiska.si/dogodek/[…]/
-<a class=no-hover> Vizualna umetnost 23. 11. / pon  / 20:00 Razlita Tinta | Predstavi svojo stripovsko idejo predstavitev in mreženje | https://www.kinosiska.si/dogodek/[…]/
-<article class=card-event-small> Vizualna umetnost 23. 11. / pon  / 20:00 Razlita Tinta | Predstavi svojo stripovsko idejo predstavitev in mreženje | 
-<div class=content.pass-on-hover> 23. 11. / pon  / 20:00 Razlita Tinta | Predstavi svojo stripovsko idejo predstavitev in mreženje | 
 <div class=col-md-4.mt-1> Glasba 24. 11. / tor  / 20:00 koncert ZEBRAHEAD + Punk Rock Factory | https://www.kinosiska.si/dogodek/zebrahead/
 <a class=no-hover> Glasba 24. 11. / tor  / 20:00 koncert ZEBRAHEAD + Punk Rock Factory | https://www.kinosiska.si/dogodek/zebrahead/
 <article class=card-event-small> Glasba 24. 11. / tor  / 20:00 koncert ZEBRAHEAD + Punk Rock Factory | 
 <div class=content.pass-on-hover> 24. 11. / tor  / 20:00 koncert ZEBRAHEAD + Punk Rock Factory | 
-<div class=col-md-4.mt-1> 07. 12. / pon  / 18:00 Aksioma x Weiblov inštitut: Filmsko vesolje teorije simpozij | https://www.kinosiska.si/dogodek/[…]/
-<a class=no-hover> 07. 12. / pon  / 18:00 Aksioma x Weiblov inštitut: Filmsko vesolje teorije simpozij | https://www.kinosiska.si/dogodek/[…]/
-<article class=card-event-small> 07. 12. / pon  / 18:00 Aksioma x Weiblov inštitut: Filmsko vesolje teorije simpozij | 
-<div class=content.pass-on-hover> 07. 12. / pon  / 18:00 Aksioma x Weiblov inštitut: Filmsko vesolje teorije simpozij | 
+<div class=col-md-4.mt-1> Ples/gledališče 29. 11. / ned  / 20:00 CoFestival 2026 I Moritz Ostruschnjak: Non + Ultras plesna predstava | https://www.kinosiska.si/dogodek/[…]/
+<a class=no-hover> Ples/gledališče 29. 11. / ned  / 20:00 CoFestival 2026 I Moritz Ostruschnjak: Non + Ultras plesna predstava | https://www.kinosiska.si/dogodek/[…]/
+<article class=card-event-small> Ples/gledališče 29. 11. / ned  / 20:00 CoFestival 2026 I Moritz Ostruschnjak: Non + Ultras plesna predstava | 
+<div class=content.pass-on-hover> 29. 11. / ned  / 20:00 CoFestival 2026 I Moritz Ostruschnjak: Non + Ultras plesna predstava | 
+<div class=col-md-4.mt-1> Glasba 08. 12. / tor  / 17:00 CikCak koncerti: MRFY I RAZPRODANO cikel koncertov za mlada ušesa | https://www.kinosiska.si/dogodek/cikcak-koncerti-mrfy/
+<a class=no-hover> Glasba 08. 12. / tor  / 17:00 CikCak koncerti: MRFY I RAZPRODANO cikel koncertov za mlada ušesa | https://www.kinosiska.si/dogodek/cikcak-koncerti-mrfy/
+<article class=card-event-small> Glasba 08. 12. / tor  / 17:00 CikCak koncerti: MRFY I RAZPRODANO cikel koncertov za mlada ušesa | 
+<div class=content.pass-on-hover> 08. 12. / tor  / 17:00 CikCak koncerti: MRFY I RAZPRODANO cikel koncertov za mlada ušesa | 
 <div class=col-md-8.mt-1> Ples/gledališče 27. 11. / pet  / 20:00 CoFestival 2026 15. mednarodni festival sodobnega plesa Nakup vstopnice | https://www.kinosiska.si/dogodek/cofestival-2026/
 <a class=no-hover> Ples/gledališče 27. 11. / pet  / 20:00 CoFestival 2026 15. mednarodni festival sodobnega plesa Nakup vstopnice | https://www.kinosiska.si/dogodek/cofestival-2026/
 <div class=card-event-featured> Ples/gledališče 27. 11. / pet  / 20:00 CoFestival 2026 15. mednarodni festival sodobnega plesa Nakup vstopnice | 

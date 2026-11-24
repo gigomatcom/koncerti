@@ -98,6 +98,11 @@
   "query": "22. Božični koncert",
   "v": 2
  },
+ "23 bozicni koncert": {
+  "checked": "2026-11-24",
+  "query": "23. Božični koncert",
+  "v": 2
+ },
  "25 babyexpo": {
   "checked": "2026-11-11",
   "query": "25. BabyExpo",
@@ -657,6 +662,11 @@
   "query": "Ana Moura",
   "v": 2
  },
+ "ana paula da silva promessa de vida no teu coracao": {
+  "checked": "2026-11-24",
+  "query": "Ana Paula da Silva 'Promessa de Vida no Teu Coração",
+  "v": 2
+ },
  "andras des dollhouse quartet": {
   "checked": "2026-11-10",
   "query": "András Dés' Dollhouse Quartet",
@@ -949,6 +959,21 @@
   "mbid": "6e8e3717-a62d-4a3f-886d-6a4e82507930",
   "name": "Arlo Parks",
   "query": "Arlo Parks",
+  "v": 2
+ },
+ "artan lili": {
+  "checked": "2026-11-24",
+  "country": "",
+  "genre": "",
+  "links": {
+   "bandcamp": "https://artanlili.bandcamp.com/",
+   "facebook": "https://www.facebook.com/623759000986683",
+   "instagram": "https://www.instagram.com/artanlili/",
+   "youtube": "https://www.youtube.com/channel/UCfQf3cnruTbN4beTrffVuFQ"
+  },
+  "mbid": "4f8b9bce-d5f8-437a-8651-f8a549c6fa7e",
+  "name": "Artan Lili",
+  "query": "Artan Lili",
   "v": 2
  },
  "artur menezes": {
@@ -1459,6 +1484,11 @@
  "bladerunnaz pres mozey": {
   "checked": "2026-11-10",
   "query": "Bladerunnaz pres. Mozey",
+  "v": 2
+ },
+ "bladerunnaz pres mozey akva waves": {
+  "checked": "2026-11-24",
+  "query": "Bladerunnaz pres. Mozey AKVA WAVES",
   "v": 2
  },
  "blahalouisiana alarcosbal akvarium foldonkivuliek talalkozoja": {
@@ -3254,6 +3284,11 @@
   "query": "Ella Stern",
   "v": 2
  },
+ "elmarad szkym es palmyy albumbemutato": {
+  "checked": "2026-11-24",
+  "query": "ELMARAD! Szkym és Palmyy albumbemutato???",
+  "v": 2
+ },
  "elsa": {
   "checked": "2026-11-09",
   "query": "Elsa",
@@ -3336,6 +3371,11 @@
   "mbid": "29aaf014-dd11-4c84-9edf-0361693a2b84",
   "name": "Employed to Serve",
   "query": "Employed To Serve",
+  "v": 2
+ },
+ "energetica 31st anniversary": {
+  "checked": "2026-11-24",
+  "query": "Energetica 31st Anniversary",
   "v": 2
  },
  "enis beslagic": {
@@ -4641,6 +4681,11 @@
   "query": "Hungarian Techno Night",
   "v": 2
  },
+ "hungarian techno night akva waves": {
+  "checked": "2026-11-24",
+  "query": "Hungarian Techno Night Akva Waves",
+  "v": 2
+ },
  "hush w": {
   "checked": "2026-11-08",
   "query": "HUSH! W"
@@ -4979,6 +5024,11 @@
   "mbid": "dddc5eac-24aa-48c2-b9d2-a4bf822f5220",
   "name": "J.R. August",
   "query": "J.r. August",
+  "v": 2
+ },
+ "jacques houdek dajem vam pjesmu": {
+  "checked": "2026-11-24",
+  "query": "Jacques Houdek 'dajem Vam Pjesmu!'",
   "v": 2
  },
  "jakob helling vienna jazz orchestra": {
@@ -5476,6 +5526,24 @@
   "mbid": "b0016af8-3953-47ce-b865-475a770d7b17",
   "name": "Kanonenfieber",
   "query": "Kanonenfieber",
+  "v": 2
+ },
+ "kansas": {
+  "checked": "2026-11-24",
+  "country": "US",
+  "genre": "rock",
+  "links": {
+   "bandcamp": "https://kansasband.bandcamp.com/",
+   "deezer": "https://www.deezer.com/artist/1385",
+   "facebook": "https://www.facebook.com/KansasBand",
+   "instagram": "https://www.instagram.com/kansasband/",
+   "spotify": "https://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1",
+   "web": "https://kansasband.com/",
+   "youtube": "https://www.youtube.com/channel/UCD58rE0B2PDe3se2nCv1yRA"
+  },
+  "mbid": "69689acf-d9cd-4d20-a972-47db4ed51b1a",
+  "name": "Kansas",
+  "query": "Kansas",
   "v": 2
  },
  "karl ratzer trio": {
@@ -6041,6 +6109,16 @@
   "checked": "2026-11-08",
   "query": "Kristijan Rahimovski"
  },
+ "kriva istina": {
+  "checked": "2026-11-24",
+  "country": "HR",
+  "genre": "",
+  "links": {},
+  "mbid": "5c161018-ac73-405a-b6cb-9a9c43dad031",
+  "name": "Kriva istina",
+  "query": "Kriva Istina",
+  "v": 2
+ },
  "kromatika 3": {
   "checked": "2026-11-10",
   "query": "Kromatika 3",
@@ -6563,6 +6641,11 @@
   "mbid": "c1e5344e-1bff-4727-9417-a4f55e41b5ff",
   "name": "Loreena McKennitt",
   "query": "Loreena McKennitt",
+  "v": 2
+ },
+ "lorenz raab septet in a silent way": {
+  "checked": "2026-11-24",
+  "query": "Lorenz Raab Septet 'In A Silent Way'",
   "v": 2
  },
  "lorenz widauer": {
@@ -7622,6 +7705,11 @@
   "query": "MOONSPELL",
   "v": 2
  },
+ "morana kasapovic": {
+  "checked": "2026-11-24",
+  "query": "MORANA KASAPOVIĆ",
+  "v": 2
+ },
  "morgan jay": {
   "checked": "2026-11-11",
   "country": "",
@@ -7811,6 +7899,11 @@
   "checked": "2026-11-08",
   "query": "NØVA EVENTS"
  },
+ "n va grinchmas": {
+  "checked": "2026-11-24",
+  "query": "NØVA Grinchmas",
+  "v": 2
+ },
  "na prvi pogled": {
   "checked": "2026-11-08",
   "query": "Na Prvi Pogled"
@@ -7993,6 +8086,18 @@
  "ngz presents": {
   "checked": "2026-11-10",
   "query": "Ngz Presents",
+  "v": 2
+ },
+ "nicim izazvan": {
+  "checked": "2026-11-24",
+  "country": "",
+  "genre": "",
+  "links": {
+   "facebook": "https://www.facebook.com/nicimizazvan/info?tab=page_info"
+  },
+  "mbid": "2b3b6341-1794-4b8e-929c-af705e78d78c",
+  "name": "Ničim Izazvan",
+  "query": "NIČIM IZAZVAN",
   "v": 2
  },
  "nickelback": {
@@ -8505,6 +8610,18 @@
   "query": "OSEES with Brigid Dawson",
   "v": 2
  },
+ "oskar aichinger": {
+  "checked": "2026-11-24",
+  "country": "AT",
+  "genre": "jazz",
+  "links": {
+   "web": "http://www.oskaraichinger.at/"
+  },
+  "mbid": "964166c7-1b87-4187-9191-c7f25b272fcf",
+  "name": "Oskar Aichinger",
+  "query": "Oskar Aichinger",
+  "v": 2
+ },
  "ossian": {
   "checked": "2026-11-09",
   "query": "Ossian",
@@ -8730,6 +8847,11 @@
  "pizzera": {
   "checked": "2026-11-11",
   "query": "Pizzera",
+  "v": 2
+ },
+ "pjesmom i plesom kroz bosanskohercegovacku tradiciju": {
+  "checked": "2026-11-24",
+  "query": "Pjesmom i Plesom Kroz Bosanskohercegovačku Tradiciju",
   "v": 2
  },
  "placebo": {
@@ -10059,6 +10181,24 @@
   "query": "Simone Kopmajer",
   "v": 2
  },
+ "simple plan": {
+  "checked": "2026-11-24",
+  "country": "CA",
+  "genre": "punk",
+  "links": {
+   "deezer": "https://www.deezer.com/artist/87",
+   "facebook": "https://www.facebook.com/simpleplan",
+   "instagram": "https://www.instagram.com/simpleplan/",
+   "soundcloud": "https://soundcloud.com/simple-plan-877652749",
+   "spotify": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ",
+   "web": "https://officialsimpleplan.com/",
+   "youtube": "https://www.youtube.com/channel/UCKI33Zd-b17rDIcPSv9E_-w"
+  },
+  "mbid": "b345af35-205e-4eca-8006-029e5c20127e",
+  "name": "Simple Plan",
+  "query": "Simple Plan",
+  "v": 2
+ },
  "simply red": {
   "checked": "2026-11-11",
   "country": "GB",
@@ -10197,6 +10337,11 @@
   "query": "SLASH featuring Myles Kennedy and The Conspirators",
   "v": 2
  },
+ "slavimo 5 ro endan w": {
+  "checked": "2026-11-24",
+  "query": "Slavimo 5. rođendan w",
+  "v": 2
+ },
  "slavko ninic": {
   "checked": "2026-11-10",
   "country": "",
@@ -10306,6 +10451,11 @@
   "mbid": "321eaf5a-be21-4faf-a7a0-0a4e59e5ee29",
   "name": "Softcult",
   "query": "Softcult",
+  "v": 2
+ },
+ "sold out ngz presents": {
+  "checked": "2026-11-24",
+  "query": "Sold Out! Ngz Presents",
   "v": 2
  },
  "solstafir": {
@@ -10803,6 +10953,24 @@
   "query": "Taking The Trash Out",
   "v": 2
  },
+ "tamikrest": {
+  "checked": "2026-11-24",
+  "country": "ML",
+  "genre": "blues",
+  "links": {
+   "bandcamp": "https://tamikrest.bandcamp.com/",
+   "deezer": "https://www.deezer.com/artist/90764",
+   "facebook": "https://www.facebook.com/tamikrest",
+   "instagram": "https://www.instagram.com/tamikrest.official/",
+   "spotify": "https://open.spotify.com/artist/6nZ1wn9URV4oWk4UKuG872",
+   "web": "http://tamikrest.net/",
+   "youtube": "https://www.youtube.com/channel/UCgMiy1tOfcsBLNjDg766qjA"
+  },
+  "mbid": "57b481d3-b44a-4573-9fce-2c2e21710912",
+  "name": "Tamikrest",
+  "query": "Tamikrest",
+  "v": 2
+ },
  "tania giannouli": {
   "checked": "2026-11-10",
   "query": "Tania Giannouli",
@@ -10947,6 +11115,11 @@
   "query": "TELT HÁZ! imago mundi",
   "v": 2
  },
+ "telt haz indigo live band": {
+  "checked": "2026-11-24",
+  "query": "Telt Ház! Indigo Live Band",
+  "v": 2
+ },
  "telt haz mehringer day 1": {
   "checked": "2026-11-10",
   "query": "Telt Ház! Mehringer | Day 1",
@@ -10955,6 +11128,11 @@
  "telt haz mehringer day 2": {
   "checked": "2026-11-10",
   "query": "Telt Ház! Mehringer | Day 2",
+  "v": 2
+ },
+ "telt haz nagy bogi": {
+  "checked": "2026-11-24",
+  "query": "TELT HÁZ! Nagy Bogi",
   "v": 2
  },
  "telthaz": {
@@ -11384,6 +11562,11 @@
  "the palace": {
   "checked": "2026-11-10",
   "query": "The Palace",
+  "v": 2
+ },
+ "the paradox": {
+  "checked": "2026-11-24",
+  "query": "The Paradox",
   "v": 2
  },
  "the pineapple thief": {

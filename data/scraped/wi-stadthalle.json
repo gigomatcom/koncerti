@@ -1,27 +1,5 @@
 [
  {
-  "date": "2026-11-23",
-  "time": "",
-  "title": "Dr. Michael Tsokos Heute",
-  "venue": "wi-stadthalle",
-  "genre": "",
-  "price": "",
-  "url": "https://www.stadthalle.com/de/events/alle-events/51123/Dr-Michael-Tsokos",
-  "city": "bec",
-  "source": "wi-stadthalle"
- },
- {
-  "date": "2026-11-23",
-  "time": "",
-  "title": "Sergio Cortés - The Michael Jackson Experience Heute",
-  "venue": "wi-stadthalle",
-  "genre": "",
-  "price": "",
-  "url": "https://www.stadthalle.com/de/events/alle-events/51236/Sergio-Cortes-The-Michael-Jackson-Experience",
-  "city": "bec",
-  "source": "wi-stadthalle"
- },
- {
   "date": "2026-11-24",
   "time": "",
   "title": "Santiano",
@@ -29,17 +7,6 @@
   "genre": "",
   "price": "",
   "url": "https://www.stadthalle.com/de/events/alle-events/51178/SANTIANO",
-  "city": "bec",
-  "source": "wi-stadthalle"
- },
- {
-  "date": "2026-11-24",
-  "time": "",
-  "title": "The Prodigy",
-  "venue": "wi-stadthalle",
-  "genre": "",
-  "price": "",
-  "url": "https://www.stadthalle.com/de/events/alle-events/51362/The-Prodigy",
   "city": "bec",
   "source": "wi-stadthalle"
  },
@@ -480,6 +447,17 @@
   "genre": "",
   "price": "",
   "url": "https://www.stadthalle.com/de/events/alle-events/51556/Oktagon-103",
+  "city": "bec",
+  "source": "wi-stadthalle"
+ },
+ {
+  "date": "2027-02-20",
+  "time": "",
+  "title": "Schwanensee - UCB",
+  "venue": "wi-stadthalle",
+  "genre": "",
+  "price": "",
+  "url": "https://www.stadthalle.com/de/events/alle-events/51634/Schwanensee-UCB",
   "city": "bec",
   "source": "wi-stadthalle"
  },
@@ -1052,6 +1030,17 @@
   "genre": "",
   "price": "",
   "url": "https://www.stadthalle.com/de/events/alle-events/51578/Scorpions",
+  "city": "bec",
+  "source": "wi-stadthalle"
+ },
+ {
+  "date": "2026-11-25",
+  "time": "10:00",
+  "title": "Kansas",
+  "venue": "wi-stadthalle",
+  "genre": "",
+  "price": "",
+  "url": "https://www.stadthalle.com/de/events/alle-events/51636/KANSAS",
   "city": "bec",
   "source": "wi-stadthalle"
  },

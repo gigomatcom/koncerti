@@ -1,27 +1,5 @@
 [
  {
-  "date": "2026-11-23",
-  "time": "19:00",
-  "title": "Čuvam ti leđa! - Tvoja snaga, moja inspiracija!",
-  "venue": "mocvara",
-  "genre": "",
-  "price": "",
-  "url": "https://mochvara.hr/event-detail/6af2fa890029ced1861010c8/",
-  "city": "zagreb",
-  "source": "mocvara"
- },
- {
-  "date": "2026-11-23",
-  "time": "21:00",
-  "title": "Munly & The Lupercalians",
-  "venue": "mocvara",
-  "genre": "",
-  "price": "",
-  "url": "https://mochvara.hr/event-detail/6a462acf52370eea066a1efe/",
-  "city": "zagreb",
-  "source": "mocvara"
- },
- {
   "date": "2026-11-24",
   "time": "21:00",
   "title": "Plattenbau, Vurma",
@@ -117,6 +95,17 @@
   "genre": "",
   "price": "",
   "url": "https://mochvara.hr/event-detail/6aba39cd285befa19b3eba6d/",
+  "city": "zagreb",
+  "source": "mocvara"
+ },
+ {
+  "date": "2026-12-04",
+  "time": "21:00",
+  "title": "Kriva Istina, FNC Diverzant, Suplexx, Kiselly",
+  "venue": "mocvara",
+  "genre": "",
+  "price": "",
+  "url": "https://mochvara.hr/event-detail/6ab812ba2b7bc72ad760d106/",
   "city": "zagreb",
   "source": "mocvara"
  },

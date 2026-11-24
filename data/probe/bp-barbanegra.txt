@@ -8,8 +8,8 @@ jsonld types:
 <div class=body> 28 NOV SZO Red Stage KÁRPÁTIA Kapunyitás: 18:00 Elérhető Részletek | /program/karpatia_20261128
 <div class=top-row> 28 NOV SZO Red Stage | 
 <div class=date-stamp> 28 NOV SZO | 
-<article class=event-card> 30 NOV HÉT Blue Stage MCND - Devil Youth Club 2026 Fan Tour Csak online Részletek | /program/mcnd_20261130
-<div class=body> 30 NOV HÉT Blue Stage MCND - Devil Youth Club 2026 Fan Tour Csak online Részletek | /program/mcnd_20261130
+<article class=event-card> 30 NOV HÉT Blue Stage MCND - Devil Youth Club 2026 Fan Tour Kapunyitás: 19:00 Csak online Részletek | /program/mcnd_20261130
+<div class=body> 30 NOV HÉT Blue Stage MCND - Devil Youth Club 2026 Fan Tour Kapunyitás: 19:00 Csak online Részletek | /program/mcnd_20261130
 <div class=top-row> 30 NOV HÉT Blue Stage | 
 <div class=date-stamp> 30 NOV HÉT | 
 <article class=event-card> 01 DEC KEDD Blue Stage DOMINUM Kapunyitás: 18:00 Elérhető Részletek | /program/dominum_20261201

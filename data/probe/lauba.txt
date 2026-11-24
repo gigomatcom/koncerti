@@ -1,12 +1,23 @@
 title: Lauba – KUĆA ZA LJUDE I UMJETNOST
 jsonld types: 
-<div class=wpb_column.vc_column_container.vc_col-sm-12> Za obavijesti o nadolazećim izložbama i događanjima, prijavite se na naš newsletter ili nas pratite na društvenim mrežama. Sljedeće na programu: SFUMATO – REQUIEM ZA GRAD 17. 11. 2026., 20:00 sati Ula | 
-<div class=vc_column-inner.vc_custom_1539955127967> Za obavijesti o nadolazećim izložbama i događanjima, prijavite se na naš newsletter ili nas pratite na društvenim mrežama. Sljedeće na programu: SFUMATO – REQUIEM ZA GRAD 17. 11. 2026., 20:00 sati Ula | 
-<div class=wpb_wrapper> Za obavijesti o nadolazećim izložbama i događanjima, prijavite se na naš newsletter ili nas pratite na društvenim mrežama. Sljedeće na programu: SFUMATO – REQUIEM ZA GRAD 17. 11. 2026., 20:00 sati Ula | 
-<div class=eltdf-elements-holder.eltdf-one-column.eltdf-responsive-mode-768> Za obavijesti o nadolazećim izložbama i događanjima, prijavite se na naš newsletter ili nas pratite na društvenim mrežama. Sljedeće na programu: SFUMATO – REQUIEM ZA GRAD 17. 11. 2026., 20:00 sati Ula | 
-<div class=eltdf-eh-item> Za obavijesti o nadolazećim izložbama i događanjima, prijavite se na naš newsletter ili nas pratite na društvenim mrežama. Sljedeće na programu: SFUMATO – REQUIEM ZA GRAD 17. 11. 2026., 20:00 sati Ula | 
-<div class=eltdf-eh-item-inner> Za obavijesti o nadolazećim izložbama i događanjima, prijavite se na naš newsletter ili nas pratite na društvenim mrežama. Sljedeće na programu: SFUMATO – REQUIEM ZA GRAD 17. 11. 2026., 20:00 sati Ula | 
-<div class=eltdf-eh-item-content.eltdf-eh-custom-3740> Za obavijesti o nadolazećim izložbama i događanjima, prijavite se na naš newsletter ili nas pratite na društvenim mrežama. Sljedeće na programu: SFUMATO – REQUIEM ZA GRAD 17. 11. 2026., 20:00 sati Ula | 
-<div class=wpb_text_column.wpb_content_element> Za obavijesti o nadolazećim izložbama i događanjima, prijavite se na naš newsletter ili nas pratite na društvenim mrežama. Sljedeće na programu: SFUMATO – REQUIEM ZA GRAD 17. 11. 2026., 20:00 sati Ula | 
-<div class=wpb_wrapper> Za obavijesti o nadolazećim izložbama i događanjima, prijavite se na naš newsletter ili nas pratite na društvenim mrežama. Sljedeće na programu: SFUMATO – REQUIEM ZA GRAD 17. 11. 2026., 20:00 sati Ula | 
+bez prepoznatih datuma; html bytes=109583
+api/json hints: //fonts.googleapis.com, //maps.googleapis.com
+<div class=wpb_column.vc_column_container.vc_col-sm-12> ULAZNICE ZA IZLOŽBE KOJE ORGANIZIRA LAUBA: redovna ulaznica: 6 EUR studenti/umirovljenici/kvartovska ulaznica: 3 EUR članovi: besplatno
+<div class=vc_column-inner.vc_custom_1539955118437> ULAZNICE ZA IZLOŽBE KOJE ORGANIZIRA LAUBA: redovna ulaznica: 6 EUR studenti/umirovljenici/kvartovska ulaznica: 3 EUR članovi: besplatno
+<div class=wpb_wrapper> ULAZNICE ZA IZLOŽBE KOJE ORGANIZIRA LAUBA: redovna ulaznica: 6 EUR studenti/umirovljenici/kvartovska ulaznica: 3 EUR članovi: besplatno
+<div class=eltdf-elements-holder.eltdf-one-column.eltdf-responsive-mode-768> ULAZNICE ZA IZLOŽBE KOJE ORGANIZIRA LAUBA: redovna ulaznica: 6 EUR studenti/umirovljenici/kvartovska ulaznica: 3 EUR članovi: besplatno
+<div class=eltdf-eh-item.eltdf-vertical-alignment-top> ULAZNICE ZA IZLOŽBE KOJE ORGANIZIRA LAUBA: redovna ulaznica: 6 EUR studenti/umirovljenici/kvartovska ulaznica: 3 EUR članovi: besplatno
+<div class=eltdf-eh-item-inner> ULAZNICE ZA IZLOŽBE KOJE ORGANIZIRA LAUBA: redovna ulaznica: 6 EUR studenti/umirovljenici/kvartovska ulaznica: 3 EUR članovi: besplatno
+<div class=eltdf-eh-item-content.eltdf-eh-custom-2853> ULAZNICE ZA IZLOŽBE KOJE ORGANIZIRA LAUBA: redovna ulaznica: 6 EUR studenti/umirovljenici/kvartovska ulaznica: 3 EUR članovi: besplatno
+<div class=wpb_text_column.wpb_content_element> ULAZNICE ZA IZLOŽBE KOJE ORGANIZIRA LAUBA: redovna ulaznica: 6 EUR studenti/umirovljenici/kvartovska ulaznica: 3 EUR članovi: besplatno
+<div class=wpb_wrapper> ULAZNICE ZA IZLOŽBE KOJE ORGANIZIRA LAUBA: redovna ulaznica: 6 EUR studenti/umirovljenici/kvartovska ulaznica: 3 EUR članovi: besplatno
+<div class=eltdf-column-content.eltdf-grid-col-3> T : +385 91 630 2100 F : +385 1 6302142 E : info@lauba.hr A : Prilaz baruna Filipovića 23a, 10000, Zagreb
+<div class=widget_text.widget.eltdf-footer-column-1> T : +385 91 630 2100 F : +385 1 6302142 E : info@lauba.hr A : Prilaz baruna Filipovića 23a, 10000, Zagreb
+<div class=textwidget.custom-html-widget> T : +385 91 630 2100 F : +385 1 6302142 E : info@lauba.hr A : Prilaz baruna Filipovića 23a, 10000, Zagreb
+<div class=eltdf-footer-bottom-holder> © 2020, LAUBA sva prava pridržana. Made with love by SAPUN
+<div class=eltdf-footer-bottom-inner.eltdf-grid> © 2020, LAUBA sva prava pridržana. Made with love by SAPUN
+<div class=eltdf-grid-row> © 2020, LAUBA sva prava pridržana. Made with love by SAPUN
+<div class=eltdf-grid-col-12> © 2020, LAUBA sva prava pridržana. Made with love by SAPUN
+<div class=widget.eltdf-footer-bottom-column-1.widget_text> © 2020, LAUBA sva prava pridržana. Made with love by SAPUN
+<div class=textwidget> © 2020, LAUBA sva prava pridržana. Made with love by SAPUN
 poveznice (3): http://www.lauba.hr/dogadanja/ https://www.lauba.hr/category/dogadanja/ https://www.lauba.hr/dogadanja/

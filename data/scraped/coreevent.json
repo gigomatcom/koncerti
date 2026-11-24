@@ -528,6 +528,18 @@
   "source": "coreevent"
  },
  {
+  "date": "2026-12-12",
+  "time": "",
+  "title": "Energetica 31st Anniversary, Crkva, Rijeka",
+  "venue": "ri-crkva",
+  "genre": "",
+  "price": "",
+  "url": "https://core-event.co/events/energetica-31st-anniversary-crkva-rijeka-cac0/",
+  "city": "rijeka",
+  "venue_name": "klub Crkva",
+  "source": "coreevent"
+ },
+ {
   "date": "2026-12-13",
   "time": "20:00",
   "title": "Buzzcocks",
@@ -657,6 +669,18 @@
   "url": "https://core-event.co/events/baby-lasagna-u-boogaloo-u-6bf8/",
   "city": "zagreb",
   "venue_name": "Boogaloo",
+  "source": "coreevent"
+ },
+ {
+  "date": "2026-12-19",
+  "time": "",
+  "title": "NØVA Grinchmas",
+  "venue": "",
+  "genre": "",
+  "price": "",
+  "url": "https://core-event.co/events/nova-who-stole-christmas-dd3b/",
+  "city": "zagreb",
+  "venue_name": "Zonar Zagreb",
   "source": "coreevent"
  },
  {
@@ -876,6 +900,18 @@
   "source": "coreevent"
  },
  {
+  "date": "2027-02-05",
+  "time": "20:00",
+  "title": "Artan Lili",
+  "venue": "tvornica",
+  "genre": "",
+  "price": "",
+  "url": "https://core-event.co/events/artan-lili-u-tvornici-kulture-951a/",
+  "city": "zagreb",
+  "venue_name": "TVORNICA KULTURE",
+  "source": "coreevent"
+ },
+ {
   "date": "2027-02-06",
   "time": "20:00",
   "title": "DAF - Deutsch Amerikanische Freundschaft",
@@ -933,6 +969,18 @@
   "url": "https://core-event.co/events/my-new-band-believe-6de0/",
   "city": "zagreb",
   "venue_name": "Močvara",
+  "source": "coreevent"
+ },
+ {
+  "date": "2027-02-20",
+  "time": "",
+  "title": "Tamikrest",
+  "venue": "ri-pogon",
+  "genre": "",
+  "price": "",
+  "url": "https://core-event.co/events/tamikrest-u-rijeci-78ba/",
+  "city": "rijeka",
+  "venue_name": "Pogon",
   "source": "coreevent"
  },
  {
@@ -1113,6 +1161,18 @@
   "url": "https://core-event.co/events/scorpions-with-special-guests-europe-arena-zagreb-cf3d/",
   "city": "zagreb",
   "venue_name": "Arena Zagreb",
+  "source": "coreevent"
+ },
+ {
+  "date": "2027-06-12",
+  "time": "20:00",
+  "title": "Simple Plan",
+  "venue": "tvornica",
+  "genre": "",
+  "price": "",
+  "url": "https://core-event.co/events/simple-plan-u-zagrebu-d0d2/",
+  "city": "zagreb",
+  "venue_name": "Tvornica Kulture",
   "source": "coreevent"
  },
  {

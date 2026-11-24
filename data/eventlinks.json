@@ -1197,6 +1197,15 @@
    "youtube": "https://www.youtube.com/channel/UCd7ThrEyJ29upsyJ_LYTszQ"
   }
  },
+ "https://attack.hr/hr/veliki-odmor-otvoreni-poziv-srednjoskolskim-bendvima-i-izvodacima-cama-za-nastup-na-festivalu-veliki-odmor-2027": {
+  "checked": "2026-11-24",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/akc.attack",
+   "instagram": "https://www.instagram.com/akc.attack",
+   "youtube": "https://www.youtube.com/channel/UCd7ThrEyJ29upsyJ_LYTszQ"
+  }
+ },
  "https://core-event.co/events/3012-bozicno-cudo-d9a2/": {
   "checked": "2026-11-09",
   "clean": {
@@ -1302,6 +1311,14 @@
   "links": {
    "facebook": "https://www.facebook.com/share.php",
    "instagram": "https://www.instagram.com/core_event/"
+  }
+ },
+ "https://core-event.co/events/artan-lili-u-tvornici-kulture-951a": {
+  "checked": "2026-11-24",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/share.php",
+   "instagram": "https://www.instagram.com/tvornicakulture/"
   }
  },
  "https://core-event.co/events/axiom-dejana-terzica-083e/": {
@@ -1552,6 +1569,14 @@
   "links": {
    "facebook": "https://www.facebook.com/share.php",
    "instagram": "https://www.instagram.com/elevate.eventshr/"
+  }
+ },
+ "https://core-event.co/events/energetica-31st-anniversary-crkva-rijeka-cac0/": {
+  "checked": "2026-11-24",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/share.php",
+   "instagram": "https://www.instagram.com/crkva_rijeka/"
   }
  },
  "https://core-event.co/events/fit-bozicni-koncert-2c09/": {
@@ -2026,9 +2051,7 @@
  },
  "https://core-event.co/events/nova-events-podmornica-0728/": {
   "checked": "2026-11-13",
-  "clean": {
-   "instagram": "https://www.instagram.com/novaevents.cro"
-  },
+  "clean": {},
   "links": {
    "facebook": "https://www.facebook.com/share.php",
    "instagram": "https://www.instagram.com/novaevents.cro"
@@ -2036,9 +2059,15 @@
  },
  "https://core-event.co/events/nova-events-podmornica-93e8/": {
   "checked": "2026-11-09",
-  "clean": {
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/share.php",
    "instagram": "https://www.instagram.com/novaevents.cro"
-  },
+  }
+ },
+ "https://core-event.co/events/nova-who-stole-christmas-dd3b/": {
+  "checked": "2026-11-24",
+  "clean": {},
   "links": {
    "facebook": "https://www.facebook.com/share.php",
    "instagram": "https://www.instagram.com/novaevents.cro"
@@ -2295,6 +2324,14 @@
    "instagram": "https://www.instagram.com/core_event/"
   }
  },
+ "https://core-event.co/events/simple-plan-u-zagrebu-d0d2": {
+  "checked": "2026-11-24",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/share.php",
+   "instagram": "https://www.instagram.com/el_ej_ej/"
+  }
+ },
  "https://core-event.co/events/sixteen-horsepower-u-tvornici-kulture-4561": {
   "checked": "2026-11-11",
   "clean": {},
@@ -2449,6 +2486,14 @@
   "links": {
    "facebook": "https://www.facebook.com/share.php",
    "instagram": "https://www.instagram.com/taking.the.trash.out_/"
+  }
+ },
+ "https://core-event.co/events/tamikrest-u-rijeci-78ba/": {
+  "checked": "2026-11-24",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/share.php",
+   "instagram": "https://www.instagram.com/core_event/"
   }
  },
  "https://core-event.co/events/the-black-wizards-u-the-beertiji-eb1d/": {
@@ -2689,6 +2734,14 @@
  },
  "https://dvaosam.com/event-detail/6af97ea6322483ef656772ed/": {
   "checked": "2026-11-22",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/jabuka2.8",
+   "instagram": "https://www.instagram.com/jabuka2.8"
+  }
+ },
+ "https://dvaosam.com/event-detail/6b058d1a965933454d1e0b68/": {
+  "checked": "2026-11-24",
   "clean": {},
   "links": {
    "facebook": "https://www.facebook.com/jabuka2.8",
@@ -2964,6 +3017,20 @@
    "youtube": "https://www.youtube.com/channel/UCsh-FOHtF-_bGOzftZYP5VA"
   }
  },
+ "https://hangtimeagency.com/hr/event/nicim-izazvan-premijerno-predstavljanje-novih-pjesama-i-omiljeni-hitovi/": {
+  "checked": "2026-11-24",
+  "clean": {
+   "facebook": "https://www.facebook.com/nicimizazvan",
+   "instagram": "https://www.instagram.com/bend_nicimizazvan/",
+   "spotify": "https://open.spotify.com/artist/5rrS1ihsJqdCUZn5G0e3Ot"
+  },
+  "links": {
+   "facebook": "https://www.facebook.com/nicimizazvan",
+   "instagram": "https://www.instagram.com/bend_nicimizazvan/",
+   "spotify": "https://open.spotify.com/artist/5rrS1ihsJqdCUZn5G0e3Ot",
+   "youtube": "https://www.youtube.com/channel/UClG49KISq0kGbU8rwVEpcPQ"
+  }
+ },
  "https://hangtimeagency.com/hr/event/rotting-christ-u-zagrebu-grcke-metal-legende-vracaju-se-nakon-sedam-godina/": {
   "checked": "2026-11-11",
   "clean": {
@@ -3150,6 +3217,18 @@
    "facebook": "https://www.facebook.com/mochvara",
    "instagram": "https://www.instagram.com/iduhobiti/",
    "spotify": "https://open.spotify.com/artist/4UNtCM8znVIMIuC0ZJuWpu",
+   "youtube": "http://www.youtube.com/user/klubmochvara"
+  }
+ },
+ "https://mochvara.hr/event-detail/6ab812ba2b7bc72ad760d106/": {
+  "checked": "2026-11-24",
+  "clean": {
+   "facebook": "https://www.facebook.com/krivaistina",
+   "instagram": "https://www.instagram.com/fncdiverzant"
+  },
+  "links": {
+   "facebook": "https://www.facebook.com/krivaistina",
+   "instagram": "https://www.instagram.com/fncdiverzant",
    "youtube": "http://www.youtube.com/user/klubmochvara"
   }
  },
@@ -5876,6 +5955,15 @@
    "youtube": "https://www.youtube.com/channel/UCHKYTT4qLI4zdegYDTI8CHA"
   }
  },
+ "https://www.lisinski.hr/hr/dogadanja/crvena-jabuka-br-nek-vrijeme-stane-2/": {
+  "checked": "2026-11-24",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/www.lisinski.hr",
+   "instagram": "https://instagram.com/vatroslavlisinski",
+   "youtube": "https://www.youtube.com/channel/UCHKYTT4qLI4zdegYDTI8CHA"
+  }
+ },
  "https://www.lisinski.hr/hr/dogadanja/crvena-jabuka-br-nek-vrijeme-stane/": {
   "checked": "2026-11-09",
   "clean": {},
@@ -6130,6 +6218,15 @@
  },
  "https://www.lisinski.hr/hr/dogadanja/iv-djecji-koncert-dinamove-zaklade-nema-predaje/": {
   "checked": "2026-11-23",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/www.lisinski.hr",
+   "instagram": "https://instagram.com/vatroslavlisinski",
+   "youtube": "https://www.youtube.com/channel/UCHKYTT4qLI4zdegYDTI8CHA"
+  }
+ },
+ "https://www.lisinski.hr/hr/dogadanja/jacques-houdek-br-dajem-vam-pjesmu-br-gospodin-g-2/": {
+  "checked": "2026-11-24",
   "clean": {},
   "links": {
    "facebook": "https://www.facebook.com/www.lisinski.hr",
@@ -6632,6 +6729,15 @@
    "youtube": "https://www.youtube.com/channel/UCHKYTT4qLI4zdegYDTI8CHA"
   }
  },
+ "https://www.lisinski.hr/hr/dogadanja/morana-kasapovic-br-knjiga-s-razlogom-br-predstavl/": {
+  "checked": "2026-11-24",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/www.lisinski.hr",
+   "instagram": "https://instagram.com/vatroslavlisinski",
+   "youtube": "https://www.youtube.com/channel/UCHKYTT4qLI4zdegYDTI8CHA"
+  }
+ },
  "https://www.lisinski.hr/hr/dogadanja/mostar-sevdah-reunion/": {
   "checked": "2026-11-09",
   "clean": {},
@@ -6697,6 +6803,15 @@
  },
  "https://www.lisinski.hr/hr/dogadanja/pismo-moja-hrli-tamo-br-zagrebu-na-dar/": {
   "checked": "2026-11-09",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/www.lisinski.hr",
+   "instagram": "https://instagram.com/vatroslavlisinski",
+   "youtube": "https://www.youtube.com/channel/UCHKYTT4qLI4zdegYDTI8CHA"
+  }
+ },
+ "https://www.lisinski.hr/hr/dogadanja/pjesmom-i-plesom-kroz-bosanskohercegovacku-tradici/": {
+  "checked": "2026-11-24",
   "clean": {},
   "links": {
    "facebook": "https://www.facebook.com/www.lisinski.hr",
@@ -7397,6 +7512,15 @@
    "youtube": "https://www.youtube.com/@TheFestivalLjubljana"
   }
  },
+ "https://www.ljubljanafestival.si/sl/koledar-dogodkov/25236-23-bozicni-koncert-glasbena-sola-franca-sturma": {
+  "checked": "2026-11-24",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/LjubljanaFestival",
+   "instagram": "https://www.instagram.com/festival_ljubljana",
+   "youtube": "https://www.youtube.com/@TheFestivalLjubljana"
+  }
+ },
  "https://www.orto-bar.com/dogodki/dj/indie-rock-pop-vecer-indieoktrinacija/": {
   "checked": "2026-11-21",
   "clean": {},
@@ -7463,6 +7587,14 @@
  },
  "https://www.orto-bar.com/dogodki/koncerti/horizontal-zebra-2brothers-the-others/": {
   "checked": "2026-11-19",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/noplacelikeorto",
+   "instagram": "https://www.instagram.com/orto_bar_slovenija/"
+  }
+ },
+ "https://www.orto-bar.com/dogodki/koncerti/iron-median-iron-maiden-tribute-band-asi-dsi-ac-dc-tribute-band/": {
+  "checked": "2026-11-24",
   "clean": {},
   "links": {
    "facebook": "https://www.facebook.com/noplacelikeorto",
@@ -8627,6 +8759,16 @@
  },
  "https://www.stadthalle.com/de/events/alle-events/51632/Roger-Waters-Presents-LEGACY": {
   "checked": "2026-11-23",
+  "clean": {},
+  "links": {}
+ },
+ "https://www.stadthalle.com/de/events/alle-events/51634/Schwanensee-UCB": {
+  "checked": "2026-11-24",
+  "clean": {},
+  "links": {}
+ },
+ "https://www.stadthalle.com/de/events/alle-events/51636/KANSAS": {
+  "checked": "2026-11-24",
   "clean": {},
   "links": {}
  },

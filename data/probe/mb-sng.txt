@@ -1,14 +1,14 @@
 title: SNG – Slovensko narodno gledališče
 jsonld types: 
-<div class=show.active> drama Nina Ramšak Marković in Milan Ramšak Marković Überkrajina 23. 11. 2026 | 20.00 | https://www.sng-mb.si/event/uberkrajina/
+<div class=show.active> drama Nina Ramšak Marković in Milan Ramšak Marković Überkrajina 24. 11. 2026 | 20.00 | https://www.sng-mb.si/event/uberkrajina/
 <div class=show> opera Johann Strauss ml. Netopir 27. 11. 2026 | 19.30 | https://www.sng-mb.si/event/netopir-3/
 <div class=show> drama Branislav Nušić Gospa ministrica 9. 12. 2026 | 20.00 | https://www.sng-mb.si/event/gospa-ministrica/
 <div class=show> drama Žiga Divjak in Gregor Zorc po romanu Susan Abulhawa Jutra v Dženinu 14. 12. 2026 | 19.00 | https://www.sng-mb.si/event/jutra-v-dzeninu/
-<div class=swiper-slide.active> drama Nina Ramšak Marković in Milan Ramšak Marković Überkrajina 23. 11. 2026 |
+<div class=swiper-slide.active> drama Nina Ramšak Marković in Milan Ramšak Marković Überkrajina 24. 11. 2026 |
                                 20.00 | https://www.sng-mb.si/event/uberkrajina/
-<a class=show__list--item.p-3> drama Nina Ramšak Marković in Milan Ramšak Marković Überkrajina 23. 11. 2026 |
+<a class=show__list--item.p-3> drama Nina Ramšak Marković in Milan Ramšak Marković Überkrajina 24. 11. 2026 |
                                 20.00 | https://www.sng-mb.si/event/uberkrajina/
-<div class=datetime> 23. 11. 2026 |
+<div class=datetime> 24. 11. 2026 |
                                 20.00 | 
 <div class=swiper-slide> opera Johann Strauss ml. Netopir 27. 11. 2026 |
                                 19.30 | https://www.sng-mb.si/event/netopir-3/
@@ -28,12 +28,10 @@ jsonld types:
                                 19.00 | https://www.sng-mb.si/event/jutra-v-dzeninu/
 <div class=datetime> 14. 12. 2026 |
                                 19.00 | 
-<div class=d-flex.date-container> 23 Nov Pon Nina Ramšak Marković in Milan Ramšak Marković Nina Ramšak Marković in Milan Ramšak Marković Überkrajina 20.00 Dvorana Frana Žižka abonma DRAMA TEDEN | https://www.sng-mb.si/event/uberkrajina/
-<div class=content__programs--date> 23 Nov Pon | 
+<div class=d-flex.date-container> 24 Nov Tor Nina Ramšak Marković in Milan Ramšak Marković Nina Ramšak Marković in Milan Ramšak Marković Überkrajina 20.00 Dvorana Frana Žižka abonma DRAMA TOREK | https://www.sng-mb.si/event/uberkrajina/
 <div class=content__programs--date> 24 Nov Tor | 
 <div class=d-flex.date-container> 25 Nov Sre Cvetka Sokolov, Maja Borin Cvetka Sokolov, Maja Borin Kot noč in dan 10.00 Komorni oder | https://www.sng-mb.si/event/kot-noc-in-dan/
 <div class=content__programs--date> 25 Nov Sre | 
-<div class=d-flex.date-container> 26 Nov Čet Cvetka Sokolov, Maja Borin Cvetka Sokolov, Maja Borin Kot noč in dan 10.00 Komorni oder | https://www.sng-mb.si/event/kot-noc-in-dan/
 <div class=content__programs--date> 26 Nov Čet | 
 <div class=d-flex.date-container> 26 Nov Čet 3. koncert cikla Carpe artem »Refleksije strun« 19.30 Kazinska dvorana abonma CIKEL CARPE ARTEM | https://www.sng-mb.si/event/[…]/
 <div class=content__programs--date> 26 Nov Čet | 
@@ -45,12 +43,10 @@ jsonld types:
 <div class=content__programs--date> 01 Dec Tor | 
 <div class=d-flex.date-container> 02 Dec Sre Johann Strauss ml. Johann Strauss ml. Netopir 19.30 Dvorana Ondine Otta Klasinc abonma OPERA IN SIMFONIKI | https://www.sng-mb.si/event/netopir-3/
 <div class=content__programs--date> 02 Dec Sre | 
-<div class=d-flex.date-container> 23 Nov Pon Nina Ramšak Marković in Milan Ramšak Marković Nina Ramšak Marković in Milan Ramšak Marković Überkrajina 20.00 Dvorana Frana Žižka abonma DRAMA TEDEN | https://www.sng-mb.si/event/uberkrajina/
-<div class=content__programs--date> 23 Nov Pon | 
+<div class=d-flex.date-container> 24 Nov Tor Nina Ramšak Marković in Milan Ramšak Marković Nina Ramšak Marković in Milan Ramšak Marković Überkrajina 20.00 Dvorana Frana Žižka abonma DRAMA TOREK | https://www.sng-mb.si/event/uberkrajina/
 <div class=content__programs--date> 24 Nov Tor | 
 <div class=d-flex.date-container> 25 Nov Sre Cvetka Sokolov, Maja Borin Cvetka Sokolov, Maja Borin Kot noč in dan 10.00 Komorni oder | https://www.sng-mb.si/event/kot-noc-in-dan/
 <div class=content__programs--date> 25 Nov Sre | 
-<div class=d-flex.date-container> 26 Nov Čet Cvetka Sokolov, Maja Borin Cvetka Sokolov, Maja Borin Kot noč in dan 10.00 Komorni oder | https://www.sng-mb.si/event/kot-noc-in-dan/
 <div class=content__programs--date> 26 Nov Čet | 
 <div class=d-flex.date-container> 26 Nov Čet 3. koncert cikla Carpe artem »Refleksije strun« 19.30 Kazinska dvorana abonma CIKEL CARPE ARTEM | https://www.sng-mb.si/event/[…]/
 <div class=content__programs--date> 26 Nov Čet | 
@@ -62,6 +58,10 @@ jsonld types:
 <div class=content__programs--date> 01 Dec Tor | 
 <div class=d-flex.date-container> 02 Dec Sre Johann Strauss ml. Johann Strauss ml. Netopir 19.30 Dvorana Ondine Otta Klasinc abonma OPERA IN SIMFONIKI | https://www.sng-mb.si/event/netopir-3/
 <div class=content__programs--date> 02 Dec Sre | 
+<div class=swiper-slide.hover-zoom> Refleksije strun - skladateljski večer Vaska Atanasovskega Objavljeno 24. 11. 2026 | https://www.sng-mb.si/2026/11/24/[…]/
+<a class=news-item.d-flex.flex-column> Refleksije strun - skladateljski večer Vaska Atanasovskega Objavljeno 24. 11. 2026 | https://www.sng-mb.si/2026/11/24/[…]/
+<div class=news-content> Refleksije strun - skladateljski večer Vaska Atanasovskega Objavljeno 24. 11. 2026 | 
+<div class=news-date> Objavljeno 24. 11. 2026 | 
 <div class=swiper-slide.hover-zoom> Premiera Überkrajina v režiji Nine Ramšak Marković Objavljeno 18. 11. 2026 | https://www.sng-mb.si/2026/11/18/[…]/
 <a class=news-item.d-flex.flex-column> Premiera Überkrajina v režiji Nine Ramšak Marković Objavljeno 18. 11. 2026 | https://www.sng-mb.si/2026/11/18/[…]/
 <div class=news-content> Premiera Überkrajina v režiji Nine Ramšak Marković Objavljeno 18. 11. 2026 | 
@@ -72,4 +72,4 @@ jsonld types:
 <div class=news-date> Objavljeno 6. 11. 2026 | 
 <div class=swiper-slide.hover-zoom> Janja Klasinc se z avtobiografijo vrača k družinskim koreninam Objavljeno 6. 11. 2026 | https://www.sng-mb.si/2026/11/06/predstavitev-knjige/
 <a class=news-item.d-flex.flex-column> Janja Klasinc se z avtobiografijo vrača k družinskim koreninam Objavljeno 6. 11. 2026 | https://www.sng-mb.si/2026/11/06/predstavitev-knjige/
-poveznice (12): https://sngmb.mojekarte.si/si/3-koncert-cikla-carpe-artem/vstopnice-1213610.html https://www.sng-mb.si/drama-program/?lang=sl https://www.sng-mb.si/event/[…]/ https://www.sng-mb.si/event/gospa-ministrica/ https://www.sng-mb.si/event/jutra-v-dzeninu/ https://www.sng-mb.si/event/[…]/ https://www.sng-mb.si/event/kot-noc-in-dan/ https://www.sng-mb.si/event/netopir-3/ https://www.sng-mb.si/event/uberkrajina/ https://www.sng-mb.si/opera-program/?lang=sl https://www.sng-mb.si/program/?lang=sl https://www.sng-mb.si/prvi-prizor-program/?lang=sl
+poveznice (13): https://sngmb.mojekarte.si/si/3-koncert-cikla-carpe-artem/vstopnice-1213610.html https://www.sng-mb.si/drama-program/?lang=sl https://www.sng-mb.si/event/[…]/ https://www.sng-mb.si/event/gospa-ministrica/ https://www.sng-mb.si/event/jutra-v-dzeninu/ https://www.sng-mb.si/event/kaksno-ime-pa-je-to/ https://www.sng-mb.si/event/kot-noc-in-dan/ https://www.sng-mb.si/event/netopir-3/ https://www.sng-mb.si/event/radio-dubrava/ https://www.sng-mb.si/event/uberkrajina/ https://www.sng-mb.si/opera-program/?lang=sl https://www.sng-mb.si/program/?lang=sl https://www.sng-mb.si/prvi-prizor-program/?lang=sl

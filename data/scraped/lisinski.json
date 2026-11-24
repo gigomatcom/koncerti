@@ -2,22 +2,22 @@
  {
   "date": "2026-11-24",
   "time": "20:00",
-  "title": "Guitarra Viva – Ciklus Gitarskih Koncerata Hrvatski Gitarski Kvartet",
-  "venue": "lisM",
-  "genre": "klasika",
-  "price": "rasprodano",
-  "url": "https://www.lisinski.hr/hr/dogadanja/guitarra-viva-ciklus-gitarskih-koncerata-br-hrvats/",
+  "title": "Tomislav Bralić i Klapa Intrade – 20 Godina Zagrebačke Tradicije",
+  "venue": "lisV",
+  "genre": "trad",
+  "price": "32–59 €",
+  "url": "https://www.lisinski.hr/hr/dogadanja/tomislav-bralic-i-klapa-intrade-20-godina-zagreb-2/",
   "city": "zagreb",
   "source": "lisinski"
  },
  {
   "date": "2026-11-24",
   "time": "20:00",
-  "title": "Tomislav Bralić i Klapa Intrade – 20 Godina Zagrebačke Tradicije",
-  "venue": "lisV",
-  "genre": "trad",
-  "price": "32–59 €",
-  "url": "https://www.lisinski.hr/hr/dogadanja/tomislav-bralic-i-klapa-intrade-20-godina-zagreb-2/",
+  "title": "Guitarra Viva – Ciklus Gitarskih Koncerata Hrvatski Gitarski Kvartet",
+  "venue": "lisM",
+  "genre": "klasika",
+  "price": "rasprodano",
+  "url": "https://www.lisinski.hr/hr/dogadanja/guitarra-viva-ciklus-gitarskih-koncerata-br-hrvats/",
   "city": "zagreb",
   "source": "lisinski"
  },
@@ -29,6 +29,17 @@
   "genre": "jazz",
   "price": "13–18 €",
   "url": "https://www.lisinski.hr/hr/dogadanja/majstorski-ciklus-so-hrt-a-br-simfonijski-jazz-br-/",
+  "city": "zagreb",
+  "source": "lisinski"
+ },
+ {
+  "date": "2026-11-27",
+  "time": "19:00",
+  "title": "Pjesmom i Plesom Kroz Bosanskohercegovačku Tradiciju",
+  "venue": "lisM",
+  "genre": "",
+  "price": "",
+  "url": "https://www.lisinski.hr/hr/dogadanja/pjesmom-i-plesom-kroz-bosanskohercegovacku-tradici/",
   "city": "zagreb",
   "source": "lisinski"
  },
@@ -132,6 +143,17 @@
   "source": "lisinski"
  },
  {
+  "date": "2026-12-03",
+  "time": "19:00",
+  "title": "MORANA KASAPOVIĆ: KNJIGA S RAZLOGOM, predstavljanje knjige",
+  "venue": "lisM",
+  "genre": "",
+  "price": "",
+  "url": "https://www.lisinski.hr/hr/dogadanja/morana-kasapovic-br-knjiga-s-razlogom-br-predstavl/",
+  "city": "zagreb",
+  "source": "lisinski"
+ },
+ {
   "date": "2026-12-04",
   "time": "19:30",
   "title": "Zagrebačka Filharmonija Plavi Ciklus Gabriel Bebeselea, Dirigent Dejan Lazić, Klavir",
@@ -176,12 +198,12 @@
   "source": "lisinski"
  },
  {
-  "date": "2026-11-24",
+  "date": "2026-12-06",
   "time": "10:30",
   "title": "IV. Dječji Koncert Dinamove Zaklade 'nema Predaje'",
   "venue": "lisM",
   "genre": "djeca",
-  "price": "",
+  "price": "20 €",
   "url": "https://www.lisinski.hr/hr/dogadanja/iv-djecji-koncert-dinamove-zaklade-nema-predaje/",
   "city": "zagreb",
   "source": "lisinski"
@@ -222,22 +244,22 @@
  {
   "date": "2026-12-10",
   "time": "19:30",
-  "title": "Ciklus Glazbene Staze: Weber 200 – Duo, Trio, Kvartet",
-  "venue": "lisM",
+  "title": "Majstorski Ciklus SO HRT-a Ljetni Povjetarac, Ledena Svjetlost Pascal Rophé, Dirigent Mayumi Kanagawa, Violina",
+  "venue": "lisV",
   "genre": "klasika",
-  "price": "10 €",
-  "url": "https://www.lisinski.hr/hr/dogadanja/ciklus-glazbene-staze-br-weber-200-duo-trio-kvarte/",
+  "price": "13–18 €",
+  "url": "https://www.lisinski.hr/hr/dogadanja/majstorski-ciklus-so-hrt-a-br-ljetni-povjetarac-le/",
   "city": "zagreb",
   "source": "lisinski"
  },
  {
   "date": "2026-12-10",
   "time": "19:30",
-  "title": "Majstorski Ciklus SO HRT-a Ljetni Povjetarac, Ledena Svjetlost Pascal Rophé, Dirigent Mayumi Kanagawa, Violina",
-  "venue": "lisV",
+  "title": "Ciklus Glazbene Staze: Weber 200 – Duo, Trio, Kvartet",
+  "venue": "lisM",
   "genre": "klasika",
-  "price": "13–18 €",
-  "url": "https://www.lisinski.hr/hr/dogadanja/majstorski-ciklus-so-hrt-a-br-ljetni-povjetarac-le/",
+  "price": "10 €",
+  "url": "https://www.lisinski.hr/hr/dogadanja/ciklus-glazbene-staze-br-weber-200-duo-trio-kvarte/",
   "city": "zagreb",
   "source": "lisinski"
  },
@@ -390,7 +412,7 @@
   "title": "Tradicionalni Koncert Zvonka Bogdana i Tamburaškog Sastava Iz Vojvodine – Panonska Duša",
   "venue": "lisV",
   "genre": "trad",
-  "price": "",
+  "price": "30–40 €",
   "url": "https://www.lisinski.hr/hr/dogadanja/tradicionalni-koncert-zvonka-bogdana-i-tamburask-4/",
   "city": "zagreb",
   "source": "lisinski"
@@ -805,22 +827,22 @@
  {
   "date": "2027-02-23",
   "time": "20:00",
-  "title": "Glazbeni Umjetnici Zagrebu Goran Filipec, Klavir",
-  "venue": "lisM",
-  "genre": "klasika",
-  "price": "15 €",
-  "url": "https://www.lisinski.hr/hr/dogadanja/glazbeni-umjetnici-zagrebu-br-goran-filipec-klavir/",
+  "title": "Ima Neka Tajna Veza",
+  "venue": "lisV",
+  "genre": "",
+  "price": "32–55 €",
+  "url": "https://www.lisinski.hr/hr/dogadanja/ima-neka-tajna-veza/",
   "city": "zagreb",
   "source": "lisinski"
  },
  {
   "date": "2027-02-23",
   "time": "20:00",
-  "title": "Ima Neka Tajna Veza",
-  "venue": "lisV",
-  "genre": "",
-  "price": "32–55 €",
-  "url": "https://www.lisinski.hr/hr/dogadanja/ima-neka-tajna-veza/",
+  "title": "Glazbeni Umjetnici Zagrebu Goran Filipec, Klavir",
+  "venue": "lisM",
+  "genre": "klasika",
+  "price": "15 €",
+  "url": "https://www.lisinski.hr/hr/dogadanja/glazbeni-umjetnici-zagrebu-br-goran-filipec-klavir/",
   "city": "zagreb",
   "source": "lisinski"
  },
@@ -887,6 +909,17 @@
   "genre": "djeca",
   "price": "10 €",
   "url": "https://www.lisinski.hr/hr/dogadanja/zagrebacka-filharmonija-br-minimini-ciklus-br-da-s/",
+  "city": "zagreb",
+  "source": "lisinski"
+ },
+ {
+  "date": "2027-03-02",
+  "time": "20:00",
+  "title": "Crvena Jabuka – Nek Vrijeme Stane",
+  "venue": "lisV",
+  "genre": "",
+  "price": "32,90–53,90 €",
+  "url": "https://www.lisinski.hr/hr/dogadanja/crvena-jabuka-br-nek-vrijeme-stane-2/",
   "city": "zagreb",
   "source": "lisinski"
  },
@@ -1085,6 +1118,17 @@
   "genre": "",
   "price": "35 €",
   "url": "https://www.lisinski.hr/hr/dogadanja/lisinski-srijedom-br-miguel-zenon-quartet-feat-chi/",
+  "city": "zagreb",
+  "source": "lisinski"
+ },
+ {
+  "date": "2027-03-30",
+  "time": "20:00",
+  "title": "Jacques Houdek 'dajem Vam Pjesmu!' – Gospodin Glas Pjeva za Vas Po Željama",
+  "venue": "lisV",
+  "genre": "",
+  "price": "",
+  "url": "https://www.lisinski.hr/hr/dogadanja/jacques-houdek-br-dajem-vam-pjesmu-br-gospodin-g-2/",
   "city": "zagreb",
   "source": "lisinski"
  },

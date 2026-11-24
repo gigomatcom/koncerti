@@ -1,6 +1,6 @@
 title: Programok • Akvárium
 jsonld types: CollectionPage, BreadcrumbList, ListItem, ListItem, WebSite, SearchAction, EntryPoint, PropertyValueSpecification, Organization, ImageObject
-<a class=grid-item.m-card.november> Nov. 27. péntek NGZ PRESENTS: RAGER „YIN ÉS YANG” | https://akvariumklub.hu/programok/ngz-presents-rager-yin-es-yang/
+<a class=grid-item.m-card.november> Nov. 27. péntek SOLD OUT! NGZ PRESENTS: RAGER „YIN ÉS YANG” | https://akvariumklub.hu/programok/ngz-presents-rager-yin-es-yang/
 <div class=m-card__date.override-bg.override-color> Nov. 27. péntek | 
 <a class=grid-item.m-card.november> Nov. 28. szombat Kraak & Smaak | https://akvariumklub.hu/programok/kraak-smaak/
 <div class=m-card__date.override-bg.override-color> Nov. 28. szombat | 
@@ -30,13 +30,13 @@ jsonld types: CollectionPage, BreadcrumbList, ListItem, ListItem, WebSite, Searc
 <div class=m-card__description> HARRY CHRISTMAS • ONE DIRECTION PARTY! 12.04. | 
 <a class=grid-item.m-card.december> Dec. 04. péntek IAM Productions presents: Marie Vaunt AKVA WAVES | https://akvariumklub.hu/programok/[…]/
 <div class=m-card__date.override-bg.override-color> Dec. 04. péntek | 
-<a class=grid-item.m-card.december> Dec. 04. péntek Next Level pres.: FLUX PAVILION, MADCORE, IITYX | https://akvariumklub.hu/programok/[…]/
+<a class=grid-item.m-card.december> Dec. 04. péntek Next Level pres.: FLUX PAVILION, MADCORE, IITYX AKVA WAVES | https://akvariumklub.hu/programok/[…]/
 <div class=m-card__date.override-bg.override-color> Dec. 04. péntek | 
 <a class=grid-item.m-card.december> Dec. 05. szombat Néhány nap – Groovehouse – Nagykoncert | https://akvariumklub.hu/programok/[…]/
 <div class=m-card__date.override-bg.override-color> Dec. 05. szombat | 
 <a class=grid-item.m-card.december> Dec. 05. szombat Pop Punk Maraton | https://akvariumklub.hu/programok/pop-punk-maraton/
 <div class=m-card__date.override-bg.override-color> Dec. 05. szombat | 
-<a class=grid-item.m-card.december> Dec. 05. szombat Szkym és Palmyy albumbemutato??? | https://akvariumklub.hu/programok/szkym-es-palmyy-album-bemutato/
+<a class=grid-item.m-card.december> Dec. 05. szombat ELMARAD! Szkym és Palmyy albumbemutato??? | https://akvariumklub.hu/programok/szkym-es-palmyy-album-bemutato/
 <div class=m-card__date.override-bg.override-color> Dec. 05. szombat | 
 <a class=grid-item.m-card.december> Dec. 05. szombat NECC PARTY | https://akvariumklub.hu/programok/necc-party-12-05/
 <div class=m-card__date.override-bg.override-color> Dec. 05. szombat | 
@@ -52,7 +52,7 @@ jsonld types: CollectionPage, BreadcrumbList, ListItem, ListItem, WebSite, Searc
 <div class=m-card__date.override-bg.override-color> Dec. 11. péntek | 
 <a class=grid-item.m-card.december> Dec. 12. szombat Eugene Tooms x Jackalope | https://akvariumklub.hu/programok/eugene-tooms-x-jackalope/
 <div class=m-card__date.override-bg.override-color> Dec. 12. szombat | 
-<a class=grid-item.m-card.december> Dec. 12. szombat INDIGO LIVE BAND / MEDITATION | https://akvariumklub.hu/programok/indigo-live-band-meditation/
+<a class=grid-item.m-card.december> Dec. 12. szombat TELT HÁZ! INDIGO LIVE BAND / MEDITATION | https://akvariumklub.hu/programok/indigo-live-band-meditation/
 <div class=m-card__date.override-bg.override-color> Dec. 12. szombat | 
 <a class=grid-item.m-card.december> Dec. 12. szombat WHITE GIRL MUSIC PARTY • GirlyPOP Christmas • | https://akvariumklub.hu/programok/[…]/
 <div class=m-card__date.override-bg.override-color> Dec. 12. szombat | 

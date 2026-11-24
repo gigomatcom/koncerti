@@ -1,9 +1,9 @@
 {
- "run_at": "2026-11-23T14:34:50+00:00",
+ "run_at": "2026-11-24T14:50:41+00:00",
  "sources": {
   "lisinski": {
    "ok": true,
-   "count": 142
+   "count": 146
   },
   "tvornica": {
    "ok": true,
@@ -11,7 +11,7 @@
   },
   "mocvara": {
    "ok": true,
-   "count": 15
+   "count": 14
   },
   "dvaosam": {
    "ok": true,
@@ -19,7 +19,7 @@
   },
   "kset": {
    "ok": true,
-   "count": 5
+   "count": 4
   },
   "attack": {
    "ok": true,
@@ -36,11 +36,11 @@
   },
   "ulaznice": {
    "ok": true,
-   "count": 44
+   "count": 41
   },
   "coreevent": {
    "ok": true,
-   "count": 100
+   "count": 105
   },
   "hnk-opera": {
    "ok": true,
@@ -72,7 +72,7 @@
   },
   "wi-stadthalle": {
    "ok": true,
-   "count": 144
+   "count": 143
   },
   "wi-wuk": {
    "ok": true,
@@ -80,7 +80,7 @@
   },
   "wi-porgy": {
    "ok": true,
-   "count": 179
+   "count": 180
   },
   "bp-akvarium": {
    "ok": true,
@@ -96,7 +96,7 @@
   },
   "bp-a38": {
    "ok": true,
-   "count": 40
+   "count": 39
   },
   "lj-festival": {
    "ok": true,
@@ -104,15 +104,15 @@
   },
   "lj-cd": {
    "ok": true,
-   "count": 50
+   "count": 49
   },
   "hangtime": {
    "ok": true,
-   "count": 9
+   "count": 10
   },
   "laa": {
    "ok": true,
-   "count": 21
+   "count": 23
   },
   "lauba": {
    "ok": true,
@@ -131,7 +131,7 @@
   },
   "mb-narodnidom": {
    "ok": true,
-   "count": 19,
+   "count": 20,
    "note": "samo proba"
   },
   "mb-stuk": {

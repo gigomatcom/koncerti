@@ -176,6 +176,17 @@
   "source": "tvornica"
  },
  {
+  "date": "2027-02-05",
+  "time": "20:00",
+  "title": "Artan Lili",
+  "venue": "tvornica",
+  "genre": "",
+  "price": "",
+  "url": "https://core-event.co/events/artan-lili-u-tvornici-kulture-951a",
+  "city": "zagreb",
+  "source": "tvornica"
+ },
+ {
   "date": "2027-02-06",
   "time": "20:00",
   "title": "DAF – Deutsch Amerikanische Freundschaft",
@@ -286,6 +297,17 @@
   "source": "tvornica"
  },
  {
+  "date": "2027-06-12",
+  "time": "20:00",
+  "title": "Simple Plan",
+  "venue": "tvornica",
+  "genre": "",
+  "price": "",
+  "url": "https://core-event.co/events/simple-plan-u-zagrebu-d0d2",
+  "city": "zagreb",
+  "source": "tvornica"
+ },
+ {
   "date": "2027-06-18",
   "time": "20:00",
   "title": "Kim Wilde",
@@ -315,28 +337,6 @@
   "genre": "",
   "price": "",
   "url": "https://core-event.co/events/electric-six-u-tvornici-kulture-6818",
-  "city": "zagreb",
-  "source": "tvornica"
- },
- {
-  "date": "2027-10-01",
-  "time": "20:00",
-  "title": "Jasna Zlokić @ Zagreb – Tvornica Kulture",
-  "venue": "tvornica",
-  "genre": "",
-  "price": "",
-  "url": "https://core-event.co/events/jasna-zlokic-zagreb-tvornica-kulture-9903",
-  "city": "zagreb",
-  "source": "tvornica"
- },
- {
-  "date": "2027-10-22",
-  "time": "20:00",
-  "title": "Stereo Mc's",
-  "venue": "tvornica",
-  "genre": "",
-  "price": "",
-  "url": "https://core-event.co/events/stereo-m-cs-u-tvornici-kulture-e538",
   "city": "zagreb",
   "source": "tvornica"
  }

@@ -1,29 +1,5 @@
 [
  {
-  "date": "2026-11-23",
-  "time": "20:00",
-  "title": "17. Zagreb Jazz festival: Mary Halvorson: Canis Major",
-  "venue": "",
-  "genre": "jazz",
-  "price": "",
-  "url": "https://www.entrio.hr/event/17-zagreb-jazz-festival-mary-halvorson-canis-major-34258",
-  "city": "zagreb",
-  "venue_name": "Histrionski dom",
-  "source": "ulaznice"
- },
- {
-  "date": "2026-11-23",
-  "time": "21:00",
-  "title": "Mothers Finest",
-  "venue": "boogaloo",
-  "genre": "",
-  "price": "",
-  "url": "https://www.entrio.hr/event/mothers-finest-33939",
-  "city": "zagreb",
-  "venue_name": "Klub Boogaloo",
-  "source": "ulaznice"
- },
- {
   "date": "2026-11-24",
   "time": "20:00",
   "title": "The Witcher in Concert",
@@ -141,18 +117,6 @@
   "url": "https://www.entrio.hr/event/back-to-the-2000-porat-35186",
   "city": "split",
   "venue_name": "Porat Club Split",
-  "source": "ulaznice"
- },
- {
-  "date": "2026-11-29",
-  "time": "20:00",
-  "title": "Kovacs",
-  "venue": "tvornica",
-  "genre": "",
-  "price": "",
-  "url": "https://www.entrio.hr/event/kovacs-32860",
-  "city": "zagreb",
-  "venue_name": "Tvornica Kulture",
   "source": "ulaznice"
  },
  {
