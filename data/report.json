@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-25T14:18:34+00:00",
+ "run_at": "2026-11-25T18:40:11+00:00",
  "sources": {
   "lisinski": {
    "ok": true,
@@ -63,7 +63,7 @@
   },
   "wi-flex": {
    "ok": true,
-   "count": 15
+   "count": 16
   },
   "wi-planet": {
    "ok": true,
@@ -72,7 +72,7 @@
   },
   "wi-stadthalle": {
    "ok": true,
-   "count": 143
+   "count": 144
   },
   "wi-wuk": {
    "ok": true,
@@ -92,7 +92,7 @@
   },
   "bp-barbanegra": {
    "ok": true,
-   "count": 44
+   "count": 45
   },
   "bp-a38": {
    "ok": true,
@@ -108,7 +108,7 @@
   },
   "hangtime": {
    "ok": true,
-   "count": 9
+   "count": 10
   },
   "laa": {
    "ok": true,

@@ -1,6 +1,6 @@
 title: Arhiva Concerts - Tourism Office Pula
 jsonld types: CollectionPage, ImageObject, BreadcrumbList, ListItem, ListItem, WebSite, SearchAction, EntryPoint, PropertyValueSpecification, Organization, ImageObject
-bez prepoznatih datuma; html bytes=170878
+bez prepoznatih datuma; html bytes=171053
 api/json hints: //fonts.googleapis.com
 <div class=carousel-caption> ZIDAR BETONSKY + SVOJAT Klub Kotač - DC Rojc, 28/11/2026
 <div class=thumbcaption> ZIDAR BETONSKY + SVOJAT Klub Kotač - DC Rojc, 28/11/2026
