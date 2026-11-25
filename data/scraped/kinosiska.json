@@ -1,16 +1,5 @@
 [
  {
-  "date": "2026-11-24",
-  "time": "20:00",
-  "title": "Zebrahead",
-  "venue": "lj-kinosiska",
-  "genre": "",
-  "price": "",
-  "url": "https://www.kinosiska.si/dogodek/zebrahead/",
-  "city": "ljubljana",
-  "source": "kinosiska"
- },
- {
   "date": "2026-12-05",
   "time": "20:00",
   "title": "Eagle-eye Cherry i Prestavljeno",
@@ -18,6 +7,17 @@
   "genre": "",
   "price": "",
   "url": "https://www.kinosiska.si/dogodek/eagle-eye-cherry/",
+  "city": "ljubljana",
+  "source": "kinosiska"
+ },
+ {
+  "date": "2026-12-08",
+  "time": "17:00",
+  "title": "CikCak koncerti: MRFY I RAZPRODANO",
+  "venue": "lj-kinosiska",
+  "genre": "",
+  "price": "",
+  "url": "https://www.kinosiska.si/dogodek/cikcak-koncerti-mrfy/",
   "city": "ljubljana",
   "source": "kinosiska"
  }

@@ -1,16 +1,5 @@
 [
  {
-  "date": "2026-11-24",
-  "time": "",
-  "title": "2. Božični koncert: Glasbena šola Kranj",
-  "venue": "lj-krizanke",
-  "genre": "",
-  "price": "",
-  "url": "https://www.ljubljanafestival.si/sl/koledar-dogodkov/25166-2-bozicni-koncert-glasbena-sola-kranj",
-  "city": "ljubljana",
-  "source": "lj-festival"
- },
- {
   "date": "2026-11-25",
   "time": "",
   "title": "3. Božični koncert: Glasbena šola Škofja Loka",
@@ -249,6 +238,17 @@
   "genre": "",
   "price": "",
   "url": "https://www.ljubljanafestival.si/sl/koledar-dogodkov/25236-23-bozicni-koncert-glasbena-sola-franca-sturma",
+  "city": "ljubljana",
+  "source": "lj-festival"
+ },
+ {
+  "date": "2026-12-17",
+  "time": "",
+  "title": "24. Božični koncert: Pevska šola Glasbene matice Ljubljana",
+  "venue": "lj-krizanke",
+  "genre": "",
+  "price": "",
+  "url": "https://www.ljubljanafestival.si/sl/koledar-dogodkov/25237-24-bozicni-koncert-pevska-sola-glasbene-matice-ljubljana",
   "city": "ljubljana",
   "source": "lj-festival"
  }

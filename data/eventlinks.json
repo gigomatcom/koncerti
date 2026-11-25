@@ -65,6 +65,15 @@
    "youtube": "https://www.youtube.com/channel/UC7C1zwKSsOf1ESEnDWaVpyw"
   }
  },
+ "https://akvariumklub.hu/programok/balaton-az-akvariumban-merulj-el-az-izekben/": {
+  "checked": "2026-11-25",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/akvariumklub/",
+   "instagram": "https://www.instagram.com/akvariumklub/",
+   "youtube": "https://www.youtube.com/channel/UC7C1zwKSsOf1ESEnDWaVpyw"
+  }
+ },
  "https://akvariumklub.hu/programok/balkan-vip/": {
   "checked": "2026-11-11",
   "clean": {
@@ -134,6 +143,15 @@
    "youtube": "https://www.youtube.com/channel/UC7C1zwKSsOf1ESEnDWaVpyw"
   }
  },
+ "https://akvariumklub.hu/programok/bm-music-school-melyviz/": {
+  "checked": "2026-11-25",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/akvariumklub/",
+   "instagram": "https://www.instagram.com/akvariumklub/",
+   "youtube": "https://www.youtube.com/channel/UC7C1zwKSsOf1ESEnDWaVpyw"
+  }
+ },
  "https://akvariumklub.hu/programok/bolhicirmi-a-nagy-evindito-gyerekbuli/": {
   "checked": "2026-11-21",
   "clean": {
@@ -160,6 +178,15 @@
  },
  "https://akvariumklub.hu/programok/bp-clothing-15-birthday-party-mehringer-11-12/": {
   "checked": "2026-11-10",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/akvariumklub/",
+   "instagram": "https://www.instagram.com/akvariumklub/",
+   "youtube": "https://www.youtube.com/channel/UC7C1zwKSsOf1ESEnDWaVpyw"
+  }
+ },
+ "https://akvariumklub.hu/programok/budapest-open-mic-2026-donto/": {
+  "checked": "2026-11-25",
   "clean": {},
   "links": {
    "facebook": "https://www.facebook.com/akvariumklub/",
@@ -1124,6 +1151,15 @@
    "youtube": "https://www.youtube.com/channel/UC7C1zwKSsOf1ESEnDWaVpyw"
   }
  },
+ "https://akvariumklub.hu/programok/wellwex-pres-udg-pre-n-y-e-2027/": {
+  "checked": "2026-11-25",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/akvariumklub/",
+   "instagram": "https://www.instagram.com/akvariumklub/",
+   "youtube": "https://www.youtube.com/channel/UC7C1zwKSsOf1ESEnDWaVpyw"
+  }
+ },
  "https://akvariumklub.hu/programok/white-girl-music-party-girlypop-christmas/": {
   "checked": "2026-11-11",
   "clean": {},
@@ -1275,6 +1311,14 @@
   "links": {
    "facebook": "https://www.facebook.com/share.php",
    "instagram": "https://www.instagram.com/afterwork.hangouts/"
+  }
+ },
+ "https://core-event.co/events/ajmo-na-sve-jedna-ulaznica-za-4-koncertna-vikenda-u-regeneratoru-ed07/": {
+  "checked": "2026-11-25",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/share.php",
+   "instagram": "https://www.instagram.com/zcuk_regenerator/"
   }
  },
  "https://core-event.co/events/alen-islamovic-c3a3/": {
@@ -2274,6 +2318,14 @@
   "links": {
    "facebook": "https://www.facebook.com/share.php",
    "instagram": "https://www.instagram.com/yemhr/"
+  }
+ },
+ "https://core-event.co/events/salon-za-uljepsavanje-duse-b34e/": {
+  "checked": "2026-11-25",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/share.php",
+   "instagram": "https://www.instagram.com/core_event/"
   }
  },
  "https://core-event.co/events/savrseni-marginalci-u-boogaloo-u-ad2b/": {
@@ -3369,6 +3421,17 @@
   "links": {
    "facebook": "https://www.facebook.com/mochvara",
    "instagram": "https://www.instagram.com/mochvara/",
+   "youtube": "http://www.youtube.com/user/klubmochvara"
+  }
+ },
+ "https://mochvara.hr/event-detail/6aeb39ce127f60f1bc9f0f61/": {
+  "checked": "2026-11-25",
+  "clean": {
+   "instagram": "https://www.instagram.com/kmiceki/"
+  },
+  "links": {
+   "facebook": "https://www.facebook.com/mochvara",
+   "instagram": "https://www.instagram.com/kmiceki/",
    "youtube": "http://www.youtube.com/user/klubmochvara"
   }
  },
@@ -5635,6 +5698,15 @@
    "youtube": "https://www.youtube.com/channel/UCw3zJE1u5h8IMdewKB8I3UA"
   }
  },
+ "https://www.kinosiska.si/dogodek/cikcak-koncerti-mrfy/": {
+  "checked": "2026-11-25",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/kinosiska.si/",
+   "instagram": "http://www.instagram.com/kinosiska",
+   "youtube": "https://www.youtube.com/channel/UCw3zJE1u5h8IMdewKB8I3UA"
+  }
+ },
  "https://www.kinosiska.si/dogodek/dadadisko-druzinski-rave/": {
   "checked": "2026-11-14",
   "clean": {},
@@ -5772,6 +5844,24 @@
  },
  "https://www.kset.org/dogadaj/2026-11-27-kset50-after-bunt/": {
   "checked": "2026-11-22",
+  "clean": {},
+  "links": {
+   "facebook": "http://www.facebook.com/KSETZg",
+   "instagram": "https://www.instagram.com/klubkset/",
+   "youtube": "http://www.youtube.com/user/KsetVideo"
+  }
+ },
+ "https://www.kset.org/dogadaj/2026-12-02-kset50-lip-sync-crni-macak/": {
+  "checked": "2026-11-25",
+  "clean": {},
+  "links": {
+   "facebook": "http://www.facebook.com/KSETZg",
+   "instagram": "https://www.instagram.com/klubkset/",
+   "youtube": "http://www.youtube.com/user/KsetVideo"
+  }
+ },
+ "https://www.kset.org/dogadaj/2026-12-09-racun-molim-kino-forum/": {
+  "checked": "2026-11-25",
   "clean": {},
   "links": {
    "facebook": "http://www.facebook.com/KSETZg",
@@ -5921,6 +6011,15 @@
  },
  "https://www.lisinski.hr/hr/dogadanja/carobni-bozicni-sat-16/": {
   "checked": "2026-11-20",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/www.lisinski.hr",
+   "instagram": "https://instagram.com/vatroslavlisinski",
+   "youtube": "https://www.youtube.com/channel/UCHKYTT4qLI4zdegYDTI8CHA"
+  }
+ },
+ "https://www.lisinski.hr/hr/dogadanja/carobni-bozicni-sat-20/": {
+  "checked": "2026-11-25",
   "clean": {},
   "links": {
    "facebook": "https://www.facebook.com/www.lisinski.hr",
@@ -7521,6 +7620,15 @@
    "youtube": "https://www.youtube.com/@TheFestivalLjubljana"
   }
  },
+ "https://www.ljubljanafestival.si/sl/koledar-dogodkov/25237-24-bozicni-koncert-pevska-sola-glasbene-matice-ljubljana": {
+  "checked": "2026-11-25",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/LjubljanaFestival",
+   "instagram": "https://www.instagram.com/festival_ljubljana",
+   "youtube": "https://www.youtube.com/@TheFestivalLjubljana"
+  }
+ },
  "https://www.orto-bar.com/dogodki/dj/indie-rock-pop-vecer-indieoktrinacija/": {
   "checked": "2026-11-21",
   "clean": {},
@@ -8772,6 +8880,11 @@
   "clean": {},
   "links": {}
  },
+ "https://www.stadthalle.com/de/events/alle-events/51638/Chase-Atlantic": {
+  "checked": "2026-11-25",
+  "clean": {},
+  "links": {}
+ },
  "https://www.tvornicakulture.com/2026/10/the-rasmus-u-tvornici-kulture/": {
   "checked": "2026-11-11",
   "clean": {
@@ -8860,6 +8973,14 @@
  },
  "https://www.wuk.at/programm/niemand-muss-ein-promi-sein-die-live-show-zum-podcast/": {
   "checked": "2026-11-20",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/wukvienna/",
+   "instagram": "http://instagram.com/wukvienna"
+  }
+ },
+ "https://www.wuk.at/programm/thomas-d-the-kbcs/": {
+  "checked": "2026-11-25",
   "clean": {},
   "links": {
    "facebook": "https://www.facebook.com/wukvienna/",

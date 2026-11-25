@@ -1,27 +1,5 @@
 [
  {
-  "date": "2026-11-24",
-  "time": "20:00",
-  "title": "Austrofred Und Kurt Razelli 2026",
-  "venue": "wi-werkstattenkulturhau",
-  "genre": "",
-  "price": "",
-  "url": "https://www.wuk.at/programm/austrofred-und-kurt-razelli-2026/",
-  "city": "bec",
-  "source": "wi-wuk"
- },
- {
-  "date": "2026-11-24",
-  "time": "20:00",
-  "title": "Austrofred & Kurt Razelli",
-  "venue": "wi-werkstattenkulturhau",
-  "genre": "",
-  "price": "",
-  "url": "https://www.wuk.at/programm/austrofred-und-kurt-razelli-2026/",
-  "city": "bec",
-  "source": "wi-wuk"
- },
- {
   "date": "2026-11-25",
   "time": "20:00",
   "title": "Cordoba78",
@@ -73,6 +51,17 @@
   "genre": "",
   "price": "",
   "url": "https://www.wuk.at/programm/mothers-finest/",
+  "city": "bec",
+  "source": "wi-wuk"
+ },
+ {
+  "date": "2026-11-30",
+  "time": "20:00",
+  "title": "Thomas D & The KBCS",
+  "venue": "wi-werkstattenkulturhau",
+  "genre": "",
+  "price": "",
+  "url": "https://www.wuk.at/programm/thomas-d-the-kbcs/",
   "city": "bec",
   "source": "wi-wuk"
  }

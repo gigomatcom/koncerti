@@ -103,6 +103,11 @@
   "query": "23. Božični koncert",
   "v": 2
  },
+ "24 bozicni koncert": {
+  "checked": "2026-11-25",
+  "query": "24. Božični koncert",
+  "v": 2
+ },
  "25 babyexpo": {
   "checked": "2026-11-11",
   "query": "25. BabyExpo",
@@ -401,6 +406,11 @@
  "aida": {
   "checked": "2026-11-10",
   "query": "Aida",
+  "v": 2
+ },
+ "ajmo na sve": {
+  "checked": "2026-11-25",
+  "query": "Ajmo! na Sve",
   "v": 2
  },
  "ajngemahtec kvintet": {
@@ -759,6 +769,11 @@
   "mbid": "a81afbe6-c0d7-4d58-b5ee-c1ed49647b42",
   "name": "Andy Middleton",
   "query": "Andy Middleton",
+  "v": 2
+ },
+ "ane paska": {
+  "checked": "2026-11-25",
+  "query": "Ane Paška",
   "v": 2
  },
  "angelique kidjo": {
@@ -1155,6 +1170,11 @@
   "query": "Bajaga",
   "v": 2
  },
+ "balaton az akvariumban": {
+  "checked": "2026-11-25",
+  "query": "Balaton az Akváriumban",
+  "v": 2
+ },
  "balkan rock": {
   "checked": "2026-11-11",
   "query": "Balkan rock",
@@ -1528,6 +1548,11 @@
   "checked": "2026-11-08",
   "query": "BluVinil u Zagrebu!"
  },
+ "bm music school": {
+  "checked": "2026-11-25",
+  "query": "BM Music School",
+  "v": 2
+ },
  "bob dylan": {
   "checked": "2026-11-09",
   "country": "US",
@@ -1780,6 +1805,11 @@
  "budapest bar christmas": {
   "checked": "2026-11-10",
   "query": "Budapest Bár Christmas",
+  "v": 2
+ },
+ "budapest open mic 2026 donto": {
+  "checked": "2026-11-25",
+  "query": "Budapest Open Mic 2026 Döntő",
   "v": 2
  },
  "bugge wesseltoft": {
@@ -2070,6 +2100,24 @@
   "query": "Charlotte Wessels",
   "v": 2
  },
+ "chase atlantic": {
+  "checked": "2026-11-25",
+  "country": "AU",
+  "genre": "hiphop",
+  "links": {
+   "deezer": "https://www.deezer.com/artist/5868765",
+   "facebook": "https://www.facebook.com/ChaseAtlantic",
+   "instagram": "https://www.instagram.com/chaseatlantic/",
+   "soundcloud": "https://soundcloud.com/chaseatlantic",
+   "spotify": "https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT",
+   "web": "http://www.chaseatlantic.com/",
+   "youtube": "https://www.youtube.com/channel/UCpvCJWgUNwZArGtJ00kDS1A"
+  },
+  "mbid": "ecab255c-3af3-4154-87ec-2685041ce297",
+  "name": "Chase Atlantic",
+  "query": "Chase Atlantic",
+  "v": 2
+ },
  "chelsea wolfe": {
   "checked": "2026-11-09",
   "country": "US",
@@ -2198,6 +2246,11 @@
  "ciara moser the rose of battle": {
   "checked": "2026-11-10",
   "query": "Ciara Moser 'The Rose of Battle'",
+  "v": 2
+ },
+ "cikcak koncerti": {
+  "checked": "2026-11-25",
+  "query": "CikCak koncerti",
   "v": 2
  },
  "cirque du soleil ovo": {
@@ -5588,6 +5641,11 @@
   "query": "Kasiva Mutua",
   "v": 2
  },
+ "kastel opening w": {
+  "checked": "2026-11-25",
+  "query": "Kaštel Opening w",
+  "v": 2
+ },
  "kastelruther spatzen": {
   "checked": "2026-11-11",
   "country": "IT",
@@ -6485,6 +6543,11 @@
   "mbid": "f131d1a9-9147-4101-8aa7-6c3f8e033fbf",
   "name": "Lion’s Law",
   "query": "Lion's Law",
+  "v": 2
+ },
+ "lip sync": {
+  "checked": "2026-11-25",
+  "query": "Lip Sync",
   "v": 2
  },
  "lisinski srijedom": {
@@ -9157,6 +9220,11 @@
  "quixotic": {
   "checked": "2026-11-09",
   "query": "Quixotic",
+  "v": 2
+ },
+ "racun": {
+  "checked": "2026-11-25",
+  "query": "Račun",
   "v": 2
  },
  "raf camora": {
@@ -12089,6 +12157,16 @@
   "checked": "2026-11-08",
   "query": "Tri Praščića"
  },
+ "tricky d": {
+  "checked": "2026-11-25",
+  "country": "US",
+  "genre": "",
+  "links": {},
+  "mbid": "c70843e2-4e1e-4685-8857-526c43709405",
+  "name": "Tricky D",
+  "query": "Tricky D",
+  "v": 2
+ },
  "trinix": {
   "checked": "2026-11-09",
   "country": "FR",
@@ -12647,6 +12725,11 @@
   "mbid": "6aa3e6e3-a5f2-4d9e-a963-faee850162b1",
   "name": "Wellhello",
   "query": "Wellhello",
+  "v": 2
+ },
+ "wellwex pres udg pre n y e 2027 akva waves": {
+  "checked": "2026-11-25",
+  "query": "Wellwex pres. UDG Pre N.Y.E. 2027 AKVA WAVES",
   "v": 2
  },
  "wesghost": {

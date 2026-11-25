@@ -6,6 +6,10 @@ jsonld types:
 <div class=splide__slide__short> KoriPark November 28-tól január 31-ig! 2026. november 28. | 
 <div class=splide__slide__main> KoriPark November 28-tól január 31-ig! 2026. november 28. szombat Kapunyitás 10:00 Korcsolyapálya Jegyek, részletek | https://www.budapestpark.hu/hu/koripark
 <div class=box-info> KoriPark November 28-tól január 31-ig! 2026. november 28. szombat Kapunyitás 10:00 Korcsolyapálya Jegyek, részletek | https://www.budapestpark.hu/hu/koripark
+<li class=splide__slide> alt-J 2027. június 23. alt-J 2027. június 23. szerda Kapunyitás 18:00 Nemzetközi koncertek - Nagyszínpad Jegyek, részletek | /jegyvasarlas/event/alt-j-2027-06-23
+<div class=splide__slide__short> alt-J 2027. június 23. | 
+<div class=splide__slide__main> alt-J 2027. június 23. szerda Kapunyitás 18:00 Nemzetközi koncertek - Nagyszínpad Jegyek, részletek | /jegyvasarlas/event/alt-j-2027-06-23
+<div class=box-info> alt-J 2027. június 23. szerda Kapunyitás 18:00 Nemzetközi koncertek - Nagyszínpad Jegyek, részletek | /jegyvasarlas/event/alt-j-2027-06-23
 <li class=splide__slide> Co Lee NEM VAGYOK EGYEDÜL Lemezbemutató 2027. június 11. Co Lee NEM VAGYOK EGYEDÜL Lemezbemutató 2027. június 11. péntek Kapunyitás 18:00 Koncertek - Nagyszínpad Jegyek, részletek | /jegyvasarlas/event/co-lee-2027-06-11
 <div class=splide__slide__short> Co Lee NEM VAGYOK EGYEDÜL Lemezbemutató 2027. június 11. | 
 <div class=splide__slide__main> Co Lee NEM VAGYOK EGYEDÜL Lemezbemutató 2027. június 11. péntek Kapunyitás 18:00 Koncertek - Nagyszínpad Jegyek, részletek | /jegyvasarlas/event/co-lee-2027-06-11
@@ -42,6 +46,10 @@ jsonld types:
 <div class=splide__slide__short> ISTVÁN, A KIRÁLY - A  KONCERT - Budapest Park 2027. augusztus 20. | 
 <div class=splide__slide__main> ISTVÁN, A KIRÁLY - A  KONCERT - Budapest Park 2027. augusztus 20. péntek Kapunyitás 18:00 Koncertek - Nagyszínpad Jegyek, részletek | /jegyvasarlas/event/[…]
 <div class=box-info> ISTVÁN, A KIRÁLY - A  KONCERT - Budapest Park 2027. augusztus 20. péntek Kapunyitás 18:00 Koncertek - Nagyszínpad Jegyek, részletek | /jegyvasarlas/event/[…]
+<li class=splide__slide> Joe Bonamassa 2027. július 20. Joe Bonamassa 2027. július 20. kedd Kapunyitás 18:00 Nemzetközi koncertek - Nagyszínpad Jegyek, részletek | /jegyvasarlas/event/joe-bonamassa-20270720
+<div class=splide__slide__short> Joe Bonamassa 2027. július 20. | 
+<div class=splide__slide__main> Joe Bonamassa 2027. július 20. kedd Kapunyitás 18:00 Nemzetközi koncertek - Nagyszínpad Jegyek, részletek | /jegyvasarlas/event/joe-bonamassa-20270720
+<div class=box-info> Joe Bonamassa 2027. július 20. kedd Kapunyitás 18:00 Nemzetközi koncertek - Nagyszínpad Jegyek, részletek | /jegyvasarlas/event/joe-bonamassa-20270720
 <div class=splide__slide__short> A Káprázatos Carson Coma Cirkusz Show! ★ Porondmester: Thuróczy Szabolcs 2027. május 14. | 
 <div class=splide__slide__main> A Káprázatos Carson Coma Cirkusz Show! ★ Porondmester: Thuróczy Szabolcs 2027. május 14. péntek Kapunyitás 18:00 Koncertek - Nagyszínpad Jegyek, részletek Részletek, koncert infók | /jegyvasarlas/event/carson-coma-2027-05-14
 <div class=box-info> A Káprázatos Carson Coma Cirkusz Show! ★ Porondmester: Thuróczy Szabolcs 2027. május 14. péntek Kapunyitás 18:00 Koncertek - Nagyszínpad Jegyek, részletek Részletek, koncert infók | /jegyvasarlas/event/carson-coma-2027-05-14
@@ -52,12 +60,4 @@ jsonld types:
 <li class=splide__slide> AWS 2027. június 3. AWS 2027. június 3. csütörtök Kapunyitás 18:00 Koncertek - Nagyszínpad Jegyek, részletek | /jegyvasarlas/event/aws-2027-06-03
 <div class=splide__slide__short> AWS 2027. június 3. | 
 <div class=splide__slide__main> AWS 2027. június 3. csütörtök Kapunyitás 18:00 Koncertek - Nagyszínpad Jegyek, részletek | /jegyvasarlas/event/aws-2027-06-03
-<div class=box-info> AWS 2027. június 3. csütörtök Kapunyitás 18:00 Koncertek - Nagyszínpad Jegyek, részletek | /jegyvasarlas/event/aws-2027-06-03
-<li class=splide__slide> Co Lee NEM VAGYOK EGYEDÜL Lemezbemutató 2027. június 11. Co Lee NEM VAGYOK EGYEDÜL Lemezbemutató 2027. június 11. péntek Kapunyitás 18:00 Koncertek - Nagyszínpad Jegyek, részletek | /jegyvasarlas/event/co-lee-2027-06-11
-<div class=splide__slide__short> Co Lee NEM VAGYOK EGYEDÜL Lemezbemutató 2027. június 11. | 
-<div class=splide__slide__main> Co Lee NEM VAGYOK EGYEDÜL Lemezbemutató 2027. június 11. péntek Kapunyitás 18:00 Koncertek - Nagyszínpad Jegyek, részletek | /jegyvasarlas/event/co-lee-2027-06-11
-<div class=box-info> Co Lee NEM VAGYOK EGYEDÜL Lemezbemutató 2027. június 11. péntek Kapunyitás 18:00 Koncertek - Nagyszínpad Jegyek, részletek | /jegyvasarlas/event/co-lee-2027-06-11
-<li class=splide__slide> Kuplung 2027. augusztus 5. Kuplung 2027. augusztus 5. csütörtök Kapunyitás 18:00 Koncertek - Nagyszínpad Jegyek, részletek | /jegyvasarlas/event/kuplung-2027-08-05
-<div class=splide__slide__short> Kuplung 2027. augusztus 5. | 
-<div class=splide__slide__main> Kuplung 2027. augusztus 5. csütörtök Kapunyitás 18:00 Koncertek - Nagyszínpad Jegyek, részletek | /jegyvasarlas/event/kuplung-2027-08-05
 poveznice (30): /jegyvasarlas/event/alt-j-2027-06-23 /jegyvasarlas/event/aws-2027-06-03 /jegyvasarlas/event/carson-coma-2027-05-14 /jegyvasarlas/event/co-lee-2027-06-11 /jegyvasarlas/event/[…] /jegyvasarlas/event/[…] /jegyvasarlas/event/joe-bonamassa-20270720 /jegyvasarlas/event/kuplung-2027-08-05 /jegyvasarlas/event/[…] /jegyvasarlas/event/motionless-in-white-20270613 /jegyvasarlas/event/og-fluor-2027-08-07 /jegyvasarlas/event/scooter-2027-06-12 /jegyvasarlas/event/skillet-20270729 /jegyvasarlas/event/[…] /jegyvasarlas/event/the-neighbourhood-2027-06-28 https://www.budapestpark.hu/events/alt-j-2027-06-23 https://www.budapestpark.hu/events/aws-2027-06-03 https://www.budapestpark.hu/events/carson-coma-2027-05-14 https://www.budapestpark.hu/events/co-lee-2027-06-11 https://www.budapestpark.hu/events/[…] https://www.budapestpark.hu/events/[…] https://www.budapestpark.hu/events/joe-bonamassa-20270720 https://www.budapestpark.hu/events/kuplung-2027-08-05 https://www.budapestpark.hu/events/[…] https://www.budapestpark.hu/events/motionless-in-white-20270613

@@ -1,8 +1,5 @@
 title: Musik
 jsonld types: 
-<div class=col-xl-2.col-md-4.col-sm-6> Austrofred & Kurt Razelli Di 24.11.2026 20.00 Saal Barrierefrei zugänglich Mehr lesen | /programm/[…]/
-<div class=fce-teaser-event.w-100> Austrofred & Kurt Razelli Di 24.11.2026 20.00 Saal Barrierefrei zugänglich Mehr lesen | /programm/[…]/
-<div class=mt-auto.font-size-xs> Di 24.11.2026 20.00 Saal Barrierefrei zugänglich | 
 <div class=col-xl-2.col-md-4.col-sm-6> Cordoba78 „Muss ich unbedingt verpassen" Tour 2026 Mi 25.11.2026 20.00 Saal Barrierefrei zugänglich Mehr lesen | /programm/cordoba78/
 <div class=fce-teaser-event.w-100> Cordoba78 „Muss ich unbedingt verpassen" Tour 2026 Mi 25.11.2026 20.00 Saal Barrierefrei zugänglich Mehr lesen | /programm/cordoba78/
 <div class=mt-auto.font-size-xs> Mi 25.11.2026 20.00 Saal Barrierefrei zugänglich | 
@@ -18,6 +15,9 @@ jsonld types:
 <div class=col-xl-2.col-md-4.col-sm-6> Mothers Finest So 29.11.2026 20.00 Saal Barrierefrei zugänglich Mehr lesen | /programm/mothers-finest/
 <div class=fce-teaser-event.w-100> Mothers Finest So 29.11.2026 20.00 Saal Barrierefrei zugänglich Mehr lesen | /programm/mothers-finest/
 <div class=mt-auto.font-size-xs> So 29.11.2026 20.00 Saal Barrierefrei zugänglich | 
+<div class=col-xl-2.col-md-4.col-sm-6> Thomas D & The KBCS Mo 30.11.2026 20.00 Saal Barrierefrei zugänglich Mehr lesen | /programm/thomas-d-the-kbcs/
+<div class=fce-teaser-event.w-100> Thomas D & The KBCS Mo 30.11.2026 20.00 Saal Barrierefrei zugänglich Mehr lesen | /programm/thomas-d-the-kbcs/
+<div class=mt-auto.font-size-xs> Mo 30.11.2026 20.00 Saal Barrierefrei zugänglich | 
 <div class=[…]> Magazin Artikel lesen Über den Beginn der „Wiener Tschuschenkapelle“ im WUK Posted 4.11.2026 Artikel lesen Baba Yaga präsentiert das neue Album Odiseja im WUK Posted 6.10.2026 | /magazin/[…]/
 <div class=container> Magazin Artikel lesen Über den Beginn der „Wiener Tschuschenkapelle“ im WUK Posted 4.11.2026 Artikel lesen Baba Yaga präsentiert das neue Album Odiseja im WUK Posted 6.10.2026 | /magazin/[…]/
 <div class=row> Magazin Artikel lesen Über den Beginn der „Wiener Tschuschenkapelle“ im WUK Posted 4.11.2026 Artikel lesen Baba Yaga präsentiert das neue Album Odiseja im WUK Posted 6.10.2026 | /magazin/[…]/
@@ -34,4 +34,4 @@ jsonld types:
 <div class=fce-teaser-magazin-article> Artikel lesen Baba Yaga präsentiert das neue Album Odiseja im WUK Posted 6.10.2026 | /magazin/[…]/
 <div class=[…]> Baba Yaga präsentiert das neue Album Odiseja im WUK Posted 6.10.2026 | /magazin/[…]/
 <div class=article-meta-info> Posted 6.10.2026 | 
-poveznice (8): #c4502-programm /programm/ /programm/[…]/ /programm/chapo102/ /programm/cordoba78/ /programm/mothers-finest/ /programm/[…]/ /programm/trinix/
+poveznice (8): #c4502-programm /programm/ /programm/chapo102/ /programm/cordoba78/ /programm/mothers-finest/ /programm/[…]/ /programm/thomas-d-the-kbcs/ /programm/trinix/

@@ -1,17 +1,5 @@
 [
  {
-  "date": "2026-11-24",
-  "time": "19:30",
-  "title": "MMV 2026 / ROOMFUL OF TEETH / Roomful of Teeth",
-  "venue": "knap",
-  "genre": "",
-  "price": "",
-  "url": "https://core-event.co/events/mmv-2026-roomful-of-teeth-roomful-of-teeth-7261/",
-  "city": "zagreb",
-  "venue_name": "Kazalište Knap - Zagreb",
-  "source": "coreevent"
- },
- {
   "date": "2026-11-25",
   "time": "19:30",
   "title": "Mmv 2026 / Lovro Merčep / Dijalog",
@@ -578,6 +566,18 @@
  {
   "date": "2026-12-17",
   "time": "19:00",
+  "title": "Ane Paška - Salon za uljepšavanje duše",
+  "venue": "",
+  "genre": "",
+  "price": "",
+  "url": "https://core-event.co/events/salon-za-uljepsavanje-duse-b34e/",
+  "city": "zagreb",
+  "venue_name": "Velika dvorana",
+  "source": "coreevent"
+ },
+ {
+  "date": "2026-12-17",
+  "time": "19:00",
   "title": "Avatar",
   "venue": "boogaloo",
   "genre": "",
@@ -931,6 +931,18 @@
   "genre": "",
   "price": "",
   "url": "https://core-event.co/events/luzeri-cura-i-decko-regenerator-zabok-3706/",
+  "city": "zabok",
+  "venue_name": "Regenerator",
+  "source": "coreevent"
+ },
+ {
+  "date": "2027-02-06",
+  "time": "",
+  "title": "Ajmo! na Sve – Jedna Ulaznica za 4 Koncertna Vikenda",
+  "venue": "",
+  "genre": "",
+  "price": "",
+  "url": "https://core-event.co/events/ajmo-na-sve-jedna-ulaznica-za-4-koncertna-vikenda-u-regeneratoru-ed07/",
   "city": "zabok",
   "venue_name": "Regenerator",
   "source": "coreevent"

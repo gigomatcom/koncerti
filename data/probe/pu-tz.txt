@@ -1,6 +1,6 @@
 title: Arhiva Concerts - Tourism Office Pula
 jsonld types: CollectionPage, ImageObject, BreadcrumbList, ListItem, ListItem, WebSite, SearchAction, EntryPoint, PropertyValueSpecification, Organization, ImageObject
-bez prepoznatih datuma; html bytes=165205
+bez prepoznatih datuma; html bytes=170878
 api/json hints: //fonts.googleapis.com
 <div class=carousel-caption> ZIDAR BETONSKY + SVOJAT Klub Kotač - DC Rojc, 28/11/2026
 <div class=thumbcaption> ZIDAR BETONSKY + SVOJAT Klub Kotač - DC Rojc, 28/11/2026
@@ -10,11 +10,19 @@ api/json hints: //fonts.googleapis.com
 <div class=carousel-caption> Advent in Pula Ring – ABBA tribute ispred Arene, 29/11/2026
 <div class=thumbcaption> Advent in Pula Ring – ABBA tribute ispred Arene, 29/11/2026
 <div class=color-caption> Ring – ABBA tribute Event type Concerts Location ispred Arene Date 29/11/2026 Time 19:00 Full info
+<div class=carousel-caption> Advent in Pula Kaštel Opening w/ Beats & Treats Residents – Kool S & 207 Kaštel, 29/11/2026
+<div class=thumbcaption> Advent in Pula Kaštel Opening w/ Beats & Treats Residents – Kool S & 207 Kaštel, 29/11/2026
+<div class=color-caption> Kaštel Opening w/ Beats & Treats Residents – Kool S & 207 Event type Concerts Location Kaštel Date 29/11/2026 Time 17:00 - 00:00 Full info
 <div class=col-sm-6.col-lg-4.col-xl-3> Advent in Pula 29/11/2026 - 06/01/2027 Advent in Pula Event type ConcertsOther events Date 29/11/2026 - 06/01/2027 Full info
 <article class=list-article.post-9371.pula-events> Advent in Pula 29/11/2026 - 06/01/2027 Advent in Pula Event type ConcertsOther events Date 29/11/2026 - 06/01/2027 Full info
 <div class=carousel-caption> Advent in Pula 29/11/2026 - 06/01/2027
 <div class=thumbcaption> Advent in Pula 29/11/2026 - 06/01/2027
 <div class=color-caption> Advent in Pula Event type ConcertsOther events Date 29/11/2026 - 06/01/2027 Full info
+<div class=col-sm-6.col-lg-4.col-xl-3> Advent in Pula Tricky D Kaštel, 03/12/2026 Tricky D Event type Concerts Location Kaštel Date 03/12/2026 Time 20:00 Full info
+<article class=list-article.post-9371.pula-events> Advent in Pula Tricky D Kaštel, 03/12/2026 Tricky D Event type Concerts Location Kaštel Date 03/12/2026 Time 20:00 Full info
+<div class=carousel-caption> Advent in Pula Tricky D Kaštel, 03/12/2026
+<div class=thumbcaption> Advent in Pula Tricky D Kaštel, 03/12/2026
+<div class=color-caption> Tricky D Event type Concerts Location Kaštel Date 03/12/2026 Time 20:00 Full info
 <div class=col-sm-6.col-lg-4.col-xl-3> Advent u Puli Vojko V ispred Arene, 05/12/2026 Vojko V Event type Concerts Location ispred Arene Date 05/12/2026 Time 20:30 Full info
 <article class=list-article.post-9371.pula-events> Advent u Puli Vojko V ispred Arene, 05/12/2026 Vojko V Event type Concerts Location ispred Arene Date 05/12/2026 Time 20:30 Full info
 <div class=carousel-caption> Advent u Puli Vojko V ispred Arene, 05/12/2026
@@ -54,12 +62,4 @@ api/json hints: //fonts.googleapis.com
 <article class=list-article.post-9371.pula-events> Advent in Pula Big Band Tržnica, 24/12/2026 Big Band Event type Concerts Location Tržnica Date 24/12/2026 Time 11:00 Full info
 <div class=carousel-caption> Advent in Pula Big Band Tržnica, 24/12/2026
 <div class=thumbcaption> Advent in Pula Big Band Tržnica, 24/12/2026
-<div class=color-caption> Big Band Event type Concerts Location Tržnica Date 24/12/2026 Time 11:00 Full info
-<div class=carousel-caption> Advent in Pula Funky Town & Ivana Kindl ispred Arene, 25/12/2026
-<div class=thumbcaption> Advent in Pula Funky Town & Ivana Kindl ispred Arene, 25/12/2026
-<div class=color-caption> Funky Town & Ivana Kindl Event type Concerts Location ispred Arene Date 25/12/2026 Time 20:30 Full info
-<div class=carousel-caption> Advent in Pula Gitarijada Presents: All Starz – Messerschmitt i Baltazar ispred Arene, 26/12/2026
-<div class=thumbcaption> Advent in Pula Gitarijada Presents: All Starz – Messerschmitt i Baltazar ispred Arene, 26/12/2026
-<div class=color-caption> Gitarijada Presents: All Starz – Messerschmitt i Baltazar Event type Concerts Location ispred Arene Date 26/12/2026 Time 20:30 Full info
-<div class=carousel-caption> Advent in Pula Gitarijada Presents: Rock On Stage ispred Arene, 29/12/2026
-poveznice (38): https://pulainfo.hr/de/events-type/konzerte/ https://pulainfo.hr/events-type/concerts/ https://pulainfo.hr/events-type/other-events/ https://pulainfo.hr/events-type/theatre/ https://pulainfo.hr/events/ https://pulainfo.hr/hr/events-type/koncerti/ https://pulainfo.hr/it/events-type/concerti/ https://pulainfo.hr/pula-events/4-tenora/ https://pulainfo.hr/pula-events/[…]/ https://pulainfo.hr/pula-events/advent-in-pula/ https://pulainfo.hr/pula-events/atomsko-skloniste/ https://pulainfo.hr/pula-events/big-band-2/ https://pulainfo.hr/pula-events/bsh-amphitheatre-pula-2027/ https://pulainfo.hr/pula-events/christmas-at-ink-magazin/ https://pulainfo.hr/pula-events/dj-plexy/ https://pulainfo.hr/pula-events/[…]/ https://pulainfo.hr/pula-events/funky-town-ivana-kindl/ https://pulainfo.hr/pula-events/[…]/ https://pulainfo.hr/pula-events/[…]/ https://pulainfo.hr/pula-events/giuliano-diktatori/ https://pulainfo.hr/pula-events/griff-zucchero-celebration-band/ https://pulainfo.hr/pula-events/hiljson-mandela-3/ https://pulainfo.hr/pula-events/lima-len/ https://pulainfo.hr/pula-events/lost-frequencies/ https://pulainfo.hr/pula-events/misomanija-miso-real-tribute/
+poveznice (40): https://pulainfo.hr/de/events-type/konzerte/ https://pulainfo.hr/events-type/concerts/ https://pulainfo.hr/events-type/other-events/ https://pulainfo.hr/events-type/theatre/ https://pulainfo.hr/events/ https://pulainfo.hr/hr/events-type/koncerti/ https://pulainfo.hr/it/events-type/concerti/ https://pulainfo.hr/pula-events/4-tenora/ https://pulainfo.hr/pula-events/[…]/ https://pulainfo.hr/pula-events/advent-in-pula/ https://pulainfo.hr/pula-events/atomsko-skloniste/ https://pulainfo.hr/pula-events/big-band-2/ https://pulainfo.hr/pula-events/bsh-amphitheatre-pula-2027/ https://pulainfo.hr/pula-events/christmas-at-ink-magazin/ https://pulainfo.hr/pula-events/dj-plexy/ https://pulainfo.hr/pula-events/[…]/ https://pulainfo.hr/pula-events/funky-town-ivana-kindl/ https://pulainfo.hr/pula-events/[…]/ https://pulainfo.hr/pula-events/[…]/ https://pulainfo.hr/pula-events/giuliano-diktatori/ https://pulainfo.hr/pula-events/griff-zucchero-celebration-band/ https://pulainfo.hr/pula-events/hiljson-mandela-3/ https://pulainfo.hr/pula-events/[…]/ https://pulainfo.hr/pula-events/lima-len/ https://pulainfo.hr/pula-events/lost-frequencies/

@@ -156,6 +156,17 @@
  {
   "date": "2026-12-05",
   "time": "",
+  "title": "Balaton az Akváriumban – Merülj el az ízekben!",
+  "venue": "bp-akvariumklub",
+  "genre": "",
+  "price": "",
+  "url": "https://akvariumklub.hu/programok/balaton-az-akvariumban-merulj-el-az-izekben/",
+  "city": "budimpesta",
+  "source": "bp-akvarium"
+ },
+ {
+  "date": "2026-12-05",
+  "time": "",
   "title": "Néhány nap – Groovehouse – Nagykoncert",
   "venue": "bp-akvariumklub",
   "genre": "",
@@ -348,6 +359,17 @@
   "genre": "",
   "price": "",
   "url": "https://akvariumklub.hu/programok/sztarban-sztar-all-stars/",
+  "city": "budimpesta",
+  "source": "bp-akvarium"
+ },
+ {
+  "date": "2026-12-18",
+  "time": "",
+  "title": "Budapest Open Mic 2026 Döntő",
+  "venue": "bp-akvariumklub",
+  "genre": "",
+  "price": "",
+  "url": "https://akvariumklub.hu/programok/budapest-open-mic-2026-donto/",
   "city": "budimpesta",
   "source": "bp-akvarium"
  },
@@ -616,6 +638,17 @@
   "source": "bp-akvarium"
  },
  {
+  "date": "2026-12-30",
+  "time": "",
+  "title": "Wellwex pres. UDG Pre N.Y.E. 2027 AKVA WAVES",
+  "venue": "bp-akvariumklub",
+  "genre": "",
+  "price": "",
+  "url": "https://akvariumklub.hu/programok/wellwex-pres-udg-pre-n-y-e-2027/",
+  "city": "budimpesta",
+  "source": "bp-akvarium"
+ },
+ {
   "date": "2026-12-31",
   "time": "",
   "title": "Lunar Midnight – Akvárium NYE 2026",
@@ -788,6 +821,17 @@
   "genre": "",
   "price": "",
   "url": "https://akvariumklub.hu/programok/blahalouisiana-alarcosbal-akvarium-foldonkivuliek-talalkozoja/",
+  "city": "budimpesta",
+  "source": "bp-akvarium"
+ },
+ {
+  "date": "2027-01-30",
+  "time": "",
+  "title": "BM Music School – Mélyvíz",
+  "venue": "bp-akvariumklub",
+  "genre": "",
+  "price": "",
+  "url": "https://akvariumklub.hu/programok/bm-music-school-melyviz/",
   "city": "budimpesta",
   "source": "bp-akvarium"
  },

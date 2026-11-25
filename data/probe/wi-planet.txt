@@ -1,23 +1,5 @@
 title: Planet Music & Media
 jsonld types: ImageObject, ImageObject, WebSite, SearchAction, ImageObject, WebPage, Person, ImageObject, Article
-<div class=pl-card> Di., 24. November 2026 Di., 24. November 2026 Abgesagt JUBILEE - 2026 Beginn: 20:00 Uhr BONNIE TYLER Abgesagt JUBILEE - 2026 Beginn: 20:00 Uhr | 
-<div class=pl-card-front.pl-pointer> Di., 24. November 2026 Di., 24. November 2026 Abgesagt JUBILEE - 2026 Beginn: 20:00 Uhr BONNIE TYLER | 
-<div class=pl-date> Di., 24. November 2026 | 
-<div class=pl-thumbnail> Di., 24. November 2026 Abgesagt JUBILEE - 2026 Beginn: 20:00 Uhr | 
-<div class=pl-thumb-desc> Di., 24. November 2026 Abgesagt JUBILEE - 2026 Beginn: 20:00 Uhr | 
-<div class=pl-date> Di., 24. November 2026 | 
-<div class=pl-card> Di., 24. November 2026 Di., 24. November 2026 Ausverkauft CHEF*IN LIVE Beginn: 20:00 Uhr MISS IVANKA T. Ausverkauft CHEF*IN LIVE Beginn: 20:00 Uhr | 
-<div class=pl-card-front.pl-pointer> Di., 24. November 2026 Di., 24. November 2026 Ausverkauft CHEF*IN LIVE Beginn: 20:00 Uhr MISS IVANKA T. | 
-<div class=pl-date> Di., 24. November 2026 | 
-<div class=pl-thumbnail> Di., 24. November 2026 Ausverkauft CHEF*IN LIVE Beginn: 20:00 Uhr | 
-<div class=pl-thumb-desc> Di., 24. November 2026 Ausverkauft CHEF*IN LIVE Beginn: 20:00 Uhr | 
-<div class=pl-date> Di., 24. November 2026 | 
-<div class=pl-card> Di., 24. November 2026 Di., 24. November 2026 Verlegt CHEF*IN LIVE Beginn: 20:00 Uhr MISS IVANKA T. Verlegt CHEF*IN LIVE Beginn: 20:00 Uhr | 
-<div class=pl-card-front.pl-pointer> Di., 24. November 2026 Di., 24. November 2026 Verlegt CHEF*IN LIVE Beginn: 20:00 Uhr MISS IVANKA T. | 
-<div class=pl-date> Di., 24. November 2026 | 
-<div class=pl-thumbnail> Di., 24. November 2026 Verlegt CHEF*IN LIVE Beginn: 20:00 Uhr | 
-<div class=pl-thumb-desc> Di., 24. November 2026 Verlegt CHEF*IN LIVE Beginn: 20:00 Uhr | 
-<div class=pl-date> Di., 24. November 2026 | 
 <div class=pl-card> Mi., 25. November 2026 Mi., 25. November 2026 Beginn: 20:00 Uhr ONEUS Beginn: 20:00 Uhr | 
 <div class=pl-card-front.pl-pointer> Mi., 25. November 2026 Mi., 25. November 2026 Beginn: 20:00 Uhr ONEUS | 
 <div class=pl-date> Mi., 25. November 2026 | 
@@ -30,4 +12,21 @@ jsonld types: ImageObject, ImageObject, WebSite, SearchAction, ImageObject, WebP
 <div class=pl-thumbnail> Do., 26. November 2026 The Denali Tour Beginn: 20:00 Uhr Vorverkauf: 49,98 € | 
 <div class=pl-thumb-desc> Do., 26. November 2026 The Denali Tour Beginn: 20:00 Uhr Vorverkauf: 49,98 € | 
 <div class=pl-date> Do., 26. November 2026 | 
+<div class=pl-card> Fr., 27. November 2026 Fr., 27. November 2026 CROSS CONNECTION | MYKAGE | SILENCIO Beginn: 19:30 Uhr Vorverkauf: 21,00 € BAUCHGEFÜHLE Vol.4 CROSS CONNECTION | MYKAGE | SILENCIO Beginn: 19:30 Uhr Vorve | 
+<div class=pl-card-front.pl-pointer> Fr., 27. November 2026 Fr., 27. November 2026 CROSS CONNECTION | MYKAGE | SILENCIO Beginn: 19:30 Uhr Vorverkauf: 21,00 € BAUCHGEFÜHLE Vol.4 | 
+<div class=pl-date> Fr., 27. November 2026 | 
+<div class=pl-thumbnail> Fr., 27. November 2026 CROSS CONNECTION | MYKAGE | SILENCIO Beginn: 19:30 Uhr Vorverkauf: 21,00 € | 
+<div class=pl-thumb-desc> Fr., 27. November 2026 CROSS CONNECTION | MYKAGE | SILENCIO Beginn: 19:30 Uhr Vorverkauf: 21,00 € | 
+<div class=pl-date> Fr., 27. November 2026 | 
+<div class=pl-card-front.pl-pointer> Fr., 27. November 2026 Fr., 27. November 2026 Keine Ahnung was hier los ist, aber ich will dabei sein Beginn: 20:00 Uhr Vorverkauf: 43,90 € MARCO GIANNI | 
+<div class=pl-date> Fr., 27. November 2026 | 
+<div class=pl-thumbnail> Fr., 27. November 2026 Keine Ahnung was hier los ist, aber ich will dabei sein Beginn: 20:00 Uhr Vorverkauf: 43,90 € | 
+<div class=pl-thumb-desc> Fr., 27. November 2026 Keine Ahnung was hier los ist, aber ich will dabei sein Beginn: 20:00 Uhr Vorverkauf: 43,90 € | 
+<div class=pl-date> Fr., 27. November 2026 | 
+<div class=pl-card> Sa., 28. November 2026 Sa., 28. November 2026 Ausverkauft BOAH IST DAS KRASS 2 Beginn: 17:00 Uhr DIKKA Ausverkauft BOAH IST DAS KRASS 2 Beginn: 17:00 Uhr | 
+<div class=pl-card-front.pl-pointer> Sa., 28. November 2026 Sa., 28. November 2026 Ausverkauft BOAH IST DAS KRASS 2 Beginn: 17:00 Uhr DIKKA | 
+<div class=pl-date> Sa., 28. November 2026 | 
+<div class=pl-thumbnail> Sa., 28. November 2026 Ausverkauft BOAH IST DAS KRASS 2 Beginn: 17:00 Uhr | 
+<div class=pl-thumb-desc> Sa., 28. November 2026 Ausverkauft BOAH IST DAS KRASS 2 Beginn: 17:00 Uhr | 
+<div class=pl-date> Sa., 28. November 2026 | 
 poveznice (0): 

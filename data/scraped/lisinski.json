@@ -1,27 +1,5 @@
 [
  {
-  "date": "2026-11-24",
-  "time": "20:00",
-  "title": "Tomislav Bralić i Klapa Intrade – 20 Godina Zagrebačke Tradicije",
-  "venue": "lisV",
-  "genre": "trad",
-  "price": "32–59 €",
-  "url": "https://www.lisinski.hr/hr/dogadanja/tomislav-bralic-i-klapa-intrade-20-godina-zagreb-2/",
-  "city": "zagreb",
-  "source": "lisinski"
- },
- {
-  "date": "2026-11-24",
-  "time": "20:00",
-  "title": "Guitarra Viva – Ciklus Gitarskih Koncerata Hrvatski Gitarski Kvartet",
-  "venue": "lisM",
-  "genre": "klasika",
-  "price": "rasprodano",
-  "url": "https://www.lisinski.hr/hr/dogadanja/guitarra-viva-ciklus-gitarskih-koncerata-br-hrvats/",
-  "city": "zagreb",
-  "source": "lisinski"
- },
- {
   "date": "2026-11-26",
   "time": "19:30",
   "title": "Majstorski Ciklus SO HRT-a Simfonijski Jazz SO HRT-a i Jazz Orkestar HRT-a Pascal Rophé, Dirigent Makoto Ozone, Klavir",
@@ -203,7 +181,7 @@
   "title": "IV. Dječji Koncert Dinamove Zaklade 'nema Predaje'",
   "venue": "lisM",
   "genre": "djeca",
-  "price": "20 €",
+  "price": "rasprodano",
   "url": "https://www.lisinski.hr/hr/dogadanja/iv-djecji-koncert-dinamove-zaklade-nema-predaje/",
   "city": "zagreb",
   "source": "lisinski"
@@ -244,22 +222,22 @@
  {
   "date": "2026-12-10",
   "time": "19:30",
-  "title": "Majstorski Ciklus SO HRT-a Ljetni Povjetarac, Ledena Svjetlost Pascal Rophé, Dirigent Mayumi Kanagawa, Violina",
-  "venue": "lisV",
+  "title": "Ciklus Glazbene Staze: Weber 200 – Duo, Trio, Kvartet",
+  "venue": "lisM",
   "genre": "klasika",
-  "price": "13–18 €",
-  "url": "https://www.lisinski.hr/hr/dogadanja/majstorski-ciklus-so-hrt-a-br-ljetni-povjetarac-le/",
+  "price": "10 €",
+  "url": "https://www.lisinski.hr/hr/dogadanja/ciklus-glazbene-staze-br-weber-200-duo-trio-kvarte/",
   "city": "zagreb",
   "source": "lisinski"
  },
  {
   "date": "2026-12-10",
   "time": "19:30",
-  "title": "Ciklus Glazbene Staze: Weber 200 – Duo, Trio, Kvartet",
-  "venue": "lisM",
+  "title": "Majstorski Ciklus SO HRT-a Ljetni Povjetarac, Ledena Svjetlost Pascal Rophé, Dirigent Mayumi Kanagawa, Violina",
+  "venue": "lisV",
   "genre": "klasika",
-  "price": "10 €",
-  "url": "https://www.lisinski.hr/hr/dogadanja/ciklus-glazbene-staze-br-weber-200-duo-trio-kvarte/",
+  "price": "13–18 €",
+  "url": "https://www.lisinski.hr/hr/dogadanja/majstorski-ciklus-so-hrt-a-br-ljetni-povjetarac-le/",
   "city": "zagreb",
   "source": "lisinski"
  },
@@ -375,12 +353,12 @@
  },
  {
   "date": "2026-12-20",
-  "time": "16:00",
+  "time": "10:00",
   "title": "Čarobni Božićni Sat",
   "venue": "lisM",
   "genre": "djeca",
-  "price": "rasprodano",
-  "url": "https://www.lisinski.hr/hr/dogadanja/carobni-bozicni-sat-14/",
+  "price": "10 €",
+  "url": "https://www.lisinski.hr/hr/dogadanja/carobni-bozicni-sat-20/",
   "city": "zagreb",
   "source": "lisinski"
  },

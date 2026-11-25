@@ -1,16 +1,5 @@
 [
  {
-  "date": "2026-11-24",
-  "time": "21:00",
-  "title": "Plattenbau, Vurma",
-  "venue": "mocvara",
-  "genre": "",
-  "price": "",
-  "url": "https://mochvara.hr/event-detail/6a90272cd74b7987d607140d/",
-  "city": "zagreb",
-  "source": "mocvara"
- },
- {
   "date": "2026-11-25",
   "time": "19:00",
   "title": "Andrea Bambini i Elena Francalanci: Passo Falso",
@@ -110,6 +99,28 @@
   "source": "mocvara"
  },
  {
+  "date": "2026-12-06",
+  "time": "11:00",
+  "title": "Meridin božićni sajam i buvljak",
+  "venue": "mocvara",
+  "genre": "",
+  "price": "",
+  "url": "https://mochvara.hr/event-detail/6aeb39ce127f60f1bc9f0f61/",
+  "city": "zagreb",
+  "source": "mocvara"
+ },
+ {
+  "date": "2026-12-06",
+  "time": "21:00",
+  "title": "Föllakzoid, Beau Wanzer",
+  "venue": "mocvara",
+  "genre": "",
+  "price": "",
+  "url": "https://mochvara.hr/event-detail/6ac38a598012ef50cfc2ddb7/",
+  "city": "zagreb",
+  "source": "mocvara"
+ },
+ {
   "date": "2027-04-12",
   "time": "",
   "title": "Agriculture",
@@ -117,17 +128,6 @@
   "genre": "",
   "price": "",
   "url": "https://mochvara.hr/event-detail/6afec77b8c62b05525e32f0d/",
-  "city": "zagreb",
-  "source": "mocvara"
- },
- {
-  "date": "2026-12-06",
-  "time": "",
-  "title": "Föllakzoid, Beau Wanzer",
-  "venue": "mocvara",
-  "genre": "",
-  "price": "",
-  "url": "https://mochvara.hr/event-detail/6ac38a598012ef50cfc2ddb7/",
   "city": "zagreb",
   "source": "mocvara"
  },

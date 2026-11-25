@@ -1,16 +1,5 @@
 [
  {
-  "date": "2026-11-24",
-  "time": "",
-  "title": "Santiano",
-  "venue": "wi-stadthalle",
-  "genre": "",
-  "price": "",
-  "url": "https://www.stadthalle.com/de/events/alle-events/51178/SANTIANO",
-  "city": "bec",
-  "source": "wi-stadthalle"
- },
- {
   "date": "2026-11-27",
   "time": "",
   "title": "Bonez MC & Raf Camora",
@@ -847,6 +836,17 @@
   "source": "wi-stadthalle"
  },
  {
+  "date": "2026-12-03",
+  "time": "10:00",
+  "title": "Chase Atlantic",
+  "venue": "wi-stadthalle",
+  "genre": "",
+  "price": "",
+  "url": "https://www.stadthalle.com/de/events/alle-events/51638/Chase-Atlantic",
+  "city": "bec",
+  "source": "wi-stadthalle"
+ },
+ {
   "date": "2027-04-21",
   "time": "",
   "title": "Trivium & In Flames",
@@ -1034,8 +1034,8 @@
   "source": "wi-stadthalle"
  },
  {
-  "date": "2026-11-25",
-  "time": "10:00",
+  "date": "2027-06-16",
+  "time": "",
   "title": "Kansas",
   "venue": "wi-stadthalle",
   "genre": "",

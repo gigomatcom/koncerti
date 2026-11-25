@@ -1,29 +1,5 @@
 [
  {
-  "date": "2026-11-24",
-  "time": "20:00",
-  "title": "The Witcher in Concert",
-  "venue": "arena",
-  "genre": "",
-  "price": "",
-  "url": "https://www.entrio.hr/event/the-witcher-in-concert-29981",
-  "city": "zagreb",
-  "venue_name": "Arena Zagreb",
-  "source": "ulaznice"
- },
- {
-  "date": "2026-11-24",
-  "time": "20:00",
-  "title": "Praying Mantis",
-  "venue": "hardplace",
-  "genre": "",
-  "price": "",
-  "url": "https://www.entrio.hr/event/praying-mantis-hard-place-33079",
-  "city": "zagreb",
-  "venue_name": "Hard Place",
-  "source": "ulaznice"
- },
- {
   "date": "2026-11-26",
   "time": "21:15",
   "title": "Skier and Yeti + Gliste",
