@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-25T18:40:11+00:00",
+ "run_at": "2026-11-26T15:22:06+00:00",
  "sources": {
   "lisinski": {
    "ok": true,
@@ -10,8 +10,9 @@
    "count": 31
   },
   "mocvara": {
-   "ok": true,
-   "count": 14
+   "ok": false,
+   "count": 0,
+   "error": "nijedan događaj nije prepoznat (promijenio se HTML?)"
   },
   "dvaosam": {
    "ok": true,
@@ -19,15 +20,16 @@
   },
   "kset": {
    "ok": true,
-   "count": 6
+   "count": 5
   },
   "attack": {
    "ok": true,
    "count": 3
   },
   "vintage": {
-   "ok": true,
-   "count": 7
+   "ok": false,
+   "count": 0,
+   "error": "nijedan događaj nije prepoznat (promijenio se HTML?)"
   },
   "pogon": {
    "ok": true,
@@ -44,7 +46,7 @@
   },
   "hnk-opera": {
    "ok": true,
-   "count": 56
+   "count": 57
   },
   "hnk-koncert": {
    "ok": true,
@@ -63,7 +65,7 @@
   },
   "wi-flex": {
    "ok": true,
-   "count": 16
+   "count": 15
   },
   "wi-planet": {
    "ok": true,
@@ -80,7 +82,7 @@
   },
   "wi-porgy": {
    "ok": true,
-   "count": 179
+   "count": 178
   },
   "bp-akvarium": {
    "ok": true,
@@ -88,15 +90,15 @@
   },
   "bp-budapestpark": {
    "ok": true,
-   "count": 16
+   "count": 17
   },
   "bp-barbanegra": {
    "ok": true,
-   "count": 45
+   "count": 46
   },
   "bp-a38": {
    "ok": true,
-   "count": 37
+   "count": 39
   },
   "lj-festival": {
    "ok": true,
@@ -108,7 +110,8 @@
   },
   "hangtime": {
    "ok": true,
-   "count": 10
+   "count": 0,
+   "note": "trenutno nema koncerata"
   },
   "laa": {
    "ok": true,
@@ -131,7 +134,7 @@
   },
   "mb-narodnidom": {
    "ok": true,
-   "count": 18,
+   "count": 0,
    "note": "samo proba"
   },
   "mb-stuk": {
@@ -141,21 +144,22 @@
   },
   "mb-sng": {
    "ok": true,
-   "count": 13,
+   "count": 14,
    "note": "samo proba"
   },
   "mb-mkc": {
    "ok": true,
-   "count": 13,
+   "count": 11,
    "note": "samo proba"
   },
   "pu-tz": {
    "ok": true,
-   "count": 32
+   "count": 0,
+   "note": "trenutno nema koncerata"
   },
   "pu-ink": {
    "ok": true,
-   "count": 6,
+   "count": 0,
    "note": "samo proba"
   },
   "kinosiska": {
@@ -163,8 +167,9 @@
    "count": 2
   },
   "orto": {
-   "ok": true,
-   "count": 7
+   "ok": false,
+   "count": 0,
+   "error": "nijedan događaj nije prepoznat (promijenio se HTML?)"
   }
  }
 }

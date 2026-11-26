@@ -1,6 +1,6 @@
 title: HNK - Opera
 jsonld types: 
-bez prepoznatih datuma; html bytes=453919
+bez prepoznatih datuma; html bytes=454701
 api/json hints: /hr/raspored/, /hr/raspored/?predstava=aida-nova, /hr/raspored/?predstava=cabaret, /hr/raspored/?predstava=godine, /hr/raspored/?predstava=idealan-muž, /hr/raspored/?predstava=iza-kulisa, /hr/raspored/?predstava=kazimirs-colours-rossini-cards, /hr/raspored/?predstava=la-bohème, /hr/raspored/?predstava=maria-stuart, /hr/raspored/?predstava=[…], /hr/raspored/?predstava=nikola-šubić-zrinjski, /hr/raspored/?predstava=orašarr2025, /hr/raspored/?predstava=raseljene, /hr/raspored/?predstava=razgovori-karmelićanki, /hr/raspored/?predstava=saloma
 <select class=third.filter-select> Sve kategorije Opera Drama Balet Koncert Ostalo ZAGREBAČKI OPERNI FESTIVAL HNK2 HNK2EU
 <div class=item.keep-img-ratio> Uto 01 Opera P Premijera Francis Poulenc Razgovori karmelićanki HNK2, Ulica Božidara Adžije 7a 19:30 HNK2, Ulica Božidara Adžije 7a Ulaznice nisu u pr
@@ -19,6 +19,11 @@ api/json hints: /hr/raspored/, /hr/raspored/?predstava=aida-nova, /hr/raspored/?
 <h4 class=date> Sub 12
 <div class=content-wrapper> Opera Giacomo Puccini La Bohème Glavna pozornica HNK 18:00 Glavna pozornica HNK Ulaznice u slobodnoj prodaji Rasprodano
 <div class=tickets> Glavna pozornica HNK 18:00 Glavna pozornica HNK Ulaznice u slobodnoj prodaji Rasprodano
+<div class=item.keep-img-ratio> Ned 13 Opera Nagrade Hrvatske glazbene mladeži Gala koncert laureata i svečana dodjela 38. Nagrade „Ivo Vuljević“ Foaje HNK 11:00 Foaje HNK Ulaz slobo
+<h4 class=date> Ned 13
+<div class=content-wrapper> Opera Nagrade Hrvatske glazbene mladeži Gala koncert laureata i svečana dodjela 38. Nagrade „Ivo Vuljević“ Foaje HNK 11:00 Foaje HNK Ulaz slobodan
+<div class=title> Nagrade Hrvatske glazbene mladeži Gala koncert laureata i svečana dodjela 38. Nagrade „Ivo Vuljević“
+<div class=tickets> Foaje HNK 11:00 Foaje HNK Ulaz slobodan
 <div class=item.keep-img-ratio> Pon 14 Opera Giacomo Puccini La Bohème Glavna pozornica HNK 19:30 Glavna pozornica HNK Pretplata 2 Ulaznice u slobodnoj prodaji Rasprodano
 <h4 class=date> Pon 14
 <div class=content-wrapper> Opera Giacomo Puccini La Bohème Glavna pozornica HNK 19:30 Glavna pozornica HNK Pretplata 2 Ulaznice u slobodnoj prodaji Rasprodano
@@ -50,16 +55,11 @@ api/json hints: /hr/raspored/, /hr/raspored/?predstava=aida-nova, /hr/raspored/?
 <h4 class=date> Čet 31
 <div class=content-wrapper> Opera Johann Strauss ml. Šišmiš Glavna pozornica HNK 18:00 Glavna pozornica HNK Ulaznice u slobodnoj prodaji Rasprodano
 <div class=tickets> Glavna pozornica HNK 18:00 Glavna pozornica HNK Ulaznice u slobodnoj prodaji Rasprodano
-<div class=item.keep-img-ratio> Pon 11 Opera Giuseppe Verdi Aida Glavna pozornica HNK 19:30 Glavna pozornica HNK Pretplata 14 Ulaznice u slobodnoj prodaji Kupi ulaznice
+<div class=item.keep-img-ratio> Pon 11 Opera Giuseppe Verdi Aida Glavna pozornica HNK 19:30 Glavna pozornica HNK Pretplata 14 Ulaznice u slobodnoj prodaji Rasprodano
 <h4 class=date> Pon 11
-<div class=content-wrapper> Opera Giuseppe Verdi Aida Glavna pozornica HNK 19:30 Glavna pozornica HNK Pretplata 14 Ulaznice u slobodnoj prodaji Kupi ulaznice
-<div class=tickets> Glavna pozornica HNK 19:30 Glavna pozornica HNK Pretplata 14 Ulaznice u slobodnoj prodaji Kupi ulaznice
+<div class=content-wrapper> Opera Giuseppe Verdi Aida Glavna pozornica HNK 19:30 Glavna pozornica HNK Pretplata 14 Ulaznice u slobodnoj prodaji Rasprodano
+<div class=tickets> Glavna pozornica HNK 19:30 Glavna pozornica HNK Pretplata 14 Ulaznice u slobodnoj prodaji Rasprodano
 <span class=subscription> Pretplata 14
 <div class=item.keep-img-ratio> Sri 13 Opera Giuseppe Verdi Aida Glavna pozornica HNK 19:30 Glavna pozornica HNK Ulaznice u slobodnoj prodaji Rasprodano
 <h4 class=date> Sri 13
-<div class=content-wrapper> Opera Giuseppe Verdi Aida Glavna pozornica HNK 19:30 Glavna pozornica HNK Ulaznice u slobodnoj prodaji Rasprodano
-<div class=tickets> Glavna pozornica HNK 19:30 Glavna pozornica HNK Ulaznice u slobodnoj prodaji Rasprodano
-<div class=item.keep-img-ratio> Čet 14 Opera Giuseppe Verdi Aida Glavna pozornica HNK 19:30 Glavna pozornica HNK Ulaznice u slobodnoj prodaji Kupi ulaznice
-<h4 class=date> Čet 14
-<div class=content-wrapper> Opera Giuseppe Verdi Aida Glavna pozornica HNK 19:30 Glavna pozornica HNK Ulaznice u slobodnoj prodaji Kupi ulaznice
-poveznice (1): /hr/informacije/posebni-programi/
+poveznice (2): /hr/informacije/posebni-programi/ /hr/opera/predstave/gala-koncert-laureata-i-sveč[…]ć/#13.12.11.00

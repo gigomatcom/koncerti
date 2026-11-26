@@ -11,17 +11,6 @@
   "source": "tvornica"
  },
  {
-  "date": "2026-11-25",
-  "time": "20:00",
-  "title": "MARKO VUKES – prvi solistički koncert",
-  "venue": "tvornica",
-  "genre": "klasika",
-  "price": "",
-  "url": "https://core-event.co/events/koncert-marka-vukesa-b70f",
-  "city": "zagreb",
-  "source": "tvornica"
- },
- {
   "date": "2026-11-27",
   "time": "21:00",
   "title": "Zoster",
@@ -29,17 +18,6 @@
   "genre": "",
   "price": "",
   "url": "https://core-event.co/events/zoster-u-tvornici-kulture-ff4b",
-  "city": "zagreb",
-  "source": "tvornica"
- },
- {
-  "date": "2026-11-29",
-  "time": "20:00",
-  "title": "Sharon Kovacs",
-  "venue": "tvornica",
-  "genre": "",
-  "price": "",
-  "url": "https://www.entrio.hr/event/kovacs-32860",
   "city": "zagreb",
   "source": "tvornica"
  },
@@ -154,17 +132,6 @@
   "source": "tvornica"
  },
  {
-  "date": "2026-11-26",
-  "time": "20:00",
-  "title": "Nikola Vranjković",
-  "venue": "tvornica",
-  "genre": "",
-  "price": "",
-  "url": "https://core-event.co/events/nikola-vranjkovic-u-tvornici-kulture-921c",
-  "city": "zagreb",
-  "source": "tvornica"
- },
- {
   "date": "2027-01-30",
   "time": "20:00",
   "title": "Repetitor",
@@ -183,6 +150,17 @@
   "genre": "",
   "price": "",
   "url": "https://core-event.co/events/artan-lili-u-tvornici-kulture-951a",
+  "city": "zagreb",
+  "source": "tvornica"
+ },
+ {
+  "date": "2026-11-26",
+  "time": "20:00",
+  "title": "Nikola Vranjković",
+  "venue": "tvornica",
+  "genre": "",
+  "price": "",
+  "url": "https://core-event.co/events/nikola-vranjkovic-u-tvornici-kulture-921c",
   "city": "zagreb",
   "source": "tvornica"
  },
@@ -216,6 +194,17 @@
   "genre": "",
   "price": "",
   "url": "https://core-event.co/events/luzeri-u-tvornici-kulture-2bf1",
+  "city": "zagreb",
+  "source": "tvornica"
+ },
+ {
+  "date": "2027-03-11",
+  "time": "20:00",
+  "title": "Vizelj",
+  "venue": "tvornica",
+  "genre": "",
+  "price": "",
+  "url": "https://core-event.co/events/vizelj-u-tvornici-kulture-857c",
   "city": "zagreb",
   "source": "tvornica"
  },
@@ -293,6 +282,17 @@
   "genre": "",
   "price": "",
   "url": "https://westlive.mticket.eu/widget586site12853/widget/event/186461",
+  "city": "zagreb",
+  "source": "tvornica"
+ },
+ {
+  "date": "2027-05-19",
+  "time": "20:00",
+  "title": "Jose Gonzalez",
+  "venue": "tvornica",
+  "genre": "",
+  "price": "",
+  "url": "https://core-event.co/events/jose-gonzalez-u-tvornici-kulture-c037",
   "city": "zagreb",
   "source": "tvornica"
  },

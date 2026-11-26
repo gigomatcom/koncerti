@@ -1,11 +1,5 @@
 title: Planet Music & Media
 jsonld types: ImageObject, ImageObject, WebSite, SearchAction, ImageObject, WebPage, Person, ImageObject, Article
-<div class=pl-card> Mi., 25. November 2026 Mi., 25. November 2026 Beginn: 20:00 Uhr ONEUS Beginn: 20:00 Uhr | 
-<div class=pl-card-front.pl-pointer> Mi., 25. November 2026 Mi., 25. November 2026 Beginn: 20:00 Uhr ONEUS | 
-<div class=pl-date> Mi., 25. November 2026 | 
-<div class=pl-thumbnail> Mi., 25. November 2026 Beginn: 20:00 Uhr | 
-<div class=pl-thumb-desc> Mi., 25. November 2026 Beginn: 20:00 Uhr | 
-<div class=pl-date> Mi., 25. November 2026 | 
 <div class=pl-card> Do., 26. November 2026 Do., 26. November 2026 The Denali Tour Beginn: 20:00 Uhr Vorverkauf: 49,98 € PORTUGAL. THE MAN The Denali Tour Beginn: 20:00 Uhr Vorverkauf: 49,98 € | 
 <div class=pl-card-front.pl-pointer> Do., 26. November 2026 Do., 26. November 2026 The Denali Tour Beginn: 20:00 Uhr Vorverkauf: 49,98 € PORTUGAL. THE MAN | 
 <div class=pl-date> Do., 26. November 2026 | 
@@ -28,5 +22,11 @@ jsonld types: ImageObject, ImageObject, WebSite, SearchAction, ImageObject, WebP
 <div class=pl-date> Sa., 28. November 2026 | 
 <div class=pl-thumbnail> Sa., 28. November 2026 Ausverkauft BOAH IST DAS KRASS 2 Beginn: 17:00 Uhr | 
 <div class=pl-thumb-desc> Sa., 28. November 2026 Ausverkauft BOAH IST DAS KRASS 2 Beginn: 17:00 Uhr | 
+<div class=pl-date> Sa., 28. November 2026 | 
+<div class=pl-card> Sa., 28. November 2026 Sa., 28. November 2026 30 Jahre Tour 2026 Beginn: 20:00 Uhr Vorverkauf: 37,20 € HGich.T + ACID AFTERSHOW 30 Jahre Tour 2026 Beginn: 20:00 Uhr Vorverkauf: 37,20 € | 
+<div class=pl-card-front.pl-pointer> Sa., 28. November 2026 Sa., 28. November 2026 30 Jahre Tour 2026 Beginn: 20:00 Uhr Vorverkauf: 37,20 € HGich.T + ACID AFTERSHOW | 
+<div class=pl-date> Sa., 28. November 2026 | 
+<div class=pl-thumbnail> Sa., 28. November 2026 30 Jahre Tour 2026 Beginn: 20:00 Uhr Vorverkauf: 37,20 € | 
+<div class=pl-thumb-desc> Sa., 28. November 2026 30 Jahre Tour 2026 Beginn: 20:00 Uhr Vorverkauf: 37,20 € | 
 <div class=pl-date> Sa., 28. November 2026 | 
 poveznice (0): 

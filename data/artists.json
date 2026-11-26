@@ -238,6 +238,11 @@
   "query": "A Várhegyutca bemutatja",
   "v": 2
  },
+ "a38 telekom magenta moments": {
+  "checked": "2026-11-26",
+  "query": "A38 × Telekom Magenta Moments",
+  "v": 2
+ },
  "abgesagt facesoul": {
   "checked": "2026-11-11",
   "query": "Abgesagt!! Facesoul",
@@ -1931,6 +1936,25 @@
   "query": "Cara Elizabeth",
   "v": 2
  },
+ "carcass": {
+  "checked": "2026-11-26",
+  "country": "GB",
+  "genre": "metal",
+  "links": {
+   "bandcamp": "https://carcass.bandcamp.com/",
+   "deezer": "https://www.deezer.com/artist/4502",
+   "facebook": "https://www.facebook.com/OfficialCarcass",
+   "instagram": "https://www.instagram.com/carcassband/",
+   "soundcloud": "https://soundcloud.com/carcassofficial",
+   "spotify": "https://open.spotify.com/artist/5lhaM01nwvsMZpmPY2HVER",
+   "web": "http://www.earache.com/bands/carcass/carcass.html",
+   "youtube": "https://www.youtube.com/channel/UCmfXIVCxJgWVViBov53_3Gg"
+  },
+  "mbid": "d50a4b89-ff1f-4659-9fde-f76f8d5b3c89",
+  "name": "Carcass",
+  "query": "CARCASS",
+  "v": 2
+ },
  "carla s cafe": {
   "checked": "2026-11-23",
   "query": "Carla‘s Café",
@@ -2534,6 +2558,11 @@
   "mbid": "6ccec0a7-2c03-4fff-91f0-b4212c26dcb7",
   "name": "Daily Thompson",
   "query": "Daily Thompson",
+  "v": 2
+ },
+ "dan zajednice": {
+  "checked": "2026-11-26",
+  "query": "Dan zajednice",
   "v": 2
  },
  "dance mix by gift": {
@@ -4564,6 +4593,24 @@
   "query": "Heather Nova",
   "v": 2
  },
+ "heilung": {
+  "checked": "2026-11-26",
+  "country": "DK",
+  "genre": "world",
+  "links": {
+   "bandcamp": "https://heilung.bandcamp.com/",
+   "deezer": "https://www.deezer.com/artist/4969428",
+   "facebook": "https://www.facebook.com/amplifiedhistory",
+   "instagram": "https://www.instagram.com/amplifiedhistory/",
+   "spotify": "https://open.spotify.com/artist/7sTKZr30LqC928DZ5P9mNQ",
+   "web": "https://www.season-of-mist.com/bands/heilung/",
+   "youtube": "https://www.youtube.com/channel/UC3Jvz7FpBsY73_wEjFV67wQ"
+  },
+  "mbid": "e52c3c7a-1ded-49e0-91d3-f627658b3d8a",
+  "name": "Heilung",
+  "query": "Heilung",
+  "v": 2
+ },
  "henge": {
   "checked": "2026-11-09",
   "query": "Henge",
@@ -5162,6 +5209,11 @@
   "query": "Jasper Van’t Hof",
   "v": 2
  },
+ "jawoi 2026": {
+  "checked": "2026-11-26",
+  "query": "Jawoi 2026",
+  "v": 2
+ },
  "jazz": {
   "checked": "2026-11-11",
   "query": "Jazz",
@@ -5641,6 +5693,25 @@
   "query": "Kasiva Mutua",
   "v": 2
  },
+ "kassa overall": {
+  "checked": "2026-11-26",
+  "country": "",
+  "genre": "hiphop",
+  "links": {
+   "bandcamp": "https://kassaoverall.bandcamp.com/",
+   "deezer": "https://www.deezer.com/artist/5205364",
+   "facebook": "https://www.facebook.com/kassaoverallofficial",
+   "instagram": "https://www.instagram.com/kassaoverall/",
+   "soundcloud": "https://soundcloud.com/kassaoverall",
+   "spotify": "https://open.spotify.com/artist/7qzzcFzliEAHMlDA9qaRVf",
+   "web": "http://kassaoverall.com/",
+   "youtube": "https://www.youtube.com/channel/UCJIiT46e5RSJYGMl3QnfsPw"
+  },
+  "mbid": "2d8e57da-b949-4e7f-8ebf-dd907e03119a",
+  "name": "Kassa Overall",
+  "query": "Kassa Overall",
+  "v": 2
+ },
  "kastel opening w": {
   "checked": "2026-11-25",
   "query": "Kaštel Opening w",
@@ -5861,6 +5932,11 @@
   "mbid": "57efefe1-ef61-4ffa-890f-14a10f252208",
   "name": "Kiscsillag",
   "query": "Kiscsillag",
+  "v": 2
+ },
+ "kitarski duo vitja in maks in zala zarja mesec": {
+  "checked": "2026-11-26",
+  "query": "Kitarski duo Vitja in Maks in Zala Zarja Mesec",
   "v": 2
  },
  "klangphonics": {
@@ -7858,6 +7934,11 @@
   "query": "Mrfy",
   "v": 2
  },
+ "mudfield fuggoseget okoz lemezbemutato": {
+  "checked": "2026-11-26",
+  "query": "Mudfield Függőséget okoz! lemezbemutató",
+  "v": 2
+ },
  "mudri brk predstavlja": {
   "checked": "2026-11-08",
   "query": "Mudri Brk predstavlja"
@@ -8141,6 +8222,11 @@
   "query": "Neunundneunzig",
   "v": 2
  },
+ "new date": {
+  "checked": "2026-11-26",
+  "query": "New date",
+  "v": 2
+ },
  "next level pres": {
   "checked": "2026-11-18",
   "query": "Next Level Pres.",
@@ -8403,6 +8489,11 @@
   "mbid": "619f53fa-0f28-4f02-a313-9078979fd04c",
   "name": "NTO",
   "query": "NTO",
+  "v": 2
+ },
+ "oage tekke": {
+  "checked": "2026-11-26",
+  "query": "Oage Tekke",
   "v": 2
  },
  "ocean of another u zagrebu": {
@@ -10828,6 +10919,24 @@
   "query": "Stone Sober",
   "v": 2
  },
+ "stratovarius": {
+  "checked": "2026-11-26",
+  "country": "FI",
+  "genre": "metal",
+  "links": {
+   "deezer": "https://www.deezer.com/artist/1904",
+   "facebook": "https://www.facebook.com/stratovarius",
+   "instagram": "https://www.instagram.com/stratovariusofficial/",
+   "soundcloud": "https://soundcloud.com/stratovarius-official",
+   "spotify": "https://open.spotify.com/artist/1O8CSXsPwEqxcoBE360PPO",
+   "web": "https://stratovarius.com/",
+   "youtube": "https://www.youtube.com/channel/UCuGOvuS-t2Z8lgUj5FFfWHA"
+  },
+  "mbid": "c3d6fdd5-67c5-453e-87e3-d17a00a52879",
+  "name": "Stratovarius",
+  "query": "Stratovarius",
+  "v": 2
+ },
  "studio 54 by tomo ricov": {
   "checked": "2026-11-08",
   "query": "Studio 54 by Tomo Ricov"
@@ -12560,6 +12669,18 @@
  "virsky": {
   "checked": "2026-11-10",
   "query": "VIRSKY",
+  "v": 2
+ },
+ "vizelj": {
+  "checked": "2026-11-26",
+  "country": "RS",
+  "genre": "",
+  "links": {
+   "deezer": "https://www.deezer.com/artist/5910985"
+  },
+  "mbid": "24df1900-a96a-4a97-8f28-fffe78af8cb1",
+  "name": "Vizelj",
+  "query": "Vizelj",
   "v": 2
  },
  "vjestica hillary i uvrije eni kontrabas": {

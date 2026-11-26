@@ -1,16 +1,5 @@
 [
  {
-  "date": "2026-11-25",
-  "time": "20:00",
-  "title": "Cordoba78",
-  "venue": "wi-werkstattenkulturhau",
-  "genre": "",
-  "price": "",
-  "url": "https://www.wuk.at/programm/cordoba78/",
-  "city": "bec",
-  "source": "wi-wuk"
- },
- {
   "date": "2026-11-26",
   "time": "20:00",
   "title": "Chapo102",
@@ -62,6 +51,17 @@
   "genre": "",
   "price": "",
   "url": "https://www.wuk.at/programm/thomas-d-the-kbcs/",
+  "city": "bec",
+  "source": "wi-wuk"
+ },
+ {
+  "date": "2026-12-04",
+  "time": "20:00",
+  "title": "Jawoi 2026",
+  "venue": "wi-werkstattenkulturhau",
+  "genre": "",
+  "price": "",
+  "url": "https://www.wuk.at/programm/jawoi-2026/",
   "city": "bec",
   "source": "wi-wuk"
  }

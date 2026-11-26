@@ -1169,6 +1169,15 @@
    "youtube": "https://www.youtube.com/channel/UC7C1zwKSsOf1ESEnDWaVpyw"
   }
  },
+ "https://attack.hr/hr/dan-zajednice": {
+  "checked": "2026-11-26",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/akc.attack",
+   "instagram": "https://www.instagram.com/akc.attack",
+   "youtube": "https://www.youtube.com/channel/UCd7ThrEyJ29upsyJ_LYTszQ"
+  }
+ },
  "https://attack.hr/hr/otvoreni-poziv-za-kratke-stripove-za-9-izdanje-ohohozina-tema-cyberpunk": {
   "checked": "2026-11-15",
   "clean": {},
@@ -1791,6 +1800,14 @@
    "instagram": "https://www.instagram.com/core_event/"
   }
  },
+ "https://core-event.co/events/jose-gonzalez-u-tvornici-kulture-c037": {
+  "checked": "2026-11-26",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/share.php",
+   "instagram": "https://www.instagram.com/tvornicakulture/"
+  }
+ },
  "https://core-event.co/events/jr-august-unplugged-regenerator-zabok-bf14/": {
   "checked": "2026-11-09",
   "clean": {},
@@ -2217,6 +2234,16 @@
    "instagram": "https://www.instagram.com/el_ej_ej/"
   }
  },
+ "https://core-event.co/events/podocnjaci-0b88/": {
+  "checked": "2026-11-26",
+  "clean": {
+   "instagram": "https://www.instagram.com/sax_klub_hrvatskih_glazbenika/"
+  },
+  "links": {
+   "facebook": "https://www.facebook.com/share.php",
+   "instagram": "https://www.instagram.com/sax_klub_hrvatskih_glazbenika/"
+  }
+ },
  "https://core-event.co/events/porto-morto-u-rijeci-0d3f/": {
   "checked": "2026-11-11",
   "clean": {
@@ -2622,6 +2649,14 @@
    "instagram": "https://www.instagram.com/videohousesystem/"
   }
  },
+ "https://core-event.co/events/vizelj-u-tvornici-kulture-857c": {
+  "checked": "2026-11-26",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/share.php",
+   "instagram": "https://www.instagram.com/tvornicakulture/"
+  }
+ },
  "https://core-event.co/events/warhaus-21f1/": {
   "checked": "2026-11-11",
   "clean": {},
@@ -2895,6 +2930,11 @@
  },
  "https://flex.at/event/nokia-angel/": {
   "checked": "2026-11-10",
+  "clean": {},
+  "links": {}
+ },
+ "https://flex.at/event/oage-tekke/": {
+  "checked": "2026-11-26",
   "clean": {},
   "links": {}
  },
@@ -3637,6 +3677,15 @@
    "youtube": "https://www.youtube.com/user/A38Captain"
   }
  },
+ "https://www.a38.hu/en/program/deluxe-fr-32756": {
+  "checked": "2026-11-26",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/a38.hajo",
+   "instagram": "https://www.instagram.com/a38ship/",
+   "youtube": "https://www.youtube.com/user/A38Captain"
+  }
+ },
  "https://www.a38.hu/en/program/dressed-like-boys-be": {
   "checked": "2026-11-11",
   "clean": {},
@@ -3916,6 +3965,15 @@
    "youtube": "https://www.youtube.com/user/A38Captain"
   }
  },
+ "https://www.a38.hu/en/program/telekom-a38-szilveszter": {
+  "checked": "2026-11-26",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/a38.hajo",
+   "instagram": "https://www.instagram.com/a38ship/",
+   "youtube": "https://www.youtube.com/user/A38Captain"
+  }
+ },
  "https://www.a38.hu/en/program/the-devotees-hu-32432": {
   "checked": "2026-11-11",
   "clean": {},
@@ -4044,6 +4102,15 @@
  },
  "https://www.barbanegra.hu/program/black-veil-brides_20270206": {
   "checked": "2026-11-11",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/BARBA.NEGRA.HUNGARY",
+   "instagram": "https://www.instagram.com/barbanegrahungary",
+   "youtube": "https://www.youtube.com/@barbanegrahungary1929"
+  }
+ },
+ "https://www.barbanegra.hu/program/carcass_20270313": {
+  "checked": "2026-11-26",
   "clean": {},
   "links": {
    "facebook": "https://www.facebook.com/BARBA.NEGRA.HUNGARY",
@@ -4357,6 +4424,15 @@
    "youtube": "https://www.youtube.com/@barbanegrahungary1929"
   }
  },
+ "https://www.barbanegra.hu/program/stratovarius_20270612": {
+  "checked": "2026-11-26",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/BARBA.NEGRA.HUNGARY",
+   "instagram": "https://www.instagram.com/barbanegrahungary",
+   "youtube": "https://www.youtube.com/@barbanegrahungary1929"
+  }
+ },
  "https://www.barbanegra.hu/program/tankcsapda_20261212": {
   "checked": "2026-11-10",
   "clean": {},
@@ -4590,6 +4666,18 @@
    "facebook": "https://www.facebook.com/mozduljunkki.letsgoout",
    "instagram": "https://www.instagram.com/budapestpark/",
    "spotify": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl",
+   "youtube": "https://www.youtube.com/user/Aparkofficial"
+  }
+ },
+ "https://www.budapestpark.hu/jegyvasarlas/event/mudfield-2027-04-29": {
+  "checked": "2026-11-26",
+  "clean": {
+   "spotify": "https://open.spotify.com/artist/0l1O7Poz32UpfUcdR3GxLE"
+  },
+  "links": {
+   "facebook": "https://www.facebook.com/mozduljunkki.letsgoout",
+   "instagram": "https://www.instagram.com/budapestpark/",
+   "spotify": "https://open.spotify.com/artist/0l1O7Poz32UpfUcdR3GxLE",
    "youtube": "https://www.youtube.com/user/Aparkofficial"
   }
  },
@@ -4830,6 +4918,15 @@
  },
  "https://www.cd-cc.si/kultura/glasba/kasiva-mutua-kenija": {
   "checked": "2026-11-12",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/cankarjev.dom.cd/",
+   "instagram": "https://www.instagram.com/cankarjevdom/",
+   "youtube": "https://www.youtube.com/user/Cankarjevdom"
+  }
+ },
+ "https://www.cd-cc.si/kultura/glasba/kassa-overall": {
+  "checked": "2026-11-26",
   "clean": {},
   "links": {
    "facebook": "https://www.facebook.com/cankarjev.dom.cd/",
@@ -5507,6 +5604,14 @@
  },
  "https://www.hnk.hr/hr/opera/predstave/ero-s-onoga-svijeta/#21.11.18.00": {
   "checked": "2026-11-10",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/hnk.hr/",
+   "instagram": "https://www.instagram.com/hrvatskonarodnokazalistezagreb/"
+  }
+ },
+ "https://www.hnk.hr/hr/opera/predstave/gala-koncert-laureata-i-svečana-dodjela-38-nagrade-ivo-vuljević/#13.12.11.00": {
+  "checked": "2026-11-26",
   "clean": {},
   "links": {
    "facebook": "https://www.facebook.com/hnk.hr/",
@@ -7404,6 +7509,15 @@
    "youtube": "https://www.youtube.com/@TheFestivalLjubljana"
   }
  },
+ "https://www.ljubljanafestival.si/sl/koledar-dogodkov/24498-kitarski-duo-vitja-in-maks-in-zala-zarja-mesec": {
+  "checked": "2026-11-26",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/LjubljanaFestival",
+   "instagram": "https://www.instagram.com/festival_ljubljana",
+   "youtube": "https://www.youtube.com/@TheFestivalLjubljana"
+  }
+ },
  "https://www.ljubljanafestival.si/sl/koledar-dogodkov/25165-1-bozicni-koncert-glasbena-sola-matije-tomca": {
   "checked": "2026-11-10",
   "clean": {},
@@ -8885,6 +8999,11 @@
   "clean": {},
   "links": {}
  },
+ "https://www.stadthalle.com/de/events/alle-events/51640/Heilung": {
+  "checked": "2026-11-26",
+  "clean": {},
+  "links": {}
+ },
  "https://www.tvornicakulture.com/2026/10/the-rasmus-u-tvornici-kulture/": {
   "checked": "2026-11-11",
   "clean": {
@@ -8949,6 +9068,14 @@
  },
  "https://www.wuk.at/programm/itchy/": {
   "checked": "2026-11-10",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/wukvienna/",
+   "instagram": "http://instagram.com/wukvienna"
+  }
+ },
+ "https://www.wuk.at/programm/jawoi-2026/": {
+  "checked": "2026-11-26",
   "clean": {},
   "links": {
    "facebook": "https://www.facebook.com/wukvienna/",

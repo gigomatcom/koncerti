@@ -25,12 +25,14 @@ jsonld types:
 <div class=md:min-w-40> Monday Dec 28. | 
 <div class=md:min-w-40> Tuesday Dec 29. | 
 <div class=md:min-w-40> Wednesday Dec 30. | 
+<div class=md:min-w-40> Thursday Dec 31. | 
 <div class=md:min-w-40> Thursday Jan 14. | 
 <div class=md:min-w-40> Friday Jan 22. | 
 <div class=md:min-w-40> Thursday Jan 28. | 
-<div class=flex.flex-col.md:flex-row> Friday Jan 29. 19:30 · Concert hall Intim Torna Illegál "Tekereg az élet" is already out—you can hear it live on the ship, alongside all your old favorites. | https://www.a38.hu/en/program/intim-torna-illegal-32651
+<div class=flex.flex-col.md:flex-row> Friday Jan 29. 19:30 · Concert hall Intim Torna Illegál "Tekereg az élet" is already out—you can hear it live on the ship, alongside all your old favorites. Buy tickets | https://www.a38.hu/en/program/intim-torna-illegal-32651
 <div class=md:min-w-40> Friday Jan 29. | 
 <div class=md:min-w-40> Saturday Jan 30. | 
+<div class=md:min-w-40> Tuesday Feb 2. | 
 <div class=md:min-w-40> Thursday Feb 11. | 
 <div class=md:min-w-40> Friday Feb 12. | 
 <div class=flex.flex-col.md:flex-row> Saturday Feb 13. 17:30 · Concert hall Aurelis Dreams: Carbon Based Lifeforms (SWE) - LIVE After a two-year hiatus, one of the biggest duos in the chill-out genre—CARBON BASED LIFEFORMS—returns to Buda | https://www.a38.hu/en/program/carbon-based-lifeforms-se-32385
@@ -58,6 +60,4 @@ jsonld types:
 <a class=hover-zoom-container.block.cursor-pointer> Next Level pres.: Modestep Liv... 2026 Nov 13. | https://www.a38.hu/en/picture-gallery/[…]
 <div class=bg-blue-5/50.flex.flex-col> Next Level pres.: Modestep Liv... 2026 Nov 13. | 
 <div class=card-content.text-left> Next Level pres.: Modestep Liv... 2026 Nov 13. | 
-<li class=glide__slide> Konyha búcsúkoncert - a Konyha... 2026 Nov 13. | https://www.a38.hu/en/picture-gallery/[…]
-<a class=hover-zoom-container.block.cursor-pointer> Konyha búcsúkoncert - a Konyha... 2026 Nov 13. | https://www.a38.hu/en/picture-gallery/[…]
-poveznice (105): https://ec.europa.eu/programmes/creative-europe/ https://www.a38.hu/en/event-organizing https://www.a38.hu/en/ical/programs https://www.a38.hu/en/picture-gallery/[…] https://www.a38.hu/en/program/4s-street-hu-31029 https://www.a38.hu/en/program/agi-es-a-fiuk-hu https://www.a38.hu/en/program/agi-es-a-fiuk-hu?#!checkout https://www.a38.hu/en/program/allah-las-us-32318 https://www.a38.hu/en/program/allah-las-us-32318?#!checkout https://www.a38.hu/en/program/anima-sound-system-32105 https://www.a38.hu/en/program/anima-sound-system-32105?#!checkout https://www.a38.hu/en/program/aranyakkord-hu-32647 https://www.a38.hu/en/program/aranyakkord-hu-32647?#!checkout https://www.a38.hu/en/program/baby-lasagna-hr https://www.a38.hu/en/program/baby-lasagna-hr?#!checkout https://www.a38.hu/en/program/bed-by-10pm-uk https://www.a38.hu/en/program/bed-by-10pm-uk?#!checkout https://www.a38.hu/en/program/[…] https://www.a38.hu/en/program/[…]?#!checkout https://www.a38.hu/en/program/[…] https://www.a38.hu/en/program/[…]?#!checkout https://www.a38.hu/en/program/budapest-bar-hu-32378 https://www.a38.hu/en/program/budapest-bar-hu-32378?#!checkout https://www.a38.hu/en/program/carbon-based-lifeforms-se-32385 https://www.a38.hu/en/program/carbon-based-lifeforms-se-32385?#!checkout
+poveznice (109): https://ec.europa.eu/programmes/creative-europe/ https://www.a38.hu/en/event-organizing https://www.a38.hu/en/ical/programs https://www.a38.hu/en/picture-gallery/[…] https://www.a38.hu/en/program/4s-street-hu-31029 https://www.a38.hu/en/program/agi-es-a-fiuk-hu https://www.a38.hu/en/program/agi-es-a-fiuk-hu?#!checkout https://www.a38.hu/en/program/allah-las-us-32318 https://www.a38.hu/en/program/allah-las-us-32318?#!checkout https://www.a38.hu/en/program/anima-sound-system-32105 https://www.a38.hu/en/program/anima-sound-system-32105?#!checkout https://www.a38.hu/en/program/aranyakkord-hu-32647 https://www.a38.hu/en/program/aranyakkord-hu-32647?#!checkout https://www.a38.hu/en/program/baby-lasagna-hr https://www.a38.hu/en/program/baby-lasagna-hr?#!checkout https://www.a38.hu/en/program/bed-by-10pm-uk https://www.a38.hu/en/program/bed-by-10pm-uk?#!checkout https://www.a38.hu/en/program/[…] https://www.a38.hu/en/program/[…]?#!checkout https://www.a38.hu/en/program/[…] https://www.a38.hu/en/program/[…]?#!checkout https://www.a38.hu/en/program/budapest-bar-hu-32378 https://www.a38.hu/en/program/budapest-bar-hu-32378?#!checkout https://www.a38.hu/en/program/carbon-based-lifeforms-se-32385 https://www.a38.hu/en/program/carbon-based-lifeforms-se-32385?#!checkout

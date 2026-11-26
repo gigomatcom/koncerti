@@ -1,41 +1,5 @@
 [
  {
-  "date": "2026-11-25",
-  "time": "19:30",
-  "title": "Mmv 2026 / Lovro Merčep / Dijalog",
-  "venue": "knap",
-  "genre": "",
-  "price": "",
-  "url": "https://core-event.co/events/mmv-2026-lovro-mercep-dijalog-c12d/",
-  "city": "zagreb",
-  "venue_name": "Koncertna dvorana Centra KNAP",
-  "source": "coreevent"
- },
- {
-  "date": "2026-11-25",
-  "time": "20:00",
-  "title": "Još Gori",
-  "venue": "ri-pogon",
-  "genre": "",
-  "price": "",
-  "url": "https://core-event.co/events/jos-gori-u-pogonu-370d/",
-  "city": "rijeka",
-  "venue_name": "Pogon",
-  "source": "coreevent"
- },
- {
-  "date": "2026-11-25",
-  "time": "20:00",
-  "title": "MARKO VUKES - veliki koncert",
-  "venue": "tvornica",
-  "genre": "",
-  "price": "",
-  "url": "https://core-event.co/events/koncert-marka-vukesa-b70f/",
-  "city": "zagreb",
-  "venue_name": "Tvornica Kulture",
-  "source": "coreevent"
- },
- {
   "date": "2026-11-26",
   "time": "20:00",
   "title": "Nikola Vranjković",
@@ -865,6 +829,18 @@
  },
  {
   "date": "2027-01-29",
+  "time": "",
+  "title": "Podočnjaci",
+  "venue": "sax",
+  "genre": "",
+  "price": "",
+  "url": "https://core-event.co/events/podocnjaci-0b88/",
+  "city": "zagreb",
+  "venue_name": "Klub Sax!",
+  "source": "coreevent"
+ },
+ {
+  "date": "2027-01-29",
   "time": "20:00",
   "title": "Živo Blato",
   "venue": "tvornica",
@@ -993,6 +969,18 @@
   "url": "https://core-event.co/events/tamikrest-u-rijeci-78ba/",
   "city": "rijeka",
   "venue_name": "Pogon",
+  "source": "coreevent"
+ },
+ {
+  "date": "2027-03-11",
+  "time": "20:00",
+  "title": "Vizelj",
+  "venue": "tvornica",
+  "genre": "",
+  "price": "",
+  "url": "https://core-event.co/events/vizelj-u-tvornici-kulture-857c/",
+  "city": "zagreb",
+  "venue_name": "TVORNICA KULTURE",
   "source": "coreevent"
  },
  {
@@ -1147,6 +1135,18 @@
   "genre": "",
   "price": "",
   "url": "https://core-event.co/events/ian-paice-deep-purple-purpendicular-2574/",
+  "city": "zagreb",
+  "venue_name": "TVORNICA KULTURE",
+  "source": "coreevent"
+ },
+ {
+  "date": "2027-05-19",
+  "time": "20:00",
+  "title": "Jose Gonzalez",
+  "venue": "tvornica",
+  "genre": "",
+  "price": "",
+  "url": "https://core-event.co/events/jose-gonzalez-u-tvornici-kulture-c037/",
   "city": "zagreb",
   "venue_name": "TVORNICA KULTURE",
   "source": "coreevent"

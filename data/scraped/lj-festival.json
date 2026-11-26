@@ -1,16 +1,5 @@
 [
  {
-  "date": "2026-11-25",
-  "time": "",
-  "title": "3. Božični koncert: Glasbena šola Škofja Loka",
-  "venue": "lj-krizanke",
-  "genre": "",
-  "price": "",
-  "url": "https://www.ljubljanafestival.si/sl/koledar-dogodkov/25167-3-bozicni-koncert-glasbena-sola-skofja-loka",
-  "city": "ljubljana",
-  "source": "lj-festival"
- },
- {
   "date": "2026-11-26",
   "time": "",
   "title": "Jenő Puporka, Bettina Foskolos, Luka Perazić",
@@ -249,6 +238,17 @@
   "genre": "",
   "price": "",
   "url": "https://www.ljubljanafestival.si/sl/koledar-dogodkov/25237-24-bozicni-koncert-pevska-sola-glasbene-matice-ljubljana",
+  "city": "ljubljana",
+  "source": "lj-festival"
+ },
+ {
+  "date": "2027-01-07",
+  "time": "",
+  "title": "Kitarski duo Vitja in Maks in Zala Zarja Mesec",
+  "venue": "lj-krizanke",
+  "genre": "",
+  "price": "",
+  "url": "https://www.ljubljanafestival.si/sl/koledar-dogodkov/24498-kitarski-duo-vitja-in-maks-in-zala-zarja-mesec",
   "city": "ljubljana",
   "source": "lj-festival"
  }
