@@ -1,29 +1,5 @@
 [
  {
-  "date": "2026-11-26",
-  "time": "20:00",
-  "title": "Nikola Vranjković",
-  "venue": "tvornica",
-  "genre": "",
-  "price": "",
-  "url": "https://core-event.co/events/nikola-vranjkovic-u-tvornici-kulture-921c/",
-  "city": "zagreb",
-  "venue_name": "TVORNICA KULTURE",
-  "source": "coreevent"
- },
- {
-  "date": "2026-11-26",
-  "time": "",
-  "title": "Silente u Sax-u!",
-  "venue": "sax",
-  "genre": "",
-  "price": "",
-  "url": "https://core-event.co/events/silente-u-sax-u-5b70/",
-  "city": "zagreb",
-  "venue_name": "SAX club",
-  "source": "coreevent"
- },
- {
   "date": "2026-11-27",
   "time": "19:30",
   "title": "MMV 2026 / HERMESensemble / Traces",

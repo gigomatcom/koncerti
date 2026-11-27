@@ -1,12 +1,12 @@
 [
  {
-  "date": "2026-11-26",
+  "date": "2026-11-27",
   "time": "20:00",
-  "title": "Chapo102",
+  "title": "Niemand Muss Ein Promi Sein Die Live Show Zum Podcast",
   "venue": "wi-werkstattenkulturhau",
   "genre": "",
   "price": "",
-  "url": "https://www.wuk.at/programm/chapo102/",
+  "url": "https://www.wuk.at/programm/niemand-muss-ein-promi-sein-die-live-show-zum-podcast/",
   "city": "bec",
   "source": "wi-wuk"
  },
@@ -62,6 +62,17 @@
   "genre": "",
   "price": "",
   "url": "https://www.wuk.at/programm/jawoi-2026/",
+  "city": "bec",
+  "source": "wi-wuk"
+ },
+ {
+  "date": "2026-12-05",
+  "time": "22:00",
+  "title": "Elektro Guzzi & Special Guests",
+  "venue": "wi-werkstattenkulturhau",
+  "genre": "",
+  "price": "",
+  "url": "https://www.wuk.at/programm/elektro-guzzi-palazzo-festival/",
   "city": "bec",
   "source": "wi-wuk"
  }

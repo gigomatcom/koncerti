@@ -3052,6 +3052,21 @@
    "youtube": "https://www.youtube.com/channel/UClG49KISq0kGbU8rwVEpcPQ"
   }
  },
+ "https://hangtimeagency.com/hr/event/carcass-premijerni-zagrebacki-koncert-nakon-35-godina-izbivanja-iz-hrvatske/": {
+  "checked": "2026-11-27",
+  "clean": {
+   "facebook": "https://www.facebook.com/OfficialCarcass",
+   "instagram": "https://www.instagram.com/carcassband/",
+   "spotify": "https://open.spotify.com/artist/5lhaM01nwvsMZpmPY2HVER",
+   "youtube": "https://www.youtube.com/@CarcassBand"
+  },
+  "links": {
+   "facebook": "https://www.facebook.com/OfficialCarcass",
+   "instagram": "https://www.instagram.com/carcassband/",
+   "spotify": "https://open.spotify.com/artist/5lhaM01nwvsMZpmPY2HVER",
+   "youtube": "https://www.youtube.com/@CarcassBand"
+  }
+ },
  "https://hangtimeagency.com/hr/event/forever-nu-u-zagrebu-chop-suey-i-slip-not-vracaju-veliki-nu-metal-tribute-spektakl/": {
   "checked": "2026-11-11",
   "clean": {
@@ -4183,6 +4198,15 @@
  },
  "https://www.barbanegra.hu/program/evil-invaders-exhorder-heathen_20270314": {
   "checked": "2026-11-11",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/BARBA.NEGRA.HUNGARY",
+   "instagram": "https://www.instagram.com/barbanegrahungary",
+   "youtube": "https://www.youtube.com/@barbanegrahungary1929"
+  }
+ },
+ "https://www.barbanegra.hu/program/firkin_20270319": {
+  "checked": "2026-11-27",
   "clean": {},
   "links": {
    "facebook": "https://www.facebook.com/BARBA.NEGRA.HUNGARY",
@@ -7518,6 +7542,15 @@
    "youtube": "https://www.youtube.com/@TheFestivalLjubljana"
   }
  },
+ "https://www.ljubljanafestival.si/sl/koledar-dogodkov/24500-lea-kaci-xhoni-xhavari-in-elena-lamnica": {
+  "checked": "2026-11-27",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/LjubljanaFestival",
+   "instagram": "https://www.instagram.com/festival_ljubljana",
+   "youtube": "https://www.youtube.com/@TheFestivalLjubljana"
+  }
+ },
  "https://www.ljubljanafestival.si/sl/koledar-dogodkov/25165-1-bozicni-koncert-glasbena-sola-matije-tomca": {
   "checked": "2026-11-10",
   "clean": {},
@@ -7759,6 +7792,19 @@
    "instagram": "https://www.instagram.com/orto_bar_slovenija/"
   }
  },
+ "https://www.orto-bar.com/dogodki/koncerti/30-let-foltin/": {
+  "checked": "2026-11-27",
+  "clean": {
+   "spotify": "https://open.spotify.com/artist/0rXnfWL0gCATJTjiQlH3M7",
+   "youtube": "https://www.youtube.com/@foltintv"
+  },
+  "links": {
+   "facebook": "https://www.facebook.com/noplacelikeorto",
+   "instagram": "https://www.instagram.com/orto_bar_slovenija/",
+   "spotify": "https://open.spotify.com/artist/0rXnfWL0gCATJTjiQlH3M7",
+   "youtube": "https://www.youtube.com/@foltintv"
+  }
+ },
  "https://www.orto-bar.com/dogodki/koncerti/anomalo-salamun/": {
   "checked": "2026-11-10",
   "clean": {},
@@ -7813,6 +7859,19 @@
   "links": {
    "facebook": "https://www.facebook.com/noplacelikeorto",
    "instagram": "https://www.instagram.com/orto_bar_slovenija/"
+  }
+ },
+ "https://www.orto-bar.com/dogodki/koncerti/interferenzza-3/": {
+  "checked": "2026-11-27",
+  "clean": {
+   "spotify": "https://open.spotify.com/artist/0sBChPaoe8rWNZgzpP5cXw",
+   "youtube": "https://www.youtube.com/@interferenzza"
+  },
+  "links": {
+   "facebook": "https://www.facebook.com/noplacelikeorto",
+   "instagram": "https://www.instagram.com/orto_bar_slovenija/",
+   "spotify": "https://open.spotify.com/artist/0sBChPaoe8rWNZgzpP5cXw",
+   "youtube": "https://www.youtube.com/@interferenzza"
   }
  },
  "https://www.orto-bar.com/dogodki/koncerti/iron-median-iron-maiden-tribute-band-asi-dsi-ac-dc-tribute-band/": {
@@ -7892,6 +7951,14 @@
  },
  "https://www.orto-bar.com/dogodki/koncerti/space-unicorn-on-fire-bigbadwolf/": {
   "checked": "2026-11-13",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/noplacelikeorto",
+   "instagram": "https://www.instagram.com/orto_bar_slovenija/"
+  }
+ },
+ "https://www.orto-bar.com/dogodki/koncerti/the-dreams-2/": {
+  "checked": "2026-11-27",
   "clean": {},
   "links": {
    "facebook": "https://www.facebook.com/noplacelikeorto",
@@ -8734,6 +8801,11 @@
   "clean": {},
   "links": {}
  },
+ "https://www.stadthalle.com/de/events/alle-events/51518/Ich-war-noch-niemals-in-New-York": {
+  "checked": "2026-11-27",
+  "clean": {},
+  "links": {}
+ },
  "https://www.stadthalle.com/de/events/alle-events/51520/Sinatra-amp-Friends": {
   "checked": "2026-11-11",
   "clean": {},
@@ -9064,6 +9136,18 @@
   "links": {
    "facebook": "https://www.facebook.com/wukvienna/",
    "instagram": "http://instagram.com/wukvienna"
+  }
+ },
+ "https://www.wuk.at/programm/elektro-guzzi-palazzo-festival/": {
+  "checked": "2026-11-27",
+  "clean": {
+   "instagram": "https://www.instagram.com/catu_diosis",
+   "soundcloud": "https://soundcloud.com/fingersofgod"
+  },
+  "links": {
+   "facebook": "https://www.facebook.com/wukvienna/",
+   "instagram": "https://www.instagram.com/catu_diosis",
+   "soundcloud": "https://soundcloud.com/fingersofgod"
   }
  },
  "https://www.wuk.at/programm/itchy/": {

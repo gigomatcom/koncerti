@@ -1,5 +1,27 @@
 [
  {
+  "date": "2026-12-04",
+  "time": "20:00",
+  "title": "Votia (Reunion)",
+  "venue": "lj-cankarjev",
+  "genre": "",
+  "price": "",
+  "url": "https://www.cd-cc.si/kultura/glasba/votia-reunion",
+  "city": "ljubljana",
+  "source": "lj-cd"
+ },
+ {
+  "date": "2026-12-31",
+  "time": "19:00",
+  "title": "Isimangaliso",
+  "venue": "lj-cankarjev",
+  "genre": "",
+  "price": "",
+  "url": "https://www.cd-cc.si/kultura/glasba/isimangaliso",
+  "city": "ljubljana",
+  "source": "lj-cd"
+ },
+ {
   "date": "2026-11-27",
   "time": "19:30",
   "title": "SMS 3: Podobe",
@@ -40,17 +62,6 @@
   "genre": "",
   "price": "",
   "url": "https://www.cd-cc.si/kultura/glasba/kromatika-3-operna-noc",
-  "city": "ljubljana",
-  "source": "lj-cd"
- },
- {
-  "date": "2026-12-04",
-  "time": "",
-  "title": "Votia (Reunion)",
-  "venue": "lj-cankarjev",
-  "genre": "",
-  "price": "",
-  "url": "https://www.cd-cc.si/kultura/glasba/votia-reunion",
   "city": "ljubljana",
   "source": "lj-cd"
  },
@@ -106,17 +117,6 @@
   "genre": "",
   "price": "",
   "url": "https://www.cd-cc.si/kultura/glasba/bozicna-fantazija",
-  "city": "ljubljana",
-  "source": "lj-cd"
- },
- {
-  "date": "2026-12-31",
-  "time": "",
-  "title": "Isimangaliso",
-  "venue": "lj-cankarjev",
-  "genre": "",
-  "price": "",
-  "url": "https://www.cd-cc.si/kultura/glasba/isimangaliso",
   "city": "ljubljana",
   "source": "lj-cd"
  },

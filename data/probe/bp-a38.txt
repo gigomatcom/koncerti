@@ -1,6 +1,5 @@
 title: Events - A38 Ship
 jsonld types: 
-<div class=md:min-w-40> Thursday Nov 26. | 
 <div class=md:min-w-40> Friday Nov 27. | 
 <div class=md:min-w-40> Saturday Nov 28. | 
 <div class=md:min-w-40> Sunday Nov 29. | 
@@ -48,16 +47,17 @@ jsonld types:
 <div class=md:min-w-40> Saturday May 29. | 
 <div class=md:min-w-40> Saturday Jun 5. | 
 <div class=md:min-w-40> Saturday Jun 19. | 
+<li class=glide__slide> Ági 70 - Életműkoncert korszak... 2026 Nov 26. | https://www.a38.hu/en/picture-gallery/[…]
+<a class=hover-zoom-container.block.cursor-pointer> Ági 70 - Életműkoncert korszak... 2026 Nov 26. | https://www.a38.hu/en/picture-gallery/[…]
+<div class=bg-red-2/50.flex.flex-col> Ági 70 - Életműkoncert korszak... 2026 Nov 26. | 
+<div class=card-content.text-left> Ági 70 - Életműkoncert korszak... 2026 Nov 26. | 
 <li class=glide__slide> Lenkke_ 2026 Nov 21. | https://www.a38.hu/en/picture-gallery/lenkke_
 <a class=hover-zoom-container.block.cursor-pointer> Lenkke_ 2026 Nov 21. | https://www.a38.hu/en/picture-gallery/lenkke_
-<div class=bg-red-2/50.flex.flex-col> Lenkke_ 2026 Nov 21. | 
+<div class=bg-blue-4/50.flex.flex-col> Lenkke_ 2026 Nov 21. | 
 <div class=card-content.text-left> Lenkke_ 2026 Nov 21. | 
 <li class=glide__slide> Psychedelic Porn Crumpets (AU) 2026 Nov 17. | https://www.a38.hu/en/picture-gallery/psychedelic-porn-crumpets-au
 <a class=hover-zoom-container.block.cursor-pointer> Psychedelic Porn Crumpets (AU) 2026 Nov 17. | https://www.a38.hu/en/picture-gallery/psychedelic-porn-crumpets-au
-<div class=bg-blue-4/50.flex.flex-col> Psychedelic Porn Crumpets (AU) 2026 Nov 17. | 
+<div class=bg-blue-5/50.flex.flex-col> Psychedelic Porn Crumpets (AU) 2026 Nov 17. | 
 <div class=card-content.text-left> Psychedelic Porn Crumpets (AU) 2026 Nov 17. | 
 <li class=glide__slide> Next Level pres.: Modestep Liv... 2026 Nov 13. | https://www.a38.hu/en/picture-gallery/[…]
-<a class=hover-zoom-container.block.cursor-pointer> Next Level pres.: Modestep Liv... 2026 Nov 13. | https://www.a38.hu/en/picture-gallery/[…]
-<div class=bg-blue-5/50.flex.flex-col> Next Level pres.: Modestep Liv... 2026 Nov 13. | 
-<div class=card-content.text-left> Next Level pres.: Modestep Liv... 2026 Nov 13. | 
-poveznice (109): https://ec.europa.eu/programmes/creative-europe/ https://www.a38.hu/en/event-organizing https://www.a38.hu/en/ical/programs https://www.a38.hu/en/picture-gallery/[…] https://www.a38.hu/en/program/4s-street-hu-31029 https://www.a38.hu/en/program/agi-es-a-fiuk-hu https://www.a38.hu/en/program/agi-es-a-fiuk-hu?#!checkout https://www.a38.hu/en/program/allah-las-us-32318 https://www.a38.hu/en/program/allah-las-us-32318?#!checkout https://www.a38.hu/en/program/anima-sound-system-32105 https://www.a38.hu/en/program/anima-sound-system-32105?#!checkout https://www.a38.hu/en/program/aranyakkord-hu-32647 https://www.a38.hu/en/program/aranyakkord-hu-32647?#!checkout https://www.a38.hu/en/program/baby-lasagna-hr https://www.a38.hu/en/program/baby-lasagna-hr?#!checkout https://www.a38.hu/en/program/bed-by-10pm-uk https://www.a38.hu/en/program/bed-by-10pm-uk?#!checkout https://www.a38.hu/en/program/[…] https://www.a38.hu/en/program/[…]?#!checkout https://www.a38.hu/en/program/[…] https://www.a38.hu/en/program/[…]?#!checkout https://www.a38.hu/en/program/budapest-bar-hu-32378 https://www.a38.hu/en/program/budapest-bar-hu-32378?#!checkout https://www.a38.hu/en/program/carbon-based-lifeforms-se-32385 https://www.a38.hu/en/program/carbon-based-lifeforms-se-32385?#!checkout
+poveznice (108): https://ec.europa.eu/programmes/creative-europe/ https://www.a38.hu/en/event-organizing https://www.a38.hu/en/ical/programs https://www.a38.hu/en/picture-gallery/[…] https://www.a38.hu/en/picture-gallery/[…] https://www.a38.hu/en/program/4s-street-hu-31029 https://www.a38.hu/en/program/allah-las-us-32318 https://www.a38.hu/en/program/allah-las-us-32318?#!checkout https://www.a38.hu/en/program/anima-sound-system-32105 https://www.a38.hu/en/program/anima-sound-system-32105?#!checkout https://www.a38.hu/en/program/aranyakkord-hu-32647 https://www.a38.hu/en/program/aranyakkord-hu-32647?#!checkout https://www.a38.hu/en/program/baby-lasagna-hr https://www.a38.hu/en/program/baby-lasagna-hr?#!checkout https://www.a38.hu/en/program/bed-by-10pm-uk https://www.a38.hu/en/program/bed-by-10pm-uk?#!checkout https://www.a38.hu/en/program/[…] https://www.a38.hu/en/program/[…]?#!checkout https://www.a38.hu/en/program/[…] https://www.a38.hu/en/program/[…]?#!checkout https://www.a38.hu/en/program/budapest-bar-hu-32378 https://www.a38.hu/en/program/budapest-bar-hu-32378?#!checkout https://www.a38.hu/en/program/carbon-based-lifeforms-se-32385 https://www.a38.hu/en/program/carbon-based-lifeforms-se-32385?#!checkout https://www.a38.hu/en/program/deluxe-fr-32756

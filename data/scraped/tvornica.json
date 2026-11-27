@@ -11,6 +11,17 @@
   "source": "tvornica"
  },
  {
+  "date": "2026-12-19",
+  "time": "20:00",
+  "title": "80s vs '90s – Live koncerti FIT / ANJA RUPEL – VIDEOSEX + DJ Musikfantastique / Predbožićni party",
+  "venue": "tvornica",
+  "genre": "dj",
+  "price": "",
+  "url": "https://core-event.co/events/80-s-vs-90-s-live-koncerti-fit-anja-rupel-videosex-dj-musikfantastique-predbozicni-party-14d3",
+  "city": "zagreb",
+  "source": "tvornica"
+ },
+ {
   "date": "2026-11-27",
   "time": "21:00",
   "title": "Zoster",
@@ -40,17 +51,6 @@
   "genre": "",
   "price": "",
   "url": "https://core-event.co/events/ruzno-pace-u-tvornici-ee19",
-  "city": "zagreb",
-  "source": "tvornica"
- },
- {
-  "date": "2026-12-19",
-  "time": "20:00",
-  "title": "80s vs '90s – Live koncerti FIT / ANJA RUPEL – VIDEOSEX + DJ Musikfantastique / Predbožićni party",
-  "venue": "tvornica",
-  "genre": "dj",
-  "price": "",
-  "url": "https://core-event.co/events/80-s-vs-90-s-live-koncerti-fit-anja-rupel-videosex-dj-musikfantastique-predbozicni-party-14d3",
   "city": "zagreb",
   "source": "tvornica"
  },
@@ -150,17 +150,6 @@
   "genre": "",
   "price": "",
   "url": "https://core-event.co/events/artan-lili-u-tvornici-kulture-951a",
-  "city": "zagreb",
-  "source": "tvornica"
- },
- {
-  "date": "2026-11-26",
-  "time": "20:00",
-  "title": "Nikola Vranjković",
-  "venue": "tvornica",
-  "genre": "",
-  "price": "",
-  "url": "https://core-event.co/events/nikola-vranjkovic-u-tvornici-kulture-921c",
   "city": "zagreb",
   "source": "tvornica"
  },
@@ -337,6 +326,17 @@
   "genre": "",
   "price": "",
   "url": "https://core-event.co/events/electric-six-u-tvornici-kulture-6818",
+  "city": "zagreb",
+  "source": "tvornica"
+ },
+ {
+  "date": "2027-10-01",
+  "time": "20:00",
+  "title": "Jasna Zlokić @ Zagreb – Tvornica Kulture",
+  "venue": "tvornica",
+  "genre": "",
+  "price": "",
+  "url": "https://core-event.co/events/jasna-zlokic-zagreb-tvornica-kulture-9903",
   "city": "zagreb",
   "source": "tvornica"
  }

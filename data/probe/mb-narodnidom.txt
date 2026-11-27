@@ -1,5 +1,63 @@
-title: One moment, please...
+title: Program dogodkov Narodni dom Maribor - Narodni dom Maribor
 jsonld types: 
-bez prepoznatih datuma; html bytes=12181
-api/json hints: 
-poveznice (0): 
+<div class=event-row> tor 1 dec 2026 19:00 Dediščina Komedija 22 € - 24 € e-nakup Preberite več | https://nd-mb.si/dogodek/dediscina/
+<div class=flag> tor 1 dec 2026 19:00 | 
+<div class=event-row> tor 1 dec 2026 19:00 Razgalimo ideale, ne (samo) teles! Društvo ZIZ e-nakup Preberite več | https://nd-mb.si/dogodek/[…]/
+<div class=flag> tor 1 dec 2026 19:00 | 
+<div class=event-row> tor 1 dec 2026 19:30 Prireditev drugega organizatorja Moč besede Koncert 16 € - 30 € e-nakup Preberite več | https://nd-mb.si/dogodek/moc-besede/
+<div class=flag> tor 1 dec 2026 19:30 | 
+<div class=event-row> sre 2 dec 2026 17:30 sre 2 dec 2026 20:00 Prireditev drugega organizatorja Ženske brez filtra 2 Komedija 29 € - 29 € e-nakup Preberite več | https://nd-mb.si/dogodek/zenske-brez-filtra-2-2/
+<div class=flag> sre 2 dec 2026 17:30 | 
+<div class=flag> sre 2 dec 2026 20:00 | 
+<div class=event-row> čet 3 dec 2026 19:30 Priporočamo Beneški baročni orkester, Andrea Marcon, Chouchane Siranossian Orkestrski cikel Koncert 7 € - 29 € e-nakup Preberite več | https://nd-mb.si/dogodek/beneski-barocni-orkester/
+<div class=flag> čet 3 dec 2026 19:30 | 
+<div class=event-row> pet 4 dec 2026 20:00 pon 14 dec 2026 20:00 Žival si! Abonma Komedija 2026/2027 22 € - 24 € e-nakup Preberite več | https://nd-mb.si/dogodek/zival-si/
+<div class=flag> pet 4 dec 2026 20:00 | 
+<div class=flag> pon 14 dec 2026 20:00 | 
+<div class=event-row> pet 4 dec 2026 20:30 Priporočamo Afro Gitano Jazz v Narodnem domu 10 €  - 15 € e-nakup Preberite več | https://nd-mb.si/dogodek/afro-gitano/
+<div class=flag> pet 4 dec 2026 20:30 | 
+<div class=event-row> sob 5 dec 2026 10:00 Priporočamo DADADISKO – prvi družinski clubbing! Koncert Vilinsko mesto 11 € - 11 € e-nakup Preberite več | https://nd-mb.si/dogodek/[…]/
+<div class=flag> sob 5 dec 2026 10:00 | 
+<div class=event-row> sob 5 dec 2026 20:00 30 let Foltin Koncert Lent po Lentu 18 € - 20 € e-nakup Preberite več | https://nd-mb.si/dogodek/30-let-foltin/
+<div class=flag> sob 5 dec 2026 20:00 | 
+<div class=event-row> pet 11 dec 2026 18:00 Prireditev drugega organizatorja Moški so z Marsa, ženske so z Venere 2 Komedija 28 € - 30 € e-nakup Preberite več | https://nd-mb.si/dogodek/[…]/
+<div class=flag> pet 11 dec 2026 18:00 | 
+<div class=event-row> pet 11 dec 2026 18:00 Prireditev drugega organizatorja Candlelight: Predstavljamo Štiri letne čase Vivaldija in še več Koncert 25 €  - 38 € e-nakup Preberite več | https://nd-mb.si/dogodek/[…]/
+<div class=flag> pet 11 dec 2026 18:00 | 
+<div class=event-row> pet 11 dec 2026 20:30 Prireditev drugega organizatorja Candlelight: Queen vs. ABBA Koncert 25 €  - 38 € e-nakup Preberite več | https://nd-mb.si/dogodek/candlelight-queen-vs-abba/
+<div class=flag> pet 11 dec 2026 20:30 | 
+<div class=event-row> sob 12 dec 2026 11:00 Prireditev drugega organizatorja Božična sreča Predstava 20 € - 22 € e-nakup Preberite več | https://nd-mb.si/dogodek/bozicna-sreca/
+<div class=flag> sob 12 dec 2026 11:00 | 
+<div class=event-row> sob 12 dec 2026 20:00 pet 12 feb 2027 20:00 Tadej Toš: Resno? Ne se hecat! Komedija 22 € - 24 € e-nakup Preberite več | https://nd-mb.si/dogodek/tadej-tos-resno-ne-se-hecat/
+<div class=flag> sob 12 dec 2026 20:00 | 
+<div class=flag> pet 12 feb 2027 20:00 | 
+<div class=event-row> sre 16 dec 2026 18:00 Prireditev drugega organizatorja Pridi gola! Komedija 26 € - 28 € e-nakup Preberite več | https://nd-mb.si/dogodek/pridi-gola-2/
+<div class=flag> sre 16 dec 2026 18:00 | 
+<div class=event-row> ned 20 dec 2026 11:00 PU Abonma Kekec 8 € - 8 € e-nakup Preberite več | https://nd-mb.si/dogodek/pu/
+<div class=flag> ned 20 dec 2026 11:00 | 
+<div class=event-row> tor 5 jan 2027 10:00 tor 5 jan 2027 11:00 tor 19 jan 2027 10:00 tor 26 jan 2027 10:00 Čarobne sence in lutkovna rokodelnica Kulturni dnevnik Za šole - Za šole e-nakup Preberite več | https://nd-mb.si/dogodek/[…]/
+<div class=flag> tor 5 jan 2027 10:00 | 
+<div class=flag> tor 5 jan 2027 11:00 | 
+<div class=flag> tor 19 jan 2027 10:00 | 
+<div class=flag> tor 26 jan 2027 10:00 | 
+<div class=event-row> čet 7 jan 2027 18:00 Prireditev drugega organizatorja Candlelight: Coldplay in Imagine Dragons Koncert 25 €  - 38 € e-nakup Preberite več | https://nd-mb.si/dogodek/[…]/
+<div class=flag> čet 7 jan 2027 18:00 | 
+<div class=event-row> čet 7 jan 2027 20:30 Prireditev drugega organizatorja Candlelight: Največje uspešnice Hansa Zimmerja Koncert 25 €  - 38 € e-nakup Preberite več | https://nd-mb.si/dogodek/[…]/
+<div class=flag> čet 7 jan 2027 20:30 | 
+<div class=event-row> pet 8 jan 2027 19:00 TV Poper v živo Komedija 22 € - 24 € e-nakup Preberite več | https://nd-mb.si/dogodek/tv-poper-v-zivo/
+<div class=flag> pet 8 jan 2027 19:00 | 
+<div class=event-row> sre 13 jan 2027 11:00 čet 14 jan 2027 11:00 čet 14 jan 2027 15:00 Zvonki odmevi: Metalofon Mladinski cikel Komentirani koncert Za šole - Za šole e-nakup Preberite več | https://nd-mb.si/dogodek/zvonki-odmevi-metalofon/
+<div class=flag> sre 13 jan 2027 11:00 | 
+<div class=flag> čet 14 jan 2027 11:00 | 
+<div class=flag> čet 14 jan 2027 15:00 | 
+<div class=event-row> sre 13 jan 2027 20:30 Dejan Terzić Axiom Jazz v Narodnem domu 10 € - 15 € e-nakup Preberite več | https://nd-mb.si/dogodek/dejan-terzic-axiom/
+<div class=flag> sre 13 jan 2027 20:30 | 
+<div class=event-row> čet 14 jan 2027 20:00 Priporočamo Koncert ŠTIRIH: Severa Gjurin, Rudi Bučar, Vasko Atanasovski, Dejan Lapanja Koncert 25 € - 28 € e-nakup Preberite več | https://nd-mb.si/dogodek/[…]/
+<div class=flag> čet 14 jan 2027 20:00 | 
+<div class=event-row> pet 15 jan 2027 20:00 pon 15 feb 2027 20:00 PERICA 2.0 Pro Max Abonma Komedija 2026/2027 22 € - 24 € e-nakup Preberite več | https://nd-mb.si/dogodek/perica-2-0-pro-max/
+<div class=flag> pet 15 jan 2027 20:00 | 
+<div class=flag> pon 15 feb 2027 20:00 | 
+<div class=event-row> ned 17 jan 2027 11:00 O kravi, ki je lajala v luno Abonma Kekec 8 € - 8 € e-nakup Preberite več | https://nd-mb.si/dogodek/o-kravi-ki-je-lajala-v-luno/
+<div class=flag> ned 17 jan 2027 11:00 | 
+<div class=event-row> pon 18 jan 2027 20:00 pet 19 feb 2027 20:00 Pridi gola! Abonma Komedija 2026/2027 22 € - 24 € e-nakup Preberite več | https://nd-mb.si/dogodek/pridi-gola/
+poveznice (33): /narodni-dom-maribor/programski-sklopi/festivali/ https://nd-mb.mojekarte.si/si/[…]/vstopnice-1238108.html https://nd-mb.mojekarte.si/si/koncert-stirih/vstopnice-1239035.html https://nd-mb.si/dogodek/[…]/ https://nd-mb.si/narodni-dom-maribor/o-narodnem-domu-maribor/koncertna-poslovalnica/ https://nd-mb.si/narodni-dom-maribor/[…]/ https://nd-mb.si/narodni-dom-maribor/programski-sklopi/ https://nd-mb.si/narodni-dom-maribor/programski-sklopi/abomna-kekec/ https://nd-mb.si/narodni-dom-maribor/programski-sklopi/abonma-komedija/ https://nd-mb.si/narodni-dom-maribor/programski-sklopi/art-kamp/ https://nd-mb.si/narodni-dom-maribor/programski-sklopi/festival-lent/ https://nd-mb.si/narodni-dom-maribor/programski-sklopi/festival-maribor/ https://nd-mb.si/narodni-dom-maribor/programski-sklopi/festivali/ https://nd-mb.si/narodni-dom-maribor/programski-sklopi/jazz-v-narodnem-domu/ https://nd-mb.si/narodni-dom-maribor/programski-sklopi/komorni-cikel/ https://nd-mb.si/narodni-dom-maribor/programski-sklopi/kulturni-dnevnik/ https://nd-mb.si/narodni-dom-maribor/programski-sklopi/lastna-produkcija/ https://nd-mb.si/narodni-dom-maribor/programski-sklopi/mladinski-cikel/ https://nd-mb.si/narodni-dom-maribor/programski-sklopi/orkestrski-cikel/ https://nd-mb.si/narodni-dom-maribor/programski-sklopi/[…]/ https://nd-mb.si/narodni-dom-maribor/programski-sklopi/[…]/ https://nd-mb.si/narodni-dom-maribor/programski-sklopi/promenadni-koncerti/ https://nd-mb.si/narodni-dom-maribor/programski-sklopi/vetrinjski-dvor/ https://nd-mb.si/narodni-dom-maribor/programski-sklopi/vilinsko-mesto/ https://nd-mb.si/tag/komentirani-koncert/

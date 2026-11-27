@@ -1,38 +1,5 @@
 [
  {
-  "date": "2027-01-14",
-  "time": "",
-  "title": "Horizontal Zebra ,2Brothers & The Others",
-  "venue": "lj-orto",
-  "genre": "",
-  "price": "",
-  "url": "https://www.orto-bar.com/dogodki/koncerti/horizontal-zebra-2brothers-the-others/",
-  "city": "ljubljana",
-  "source": "orto"
- },
- {
-  "date": "2026-11-26",
-  "time": "",
-  "title": "Barking Jacqueline",
-  "venue": "lj-orto",
-  "genre": "",
-  "price": "5–8 €",
-  "url": "https://www.orto-bar.com/dogodki/koncerti/barking-jacqueline-2/",
-  "city": "ljubljana",
-  "source": "orto"
- },
- {
-  "date": "2026-11-26",
-  "time": "",
-  "title": "The Red Hot Experience-Red Hot Chili Peppers Tribute Band (Brazilija)",
-  "venue": "lj-orto",
-  "genre": "",
-  "price": "14–17 €",
-  "url": "https://www.orto-bar.com/dogodki/koncerti/the-red-hot-experience-red-hot-chili-peppers-tribute-band-brazilija/",
-  "city": "ljubljana",
-  "source": "orto"
- },
- {
   "date": "2026-11-27",
   "time": "",
   "title": "Indie Rock / Pop Večer- Indieoktrinacija",
@@ -49,7 +16,7 @@
   "title": "DIRE STRAITS PROJECT – Dire Straits Tribute Band",
   "venue": "lj-orto",
   "genre": "",
-  "price": "15–18 €",
+  "price": "18 €",
   "url": "https://www.orto-bar.com/dogodki/koncerti/dire-straits-project-dire-straits-tribute-band-3/",
   "city": "ljubljana",
   "source": "orto"
@@ -73,6 +40,39 @@
   "genre": "",
   "price": "15–18 €",
   "url": "https://www.orto-bar.com/dogodki/koncerti/iron-median-iron-maiden-tribute-band-asi-dsi-ac-dc-tribute-band/",
+  "city": "ljubljana",
+  "source": "orto"
+ },
+ {
+  "date": "2026-12-03",
+  "time": "",
+  "title": "The Dreams",
+  "venue": "lj-orto",
+  "genre": "",
+  "price": "15–20 €",
+  "url": "https://www.orto-bar.com/dogodki/koncerti/the-dreams-2/",
+  "city": "ljubljana",
+  "source": "orto"
+ },
+ {
+  "date": "2026-12-03",
+  "time": "",
+  "title": "Interferenzza",
+  "venue": "lj-orto",
+  "genre": "",
+  "price": "10–13 €",
+  "url": "https://www.orto-bar.com/dogodki/koncerti/interferenzza-3/",
+  "city": "ljubljana",
+  "source": "orto"
+ },
+ {
+  "date": "2026-12-04",
+  "time": "",
+  "title": "30 let Foltin",
+  "venue": "lj-orto",
+  "genre": "",
+  "price": "20 €",
+  "url": "https://www.orto-bar.com/dogodki/koncerti/30-let-foltin/",
   "city": "ljubljana",
   "source": "orto"
  }
