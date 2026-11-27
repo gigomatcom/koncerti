@@ -1,9 +1,9 @@
 {
- "run_at": "2026-11-27T01:01:51+00:00",
+ "run_at": "2026-11-27T15:09:19+00:00",
  "sources": {
   "lisinski": {
    "ok": true,
-   "count": 143
+   "count": 146
   },
   "tvornica": {
    "ok": true,
@@ -11,7 +11,7 @@
   },
   "mocvara": {
    "ok": true,
-   "count": 13
+   "count": 14
   },
   "dvaosam": {
    "ok": true,
@@ -40,7 +40,7 @@
   },
   "coreevent": {
    "ok": true,
-   "count": 104
+   "count": 106
   },
   "hnk-opera": {
    "ok": true,
@@ -80,11 +80,11 @@
   },
   "wi-porgy": {
    "ok": true,
-   "count": 177
+   "count": 179
   },
   "bp-akvarium": {
    "ok": true,
-   "count": 85
+   "count": 86
   },
   "bp-budapestpark": {
    "ok": true,
@@ -146,7 +146,7 @@
   },
   "mb-mkc": {
    "ok": true,
-   "count": 10,
+   "count": 12,
    "note": "samo proba"
   },
   "pu-tz": {

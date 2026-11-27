@@ -22,8 +22,8 @@ jsonld types:
 <div class=event-item-inner> Detailinfos zu Blok3 Blok3 Samstag, 28.11.2026 Halle D Tickets Nähere Infos zu Blok3 | /de/events/alle-events/51364/Blok3
 <a class=text-deco-none.back-side.absolute> Blok3 Samstag, 28.11.2026 Halle D Tickets | /de/events/alle-events/51364/Blok3
 <a class=text-deco-none.back-side.absolute> ARETHA FRANKLIN LIVE SHOW Starring Gisele Jackson Samstag, 28.11.2026 Halle F Tickets | /de/events/alle-events/51406/[…]
-<li class=event-item.tcenter.relative> Detailinfos zu Smokie Smokie Sonntag, 29.11.2026 Halle F Tickets Nähere Infos zu Smokie | /de/events/alle-events/51374/Smokie
-<div class=event-item-inner> Detailinfos zu Smokie Smokie Sonntag, 29.11.2026 Halle F Tickets Nähere Infos zu Smokie | /de/events/alle-events/51374/Smokie
+<li class=event-item.tcenter.relative> Detailinfos zu Smokie BLACK WEEK Smokie Sonntag, 29.11.2026 Halle F Tickets Nähere Infos zu Smokie | /de/events/alle-events/51374/Smokie
+<div class=event-item-inner> Detailinfos zu Smokie BLACK WEEK Smokie Sonntag, 29.11.2026 Halle F Tickets Nähere Infos zu Smokie | /de/events/alle-events/51374/Smokie
 <a class=text-deco-none.back-side.absolute> Smokie Sonntag, 29.11.2026 Halle F Tickets | /de/events/alle-events/51374/Smokie
 <li class=event-item.tcenter.relative> Detailinfos zu Konstantinos Argiros Konstantinos Argiros Montag, 30.11.2026 Halle F Tickets Nähere Infos zu Konstantinos Argiros | /de/events/alle-events/51484/Konstantinos-Argiros
 <div class=event-item-inner> Detailinfos zu Konstantinos Argiros Konstantinos Argiros Montag, 30.11.2026 Halle F Tickets Nähere Infos zu Konstantinos Argiros | /de/events/alle-events/51484/Konstantinos-Argiros

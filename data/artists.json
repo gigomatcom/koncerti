@@ -4374,6 +4374,11 @@
   "query": "Gulzoda",
   "v": 2
  },
+ "gunter mo mokesch": {
+  "checked": "2026-11-27",
+  "query": "Günter 'MO' Mokesch",
+  "v": 2
+ },
  "gurriers": {
   "checked": "2026-11-09",
   "country": "",
@@ -6428,6 +6433,11 @@
   "query": "Lamb of God",
   "v": 2
  },
+ "lara mitrakovic": {
+  "checked": "2026-11-27",
+  "query": "Lara Mitraković",
+  "v": 2
+ },
  "laura pausini": {
   "checked": "2026-11-09",
   "country": "IT",
@@ -7108,6 +7118,11 @@
   "mbid": "584f9b49-fa41-412d-9233-0b035bc53132",
   "name": "Malte Marten",
   "query": "Malte Marten",
+  "v": 2
+ },
+ "mamas gun dig": {
+  "checked": "2026-11-27",
+  "query": "Mamas Gun 'Dig'",
   "v": 2
  },
  "mamma mia": {
@@ -10571,6 +10586,11 @@
   "query": "Smokie",
   "v": 2
  },
+ "smokie black week": {
+  "checked": "2026-11-27",
+  "query": "Smokie BLACK WEEK",
+  "v": 2
+ },
  "sms 3": {
   "checked": "2026-11-10",
   "query": "SMS 3",
@@ -10815,6 +10835,19 @@
   "name": "Special EFX",
   "query": "Special EFX",
   "v": 1
+ },
+ "spencer hill magic band": {
+  "checked": "2026-11-27",
+  "country": "HU",
+  "genre": "",
+  "links": {
+   "facebook": "https://www.facebook.com/spencerhillmagicbandpage",
+   "web": "http://spencerhillmagicband.hu/"
+  },
+  "mbid": "e039010e-ae1f-42d1-884a-13b2091a8aa4",
+  "name": "Spencer Hill Magic Band",
+  "query": "Spencer Hill Magic Band",
+  "v": 2
  },
  "spike": {
   "checked": "2026-11-09",
@@ -12596,6 +12629,18 @@
  "vatra akustik": {
   "checked": "2026-11-23",
   "query": "Vatra | Akustik",
+  "v": 2
+ },
+ "vatrogasci": {
+  "checked": "2026-11-27",
+  "country": "",
+  "genre": "",
+  "links": {
+   "web": "http://vatrogasnazabava.com"
+  },
+  "mbid": "2b47d81e-5bfd-4fd5-bb2e-66e7fa7e7f73",
+  "name": "Vatrogasci",
+  "query": "Vatrogasci",
   "v": 2
  },
  "vavra bence": {

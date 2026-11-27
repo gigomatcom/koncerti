@@ -562,12 +562,12 @@
  },
  {
   "date": "2027-01-17",
-  "time": "15:00",
-  "title": "BruadaHertz (A)",
+  "time": "11:00",
+  "title": "Wild but Heart – Markus Kupferblum frühstückt mit Vera Russwurm",
   "venue": "wi-porgybess",
   "genre": "jazz",
   "price": "",
-  "url": "https://www.porgy.at/events/series/79/",
+  "url": "https://www.porgy.at/events/13405/",
   "city": "bec",
   "source": "wi-porgy"
  },
@@ -1463,6 +1463,17 @@
   "source": "wi-porgy"
  },
  {
+  "date": "2027-04-19",
+  "time": "20:30",
+  "title": "Mamas Gun 'Dig' (GB)",
+  "venue": "wi-porgybess",
+  "genre": "jazz",
+  "price": "",
+  "url": "https://www.porgy.at/events/series/79/",
+  "city": "bec",
+  "source": "wi-porgy"
+ },
+ {
   "date": "2027-04-20",
   "time": "20:30",
   "title": "Purpendicular*Ian Paice '20th Anniversary Tour 2027' (GB/IRL/I)",
@@ -1686,6 +1697,17 @@
   "date": "2027-05-20",
   "time": "20:30",
   "title": "Galliano (GB)",
+  "venue": "wi-porgybess",
+  "genre": "jazz",
+  "price": "",
+  "url": "https://www.porgy.at/events/series/79/",
+  "city": "bec",
+  "source": "wi-porgy"
+ },
+ {
+  "date": "2027-05-21",
+  "time": "20:30",
+  "title": "Günter 'MO' Mokesch – 40 Jahre 'Send Me Roses' (A)",
   "venue": "wi-porgybess",
   "genre": "jazz",
   "price": "",

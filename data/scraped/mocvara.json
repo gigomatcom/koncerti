@@ -56,6 +56,17 @@
  },
  {
   "date": "2026-12-02",
+  "time": "19:00",
+  "title": "Lara Mitraković, Nora Verde",
+  "venue": "mocvara",
+  "genre": "",
+  "price": "",
+  "url": "https://mochvara.hr/event-detail/6b0957add1495caf2417cc61/",
+  "city": "zagreb",
+  "source": "mocvara"
+ },
+ {
+  "date": "2026-12-02",
   "time": "20:00",
   "title": "Splean",
   "venue": "mocvara",
@@ -121,17 +132,6 @@
   "source": "mocvara"
  },
  {
-  "date": "2026-12-08",
-  "time": "21:00",
-  "title": "Desire, MOTHERMARY, Johnny Jewel",
-  "venue": "mocvara",
-  "genre": "",
-  "price": "",
-  "url": "https://mochvara.hr/event-detail/6a352d0cad796c9981d65fa6/",
-  "city": "zagreb",
-  "source": "mocvara"
- },
- {
   "date": "2027-04-12",
   "time": "",
   "title": "Agriculture",
@@ -139,6 +139,17 @@
   "genre": "",
   "price": "",
   "url": "https://mochvara.hr/event-detail/6afec77b8c62b05525e32f0d/",
+  "city": "zagreb",
+  "source": "mocvara"
+ },
+ {
+  "date": "2026-12-08",
+  "time": "",
+  "title": "Desire, MOTHERMARY, Johnny Jewel",
+  "venue": "mocvara",
+  "genre": "",
+  "price": "",
+  "url": "https://mochvara.hr/event-detail/6a352d0cad796c9981d65fa6/",
   "city": "zagreb",
   "source": "mocvara"
  }

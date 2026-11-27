@@ -61,6 +61,18 @@
  },
  {
   "date": "2026-11-27",
+  "time": "",
+  "title": "Silente u Sax-u!",
+  "venue": "sax",
+  "genre": "",
+  "price": "",
+  "url": "https://core-event.co/events/silente-u-sax-u-5b70/",
+  "city": "zagreb",
+  "venue_name": "SAX club",
+  "source": "coreevent"
+ },
+ {
+  "date": "2026-11-27",
   "time": "22:00",
   "title": "PETKOM PRIJE PONOĆI | Scena PIANO: Ricardo Luque i Zlatan Došlić",
   "venue": "",
@@ -302,7 +314,7 @@
  {
   "date": "2026-12-05",
   "time": "",
-  "title": "Belfast Food - 30 godina",
+  "title": "Belfast Food - 30 godina - OTKAZANO",
   "venue": "ri-pogon",
   "genre": "",
   "price": "",
@@ -1125,6 +1137,18 @@
   "url": "https://core-event.co/events/jose-gonzalez-u-tvornici-kulture-c037/",
   "city": "zagreb",
   "venue_name": "TVORNICA KULTURE",
+  "source": "coreevent"
+ },
+ {
+  "date": "2027-05-21",
+  "time": "",
+  "title": "Vatrogasci - Velika Vatrogasna Zabava",
+  "venue": "ri-crkva",
+  "genre": "",
+  "price": "",
+  "url": "https://core-event.co/events/vatrogasci-velika-vatrogasna-zabava-crkva-rijeka-6a13/",
+  "city": "rijeka",
+  "venue_name": "klub Crkva",
   "source": "coreevent"
  },
  {

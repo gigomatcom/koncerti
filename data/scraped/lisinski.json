@@ -211,22 +211,22 @@
  {
   "date": "2026-12-10",
   "time": "19:30",
-  "title": "Majstorski Ciklus SO HRT-a Ljetni Povjetarac, Ledena Svjetlost Pascal Rophé, Dirigent Mayumi Kanagawa, Violina",
-  "venue": "lisV",
+  "title": "Ciklus Glazbene Staze: Weber 200 – Duo, Trio, Kvartet",
+  "venue": "lisM",
   "genre": "klasika",
-  "price": "13–18 €",
-  "url": "https://www.lisinski.hr/hr/dogadanja/majstorski-ciklus-so-hrt-a-br-ljetni-povjetarac-le/",
+  "price": "10 €",
+  "url": "https://www.lisinski.hr/hr/dogadanja/ciklus-glazbene-staze-br-weber-200-duo-trio-kvarte/",
   "city": "zagreb",
   "source": "lisinski"
  },
  {
   "date": "2026-12-10",
   "time": "19:30",
-  "title": "Ciklus Glazbene Staze: Weber 200 – Duo, Trio, Kvartet",
-  "venue": "lisM",
+  "title": "Majstorski Ciklus SO HRT-a Ljetni Povjetarac, Ledena Svjetlost Pascal Rophé, Dirigent Mayumi Kanagawa, Violina",
+  "venue": "lisV",
   "genre": "klasika",
-  "price": "10 €",
-  "url": "https://www.lisinski.hr/hr/dogadanja/ciklus-glazbene-staze-br-weber-200-duo-trio-kvarte/",
+  "price": "13–18 €",
+  "url": "https://www.lisinski.hr/hr/dogadanja/majstorski-ciklus-so-hrt-a-br-ljetni-povjetarac-le/",
   "city": "zagreb",
   "source": "lisinski"
  },
@@ -440,6 +440,28 @@
   "source": "lisinski"
  },
  {
+  "date": "2026-12-31",
+  "time": "12:00",
+  "title": "Premium Božićni Paket: Švedski Komorni Orkestar, Marko Tolja, Labuđe Jezero",
+  "venue": "lisV",
+  "genre": "klasika",
+  "price": "85–114 €",
+  "url": "https://www.lisinski.hr/hr/dogadanja/premium-bozicni-paket-br-svedski-komorni-orkestar-/",
+  "city": "zagreb",
+  "source": "lisinski"
+ },
+ {
+  "date": "2026-12-31",
+  "time": "12:00",
+  "title": "Dječji Božićni Paket: Zalutali u Bajci, Čudnovata Dama Trema, Učimo O Glazbi uz Zagrebačke Soliste",
+  "venue": "lisM",
+  "genre": "djeca",
+  "price": "18 €",
+  "url": "https://www.lisinski.hr/hr/dogadanja/djecji-bozicni-paket-br-zalutali-u-bajci-br-cudnov/",
+  "city": "zagreb",
+  "source": "lisinski"
+ },
+ {
   "date": "2027-01-16",
   "time": "19:00",
   "title": "73. Koncertna Sezona Zagrebačkih Solista Petrit Çeku, Gitara Guy Braunstein, Koncertni Majstor",
@@ -469,6 +491,17 @@
   "genre": "opera",
   "price": "13–18 €",
   "url": "https://www.lisinski.hr/hr/dogadanja/fantom-slobode-kanconijer-br-zbor-i-simfonijski-or/",
+  "city": "zagreb",
+  "source": "lisinski"
+ },
+ {
+  "date": "2027-01-22",
+  "time": "19:30",
+  "title": "Zagrebačka Filharmonija Koncert na Dar Studenti Muzičke Akademije uz Zagrebačku Filharmoniju Jasenka Ostojić, Dirigentica",
+  "venue": "lisV",
+  "genre": "klasika",
+  "price": "besplatno",
+  "url": "https://www.lisinski.hr/hr/dogadanja/zagrebacka-filharmonija-br-koncert-na-dar-br-stude/",
   "city": "zagreb",
   "source": "lisinski"
  },

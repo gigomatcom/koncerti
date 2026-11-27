@@ -1001,6 +1001,15 @@
    "youtube": "https://www.youtube.com/channel/UC7C1zwKSsOf1ESEnDWaVpyw"
   }
  },
+ "https://akvariumklub.hu/programok/spencer-hill-magic-band-eloszilveszteri-buli/": {
+  "checked": "2026-11-27",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/akvariumklub/",
+   "instagram": "https://www.instagram.com/akvariumklub/",
+   "youtube": "https://www.youtube.com/channel/UC7C1zwKSsOf1ESEnDWaVpyw"
+  }
+ },
  "https://akvariumklub.hu/programok/stereo-mcs/": {
   "checked": "2026-11-12",
   "clean": {
@@ -2639,6 +2648,14 @@
    "instagram": "https://www.instagram.com/zcuk_regenerator/"
   }
  },
+ "https://core-event.co/events/vatrogasci-velika-vatrogasna-zabava-crkva-rijeka-6a13/": {
+  "checked": "2026-11-27",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/share.php",
+   "instagram": "https://www.instagram.com/crkva_rijeka/"
+  }
+ },
  "https://core-event.co/events/vhs-w-camion-bazar-7454/": {
   "checked": "2026-11-17",
   "clean": {
@@ -3559,6 +3576,15 @@
  },
  "https://mochvara.hr/event-detail/6b01728bd339d69a335e3d2e/": {
   "checked": "2026-11-21",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/mochvara",
+   "instagram": "https://www.instagram.com/mochvara/",
+   "youtube": "http://www.youtube.com/user/klubmochvara"
+  }
+ },
+ "https://mochvara.hr/event-detail/6b0957add1495caf2417cc61/": {
+  "checked": "2026-11-27",
   "clean": {},
   "links": {
    "facebook": "https://www.facebook.com/mochvara",
@@ -6228,6 +6254,15 @@
    "youtube": "https://www.youtube.com/channel/UCHKYTT4qLI4zdegYDTI8CHA"
   }
  },
+ "https://www.lisinski.hr/hr/dogadanja/djecji-bozicni-paket-br-zalutali-u-bajci-br-cudnov/": {
+  "checked": "2026-11-27",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/www.lisinski.hr",
+   "instagram": "https://instagram.com/vatroslavlisinski",
+   "youtube": "https://www.youtube.com/channel/UCHKYTT4qLI4zdegYDTI8CHA"
+  }
+ },
  "https://www.lisinski.hr/hr/dogadanja/dobrotvorni-koncert-srce-u-srcu-zagreba/": {
   "checked": "2026-11-09",
   "clean": {},
@@ -7047,6 +7082,15 @@
    "youtube": "https://www.youtube.com/channel/UCHKYTT4qLI4zdegYDTI8CHA"
   }
  },
+ "https://www.lisinski.hr/hr/dogadanja/premium-bozicni-paket-br-svedski-komorni-orkestar-/": {
+  "checked": "2026-11-27",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/www.lisinski.hr",
+   "instagram": "https://instagram.com/vatroslavlisinski",
+   "youtube": "https://www.youtube.com/channel/UCHKYTT4qLI4zdegYDTI8CHA"
+  }
+ },
  "https://www.lisinski.hr/hr/dogadanja/regoc-br-opera-za-djecu-i-mlade-25/": {
   "checked": "2026-11-09",
   "clean": {},
@@ -7319,6 +7363,15 @@
  },
  "https://www.lisinski.hr/hr/dogadanja/zagrebacka-filharmonija-br-crveni-ciklus-br-pavl-3/": {
   "checked": "2026-11-09",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/www.lisinski.hr",
+   "instagram": "https://instagram.com/vatroslavlisinski",
+   "youtube": "https://www.youtube.com/channel/UCHKYTT4qLI4zdegYDTI8CHA"
+  }
+ },
+ "https://www.lisinski.hr/hr/dogadanja/zagrebacka-filharmonija-br-koncert-na-dar-br-stude/": {
+  "checked": "2026-11-27",
   "clean": {},
   "links": {
    "facebook": "https://www.facebook.com/www.lisinski.hr",
@@ -8183,6 +8236,13 @@
  },
  "https://www.porgy.at/events/13397/": {
   "checked": "2026-11-23",
+  "clean": {},
+  "links": {
+   "facebook": "http://www.facebook.com/share.php"
+  }
+ },
+ "https://www.porgy.at/events/13405/": {
+  "checked": "2026-11-27",
   "clean": {},
   "links": {
    "facebook": "http://www.facebook.com/share.php"

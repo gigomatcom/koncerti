@@ -54,8 +54,8 @@ jsonld types:
 <div class=splide__slide__main> Mudfield Függőséget okoz! lemezbemutató 2027. április 29. csütörtök Kapunyitás 18:00 Koncertek - Nagyszínpad Jegyek, részletek Részletek, koncert infók | /jegyvasarlas/event/mudfield-2027-04-29
 <div class=box-info> Mudfield Függőséget okoz! lemezbemutató 2027. április 29. csütörtök Kapunyitás 18:00 Koncertek - Nagyszínpad Jegyek, részletek Részletek, koncert infók | /jegyvasarlas/event/mudfield-2027-04-29
 <div class=splide__slide__short> A Káprázatos Carson Coma Cirkusz Show! ★ Porondmester: Thuróczy Szabolcs 2027. május 14. | 
-<div class=splide__slide__main> A Káprázatos Carson Coma Cirkusz Show! ★ Porondmester: Thuróczy Szabolcs 2027. május 14. péntek Kapunyitás 18:00 Koncertek - Nagyszínpad Jegyek, részletek Részletek, koncert infók | /jegyvasarlas/event/carson-coma-2027-05-14
-<div class=box-info> A Káprázatos Carson Coma Cirkusz Show! ★ Porondmester: Thuróczy Szabolcs 2027. május 14. péntek Kapunyitás 18:00 Koncertek - Nagyszínpad Jegyek, részletek Részletek, koncert infók | /jegyvasarlas/event/carson-coma-2027-05-14
+<div class=splide__slide__main> A Káprázatos Carson Coma Cirkusz Show! ★ Porondmester: Thuróczy Szabolcs 2027. május 14. péntek Kapunyitás 18:00 Koncertek - Nagyszínpad Jegyek, részletek | /jegyvasarlas/event/carson-coma-2027-05-14
+<div class=box-info> A Káprázatos Carson Coma Cirkusz Show! ★ Porondmester: Thuróczy Szabolcs 2027. május 14. péntek Kapunyitás 18:00 Koncertek - Nagyszínpad Jegyek, részletek | /jegyvasarlas/event/carson-coma-2027-05-14
 <li class=splide__slide> Csinibaba Táncdalfesztivál - Hello Tourist 2027. május 27. Csinibaba Táncdalfesztivál - Hello Tourist 2027. május 27. csütörtök Kapunyitás 18:00 Koncertek - Nagyszínpad Jegyek, részletek | /jegyvasarlas/event/[…]
 <div class=splide__slide__short> Csinibaba Táncdalfesztivál - Hello Tourist 2027. május 27. | 
 <div class=splide__slide__main> Csinibaba Táncdalfesztivál - Hello Tourist 2027. május 27. csütörtök Kapunyitás 18:00 Koncertek - Nagyszínpad Jegyek, részletek | /jegyvasarlas/event/[…]

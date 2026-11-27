@@ -62,14 +62,14 @@ jsonld types:
 <div class=content__programs--date> 02 Dec Sre | 
 <div class=d-flex.date-container> 03 Dec Čet Ta veseli dan kulture - ogled gledališča 10.00 SNG Maribor | https://www.sng-mb.si/event/[…]/
 <div class=content__programs--date> 03 Dec Čet | 
+<div class=swiper-slide.hover-zoom> Uspešno gostovanje zagrebškega Gledališča Komedija z mjuziklom Radio Dubrava Objavljeno 27. 11. 2026 | https://www.sng-mb.si/2026/11/27/[…]/
+<a class=news-item.d-flex.flex-column> Uspešno gostovanje zagrebškega Gledališča Komedija z mjuziklom Radio Dubrava Objavljeno 27. 11. 2026 | https://www.sng-mb.si/2026/11/27/[…]/
+<div class=news-content> Uspešno gostovanje zagrebškega Gledališča Komedija z mjuziklom Radio Dubrava Objavljeno 27. 11. 2026 | 
+<div class=news-date> Objavljeno 27. 11. 2026 | 
 <div class=swiper-slide.hover-zoom> Ta veseli dan kulture – brezplačno vodstvo po gledališču Objavljeno 26. 11. 2026 | https://www.sng-mb.si/2026/11/26/[…]/
 <a class=news-item.d-flex.flex-column> Ta veseli dan kulture – brezplačno vodstvo po gledališču Objavljeno 26. 11. 2026 | https://www.sng-mb.si/2026/11/26/[…]/
 <div class=news-content> Ta veseli dan kulture – brezplačno vodstvo po gledališču Objavljeno 26. 11. 2026 | 
 <div class=news-date> Objavljeno 26. 11. 2026 | 
 <div class=swiper-slide.hover-zoom> Premiera Straussovega Netopirja Objavljeno 25. 11. 2026 | https://www.sng-mb.si/2026/11/25/premiera-straussovega-netopirja/
 <a class=news-item.d-flex.flex-column> Premiera Straussovega Netopirja Objavljeno 25. 11. 2026 | https://www.sng-mb.si/2026/11/25/premiera-straussovega-netopirja/
-<div class=news-content> Premiera Straussovega Netopirja Objavljeno 25. 11. 2026 | 
-<div class=news-date> Objavljeno 25. 11. 2026 | 
-<div class=swiper-slide.hover-zoom> Refleksije strun - skladateljski večer Vaska Atanasovskega Objavljeno 24. 11. 2026 | https://www.sng-mb.si/2026/11/24/[…]/
-<a class=news-item.d-flex.flex-column> Refleksije strun - skladateljski večer Vaska Atanasovskega Objavljeno 24. 11. 2026 | https://www.sng-mb.si/2026/11/24/[…]/
 poveznice (11): https://www.sng-mb.si/drama-program/?lang=sl https://www.sng-mb.si/event/boji-in-preobrazbe-neke-zenske/ https://www.sng-mb.si/event/gospa-ministrica/ https://www.sng-mb.si/event/jutra-v-dzeninu/ https://www.sng-mb.si/event/kaksno-ime-pa-je-to/ https://www.sng-mb.si/event/netopir-3/ https://www.sng-mb.si/event/[…]/ https://www.sng-mb.si/event/uberkrajina/ https://www.sng-mb.si/opera-program/?lang=sl https://www.sng-mb.si/program/?lang=sl https://www.sng-mb.si/prvi-prizor-program/?lang=sl
