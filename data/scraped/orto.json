@@ -1,33 +1,11 @@
 [
  {
-  "date": "2026-11-27",
-  "time": "",
-  "title": "Indie Rock / Pop Večer- Indieoktrinacija",
-  "venue": "lj-orto",
-  "genre": "",
-  "price": "",
-  "url": "https://www.orto-bar.com/dogodki/dj/indie-rock-pop-vecer-indieoktrinacija/",
-  "city": "ljubljana",
-  "source": "orto"
- },
- {
-  "date": "2026-11-27",
-  "time": "",
-  "title": "DIRE STRAITS PROJECT – Dire Straits Tribute Band",
-  "venue": "lj-orto",
-  "genre": "",
-  "price": "18 €",
-  "url": "https://www.orto-bar.com/dogodki/koncerti/dire-straits-project-dire-straits-tribute-band-3/",
-  "city": "ljubljana",
-  "source": "orto"
- },
- {
   "date": "2026-11-28",
   "time": "",
   "title": "Sausages-34 Let",
   "venue": "lj-orto",
   "genre": "",
-  "price": "20–25 €",
+  "price": "25 €",
   "url": "https://www.orto-bar.com/dogodki/koncerti/sausages-34-let/",
   "city": "ljubljana",
   "source": "orto"
@@ -73,6 +51,17 @@
   "genre": "",
   "price": "20 €",
   "url": "https://www.orto-bar.com/dogodki/koncerti/30-let-foltin/",
+  "city": "ljubljana",
+  "source": "orto"
+ },
+ {
+  "date": "2026-12-05",
+  "time": "",
+  "title": "UBERMENSCH – Rammstein Tribute Band",
+  "venue": "lj-orto",
+  "genre": "",
+  "price": "14–18 €",
+  "url": "https://www.orto-bar.com/dogodki/koncerti/ubermensch-rammstein-tribute-band-2/",
   "city": "ljubljana",
   "source": "orto"
  }

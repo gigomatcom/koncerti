@@ -1,38 +1,5 @@
 [
  {
-  "date": "2026-11-27",
-  "time": "19:00",
-  "title": "The Scratch",
-  "venue": "wi-flex",
-  "genre": "",
-  "price": "",
-  "url": "https://flex.at/event/the-scratch/",
-  "city": "bec",
-  "source": "wi-flex"
- },
- {
-  "date": "2026-11-27",
-  "time": "19:00",
-  "title": "Jugo Ürdens – Ausverkauft",
-  "venue": "wi-flex",
-  "genre": "",
-  "price": "",
-  "url": "https://flex.at/event/jugo-uerdens-ausverkauft/",
-  "city": "bec",
-  "source": "wi-flex"
- },
- {
-  "date": "2026-11-27",
-  "time": "23:00",
-  "title": "High Voltage Fairies In The Pit",
-  "venue": "wi-flex",
-  "genre": "",
-  "price": "",
-  "url": "https://flex.at/event/high-voltage-fairies-in-the-pit/",
-  "city": "bec",
-  "source": "wi-flex"
- },
- {
   "date": "2026-11-28",
   "time": "19:00",
   "title": "Glaive",

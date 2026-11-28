@@ -22,17 +22,6 @@
   "source": "tvornica"
  },
  {
-  "date": "2026-11-27",
-  "time": "21:00",
-  "title": "Zoster",
-  "venue": "tvornica",
-  "genre": "",
-  "price": "",
-  "url": "https://core-event.co/events/zoster-u-tvornici-kulture-ff4b",
-  "city": "zagreb",
-  "source": "tvornica"
- },
- {
   "date": "2026-12-05",
   "time": "20:00",
   "title": "Shtosmo u Tvornici",
@@ -183,6 +172,17 @@
   "genre": "",
   "price": "",
   "url": "https://core-event.co/events/luzeri-u-tvornici-kulture-2bf1",
+  "city": "zagreb",
+  "source": "tvornica"
+ },
+ {
+  "date": "2027-03-10",
+  "time": "20:00",
+  "title": "Ocean",
+  "venue": "tvornica",
+  "genre": "",
+  "price": "",
+  "url": "https://core-event.co/events/ocean-u-tvornici-kulture-777d",
   "city": "zagreb",
   "source": "tvornica"
  },

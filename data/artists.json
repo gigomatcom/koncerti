@@ -1237,6 +1237,11 @@
   "query": "Barking Jacqueline",
   "v": 2
  },
+ "bazsa": {
+  "checked": "2026-11-28",
+  "query": "bazsa",
+  "v": 2
+ },
  "bc vienna vs partizan mozzart bet": {
   "checked": "2026-11-10",
   "query": "BC Vienna vs Partizan Mozzart Bet",
@@ -1539,6 +1544,11 @@
   "mbid": "064814c9-1560-4d45-aaab-1b1f2c3b2b65",
   "name": "BLOK3",
   "query": "BLOK3",
+  "v": 2
+ },
+ "blok3 heute": {
+  "checked": "2026-11-28",
+  "query": "Blok3 Heute",
   "v": 2
  },
  "bluvinil": {
@@ -4749,6 +4759,21 @@
   "checked": "2026-11-08",
   "query": "Hood Vibes Night"
  },
+ "hooligans": {
+  "checked": "2026-11-28",
+  "country": "HU",
+  "genre": "",
+  "links": {
+   "deezer": "https://www.deezer.com/artist/96",
+   "facebook": "https://www.facebook.com/hooliganshivatalos",
+   "spotify": "https://open.spotify.com/artist/64Yu5Kxm0yBX5UQgxnWorv",
+   "web": "http://www.hooligansweb.hu/"
+  },
+  "mbid": "f022c6d9-5333-4490-b2b0-e5db54cc1c71",
+  "name": "Hooligans",
+  "query": "Hooligans",
+  "v": 2
+ },
  "horizontal zebra": {
   "checked": "2026-11-19",
   "query": "Horizontal Zebra",
@@ -5578,6 +5603,11 @@
   "checked": "2026-11-08",
   "query": "Jura Stublić"
  },
+ "jusuke savai": {
+  "checked": "2026-11-28",
+  "query": "Jusuke Savai",
+  "v": 2
+ },
  "k i z nur fur frauen 2027": {
   "checked": "2026-11-13",
   "query": "K.I.Z nur für Frauen 2027",
@@ -6143,6 +6173,11 @@
   "query": "KoriPark November 28-tól január 31-ig! Holnap",
   "v": 2
  },
+ "koripark november 28 tol januar 31 ig ma": {
+  "checked": "2026-11-28",
+  "query": "KoriPark November 28-tól január 31-ig! Ma",
+  "v": 2
+ },
  "kormos anett est": {
   "checked": "2026-11-18",
   "query": "Kormos Anett est",
@@ -6333,6 +6368,23 @@
   "mbid": "192e8d48-2950-4942-803f-53991927d4fb",
   "name": "KUZMA",
   "query": "Kuzma",
+  "v": 2
+ },
+ "kwam e": {
+  "checked": "2026-11-28",
+  "country": "DE",
+  "genre": "hiphop",
+  "links": {
+   "deezer": "https://www.deezer.com/artist/11611591",
+   "facebook": "https://www.facebook.com/Kwame-Aka-da-phunky-monkey-156500938139146",
+   "instagram": "https://www.instagram.com/kwam.e/",
+   "soundcloud": "https://soundcloud.com/kwamehameha",
+   "spotify": "https://open.spotify.com/artist/4H9W4cb3X0qRpv87yKV7fV",
+   "youtube": "https://www.youtube.com/channel/UCFkN_9rfUHwh8-vQb80MDeA"
+  },
+  "mbid": "c6a96d4d-75ce-4fc5-b1d3-4b5e3cc7c11b",
+  "name": "Kwam.E",
+  "query": "Kwam.E",
   "v": 2
  },
  "kytes": {
@@ -8267,6 +8319,11 @@
   "query": "New date",
   "v": 2
  },
+ "new frequency": {
+  "checked": "2026-11-28",
+  "query": "New Frequency",
+  "v": 2
+ },
  "next level pres": {
   "checked": "2026-11-18",
   "query": "Next Level Pres.",
@@ -8539,6 +8596,11 @@
  "oage tekke": {
   "checked": "2026-11-26",
   "query": "Oage Tekke",
+  "v": 2
+ },
+ "ocean": {
+  "checked": "2026-11-28",
+  "query": "Ocean",
   "v": 2
  },
  "ocean of another u zagrebu": {
@@ -8903,6 +8965,11 @@
  "paulaner acoustic live session": {
   "checked": "2026-11-08",
   "query": "Paulaner acoustic live session"
+ },
+ "peacefor b2b krlz": {
+  "checked": "2026-11-28",
+  "query": "Peacefor b2b KRLZ",
+  "v": 2
  },
  "peoples kitchen": {
   "checked": "2026-11-12",

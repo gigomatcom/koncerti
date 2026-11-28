@@ -1,8 +1,5 @@
 title: Musik
 jsonld types: 
-<div class=col-xl-2.col-md-4.col-sm-6> Niemand muss ein Promi sein Die Live Show zum Podcast Fr 27.11.2026 20.00 Saal Barrierefrei zugänglich Mehr lesen | /programm/[…]/
-<div class=fce-teaser-event.w-100> Niemand muss ein Promi sein Die Live Show zum Podcast Fr 27.11.2026 20.00 Saal Barrierefrei zugänglich Mehr lesen | /programm/[…]/
-<div class=mt-auto.font-size-xs> Fr 27.11.2026 20.00 Saal Barrierefrei zugänglich | 
 <div class=col-xl-2.col-md-4.col-sm-6> Trinix Sa 28.11.2026 20.00 Saal Barrierefrei zugänglich Mehr lesen | /programm/trinix/
 <div class=fce-teaser-event.w-100> Trinix Sa 28.11.2026 20.00 Saal Barrierefrei zugänglich Mehr lesen | /programm/trinix/
 <div class=mt-auto.font-size-xs> Sa 28.11.2026 20.00 Saal Barrierefrei zugänglich | 
@@ -18,6 +15,9 @@ jsonld types:
 <div class=col-xl-2.col-md-4.col-sm-6> Elektro Guzzi & Special Guests Sa 5.12.2026 22.00 Saal Barrierefrei zugänglich Mehr lesen | /programm/elektro-guzzi-palazzo-festival/
 <div class=fce-teaser-event.w-100> Elektro Guzzi & Special Guests Sa 5.12.2026 22.00 Saal Barrierefrei zugänglich Mehr lesen | /programm/elektro-guzzi-palazzo-festival/
 <div class=mt-auto.font-size-xs> Sa 5.12.2026 22.00 Saal Barrierefrei zugänglich | 
+<div class=col-xl-2.col-md-4.col-sm-6> Kwam.E DA IZZA WIEDER LIVE So 6.12.2026 20.00 Saal Barrierefrei zugänglich Mehr lesen | /programm/kwame/
+<div class=fce-teaser-event.w-100> Kwam.E DA IZZA WIEDER LIVE So 6.12.2026 20.00 Saal Barrierefrei zugänglich Mehr lesen | /programm/kwame/
+<div class=mt-auto.font-size-xs> So 6.12.2026 20.00 Saal Barrierefrei zugänglich | 
 <div class=[…]> Magazin Artikel lesen Über den Beginn der „Wiener Tschuschenkapelle“ im WUK Posted 4.11.2026 Artikel lesen Baba Yaga präsentiert das neue Album Odiseja im WUK Posted 6.10.2026 | /magazin/[…]/
 <div class=container> Magazin Artikel lesen Über den Beginn der „Wiener Tschuschenkapelle“ im WUK Posted 4.11.2026 Artikel lesen Baba Yaga präsentiert das neue Album Odiseja im WUK Posted 6.10.2026 | /magazin/[…]/
 <div class=row> Magazin Artikel lesen Über den Beginn der „Wiener Tschuschenkapelle“ im WUK Posted 4.11.2026 Artikel lesen Baba Yaga präsentiert das neue Album Odiseja im WUK Posted 6.10.2026 | /magazin/[…]/
@@ -34,4 +34,4 @@ jsonld types:
 <div class=fce-teaser-magazin-article> Artikel lesen Baba Yaga präsentiert das neue Album Odiseja im WUK Posted 6.10.2026 | /magazin/[…]/
 <div class=[…]> Baba Yaga präsentiert das neue Album Odiseja im WUK Posted 6.10.2026 | /magazin/[…]/
 <div class=article-meta-info> Posted 6.10.2026 | 
-poveznice (8): #c4502-programm /programm/ /programm/elektro-guzzi-palazzo-festival/ /programm/jawoi-2026/ /programm/mothers-finest/ /programm/[…]/ /programm/thomas-d-the-kbcs/ /programm/trinix/
+poveznice (8): #c4502-programm /programm/ /programm/elektro-guzzi-palazzo-festival/ /programm/jawoi-2026/ /programm/kwame/ /programm/mothers-finest/ /programm/thomas-d-the-kbcs/ /programm/trinix/

@@ -1,137 +1,5 @@
 [
  {
-  "date": "2026-11-27",
-  "time": "19:30",
-  "title": "MMV 2026 / HERMESensemble / Traces",
-  "venue": "knap",
-  "genre": "",
-  "price": "",
-  "url": "https://core-event.co/events/mmv-2026-herme-sensemble-traces-7f7e/",
-  "city": "zagreb",
-  "venue_name": "Kazalište Knap - Zagreb",
-  "source": "coreevent"
- },
- {
-  "date": "2026-11-27",
-  "time": "20:00",
-  "title": "Ocean Of Another u Zagrebu",
-  "venue": "primarius",
-  "genre": "",
-  "price": "",
-  "url": "https://core-event.co/events/ocean-of-another-u-zagrebu-5ab4/",
-  "city": "zagreb",
-  "venue_name": "PRIMARIUS PIVOVARA",
-  "source": "coreevent"
- },
- {
-  "date": "2026-11-27",
-  "time": "20:00",
-  "title": "Soul Legacy",
-  "venue": "kinosc",
-  "genre": "",
-  "price": "",
-  "url": "https://core-event.co/events/soul-legacy-kino-sc-zagreb-109d/",
-  "city": "zagreb",
-  "venue_name": "KINO SC ZAGREB",
-  "source": "coreevent"
- },
- {
-  "date": "2026-11-27",
-  "time": "",
-  "title": "J.r. August - Unplugged",
-  "venue": "",
-  "genre": "",
-  "price": "",
-  "url": "https://core-event.co/events/jr-august-unplugged-regenerator-zabok-bf14/",
-  "city": "zabok",
-  "venue_name": "Regenerator",
-  "source": "coreevent"
- },
- {
-  "date": "2026-11-27",
-  "time": "21:00",
-  "title": "Zoster",
-  "venue": "tvornica",
-  "genre": "",
-  "price": "",
-  "url": "https://core-event.co/events/zoster-u-tvornici-kulture-ff4b/",
-  "city": "zagreb",
-  "venue_name": "Tvornica Kulture",
-  "source": "coreevent"
- },
- {
-  "date": "2026-11-27",
-  "time": "",
-  "title": "Silente u Sax-u!",
-  "venue": "sax",
-  "genre": "",
-  "price": "",
-  "url": "https://core-event.co/events/silente-u-sax-u-5b70/",
-  "city": "zagreb",
-  "venue_name": "SAX club",
-  "source": "coreevent"
- },
- {
-  "date": "2026-11-27",
-  "time": "22:00",
-  "title": "PETKOM PRIJE PONOĆI | Scena PIANO: Ricardo Luque i Zlatan Došlić",
-  "venue": "",
-  "genre": "",
-  "price": "",
-  "url": "https://core-event.co/events/petkom-prije-ponoci-scena-piano-ricardo-luque-i-zlatan-doslic-d909/",
-  "city": "zagreb",
-  "venue_name": "Foaje, Scena Piano",
-  "source": "coreevent"
- },
- {
-  "date": "2026-11-27",
-  "time": "22:00",
-  "title": "PETKOM PRIJE PONOĆI | Scena PIANO: Ricardo Luque & Zlatan Došlić",
-  "venue": "",
-  "genre": "",
-  "price": "",
-  "url": "https://core-event.co/events/petkom-prije-ponoci-scena-piano-ricardo-luque-zlatan-doslic-48e7/",
-  "city": "zagreb",
-  "venue_name": "Foaje, Scena Piano",
-  "source": "coreevent"
- },
- {
-  "date": "2026-11-27",
-  "time": "",
-  "title": "Karma Party",
-  "venue": "ri-crkva",
-  "genre": "dj",
-  "price": "",
-  "url": "https://core-event.co/events/karma-party-crkva-rijeka-a5ac/",
-  "city": "rijeka",
-  "venue_name": "klub Crkva",
-  "source": "coreevent"
- },
- {
-  "date": "2026-11-27",
-  "time": "",
-  "title": "Adezija - Drito Ispod",
-  "venue": "",
-  "genre": "",
-  "price": "",
-  "url": "https://core-event.co/events/adezija-u-drito-ispod-fceb/",
-  "city": "zagreb",
-  "venue_name": "Drito Ispod",
-  "source": "coreevent"
- },
- {
-  "date": "2026-11-27",
-  "time": "",
-  "title": "brzeguze w/ Pitaya Soundystem",
-  "venue": "",
-  "genre": "",
-  "price": "",
-  "url": "https://core-event.co/events/brzeguze-w-pitaya-soundystem-a541/",
-  "city": "zagreb",
-  "venue_name": "Club Aquarius",
-  "source": "coreevent"
- },
- {
   "date": "2026-11-28",
   "time": "",
   "title": "Božićno čudo",
@@ -237,6 +105,18 @@
   "url": "https://core-event.co/events/ba-bu-la-bum-improvizacijski-glazbeno-plesni-koncerti-za-bebe-a0b0/",
   "city": "zagreb",
   "venue_name": "Scena Ribnjak – velika dvorana",
+  "source": "coreevent"
+ },
+ {
+  "date": "2026-12-02",
+  "time": "",
+  "title": "Silente u Sax-u!",
+  "venue": "sax",
+  "genre": "",
+  "price": "",
+  "url": "https://core-event.co/events/silente-u-sax-u-5b70/",
+  "city": "zagreb",
+  "venue_name": "SAX club",
   "source": "coreevent"
  },
  {
@@ -585,6 +465,18 @@
   "url": "https://core-event.co/events/grad-peter-north-pole-klub-palach-7013/",
   "city": "rijeka",
   "venue_name": "Klub Palach",
+  "source": "coreevent"
+ },
+ {
+  "date": "2026-12-18",
+  "time": "",
+  "title": "New Frequency",
+  "venue": "",
+  "genre": "",
+  "price": "",
+  "url": "https://core-event.co/events/new-frequency-mali-barbarellas-1adc/",
+  "city": "zagreb",
+  "venue_name": "Mali Barbarellas",
   "source": "coreevent"
  },
  {
@@ -957,6 +849,18 @@
   "url": "https://core-event.co/events/tamikrest-u-rijeci-78ba/",
   "city": "rijeka",
   "venue_name": "Pogon",
+  "source": "coreevent"
+ },
+ {
+  "date": "2027-03-10",
+  "time": "20:00",
+  "title": "Ocean",
+  "venue": "tvornica",
+  "genre": "",
+  "price": "",
+  "url": "https://core-event.co/events/ocean-u-tvornici-kulture-777d/",
+  "city": "zagreb",
+  "venue_name": "Tvornica kulture",
   "source": "coreevent"
  },
  {

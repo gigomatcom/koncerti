@@ -1,41 +1,5 @@
 [
  {
-  "date": "2026-11-27",
-  "time": "20:00",
-  "title": "nemanja",
-  "venue": "boogaloo",
-  "genre": "",
-  "price": "",
-  "url": "https://www.entrio.hr/event/nemanja-32246",
-  "city": "zagreb",
-  "venue_name": "Klub Boogaloo",
-  "source": "ulaznice"
- },
- {
-  "date": "2026-11-27",
-  "time": "22:00",
-  "title": "Nataša Bekvalac",
-  "venue": "",
-  "genre": "",
-  "price": "",
-  "url": "https://www.entrio.hr/event/natasa-bekvalac-mint-club-34778",
-  "city": "zagreb",
-  "venue_name": "Club Mint",
-  "source": "ulaznice"
- },
- {
-  "date": "2026-11-27",
-  "time": "22:00",
-  "title": "Dreamers Bijelo dugme tribute",
-  "venue": "",
-  "genre": "",
-  "price": "",
-  "url": "https://www.entrio.hr/event/dreamers-bijelo-dugme-tribute-34842",
-  "city": "split",
-  "venue_name": "BackBar Plan B",
-  "source": "ulaznice"
- },
- {
   "date": "2026-11-28",
   "time": "20:00",
   "title": "Toody Cole & Jenny Don't",

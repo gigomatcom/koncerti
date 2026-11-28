@@ -86,6 +86,15 @@
    "youtube": "https://www.youtube.com/channel/UC7C1zwKSsOf1ESEnDWaVpyw"
   }
  },
+ "https://akvariumklub.hu/programok/bazsa-megis-feny-adventi-koncert/": {
+  "checked": "2026-11-28",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/akvariumklub/",
+   "instagram": "https://www.instagram.com/akvariumklub/",
+   "youtube": "https://www.youtube.com/channel/UC7C1zwKSsOf1ESEnDWaVpyw"
+  }
+ },
  "https://akvariumklub.hu/programok/belano/": {
   "checked": "2026-11-10",
   "clean": {
@@ -2079,6 +2088,16 @@
    "instagram": "https://www.instagram.com/no.jazz.festival/"
   }
  },
+ "https://core-event.co/events/new-frequency-mali-barbarellas-1adc/": {
+  "checked": "2026-11-28",
+  "clean": {
+   "instagram": "https://www.instagram.com/newfrequencyrecords/"
+  },
+  "links": {
+   "facebook": "https://www.facebook.com/share.php",
+   "instagram": "https://www.instagram.com/newfrequencyrecords/"
+  }
+ },
  "https://core-event.co/events/nikola-vranjkovic-u-tvornici-kulture-921c": {
   "checked": "2026-11-09",
   "clean": {},
@@ -2149,6 +2168,18 @@
   "links": {
    "facebook": "https://www.facebook.com/share.php",
    "instagram": "https://www.instagram.com/core_event/"
+  }
+ },
+ "https://core-event.co/events/ocean-u-tvornici-kulture-777d": {
+  "checked": "2026-11-28",
+  "clean": {
+   "facebook": "https://www.facebook.com/oceanbendsplit/",
+   "youtube": "https://www.youtube.com/@OceanBend"
+  },
+  "links": {
+   "facebook": "https://www.facebook.com/oceanbendsplit/",
+   "instagram": "https://www.instagram.com/core_event/",
+   "youtube": "https://www.youtube.com/@OceanBend"
   }
  },
  "https://core-event.co/events/ooioo-eksterminator-81-7bf1/": {
@@ -4260,6 +4291,15 @@
  },
  "https://www.barbanegra.hu/program/hollywood-undead_20270203": {
   "checked": "2026-11-11",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/BARBA.NEGRA.HUNGARY",
+   "instagram": "https://www.instagram.com/barbanegrahungary",
+   "youtube": "https://www.youtube.com/@barbanegrahungary1929"
+  }
+ },
+ "https://www.barbanegra.hu/program/hooligans_20270319": {
+  "checked": "2026-11-28",
   "clean": {},
   "links": {
    "facebook": "https://www.facebook.com/BARBA.NEGRA.HUNGARY",
@@ -7604,6 +7644,15 @@
    "youtube": "https://www.youtube.com/@TheFestivalLjubljana"
   }
  },
+ "https://www.ljubljanafestival.si/sl/koledar-dogodkov/24502-jusuke-savai-kana-furukava-zala-vidic-anze-rupnik": {
+  "checked": "2026-11-28",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/LjubljanaFestival",
+   "instagram": "https://www.instagram.com/festival_ljubljana",
+   "youtube": "https://www.youtube.com/@TheFestivalLjubljana"
+  }
+ },
  "https://www.ljubljanafestival.si/sl/koledar-dogodkov/25165-1-bozicni-koncert-glasbena-sola-matije-tomca": {
   "checked": "2026-11-10",
   "clean": {},
@@ -8020,6 +8069,14 @@
  },
  "https://www.orto-bar.com/dogodki/koncerti/the-red-hot-experience-red-hot-chili-peppers-tribute-band-brazilija/": {
   "checked": "2026-11-20",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/noplacelikeorto",
+   "instagram": "https://www.instagram.com/orto_bar_slovenija/"
+  }
+ },
+ "https://www.orto-bar.com/dogodki/koncerti/ubermensch-rammstein-tribute-band-2/": {
+  "checked": "2026-11-28",
   "clean": {},
   "links": {
    "facebook": "https://www.facebook.com/noplacelikeorto",
@@ -9220,6 +9277,14 @@
  },
  "https://www.wuk.at/programm/jawoi-2026/": {
   "checked": "2026-11-26",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/wukvienna/",
+   "instagram": "http://instagram.com/wukvienna"
+  }
+ },
+ "https://www.wuk.at/programm/kwame/": {
+  "checked": "2026-11-28",
   "clean": {},
   "links": {
    "facebook": "https://www.facebook.com/wukvienna/",

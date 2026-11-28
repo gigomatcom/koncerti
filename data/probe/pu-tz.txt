@@ -1,6 +1,6 @@
 title: Arhiva Concerts - Tourism Office Pula
 jsonld types: CollectionPage, ImageObject, BreadcrumbList, ListItem, ListItem, WebSite, SearchAction, EntryPoint, PropertyValueSpecification, Organization, ImageObject
-bez prepoznatih datuma; html bytes=170871
+bez prepoznatih datuma; html bytes=173688
 api/json hints: //fonts.googleapis.com
 <div class=carousel-caption> ZIDAR BETONSKY + SVOJAT Klub Kotač - DC Rojc, 28/11/2026
 <div class=thumbcaption> ZIDAR BETONSKY + SVOJAT Klub Kotač - DC Rojc, 28/11/2026
@@ -23,6 +23,11 @@ api/json hints: //fonts.googleapis.com
 <div class=carousel-caption> Advent in Pula Tricky D Kaštel, 03/12/2026
 <div class=thumbcaption> Advent in Pula Tricky D Kaštel, 03/12/2026
 <div class=color-caption> Tricky D Event type Concerts Location Kaštel Date 03/12/2026 Time 20:00 Full info
+<div class=col-sm-6.col-lg-4.col-xl-3> Advent in Pula Peacefor b2b KRLZ Kaštel, 04/12/2026 Peacefor b2b KRLZ Event type Concerts Location Kaštel Date 04/12/2026 Time 21:00 Full info
+<article class=list-article.post-9371.pula-events> Advent in Pula Peacefor b2b KRLZ Kaštel, 04/12/2026 Peacefor b2b KRLZ Event type Concerts Location Kaštel Date 04/12/2026 Time 21:00 Full info
+<div class=carousel-caption> Advent in Pula Peacefor b2b KRLZ Kaštel, 04/12/2026
+<div class=thumbcaption> Advent in Pula Peacefor b2b KRLZ Kaštel, 04/12/2026
+<div class=color-caption> Peacefor b2b KRLZ Event type Concerts Location Kaštel Date 04/12/2026 Time 21:00 Full info
 <div class=col-sm-6.col-lg-4.col-xl-3> Advent u Puli Vojko V ispred Arene, 05/12/2026 Vojko V Event type Concerts Location ispred Arene Date 05/12/2026 Time 20:30 Full info
 <article class=list-article.post-9371.pula-events> Advent u Puli Vojko V ispred Arene, 05/12/2026 Vojko V Event type Concerts Location ispred Arene Date 05/12/2026 Time 20:30 Full info
 <div class=carousel-caption> Advent u Puli Vojko V ispred Arene, 05/12/2026
@@ -57,9 +62,4 @@ api/json hints: //fonts.googleapis.com
 <div class=color-caption> Mišomanija – Mišo Real Tribute Event type Concerts Location ispred Arene Date 19/12/2026 Time 20:30 Full info
 <div class=carousel-caption> Advent in Pula Yamaha Music School, Christmas Concert Tito park, 20/12/2026
 <div class=thumbcaption> Advent in Pula Yamaha Music School, Christmas Concert Tito park, 20/12/2026
-<div class=color-caption> Yamaha Music School, Christmas Concert Event type Concerts Location Tito park Date 20/12/2026 Time 17:00 Full info
-<div class=col-sm-6.col-lg-4.col-xl-3> Advent in Pula Big Band Tržnica, 24/12/2026 Big Band Event type Concerts Location Tržnica Date 24/12/2026 Time 11:00 Full info
-<article class=list-article.post-9371.pula-events> Advent in Pula Big Band Tržnica, 24/12/2026 Big Band Event type Concerts Location Tržnica Date 24/12/2026 Time 11:00 Full info
-<div class=carousel-caption> Advent in Pula Big Band Tržnica, 24/12/2026
-<div class=thumbcaption> Advent in Pula Big Band Tržnica, 24/12/2026
-poveznice (40): https://pulainfo.hr/de/events-type/konzerte/ https://pulainfo.hr/events-type/concerts/ https://pulainfo.hr/events-type/other-events/ https://pulainfo.hr/events-type/theatre/ https://pulainfo.hr/events/ https://pulainfo.hr/hr/events-type/koncerti/ https://pulainfo.hr/it/events-type/concerti/ https://pulainfo.hr/pula-events/4-tenora/ https://pulainfo.hr/pula-events/[…]/ https://pulainfo.hr/pula-events/advent-in-pula/ https://pulainfo.hr/pula-events/atomsko-skloniste/ https://pulainfo.hr/pula-events/big-band-2/ https://pulainfo.hr/pula-events/bsh-amphitheatre-pula-2027/ https://pulainfo.hr/pula-events/christmas-at-ink-magazin/ https://pulainfo.hr/pula-events/dj-plexy/ https://pulainfo.hr/pula-events/[…]/ https://pulainfo.hr/pula-events/funky-town-ivana-kindl/ https://pulainfo.hr/pula-events/[…]/ https://pulainfo.hr/pula-events/[…]/ https://pulainfo.hr/pula-events/giuliano-diktatori/ https://pulainfo.hr/pula-events/griff-zucchero-celebration-band/ https://pulainfo.hr/pula-events/hiljson-mandela-3/ https://pulainfo.hr/pula-events/[…]/ https://pulainfo.hr/pula-events/lima-len/ https://pulainfo.hr/pula-events/lost-frequencies/
+poveznice (41): https://pulainfo.hr/de/events-type/konzerte/ https://pulainfo.hr/events-type/concerts/ https://pulainfo.hr/events-type/other-events/ https://pulainfo.hr/events-type/theatre/ https://pulainfo.hr/events/ https://pulainfo.hr/hr/events-type/koncerti/ https://pulainfo.hr/it/events-type/concerti/ https://pulainfo.hr/pula-events/4-tenora/ https://pulainfo.hr/pula-events/[…]/ https://pulainfo.hr/pula-events/advent-in-pula/ https://pulainfo.hr/pula-events/atomsko-skloniste/ https://pulainfo.hr/pula-events/big-band-2/ https://pulainfo.hr/pula-events/bsh-amphitheatre-pula-2027/ https://pulainfo.hr/pula-events/christmas-at-ink-magazin/ https://pulainfo.hr/pula-events/dj-plexy/ https://pulainfo.hr/pula-events/[…]/ https://pulainfo.hr/pula-events/funky-town-ivana-kindl/ https://pulainfo.hr/pula-events/[…]/ https://pulainfo.hr/pula-events/[…]/ https://pulainfo.hr/pula-events/giuliano-diktatori/ https://pulainfo.hr/pula-events/griff-zucchero-celebration-band/ https://pulainfo.hr/pula-events/hiljson-mandela-3/ https://pulainfo.hr/pula-events/[…]/ https://pulainfo.hr/pula-events/lima-len/ https://pulainfo.hr/pula-events/lost-frequencies/

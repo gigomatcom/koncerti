@@ -1,16 +1,5 @@
 [
  {
-  "date": "2026-11-27",
-  "time": "",
-  "title": "Sold Out! Ngz Presents: Rager „yin És Yang”",
-  "venue": "bp-akvariumklub",
-  "genre": "",
-  "price": "",
-  "url": "https://akvariumklub.hu/programok/ngz-presents-rager-yin-es-yang/",
-  "city": "budimpesta",
-  "source": "bp-akvarium"
- },
- {
   "date": "2026-11-28",
   "time": "",
   "title": "Kraak & Smaak",
@@ -359,6 +348,17 @@
   "genre": "",
   "price": "",
   "url": "https://akvariumklub.hu/programok/sztarban-sztar-all-stars/",
+  "city": "budimpesta",
+  "source": "bp-akvarium"
+ },
+ {
+  "date": "2026-12-15",
+  "time": "",
+  "title": "bazsa – MÉGIS FÉNY adventi koncert",
+  "venue": "bp-akvariumklub",
+  "genre": "",
+  "price": "",
+  "url": "https://akvariumklub.hu/programok/bazsa-megis-feny-adventi-koncert/",
   "city": "budimpesta",
   "source": "bp-akvarium"
  },

@@ -1,16 +1,5 @@
 [
  {
-  "date": "2026-11-27",
-  "time": "",
-  "title": "4. Božični koncert: Glasbena šola Ljubljana Moste-Polje",
-  "venue": "lj-krizanke",
-  "genre": "",
-  "price": "",
-  "url": "https://www.ljubljanafestival.si/sl/koledar-dogodkov/25168-4-bozicni-koncert-glasbena-sola-ljubljana-moste-polje",
-  "city": "ljubljana",
-  "source": "lj-festival"
- },
- {
   "date": "2026-11-28",
   "time": "",
   "title": "5. Božični koncert: Glasbena šola Ljubljana Moste-Polje",
@@ -249,6 +238,17 @@
   "genre": "",
   "price": "",
   "url": "https://www.ljubljanafestival.si/sl/koledar-dogodkov/24500-lea-kaci-xhoni-xhavari-in-elena-lamnica",
+  "city": "ljubljana",
+  "source": "lj-festival"
+ },
+ {
+  "date": "2027-01-21",
+  "time": "",
+  "title": "Jusuke Savai, Kana Furukava, Zala Vidic, Anže Rupnik",
+  "venue": "lj-krizanke",
+  "genre": "",
+  "price": "",
+  "url": "https://www.ljubljanafestival.si/sl/koledar-dogodkov/24502-jusuke-savai-kana-furukava-zala-vidic-anze-rupnik",
   "city": "ljubljana",
   "source": "lj-festival"
  }
