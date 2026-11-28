@@ -6360,6 +6360,11 @@
   "query": "Kuplung",
   "v": 2
  },
+ "kurt weill sieben todsunden": {
+  "checked": "2026-11-28",
+  "query": "Kurt Weill 'Sieben Todsünden'",
+  "v": 2
+ },
  "kuzma": {
   "checked": "2026-11-09",
   "country": "",
@@ -8500,6 +8505,11 @@
  "nikola zaric solo": {
   "checked": "2026-11-10",
   "query": "Nikola Zaric Solo",
+  "v": 2
+ },
+ "nile": {
+  "checked": "2026-11-28",
+  "query": "Nile",
   "v": 2
  },
  "nils strunk meets jakob helling vienna jazz orchestra": {

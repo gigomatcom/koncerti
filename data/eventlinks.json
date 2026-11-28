@@ -8019,6 +8019,14 @@
    "youtube": "https://www.youtube.com/@MetropolisRocknrollBand"
   }
  },
+ "https://www.orto-bar.com/dogodki/koncerti/nile-intrepid-redsphere-orecus/": {
+  "checked": "2026-11-28",
+  "clean": {},
+  "links": {
+   "facebook": "https://www.facebook.com/noplacelikeorto",
+   "instagram": "https://www.instagram.com/orto_bar_slovenija/"
+  }
+ },
  "https://www.orto-bar.com/dogodki/koncerti/plateauranr/": {
   "checked": "2026-11-10",
   "clean": {},
@@ -8300,6 +8308,13 @@
  },
  "https://www.porgy.at/events/13405/": {
   "checked": "2026-11-27",
+  "clean": {},
+  "links": {
+   "facebook": "http://www.facebook.com/share.php"
+  }
+ },
+ "https://www.porgy.at/events/13406/": {
+  "checked": "2026-11-28",
   "clean": {},
   "links": {
    "facebook": "http://www.facebook.com/share.php"

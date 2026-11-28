@@ -1,7 +1,5 @@
 title: Budapest Park
 jsonld types: 
-<div class=header__notification-line> November 27. 09:00-tól 24 órás 1+1 Black Friday kedvezmény a promócióban részt vevő KoriPark jegyekre! ⛸️🎁 | /hu/koripark
-<div class=wrapper> November 27. 09:00-tól 24 órás 1+1 Black Friday kedvezmény a promócióban részt vevő KoriPark jegyekre! ⛸️🎁 | /hu/koripark
 <li class=splide__slide> KoriPark November 28-tól január 31-ig! Ma KoriPark November 28-tól január 31-ig! 2026. november 28. szombat Kapunyitás 10:00 Korcsolyapálya Jegyek, részletek | https://www.budapestpark.hu/hu/koripark
 <div class=splide__slide__main> KoriPark November 28-tól január 31-ig! 2026. november 28. szombat Kapunyitás 10:00 Korcsolyapálya Jegyek, részletek | https://www.budapestpark.hu/hu/koripark
 <div class=box-info> KoriPark November 28-tól január 31-ig! 2026. november 28. szombat Kapunyitás 10:00 Korcsolyapálya Jegyek, részletek | https://www.budapestpark.hu/hu/koripark
@@ -60,4 +58,6 @@ jsonld types:
 <div class=splide__slide__short> Csinibaba Táncdalfesztivál - Hello Tourist 2027. május 27. | 
 <div class=splide__slide__main> Csinibaba Táncdalfesztivál - Hello Tourist 2027. május 27. csütörtök Kapunyitás 18:00 Koncertek - Nagyszínpad Jegyek, részletek | /jegyvasarlas/event/[…]
 <div class=box-info> Csinibaba Táncdalfesztivál - Hello Tourist 2027. május 27. csütörtök Kapunyitás 18:00 Koncertek - Nagyszínpad Jegyek, részletek | /jegyvasarlas/event/[…]
+<li class=splide__slide> AWS 2027. június 3. AWS 2027. június 3. csütörtök Kapunyitás 18:00 Koncertek - Nagyszínpad Jegyek, részletek | /jegyvasarlas/event/aws-2027-06-03
+<div class=splide__slide__short> AWS 2027. június 3. | 
 poveznice (32): /jegyvasarlas/event/alt-j-2027-06-23 /jegyvasarlas/event/aws-2027-06-03 /jegyvasarlas/event/carson-coma-2027-05-14 /jegyvasarlas/event/co-lee-2027-06-11 /jegyvasarlas/event/[…] /jegyvasarlas/event/[…] /jegyvasarlas/event/joe-bonamassa-20270720 /jegyvasarlas/event/kuplung-2027-08-05 /jegyvasarlas/event/[…] /jegyvasarlas/event/motionless-in-white-20270613 /jegyvasarlas/event/mudfield-2027-04-29 /jegyvasarlas/event/og-fluor-2027-08-07 /jegyvasarlas/event/scooter-2027-06-12 /jegyvasarlas/event/skillet-20270729 /jegyvasarlas/event/[…] /jegyvasarlas/event/the-neighbourhood-2027-06-28 https://www.budapestpark.hu/events/alt-j-2027-06-23 https://www.budapestpark.hu/events/aws-2027-06-03 https://www.budapestpark.hu/events/carson-coma-2027-05-14 https://www.budapestpark.hu/events/co-lee-2027-06-11 https://www.budapestpark.hu/events/[…] https://www.budapestpark.hu/events/[…] https://www.budapestpark.hu/events/joe-bonamassa-20270720 https://www.budapestpark.hu/events/kuplung-2027-08-05 https://www.budapestpark.hu/events/[…]

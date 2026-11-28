@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-28T00:33:18+00:00",
+ "run_at": "2026-11-28T14:14:41+00:00",
  "sources": {
   "lisinski": {
    "ok": true,
@@ -80,7 +80,7 @@
   },
   "wi-porgy": {
    "ok": true,
-   "count": 178
+   "count": 179
   },
   "bp-akvarium": {
    "ok": true,
@@ -164,7 +164,7 @@
   },
   "orto": {
    "ok": true,
-   "count": 6
+   "count": 7
   }
  }
 }

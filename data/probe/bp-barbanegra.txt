@@ -52,8 +52,8 @@ jsonld types:
 <div class=body> 18 DEC PÉN Blue Stage STARDUST | Rockstars Not Dead Kapunyitás: 19:00 Elérhető Részletek | /program/[…]
 <div class=top-row> 18 DEC PÉN Blue Stage | 
 <div class=date-stamp> 18 DEC PÉN | 
-<article class=event-card> 18 DEC PÉN Red Stage PARADICE FESTIVAL Kapunyitás: 22:30 Csak online Részletek | /program/paradice-festival_20261218
-<div class=body> 18 DEC PÉN Red Stage PARADICE FESTIVAL Kapunyitás: 22:30 Csak online Részletek | /program/paradice-festival_20261218
+<article class=event-card> 18 DEC PÉN Red Stage PARADICE FESTIVAL Kapunyitás: 23:00 Csak online Részletek | /program/paradice-festival_20261218
+<div class=body> 18 DEC PÉN Red Stage PARADICE FESTIVAL Kapunyitás: 23:00 Csak online Részletek | /program/paradice-festival_20261218
 <div class=top-row> 18 DEC PÉN Red Stage | 
 <div class=date-stamp> 18 DEC PÉN | 
 <article class=event-card> 19 DEC SZO Red Stage DEPRESSZIÓ - Budapest Kapunyitás: 19:30 Elérhető Részletek | /program/depresszio-budapest_20261219
